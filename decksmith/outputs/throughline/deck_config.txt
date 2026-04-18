@@ -1,0 +1,9 @@
+# Deck package for the Throughline project
+
+deck_name=throughline
+theme=Bold Color
+width=1920
+height=1080
+slides_file=slides.txt
+source_project=../..
+source_notes=project stub referenced external hackathon planning notes

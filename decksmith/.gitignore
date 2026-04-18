@@ -1,0 +1,11 @@
+.DS_Store
+
+*.pyc
+__pycache__/
+
+.venv/
+
+outputs/*.key
+outputs/*.pptx
+outputs/**/*.key
+outputs/**/*.pptx

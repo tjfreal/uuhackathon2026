@@ -1,0 +1,6 @@
+numpy
+trimesh
+pillow
+matplotlib
+opencv-python
+numpy-stl

@@ -1,0 +1,787 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Julia Vase Playground</title>
+  <style>
+    :root {
+      --bg: #f4efe7;
+      --panel: #fffaf2;
+      --panel-strong: #efe6d6;
+      --ink: #1d2a2a;
+      --muted: #596768;
+      --accent: #a34c2b;
+      --accent-soft: #d68f5f;
+      --line: #d6c6b0;
+      --shadow: rgba(51, 34, 20, 0.12);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: "Avenir Next", "Segoe UI", sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at top left, rgba(163, 76, 43, 0.12), transparent 32%),
+        radial-gradient(circle at bottom right, rgba(97, 125, 111, 0.16), transparent 28%),
+        linear-gradient(180deg, #f8f4ee 0%, var(--bg) 100%);
+    }
+
+    .shell {
+      display: grid;
+      grid-template-columns: minmax(320px, 420px) 1fr;
+      min-height: 100vh;
+      gap: 20px;
+      padding: 20px;
+    }
+
+    .panel {
+      background: color-mix(in srgb, var(--panel) 94%, white 6%);
+      border: 1px solid rgba(114, 88, 60, 0.12);
+      border-radius: 18px;
+      box-shadow: 0 20px 50px var(--shadow);
+    }
+
+    .controls {
+      padding: 22px 20px 18px;
+      overflow: auto;
+      max-height: calc(100vh - 40px);
+    }
+
+    h1 {
+      margin: 0 0 6px;
+      font-size: 1.55rem;
+      letter-spacing: 0.01em;
+    }
+
+    .lede {
+      margin: 0 0 18px;
+      color: var(--muted);
+      line-height: 1.45;
+      font-size: 0.96rem;
+    }
+
+    .group {
+      margin: 18px 0 0;
+      padding-top: 14px;
+      border-top: 1px solid var(--line);
+    }
+
+    .group h2 {
+      margin: 0 0 10px;
+      font-size: 0.9rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    .control {
+      margin: 12px 0;
+    }
+
+    .label-row {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 10px;
+      margin-bottom: 6px;
+      font-size: 0.92rem;
+    }
+
+    .value {
+      color: var(--accent);
+      font-variant-numeric: tabular-nums;
+      font-weight: 600;
+    }
+
+    input[type="range"] {
+      width: 100%;
+      accent-color: var(--accent);
+    }
+
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin: 18px 0 12px;
+    }
+
+    button {
+      appearance: none;
+      border: 0;
+      border-radius: 999px;
+      padding: 10px 14px;
+      background: var(--accent);
+      color: white;
+      font: inherit;
+      cursor: pointer;
+      box-shadow: 0 10px 20px rgba(163, 76, 43, 0.18);
+    }
+
+    button.secondary {
+      background: var(--panel-strong);
+      color: var(--ink);
+      box-shadow: none;
+    }
+
+    .meta {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 10px;
+      margin-top: 8px;
+    }
+
+    .meta-card {
+      padding: 10px 12px;
+      border-radius: 14px;
+      background: rgba(239, 230, 214, 0.7);
+      border: 1px solid rgba(114, 88, 60, 0.08);
+    }
+
+    .meta-label {
+      display: block;
+      margin-bottom: 3px;
+      color: var(--muted);
+      font-size: 0.77rem;
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+    }
+
+    .meta-value {
+      font-weight: 700;
+      font-variant-numeric: tabular-nums;
+    }
+
+    .viewport {
+      display: grid;
+      grid-template-rows: minmax(360px, 1fr) 220px;
+      gap: 16px;
+      min-width: 0;
+    }
+
+    .canvas-wrap {
+      position: relative;
+      padding: 16px;
+    }
+
+    canvas {
+      width: 100%;
+      height: 100%;
+      display: block;
+      border-radius: 16px;
+      background:
+        radial-gradient(circle at 20% 20%, rgba(214, 143, 95, 0.18), transparent 24%),
+        linear-gradient(180deg, rgba(255, 252, 245, 0.9), rgba(240, 230, 214, 0.9));
+    }
+
+    .caption {
+      position: absolute;
+      left: 28px;
+      top: 26px;
+      padding: 5px 10px;
+      border-radius: 999px;
+      background: rgba(255, 250, 242, 0.88);
+      color: var(--muted);
+      font-size: 0.76rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      backdrop-filter: blur(10px);
+    }
+
+    .subgrid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    .small {
+      position: relative;
+      min-height: 220px;
+    }
+
+    .note {
+      margin-top: 12px;
+      color: var(--muted);
+      font-size: 0.86rem;
+      line-height: 1.45;
+    }
+
+    .cli {
+      margin-top: 12px;
+      padding: 12px;
+      border-radius: 14px;
+      background: #1f2626;
+      color: #f2efe8;
+      font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+      font-size: 0.82rem;
+      line-height: 1.45;
+      white-space: pre-wrap;
+      word-break: break-word;
+    }
+
+    @media (max-width: 980px) {
+      .shell {
+        grid-template-columns: 1fr;
+      }
+
+      .controls {
+        max-height: none;
+      }
+
+      .viewport {
+        grid-template-rows: 420px auto;
+      }
+    }
+
+    @media (max-width: 640px) {
+      .subgrid,
+      .meta {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <aside class="panel controls">
+      <h1>Julia Vase Playground</h1>
+      <p class="lede">
+        Explore the same parameter family as <code>julia_vase.py</code> without waiting on full STL builds.
+        The browser preview is intentionally low-res but shape-faithful enough for tuning silhouette and modulation.
+      </p>
+
+      <div class="actions">
+        <button id="copy-cli">Copy CLI</button>
+        <button class="secondary" id="reset-defaults">Reset</button>
+        <button class="secondary" id="toggle-spin">Pause Spin</button>
+      </div>
+
+      <div class="meta">
+        <div class="meta-card">
+          <span class="meta-label">Shape State</span>
+          <span class="meta-value" id="shape-state">Balanced</span>
+        </div>
+        <div class="meta-card">
+          <span class="meta-label">Preview Cost</span>
+          <span class="meta-value" id="preview-cost">0</span>
+        </div>
+      </div>
+
+      <div class="group">
+        <h2>Body</h2>
+        <div id="group-body"></div>
+      </div>
+
+      <div class="group">
+        <h2>Modulation</h2>
+        <div id="group-modulation"></div>
+      </div>
+
+      <div class="group">
+        <h2>Julia Path</h2>
+        <div id="group-path"></div>
+      </div>
+
+      <div class="group">
+        <h2>Preview Quality</h2>
+        <div id="group-preview"></div>
+      </div>
+
+      <div class="note">
+        Use this to find parameter values you like, then run the copied command in the repo root with
+        <code>python3 julia_vase.py ...</code> and higher layer/angle counts for STL generation.
+      </div>
+
+      <div class="cli" id="cli-output"></div>
+    </aside>
+
+    <main class="viewport">
+      <section class="panel canvas-wrap">
+        <span class="caption">3D Preview</span>
+        <canvas id="main-canvas" width="1200" height="760"></canvas>
+      </section>
+
+      <div class="subgrid">
+        <section class="panel canvas-wrap small">
+          <span class="caption">Silhouette</span>
+          <canvas id="silhouette-canvas" width="560" height="260"></canvas>
+        </section>
+        <section class="panel canvas-wrap small">
+          <span class="caption">Mid Ring</span>
+          <canvas id="ring-canvas" width="560" height="260"></canvas>
+        </section>
+      </div>
+    </main>
+  </div>
+
+  <script>
+    const defaults = {
+      baseRadius: 0.62,
+      bulgeStrength: 0.085,
+      modulationPeak: 0.50,
+      modulationRiseEnd: 0.72,
+      detailStrength: 0.69,
+      outwardWeight: 0.28,
+      inwardWeight: 0.92,
+      cRealScale: 0.32,
+      cImagScale: 0.27,
+      maxIter: 120,
+      scanSteps: 22,
+      refineSteps: 10,
+      ringSmoothing: 2,
+      layers: 72,
+      angles: 120,
+      exportLayers: 360,
+      exportAngles: 768,
+      exportMaxIter: 260,
+      exportScanSteps: 72,
+      exportRefineSteps: 28
+    };
+
+    const controls = [
+      { key: "baseRadius", label: "Base Radius", min: 0.35, max: 0.9, step: 0.005, group: "body" },
+      { key: "bulgeStrength", label: "Bulge Strength", min: 0.0, max: 0.2, step: 0.002, group: "body" },
+      { key: "modulationPeak", label: "Modulation Peak", min: 0.0, max: 0.9, step: 0.01, group: "modulation" },
+      { key: "modulationRiseEnd", label: "Ramp Length", min: 0.12, max: 0.95, step: 0.01, group: "modulation" },
+      { key: "detailStrength", label: "Detail Strength", min: 0.0, max: 1.2, step: 0.01, group: "modulation" },
+      { key: "outwardWeight", label: "Outward Weight", min: 0.0, max: 1.0, step: 0.01, group: "modulation" },
+      { key: "inwardWeight", label: "Inward Weight", min: 0.0, max: 1.4, step: 0.01, group: "modulation" },
+      { key: "cRealScale", label: "C Real Scale", min: 0.0, max: 0.55, step: 0.005, group: "path" },
+      { key: "cImagScale", label: "C Imag Scale", min: 0.0, max: 0.55, step: 0.005, group: "path" },
+      { key: "layers", label: "Preview Layers", min: 24, max: 140, step: 1, group: "preview" },
+      { key: "angles", label: "Preview Angles", min: 40, max: 220, step: 1, group: "preview" },
+      { key: "maxIter", label: "Max Iter", min: 40, max: 220, step: 1, group: "preview" },
+      { key: "scanSteps", label: "Scan Steps", min: 8, max: 40, step: 1, group: "preview" },
+      { key: "refineSteps", label: "Refine Steps", min: 4, max: 18, step: 1, group: "preview" },
+      { key: "ringSmoothing", label: "Ring Smoothing", min: 0, max: 5, step: 1, group: "preview" },
+      { key: "exportLayers", label: "Export Layers", min: 120, max: 720, step: 1, group: "preview" },
+      { key: "exportAngles", label: "Export Angles", min: 160, max: 1536, step: 1, group: "preview" },
+      { key: "exportMaxIter", label: "Export Max Iter", min: 80, max: 600, step: 1, group: "preview" },
+      { key: "exportScanSteps", label: "Export Scan Steps", min: 16, max: 120, step: 1, group: "preview" },
+      { key: "exportRefineSteps", label: "Export Refine Steps", min: 8, max: 48, step: 1, group: "preview" }
+    ];
+
+    const state = { ...defaults };
+    const mainCanvas = document.getElementById("main-canvas");
+    const silhouetteCanvas = document.getElementById("silhouette-canvas");
+    const ringCanvas = document.getElementById("ring-canvas");
+    const cliOutput = document.getElementById("cli-output");
+    const shapeState = document.getElementById("shape-state");
+    const previewCost = document.getElementById("preview-cost");
+    let lastRender = null;
+    let renderToken = 0;
+    let spinning = true;
+    let rotation = -0.6;
+
+    function smoothstep(value) {
+      const v = Math.max(0, Math.min(1, value));
+      return v * v * (3 - 2 * v);
+    }
+
+    function layerProfile(t, power) {
+      return Math.sin(Math.PI * t) ** power;
+    }
+
+    function bodyRadiusRatio(t) {
+      const bulge = layerProfile(t, 1.15);
+      return state.baseRadius * (1 + state.bulgeStrength * bulge);
+    }
+
+    function symmetricProgress(t) {
+      return 1 - Math.abs(2 * t - 1);
+    }
+
+    function modulationEnvelope(t) {
+      const s = symmetricProgress(t);
+      if (s <= state.modulationRiseEnd) {
+        return state.modulationPeak * smoothstep(s / Math.max(1e-6, state.modulationRiseEnd));
+      }
+      return state.modulationPeak;
+    }
+
+    function computeC(t) {
+      const s = symmetricProgress(t);
+      const theta = Math.PI * s;
+      return {
+        real: state.cRealScale * Math.sin(theta),
+        imag: state.cImagScale * (Math.cos(theta) - 1)
+      };
+    }
+
+    function juliaSurvives(zx, zy, cReal, cImag) {
+      for (let i = 0; i < state.maxIter; i += 1) {
+        if (zx * zx + zy * zy > 4) return false;
+        const nextX = zx * zx - zy * zy + cReal;
+        const nextY = 2 * zx * zy + cImag;
+        zx = nextX;
+        zy = nextY;
+      }
+      return true;
+    }
+
+    function boundaryRadius(theta, cReal, cImag) {
+      if (!juliaSurvives(0, 0, cReal, cImag)) return 0;
+
+      const dx = Math.cos(theta);
+      const dy = Math.sin(theta);
+      let inner = 0;
+      const radialLimit = 2.2;
+
+      for (let step = 1; step <= state.scanSteps; step += 1) {
+        const radius = (step / state.scanSteps) * radialLimit;
+        if (juliaSurvives(radius * dx, radius * dy, cReal, cImag)) {
+          inner = radius;
+          continue;
+        }
+
+        let low = inner;
+        let high = radius;
+        for (let i = 0; i < state.refineSteps; i += 1) {
+          const mid = 0.5 * (low + high);
+          if (juliaSurvives(mid * dx, mid * dy, cReal, cImag)) low = mid;
+          else high = mid;
+        }
+        return 0.5 * (low + high);
+      }
+
+      return radialLimit;
+    }
+
+    function smoothRing(radii) {
+      let current = radii.slice();
+      for (let iter = 0; iter < state.ringSmoothing; iter += 1) {
+        const next = current.slice();
+        for (let i = 0; i < current.length; i += 1) {
+          const prev = current[(i - 1 + current.length) % current.length];
+          const value = current[i];
+          const after = current[(i + 1) % current.length];
+          next[i] = (prev + value + after) / 3;
+        }
+        current = next;
+      }
+      return current;
+    }
+
+    function sampleRing(layerIndex, totalLayers) {
+      const t = totalLayers <= 1 ? 0 : layerIndex / (totalLayers - 1);
+      const c = computeC(t);
+      const raw = [];
+      for (let angleIndex = 0; angleIndex < state.angles; angleIndex += 1) {
+        const theta = (Math.PI * 2 * angleIndex) / state.angles;
+        raw.push(boundaryRadius(theta, c.real, c.imag));
+      }
+
+      const smoothed = smoothRing(raw);
+      const mean = smoothed.reduce((sum, value) => sum + value, 0) / Math.max(1, smoothed.length);
+      const detailMix = modulationEnvelope(t) * state.detailStrength;
+      const circleRadius = 2.2 * bodyRadiusRatio(t);
+
+      return smoothed.map((value) => {
+        const normalized = mean <= 1e-9 ? 1 : value / mean;
+        const centered = normalized - 1;
+        const weighted = centered >= 0
+          ? centered * state.outwardWeight
+          : centered * state.inwardWeight;
+        return circleRadius * (1 + detailMix * weighted);
+      });
+    }
+
+    function buildRings() {
+      const rings = [];
+      for (let layer = 0; layer < state.layers; layer += 1) {
+        rings.push(sampleRing(layer, state.layers));
+      }
+      return rings;
+    }
+
+    function estimateState() {
+      const onset = state.modulationPeak * state.detailStrength / Math.max(state.modulationRiseEnd, 0.001);
+      if (onset < 0.28) return "Subtle";
+      if (onset < 0.54) return "Balanced";
+      if (onset < 0.82) return "Aggressive";
+      return "Chaotic";
+    }
+
+    function buildCli() {
+      return [
+        "python3 julia_vase.py",
+        `--base-radius ${state.baseRadius.toFixed(3)}`,
+        `--bulge-strength ${state.bulgeStrength.toFixed(3)}`,
+        `--modulation-peak ${state.modulationPeak.toFixed(3)}`,
+        `--detail-strength ${state.detailStrength.toFixed(3)}`,
+        `--outward-weight ${state.outwardWeight.toFixed(3)}`,
+        `--inward-weight ${state.inwardWeight.toFixed(3)}`,
+        `--rise-end ${state.modulationRiseEnd.toFixed(3)}`,
+        `--c-real ${state.cRealScale.toFixed(3)}`,
+        `--c-imag ${state.cImagScale.toFixed(3)}`,
+        `--layers ${Math.round(state.exportLayers)}`,
+        `--angles ${Math.round(state.exportAngles)}`,
+        `--max-iter ${Math.round(state.exportMaxIter)}`,
+        `--scan-steps ${Math.round(state.exportScanSteps)}`,
+        `--refine-steps ${Math.round(state.exportRefineSteps)}`
+      ].join(" ");
+    }
+
+    function project(x, y, z, width, height, scale) {
+      const yaw = rotation;
+      const pitch = 0.55;
+
+      const cosY = Math.cos(yaw);
+      const sinY = Math.sin(yaw);
+      const cosP = Math.cos(pitch);
+      const sinP = Math.sin(pitch);
+
+      const rx = x * cosY - y * sinY;
+      const ry = x * sinY + y * cosY;
+      const rz = z;
+
+      const py = ry * cosP - rz * sinP;
+      const pz = ry * sinP + rz * cosP;
+
+      const perspective = 1 / (1 + pz * 0.0025);
+      return {
+        x: width * 0.5 + rx * scale * perspective,
+        y: height * 0.74 - py * scale * perspective,
+        depth: pz
+      };
+    }
+
+    function drawMain(rings) {
+      const ctx = mainCanvas.getContext("2d");
+      const width = mainCanvas.width;
+      const height = mainCanvas.height;
+      ctx.clearRect(0, 0, width, height);
+
+      ctx.fillStyle = "#fbf6ee";
+      ctx.fillRect(0, 0, width, height);
+
+      const all = rings.flat();
+      const maxRadius = Math.max(...all, 1);
+      const scale = (width * 0.22) / maxRadius;
+      const zExtent = maxRadius * 4.4;
+      const stride = Math.max(1, Math.floor(rings.length / 44));
+
+      ctx.lineCap = "round";
+      ctx.lineJoin = "round";
+
+      for (let layer = 0; layer < rings.length; layer += stride) {
+        const ring = rings[layer];
+        const z = ((layer / Math.max(1, rings.length - 1)) - 0.5) * zExtent;
+        ctx.beginPath();
+        for (let i = 0; i <= ring.length; i += 1) {
+          const index = i % ring.length;
+          const theta = (Math.PI * 2 * index) / ring.length;
+          const radius = ring[index];
+          const point = project(radius * Math.cos(theta), radius * Math.sin(theta), z, width, height, scale);
+          if (i === 0) ctx.moveTo(point.x, point.y);
+          else ctx.lineTo(point.x, point.y);
+        }
+        const alpha = 0.12 + 0.42 * (layer / Math.max(1, rings.length - 1));
+        ctx.strokeStyle = `rgba(163, 76, 43, ${alpha})`;
+        ctx.lineWidth = 1.5;
+        ctx.stroke();
+      }
+
+      ctx.beginPath();
+      for (let layer = 0; layer < rings.length; layer += 1) {
+        const ring = rings[layer];
+        const z = ((layer / Math.max(1, rings.length - 1)) - 0.5) * zExtent;
+        const radius = Math.max(...ring);
+        const point = project(radius, 0, z, width, height, scale);
+        if (layer === 0) ctx.moveTo(point.x, point.y);
+        else ctx.lineTo(point.x, point.y);
+      }
+      for (let layer = rings.length - 1; layer >= 0; layer -= 1) {
+        const ring = rings[layer];
+        const z = ((layer / Math.max(1, rings.length - 1)) - 0.5) * zExtent;
+        const radius = Math.max(...ring);
+        const point = project(-radius, 0, z, width, height, scale);
+        ctx.lineTo(point.x, point.y);
+      }
+      ctx.closePath();
+      ctx.fillStyle = "rgba(214, 143, 95, 0.09)";
+      ctx.fill();
+    }
+
+    function drawSilhouette(rings) {
+      const ctx = silhouetteCanvas.getContext("2d");
+      const width = silhouetteCanvas.width;
+      const height = silhouetteCanvas.height;
+      ctx.clearRect(0, 0, width, height);
+      ctx.fillStyle = "#fbf6ee";
+      ctx.fillRect(0, 0, width, height);
+
+      const maxRadius = Math.max(...rings.flat(), 1);
+      const margin = 34;
+      const usableWidth = (width - margin * 2) * 0.5;
+      const usableHeight = height - margin * 2;
+
+      ctx.beginPath();
+      rings.forEach((ring, i) => {
+        const radius = Math.max(...ring);
+        const x = width * 0.5 + (radius / maxRadius) * usableWidth;
+        const y = height - margin - (i / Math.max(1, rings.length - 1)) * usableHeight;
+        if (i === 0) ctx.moveTo(x, y);
+        else ctx.lineTo(x, y);
+      });
+      for (let i = rings.length - 1; i >= 0; i -= 1) {
+        const ring = rings[i];
+        const radius = Math.max(...ring);
+        const x = width * 0.5 - (radius / maxRadius) * usableWidth;
+        const y = height - margin - (i / Math.max(1, rings.length - 1)) * usableHeight;
+        ctx.lineTo(x, y);
+      }
+      ctx.closePath();
+      ctx.fillStyle = "rgba(163, 76, 43, 0.12)";
+      ctx.fill();
+      ctx.strokeStyle = "rgba(66, 74, 74, 0.8)";
+      ctx.lineWidth = 2;
+      ctx.stroke();
+
+      ctx.strokeStyle = "rgba(89, 103, 104, 0.18)";
+      ctx.beginPath();
+      ctx.moveTo(width * 0.5, margin * 0.5);
+      ctx.lineTo(width * 0.5, height - margin * 0.5);
+      ctx.stroke();
+    }
+
+    function drawRing(rings) {
+      const ctx = ringCanvas.getContext("2d");
+      const width = ringCanvas.width;
+      const height = ringCanvas.height;
+      ctx.clearRect(0, 0, width, height);
+      ctx.fillStyle = "#fbf6ee";
+      ctx.fillRect(0, 0, width, height);
+
+      const ring = rings[Math.floor(rings.length * 0.5)];
+      const maxRadius = Math.max(...ring, 1);
+      const scale = Math.min(width, height) * 0.32 / maxRadius;
+
+      ctx.beginPath();
+      for (let i = 0; i <= ring.length; i += 1) {
+        const index = i % ring.length;
+        const theta = (Math.PI * 2 * index) / ring.length;
+        const radius = ring[index];
+        const x = width * 0.5 + radius * Math.cos(theta) * scale;
+        const y = height * 0.5 + radius * Math.sin(theta) * scale;
+        if (i === 0) ctx.moveTo(x, y);
+        else ctx.lineTo(x, y);
+      }
+      ctx.closePath();
+      ctx.fillStyle = "rgba(214, 143, 95, 0.16)";
+      ctx.fill();
+      ctx.strokeStyle = "rgba(29, 42, 42, 0.85)";
+      ctx.lineWidth = 2;
+      ctx.stroke();
+    }
+
+    function render() {
+      const token = ++renderToken;
+      const start = performance.now();
+      requestAnimationFrame(() => {
+        if (token !== renderToken) return;
+        const rings = buildRings();
+        lastRender = rings;
+        drawMain(rings);
+        drawSilhouette(rings);
+        drawRing(rings);
+        cliOutput.textContent = buildCli();
+        shapeState.textContent = estimateState();
+        previewCost.textContent = `${state.layers} x ${state.angles} in ${(performance.now() - start).toFixed(0)} ms`;
+      });
+    }
+
+    function scheduleRender() {
+      window.clearTimeout(scheduleRender.timer);
+      scheduleRender.timer = window.setTimeout(render, 80);
+    }
+
+    function createControl(control) {
+      const host = document.getElementById(`group-${control.group}`);
+      const wrapper = document.createElement("div");
+      wrapper.className = "control";
+
+      const labelRow = document.createElement("div");
+      labelRow.className = "label-row";
+
+      const label = document.createElement("label");
+      label.textContent = control.label;
+
+      const value = document.createElement("span");
+      value.className = "value";
+      value.id = `value-${control.key}`;
+
+      labelRow.append(label, value);
+
+      const input = document.createElement("input");
+      input.type = "range";
+      input.min = control.min;
+      input.max = control.max;
+      input.step = control.step;
+      input.value = state[control.key];
+      input.addEventListener("input", () => {
+        state[control.key] = Number(input.value);
+        updateValue(control.key);
+        scheduleRender();
+      });
+
+      wrapper.append(labelRow, input);
+      host.appendChild(wrapper);
+      updateValue(control.key);
+    }
+
+    function updateValue(key) {
+      const target = document.getElementById(`value-${key}`);
+      const value = state[key];
+      target.textContent = Number.isInteger(value) ? String(value) : value.toFixed(3);
+    }
+
+    controls.forEach(createControl);
+
+    document.getElementById("reset-defaults").addEventListener("click", () => {
+      Object.assign(state, defaults);
+      document.querySelectorAll('input[type="range"]').forEach((input, index) => {
+        const control = controls[index];
+        input.value = state[control.key];
+        updateValue(control.key);
+      });
+      scheduleRender();
+    });
+
+    document.getElementById("copy-cli").addEventListener("click", async () => {
+      const text = buildCli();
+      try {
+        await navigator.clipboard.writeText(text);
+        const button = document.getElementById("copy-cli");
+        const previous = button.textContent;
+        button.textContent = "Copied";
+        window.setTimeout(() => {
+          button.textContent = previous;
+        }, 900);
+      } catch (_) {
+        alert(text);
+      }
+    });
+
+    document.getElementById("toggle-spin").addEventListener("click", () => {
+      spinning = !spinning;
+      document.getElementById("toggle-spin").textContent = spinning ? "Pause Spin" : "Resume Spin";
+    });
+
+    function animate() {
+      if (spinning && lastRender) {
+        rotation += 0.0035;
+        drawMain(lastRender);
+      }
+      requestAnimationFrame(animate);
+    }
+
+    render();
+    animate();
+  </script>
+</body>
+</html>

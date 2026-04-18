@@ -1,0 +1,9 @@
+# Deck package for the hackathon_builds overview presentation
+
+deck_name=hackathon-builds-overview
+theme=Bold Color
+width=1920
+height=1080
+slides_file=slides.txt
+source_root=../..
+source_notes=combined hackathon repo overview sources were external working notes

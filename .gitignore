@@ -1,0 +1,12 @@
+.DS_Store
+**/.DS_Store
+
+.venv/
+**/__pycache__/
+**/*.pyc
+
+julia-stl/.git/
+julia-stl/AGENTS.md
+
+decksmith/outputs/**/*.key
+decksmith/outputs/**/*.pptx

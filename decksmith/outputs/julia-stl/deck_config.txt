@@ -1,0 +1,12 @@
+# Deck package for the julia-stl project
+
+deck_name=julia-stl
+theme=Bold Color
+width=1920
+height=1080
+slides_file=slides.txt
+image_root=../../julia-stl/assets/images
+source_project=../../julia-stl
+source_presentation=../../julia-stl/presentation.md
+source_learnings=../../julia-stl/learnings.md
+source_roadmap=../../julia-stl/roadmap.md
