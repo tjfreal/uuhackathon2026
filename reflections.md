@@ -40,7 +40,7 @@ This to-do work also bleeds over into library and information work. Finding aid 
 
 ## Not nearly done
 
-The ladder project in the repo didn't really quite become what I had though. I have a vision of libraries as ladders. No matter who you are or what your education level, the library should be a place where you can reach for the next rung in your education journey. What ended up being built was related, but not big enough in scope. What was built was more about how to build learning content for different audiences. Interesting work, sure, but not ambitious enough. I need all this stuff to cook longer.
+The ladder project in the repo didn't really quite become what I had thought. I have a vision of libraries as ladders. No matter who you are or what your education level, the library should be a place where you can reach for the next rung in your education journey. What ended up being built was related, but not big enough in scope. What was built was more about how to build learning content for different audiences. Interesting work, sure, but not ambitious enough. I need all this stuff to cook longer.
 
 ## Final thoughts
 
