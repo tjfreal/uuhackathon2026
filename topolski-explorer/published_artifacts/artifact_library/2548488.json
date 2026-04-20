@@ -1,0 +1,152 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548488",
+    "title": "Topolski's Chronicle, V.2 No.22-23, 1954",
+    "date": "1954",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6ac2fzp",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6ac2fzp",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 4,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "UNIVERSITY OF UTAH LIBRARIES\nTOPOLSKI'S CHRONICLE No. 22-23 (24-25) Vol. II 1954\nof a voyage round the world (6)\n...making cheerful and joking even their toil. Sir Philip Sidney. (1586)\nTHIS DOUBLE ISSUE COSTS 5s.\n'TOPOLSKI'S CHRONICLE' IS PUBLISHED 18 TIMES A YEAR AT 20s. 6d. A COPY YEARLY SUBSCRIPTION RATES (15s. FROM OUTSIDE UK) TO ANY PART OF THE WORLD ARE ON A PRINCIPAL STREET THROUGH FOREIGN POST ON RATE. AIR MAIL BY QUOTATION.\nSUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME.\nLithographed in Great Britain by C.A.P.S. Ltd., Ennis Road, London, N.4., and published from Bridge Arts Studio, South Bank, London, S.E.1. Enquiries should be addressed to above studio.",
+      "handwritten_text": "China's [?] Felix Topolski\nA Hong Kong street",
+      "sketch_descriptions": [
+        "Group of people in traditional clothing with broad hats, standing outdoors with a mountain landscape in the background.",
+        "Several women with large brimmed hats, shown from different angles, possibly workers or vendors.",
+        "A small group seated at a table or stall, possibly engaged in eating or conversation.",
+        "Cluster of heads and busts showing expressions and gestures, some holding objects or chopsticks, suggesting a social gathering or meal.",
+        "Prominent elderly man standing, animatedly gesturing or speaking.",
+        "Close-up faces of two individuals, one possibly reading, the other in conversation.",
+        "Additional faces and figures, including a woman with delicate features and a child."
+      ],
+      "entities": {
+        "people": [
+          "Felix Topolski"
+        ],
+        "places": [
+          "Hong Kong",
+          "China"
+        ],
+        "events": [],
+        "dates": [
+          "1954"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle visually documents daily life and social scenes in 1954 Hong Kong, capturing both rural and urban moments through expressive sketches and handwritten notes. The illustrations depict people in traditional attire, street activities, and communal gatherings.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:42:34.622962+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "HONG KONG: 347, 348 Approaching from the mainland 349 Kowloon Ferry 350 View of the Chinese Quarter from the waterfront 351 Checking travellers from Macao 353 The Waterfront 346, 352, 355 Chinese magnates and ladies repatriated from Shanghai; British military, press and business gentlemen; international adventurers; American sailors 354 General Morris \"two-gun\" Cohen, the late Sun Yat Sen's assistant and one of the original members of the Kuomintang Party.",
+      "handwritten_text": "Hong Kong 347 348 Approaching in the launch 349 Kowloon Ferry 350 Chinese Quarter from the waterfront 351 Chinese travellers from Macao being checked at the (Brit?) police post. 352 Hong Kong British, Chinese, Americans... 353 Hong Kong Waterfront 354 Morris \"two-gun\" Cohen, ex-Sun Yat Sen aid & original member of Kuomintang Party. 355",
+      "sketch_descriptions": [
+        "Crowded boat with people approaching the shore, some pointing to the distance (top left, labeled 347/348).",
+        "Harbor scene with multiple boats and harbor buildings, smoke rising, with junks visible (top center, labeled 349).",
+        "Small ferry with passengers and crew visible along the railings (top right, labeled 350).",
+        "Harborfront scene with people sitting, bending, or walking near a docked vessel; some wear hats, others kneel with goods (right center, labeled 353).",
+        "Crowd queueing at what appears to be a customs or travel checkpoint, with signage reading 'CATHY PANEL N/NY...' (middle left, labeled 351).",
+        "Busy urban street scene, with crowds walking under tall signs, suggested to be the Chinese Quarter (center, labeled 350).",
+        "Two figures engaged in conversation, one with a hat, and a person carrying a bag in the background (bottom left corner, labeled 351).",
+        "Indoor gathering or social scene with people standing and conversing, some in flowing traditional dress, possibly a formal or business setting (bottom center left, labeled 352).",
+        "Portrait sketch of an older man, surrounded by smaller figures in discussion, identified as General Morris 'two-gun' Cohen (bottom center right, labeled 354).",
+        "Face-to-face conversations among well-dressed men and women, possibly business or diplomatic gathering (bottom right, labeled 355)."
+      ],
+      "entities": {
+        "people": [
+          "General Morris 'two-gun' Cohen",
+          "Sun Yat Sen"
+        ],
+        "places": [
+          "Hong Kong",
+          "Kowloon",
+          "Macao",
+          "Shanghai",
+          "Chinese Quarter",
+          "Kuomintang Party"
+        ],
+        "events": [
+          "Repatriation of magnates and ladies from Shanghai"
+        ],
+        "dates": []
+      },
+      "page_summary": "The page captures scenes of postwar Hong Kong, focusing on the harbor, ferry arrivals, bustling checkpoints, social gatherings, and key figures such as General Morris 'two-gun' Cohen. The imagery and notes document trade, repatriation, and daily urban life across international, local, and political contexts in Hong Kong.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:43:03.397998+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "HONG KONG NEW TERRITORIES",
+      "handwritten_text": "\"Off[icial] guests\" 356 H.C. of Johore Div. at C.D.S. with a G.O.C. & party in New Territories 357 H.E. the Governor's Reception 358 40th Infantry Division Ceremonial Parade held at Sek Kong, New Territories 359 360 H.E. the Governor of Hong Kong",
+      "sketch_descriptions": [
+        "Two men in kilts, one possibly a high-ranking officer, speaking to a soldier in uniform with a helmet in a mountainous landscape.",
+        "A group of guests mingling and conversing, possibly at a formal reception.",
+        "A uniformed figure with a feathered hat standing in a jeep, saluting or greeting, with troops and musicians in the background.",
+        "A seated group labeled 'Official guests', with diverse individuals including military personnel and civilians, viewed from the side.",
+        "A military parade with soldiers marching in formation observed by the audience.",
+        "A uniformed officer and a figure in ceremonial attire with plumed hat, talking beside a vehicle in front of mountains.",
+        "A convoy of military vehicles moving through a landscape of mountains, led by a saluting officer."
+      ],
+      "entities": {
+        "people": [
+          "H.C. of Johore Division",
+          "C.D.S.",
+          "G.O.C.",
+          "H.E. the Governor of Hong Kong"
+        ],
+        "places": [
+          "Hong Kong",
+          "New Territories",
+          "Sek Kong"
+        ],
+        "events": [
+          "40th Infantry Division Ceremonial Parade",
+          "Governor's Reception"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page documents British colonial and military ceremonies in Hong Kong's New Territories, including a ceremonial parade at Sek Kong and gatherings of official guests and local dignitaries. The expressive sketches capture interactions among military personnel, colonial officials, and civilians set against distinctive landscapes.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:43:09.973230+00:00"
+    },
+    {
+      "page_number": 4,
+      "typeset_text": "ANGLO-CHINESE BOUNDARY 361, 362, 365 Village Sha Tau Kok; frontier stones run down centre of main street 363, 364 Chick's bridge",
+      "handwritten_text": "361\n362\nAnglo Chinese boundary 104 yds x 3\n363\n364 Chick's bridge\n365 SHA TAU KOK (chick's bridge)-boundary stone down main street\nPublic Notice: Special line of communication answering only to Q.M.G. at Sha Tau Kok frontier. The pass or permit needed for entry. May 8, 1949\nAnglo Chinese Boundary 1949-76",
+      "sketch_descriptions": [
+        "A line of people walking along a rural road with flags marking a boundary, with mountains and buildings visible in the distance.",
+        "A bustling village street scene with several figures, some standing and others walking, and banners with Chinese characters.",
+        "A signpost with a formal public notice about frontier access, surrounded by a few figures and a dog.",
+        "A group of people at what appears to be a checkpoint or bridge, some in uniform and others in traditional clothing.",
+        "Crowds of people gathered together, possibly awaiting entry or interacting at the boundary.",
+        "A broad, lively village street running through Sha Tau Kok, with a diverse group including adults, children, and uniformed figures, and flags marking the Anglo-Chinese boundary."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Sha Tau Kok",
+          "Chick's bridge",
+          "Anglo-Chinese boundary",
+          "Village Sha Tau Kok"
+        ],
+        "events": [],
+        "dates": [
+          "1949",
+          "1949-76",
+          "May 8, 1949"
+        ]
+      },
+      "page_summary": "This page documents the scene at the Anglo-Chinese boundary, specifically in Sha Tau Kok village around Chick's bridge, in 1949. It depicts border life, local residents, boundary markers, and posted notices amid a bustling frontier context.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:43:36.398952+00:00"
+    }
+  ]
+}

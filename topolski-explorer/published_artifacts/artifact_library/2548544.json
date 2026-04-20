@@ -1,0 +1,308 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548544",
+    "title": "Topolski's Chronicle, V.5 No.1-5, 1957",
+    "date": "1957",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6sg4sc8",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6sg4sc8",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 11,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE No. 1-5 (85-89) Vol. V 1957\n...nothing affirmed and therefore never forgot... Sir Phillip Sidney (1580)\nTHE MIDDLE EAST: RELIGIONS, RACES AND PROGRESS\n\"THIS FIVE FOLD SUPPLEMENT \"TO THE \"CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 3s. 6d. A COPY. YEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE \u00a34. 6s. ($12 or equivalent). SHORTER PERIODS PRO RATA. ALL MAY BE QUOTATION. SUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME. Handprinted in Great Britain by Poets' & Painters' Press 16 Sutton Walk, S.E.1., from blocks made by Austin Miles Ltd. and published by Topolski's Chronicles Ltd. from Bridge Arch 158, Sutton Walk, London. S.E.1. Copyright reserved.",
+      "handwritten_text": "Suez\nSaudi Arabia\n3 Egypts\nOn the train from Bani Suef",
+      "sketch_descriptions": [
+        "Top left sketch portrays the Suez Canal with ships and coastline in an abstract pen drawing on orange background.",
+        "Middle left sketch shows two men conversing, one wearing traditional Saudi Arabian attire, labeled 'Saudi Arabia' on orange background.",
+        "Bottom left sketch depicts a mounted rider and a standing figure in traditional Middle Eastern dress on orange background; indistinct figures in the distance.",
+        "Large central and right sketch: A group of two men engaging in a close conversation, sketched in fine lines inside a room, accompanied by a seated man wearing a fez and suit, labeled '3 Egypts On the train from Bani Suef'."
+      ],
+      "entities": {
+        "people": [
+          "Sir Phillip Sidney"
+        ],
+        "places": [
+          "Suez",
+          "Saudi Arabia",
+          "Bani Suef",
+          "Middle East",
+          "Egypt"
+        ],
+        "events": [],
+        "dates": [
+          "1580",
+          "1957"
+        ]
+      },
+      "page_summary": "This 1957 issue of Topolski's Chronicle features illustrated sketches and commentary on the Middle East, highlighting cultural and regional distinctions in Egypt, Saudi Arabia, and the Suez area.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:23:46.084629+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "EGYPT\n797 THREE EGYPTS  798, 799, 801 BY THE NILE  800 UPPER EGYPT\n802-804 LOWER EGYPT  805, 806 BY THE PYRAMIDS  807 IN CAIRO",
+      "handwritten_text": "Mittmeyer 1931\nLein [?]",
+      "sketch_descriptions": [
+        "A sketch of three figures on horseback with loose lines, possibly depicting Egyptian horsemen or guards.",
+        "A sketch showing a small boat or raft on a river with one figure standing and another seated or lying down, possibly by the Nile.",
+        "A sketch of a group of people or a marketplace scene with a shelter or tent, with figures sitting and standing around.",
+        "A drawing of a figure bent over carrying a bundle or bag, with a sparse background suggesting an outdoor environment.",
+        "A portrait-style sketch of a standing man with crossed arms wearing loose traditional clothing, in a confident pose.",
+        "A sketch of a figure with a headscarf or hood, holding a walking stick, next to a child and another smaller figure sitting.",
+        "A sketch of two figures cloaked or draped, walking away from the viewer, with another figure in a fez hat nearby.",
+        "A crowded sketch of camels and people, with a large pyramid outline faintly in the background suggesting the Giza plateau.",
+        "A large sketch of a man draped heavily in robes seen from behind, with detailed swirling lines to convey fabric folds."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Egypt",
+          "Three Egypts",
+          "The Nile",
+          "Upper Egypt",
+          "Lower Egypt",
+          "The Pyramids",
+          "Cairo"
+        ],
+        "events": [],
+        "dates": [
+          "1931"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle features expressive ink sketches depicting scenes across various Egyptian regions, including the Nile, Upper and Lower Egypt, and iconic landscapes near the pyramids, accompanied by brief printed locational information.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:23:54.582497+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "RELIGIONS\n808-814 MOSLEMS 815 THE MARONITE PATRIARCH 816 COPTS 817,819 GREEK ORTHODOX 818, 820 ROMAN CATHOLICS",
+      "handwritten_text": "Cairo\nDrawing Dervishes",
+      "sketch_descriptions": [
+        "A group of loosely sketched figures wearing traditional Middle Eastern attire, likely representing various religious figures or believers; the group includes head coverings and turbans.",
+        "Another assembly of loosely drawn men playing musical instruments, possibly wind instruments, in a seemingly lively setting, identified as 'Drawing Dervishes'."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Cairo"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "The page from Topolski's Chronicle presents hand-drawn sketches of religious figures and dervishes along with typeset references to several Eastern and Christian religious groups, highlighting diverse religious traditions, including those in Cairo.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:23:58.267520+00:00"
+    },
+    {
+      "page_number": 4,
+      "typeset_text": "809 810 811",
+      "handwritten_text": "Ahmec Sinni baba Kairo Felix Topolski from a circle Cairo Blue Mosque, Caizo Outside the Holy Sepulchre Jerusalem",
+      "sketch_descriptions": [
+        "A rough sketch of a seated man with a turban and long beard in a flowing robe, possibly a religious or cultural figure, with a cityscape in the background and text identifying him as Ahmec Sinni baba in Cairo.",
+        "A sketch showing a group of people bowing or praying inside a building with a hanging lamp, identified as the Blue Mosque in Cairo.",
+        "A drawing of a seated man with a long beard outside an architectural complex with arches, labeled as outside the Holy Sepulchre in Jerusalem."
+      ],
+      "entities": {
+        "people": [
+          "Ahmec Sinni baba",
+          "Felix Topolski"
+        ],
+        "places": [
+          "Cairo",
+          "Blue Mosque",
+          "Jerusalem",
+          "Holy Sepulchre"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "The page features sketches and notes by Felix Topolski depicting religious and cultural scenes and figures from Cairo and Jerusalem, including a figure named Ahmec Sinni baba and prayer scenes from the Blue Mosque and outside the Holy Sepulchre.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:24:23.212154+00:00"
+    },
+    {
+      "page_number": 5,
+      "typeset_text": "OLD JERUSALEM",
+      "handwritten_text": "Felix Topolski",
+      "sketch_descriptions": [
+        "Top left of left page: Group of three men wearing traditional hats, reading a large open book.",
+        "Top right of left page: A bearded man with a hat, shown from the side in an expressive sketch.",
+        "Second row left: A seated bearded man in traditional attire with a framed picture behind him.",
+        "Second row right: A sketch of two heads close together, one man wearing a distinctive hat.",
+        "Third row left: A man raising one hand, with rings or circular objects hanging nearby.",
+        "Third row right: A side profile of a bearded man smoking a pipe.",
+        "Bottom row left: Two men wearing hats, shown in a shaded sketch.",
+        "Bottom row right: A man seen from behind, looking at a group of people and some architectural shapes.",
+        "Right page top: A group of men in traditional Middle Eastern and Jewish attire, some wearing tall hats and others headscarves, possibly outside in a street or open area.",
+        "Right page bottom: A seated man smoking a pipe with a hookah nearby, surrounded by people in robes and traditional hats engaged in social interaction indoors."
+      ],
+      "entities": {
+        "people": [
+          "Felix Topolski"
+        ],
+        "places": [
+          "Jerusalem"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page from Topolski's Chronicle features a series of expressive sketches depicting scenes and figures from old Jerusalem, focusing on traditional attire, social interactions, and cultural atmosphere.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:24:28.068545+00:00"
+    },
+    {
+      "page_number": 6,
+      "typeset_text": "THE JEWS",
+      "handwritten_text": "Yeminim - Ben Yerushag Oitez [?]  Uermelin im [?] AJ Rimoth Agr. school reform or problem Jewish ghetto - Tel Aviv Zoe Ariste Kibutz",
+      "sketch_descriptions": [
+        "A small group of people walking or standing in a distant landscape with a man in a hat on the left.",
+        "A cluster of people around a table or an area with fruit or objects being offered or examined.",
+        "A group of four women, one holding a child, sketched in loose lines.",
+        "A line or group of men standing closely together, some wearing hats, with two animals nearby.",
+        "Seven men sitting or standing closely together, engaged in conversation, one with a piece of paper.",
+        "A busy street scene with many people walking along a city street with tall buildings and signs.",
+        "A group of people sitting around a table sharing a meal or drink, with one person pouring from a bottle.",
+        "A man in a hat standing on the right watching four children sitting at a table with a cup and a candle."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Tel Aviv",
+          "Aj Rimoth",
+          "Kibutz"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page titled 'THE JEWS' features various sketches depicting scenes of Jewish life, including groups of people in social settings, city street views, and family or community gatherings, with handwritten notes referencing places like Tel Aviv and Kibutz.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:24:53.991333+00:00"
+    },
+    {
+      "page_number": 7,
+      "typeset_text": "812\nUNIVERSITY OF UTAH LIBRARIES",
+      "handwritten_text": "Omar -- ??????",
+      "sketch_descriptions": [
+        "A sketch showing several figures in traditional Middle Eastern attire, some seated and some standing, in a loosely drawn architectural setting including a mosque-like tower with a dome and a pointed spire in the background, possibly depicting a scene of daily life or a religious moment."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Middle East",
+          "Mosque"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page features a black and white sketch illustrating Middle Eastern figures grouped around a mosque tower and some architectural ruins, with handwritten text suggesting a name but unclear beyond 'Omar.'",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:25:18.449839+00:00"
+    },
+    {
+      "page_number": 8,
+      "typeset_text": "",
+      "handwritten_text": "Alarouf [?] - Iris. F T",
+      "sketch_descriptions": [
+        "A large, loose sketch on the left page depicting multiple figures wearing elaborate hats, with one central figure prominently drawn in the foreground.",
+        "On the right page, eight smaller charcoal or black ink sketches on a yellow background: top left shows a woman\u2019s face with a shawl; top right shows two men in distinctive headgear; middle left depicts a man with a turban; middle right is a profile of a woman with curly hair; bottom left shows an elderly man with a headwrap; bottom middle depicts two figures with ornate hats; bottom right shows a seated man in front of a window or with a cityscape behind him."
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page features a large group sketch of figures in hats on the left alongside eight smaller portrait sketches of people, mostly wearing historical or ethnic headgear, on a yellow background to the right, accompanied by a handwritten note.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:25:42.749751+00:00"
+    },
+    {
+      "page_number": 9,
+      "typeset_text": "840 841 842 843 844 845 846 847 848 849 850",
+      "handwritten_text": "The Cloud Steps\nSyria - in life & stories richest laden palm ringing eagle\nBeduins in the Neqran Desert\n\"Shebbdom 1911, N. Shereibx S.O.I\"",
+      "sketch_descriptions": [
+        "A cloud-filled sky over a rugged landscape with a group of people and horses traversing a flat plain towards a distant hill.",
+        "A large hill or rock formation with a castle or fortress atop it, with several people and horses around its base on a pathway.",
+        "A group of horsemen with spears around a table filled with bottles, one figure seated, and several standing figures nearby.",
+        "A close-knit group of mounted horsemen with flags and spears, drawn in a loose and energetic style.",
+        "A solitary figure on foot holding a dog, rendered in quick, bold strokes.",
+        "A robed figure standing in a pastoral mountainous landscape surrounded by sheep.",
+        "Multiple figures in a desert or semi-arid environment near tents or Bedouin huts, some on horseback.",
+        "A distant view of desert figures near tents with one rider in profile.",
+        "A seated elder figure next to a flag with another person holding hands with a child and a grazing camel or horse in the background.",
+        "Two standing Bedouin figures with a camel or horse grazing nearby, depicted with flowing robes and headscarves.",
+        "A solitary standing Bedouin figure facing right, dressed in traditional flowing cloak and turban."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Syria",
+          "Neqran Desert"
+        ],
+        "events": [],
+        "dates": [
+          "1911"
+        ]
+      },
+      "page_summary": "This page features sketches depicting scenes from Syria and the Neqran Desert, illustrating Bedouin life, desert landscapes, and fortresses, with handwritten notes and captions contextualizing the imagery.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:25:48.554864+00:00"
+    },
+    {
+      "page_number": 10,
+      "typeset_text": "SEMITES AND HAMITES\n831 ALAOUITS  832, 833, 836, 839 EGYPTIANS  834, 835 SYRIANS  837 JORDANIANS  838 LEBANESE  840-848, 851, 852, 854-856 SYRIA\n849, 850 BEDOUINS IN IRAQ  853 POLITICIANS, LEBANON",
+      "handwritten_text": "To Pic Class [or Cliss?]\nLiddle Tukem [?] in some provinces - persons [?] freeman/messien [?] placent [?] - no policy every - in camp...\n[indecipherable] pen, prisoner's [?] in modern wine\nFeliks Topolski 44\nDaniel [?] of Zannis\n[indecipherable lines under right sketch]",
+      "sketch_descriptions": [
+        "Top left sketch features two men in traditional hats (one possibly wearing a fez) in a loosely drawn group with other figures faintly seen in the background.",
+        "Bottom left sketch shows a seated group of men wearing various traditional Middle Eastern headwear including turbans and fezzes, depicted in a casual setting.",
+        "Right page sketch shows three men interacting closely in conversation, two seated wearing traditional Middle Eastern hats (fez and tall hat), with a standing figure observing them in a casual room interior."
+      ],
+      "entities": {
+        "people": [
+          "Feliks Topolski",
+          "Daniel of Zannis"
+        ],
+        "places": [
+          "Lebanon",
+          "Syria",
+          "Iraq"
+        ],
+        "events": [],
+        "dates": [
+          "1944"
+        ]
+      },
+      "page_summary": "This page illustrates and references various Semitic and Hamitic ethnic groups in the Middle East, including Syrians, Jordanians, Lebanese, and Bedouins in Iraq, accompanied by sketches showing men in traditional attire and conversational scenes.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:26:14.074079+00:00"
+    },
+    {
+      "page_number": 11,
+      "typeset_text": "",
+      "handwritten_text": "Klein's Sittiyekan Badbek  Aleppo  Badibek",
+      "sketch_descriptions": [
+        "A seated man wearing a large hat, cloak, and holding a cane next to a railing, sketched in loose, expressive lines.",
+        "A walking figure with two smaller figures, likely children, in a dynamic, rough sketch with arches and architectural elements in the background, labeled 'Aleppo'.",
+        "A broad scene depicting several seated and standing figures in front of ancient, ruined stone architecture with columns and arches, showing a ruined cityscape, labeled 'Badibek'."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Aleppo"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "The page features expressive pen sketches depicting people and architectural ruins, with captions referencing 'Aleppo' and 'Badibek,' likely illustrating Middle Eastern or historical scenes.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:26:38.550038+00:00"
+    }
+  ]
+}

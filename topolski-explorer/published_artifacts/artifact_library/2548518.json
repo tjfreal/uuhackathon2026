@@ -1,0 +1,110 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548518",
+    "title": "Topolski's Chronicle, V.4 No.3, 1956",
+    "date": "1956",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6n2h3c1",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6n2h3c1",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI's CHRONICLE No 3 (63) Vol IV 1956\n...nothing affirmeth and therefore never lyeth... Sir Philip Sidney (1580)\nSPIRIT OF GENEVA",
+      "handwritten_text": "Feliks Topolski",
+      "sketch_descriptions": [
+        "A loose and expressive ink sketch depicting three men standing closely together, sketched in a spontaneous style emphasizing facial features and hand outlines."
+      ],
+      "entities": {
+        "people": [
+          "Feliks Topolski",
+          "Sir Philip Sidney"
+        ],
+        "places": [
+          "Geneva"
+        ],
+        "events": [],
+        "dates": [
+          "1956",
+          "1580"
+        ]
+      },
+      "page_summary": "This 1956 Topolski's Chronicle page features a sketch titled 'Spirit of Geneva' depicting three men, alongside a quote by Sir Philip Sidney and the artist's signature.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:02:33.423782+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": ".... After a prolonged and involved struggle over photographs, letters of accreditation, press cards and passes, a reporter finds himself in Geneva before a closed and closely guarded door. The security-cum-privacy arrangements are overpowering and verging on farce. One wonders why these four Foreign Ministers deliver their set speeches in the Palais des Nations, three miles away from the accredited witnesses, encased in the Maison de la Presse.\n\nGeneva sheds orange-coloured leaves over very green lawns on the shores of the lake. The steel-helmeted soldiers lurk, pugs at the ready, behind the trees of the pretty Parc de la Grange, round a villa where an official luncheon takes place. At the Maison de la Presse the journalists race to the information counter for the hand-outs or over the stairs and corridors to listen in turn to the simultaneous \"briefings\" - that is the interpretation and the daily report of the real thing - by the four lesser spokesmen: the Soviet, the French, the British and the American. They differ in character but from these summaries and the hand-out speeches, the uniform impression is that of recriminations, uncompromising and harsh statements, declarations of almost painted dismissals of the adversary's point of view. Particularly so in the case of the British Foreign Secretary.\n\nYet, later in the evening, in Hotel Beau Rivage (the residence of the British Delegation) I watch Mr. Harold Macmillan lead Mr. Molotov to after-dinner coffee and liqueurs with such a display of bonhomie and of gestures and smiles suggesting the most attentive camaraderie, that Mr. Dalles, less nimble perhaps, seems to be positively left out......\n\n...... The fugue of the flight: oo-oo-oo-woo-woo-woo-ho-ho-ho-o-o-o. The luring primeval music of victorious machinery. It sets the aloof mood of the heights. Below, the earth darkens (waters deepen the depth) and the sun pauses, seated on the horizon as if on the bed's edge, thoughtful, watchful. Then it lays itself down on the red bedding and draws over its face the padded blanket of low lilac-grey clouds, beneath the calm of a celestial sky. The machine-music goes on grandiosely - the lift-up into the noble business of day and night; of heaven, earth and water - oo-oo-oo-woo-woo-woo. The link with the time before Adam and Eve - and the serpent.",
+      "handwritten_text": "Hotel \u00e0 Beau Rivage\nA Swiss Soldier 6.8 Parc de la Grange\n\"Security\" - Parc de la Grange\nInformation \u00e0 Renseignements\n\"Maison de la Presse\" \u00e0 l'accueil\nMorning Reception\nMr. Tobin?  Ruth Fisker",
+      "sketch_descriptions": [
+        "A large sketch of a hallway or lobby inside Hotel Beau Rivage showing three men engaged in conversation with detailed surroundings including ornate fixtures.",
+        "A soldier standing with a rifle near a tree, marked as a Swiss soldier at Parc de la Grange.",
+        "A public park scene labeled 'Security' at Parc de la Grange with people and soldiers in the background near a building.",
+        "A crowd gathered outside in front of a building with signs indicating 'Information' and 'Renseignements', captioned 'Maison de la Presse' \u00e0 l'accueil.",
+        "A room full of people seated and engaged in conversation or a reception, labeled 'Morning Reception'.",
+        "A small sketch of two people conversing, annotated 'Mr. Tobin' and 'Ruth Fisker'."
+      ],
+      "entities": {
+        "people": [
+          "Mr. Harold Macmillan",
+          "Mr. Molotov",
+          "Mr. Dalles",
+          "Mr. Tobin",
+          "Ruth Fisker"
+        ],
+        "places": [
+          "Geneva",
+          "Palais des Nations",
+          "Maison de la Presse",
+          "Parc de la Grange",
+          "Hotel Beau Rivage"
+        ],
+        "events": [
+          "Official luncheon",
+          "Morning Reception",
+          "After-dinner coffee and liqueurs between British and Soviet delegations"
+        ],
+        "dates": [
+          "6.8"
+        ]
+      },
+      "page_summary": "The page depicts the tense atmosphere and official gatherings during a diplomatic event in Geneva, including security scenes at Parc de la Grange, a luncheon, and interactions among foreign ministers and delegates at Hotel Beau Rivage.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:02:43.385892+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 2s 6d. A COPY.\nYEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE \u00a33. 3. 0. ($9 or equivalent); SHORTER PERIODS PRO RATA. AIR MAIL BY QUOTATION.\nSUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME\nHandprinted in Great Britain by Bogs & Painter, Press 146 Sutton Walk. S.E.I. from blocks made by Austin Miles Ltd and published from Bridge Arch 150, Sutton Walk, London, S.E.I. Copyright reserved.",
+      "handwritten_text": "Le Dejeuner par le Conseil Federal Geneva\nThe conference of 14 Foreign Min. 1955 1/2",
+      "sketch_descriptions": [
+        "Expressive sketch of several figures, the central one in a large bicorne hat and cloak, possibly referencing a historical or diplomatic figure.",
+        "Group of seated individuals, some with hats and drawn instruments, suggesting note-taking or conversation.",
+        "Ornate room details with decorative ceiling or wall elements, forming a formal backdrop.",
+        "Smaller sketched heads and crowd at the lower margin, indicating media presence or onlookers."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Geneva"
+        ],
+        "events": [
+          "The conference of 14 Foreign Ministers",
+          "Dejeuner par le Conseil Federal"
+        ],
+        "dates": [
+          "1955"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle captures an international diplomatic gathering in Geneva in 1955, likely a luncheon hosted by the Swiss Federal Council during the conference of fourteen foreign ministers, depicted through expressive sketches of figures and the event's ambiance.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T21:35:50.482105+00:00"
+    }
+  ]
+}

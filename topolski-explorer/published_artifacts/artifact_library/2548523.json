@@ -1,0 +1,92 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548523",
+    "title": "Topolski's Chronicle, V.4 No.10, 1956",
+    "date": "1956",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6gxcqes",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6gxcqes",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI's CHRONICLE No. 10 (70) Vol IV 1956\n\nTHE CHRONICLE sums up the record of a voyage round the world with the panoramic mural which came out of that experience. The mural, measuring 60 feet by 20 feet, was executed for the Festival of Britain and is now permanently housed at the Victoria Memorial Hall in Singapore.",
+      "handwritten_text": "",
+      "sketch_descriptions": [
+        "A large, complex mural featuring a muscular figure with arms raised and numerous abstract faces and forms densely packed around and behind the figure.",
+        "In the right background, a window or structural framing shows a partial view of seated people, indicating an interior space."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Victoria Memorial Hall",
+          "Singapore"
+        ],
+        "events": [
+          "Festival of Britain"
+        ],
+        "dates": [
+          "1956"
+        ]
+      },
+      "page_summary": "This page features a photographic reproduction of a large panoramic mural created for the Festival of Britain, now housed at Singapore's Victoria Memorial Hall, accompanied by a brief editorial summarizing the mural's significance as a record of a world voyage.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:09:25.095646+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "677---683",
+      "handwritten_text": "",
+      "sketch_descriptions": [
+        "Large mural painting of multiple abstract and figurative figures under an industrial ceiling with beams.",
+        "Close-up segment of a mural showing a stylised group of figures in dynamic poses with bold contours.",
+        "Abstract painting of a large human face with exaggerated features, dark shadowed background.",
+        "Close-up view of a head with multiple smaller human figures inside the face area, surrounded by dark bands or lines.",
+        "Abstract group scene featuring numerous distorted human and creature-like figures densely packed together.",
+        "Painting of a human figure in white coat, standing prominently with three other smaller, shadowy figures behind, in a dark setting.",
+        "Scene with several figures seated in a room, one figure is leaning forward, others appear to be looking closely or discussing something."
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page displays a series of abstract and expressionist paintings or mural scenes focused on human forms, psychological states, and crowded compositions, presented predominantly in dark tones.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:09:50.680013+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "Another detail of this mural was reproduced in No. 14 (26), Volume II, 1954.\n\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 3s. 6d. A COPY\nYEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE, \u00a34 4s. (\u00a312 or equivalent); SHORTER PERIODS PRO RATA, AIR MAIL BY QUOTATION.\nSUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME\nHandprinted in Great Britain by Poets'&Painters' Press 146 Sutton Walk, S.E.1. from blocks made by Austin Miles Ltd and published from Bridge Arch 158, Sutton Walk, London, S.E.1 Copyright reserved.",
+      "handwritten_text": "",
+      "sketch_descriptions": [
+        "Upper left sketch depicting a crowded scene with multiple distorted human figures, some with skeletal features, suggesting a chaotic or intense narrative.",
+        "Upper right sketch showing a reclining figure amidst abstract and dark surroundings, with visible ropes or vertical lines.",
+        "Lower left sketch focusing on a large face of a woman, visible with a flower earring in her right ear, rendered in heavy brush strokes.",
+        "Lower right sketch featuring a complex composition including a figure with an outstretched arm, abstract forms, and smaller faces or heads, creating a dense, symbolic scene."
+      ],
+      "entities": {
+        "people": [
+          "Felix Topolski"
+        ],
+        "places": [
+          "Sutton Walk, London"
+        ],
+        "events": [],
+        "dates": [
+          "1954"
+        ]
+      },
+      "page_summary": "This page showcases four detailed black-and-white photographic reproductions of Felix Topolski's mural artwork, along with publication details of the 'Topolski's Chronicle' from 1954.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:10:16.605948+00:00"
+    }
+  ]
+}

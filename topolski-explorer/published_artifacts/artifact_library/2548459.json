@@ -1,0 +1,69 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548459",
+    "title": "Topolski's Chronicle, V.1 No.5, 1953",
+    "date": "1953",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s643ft56",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s643ft56",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI's CHRONICLE No.5 Vol.1 1953",
+      "handwritten_text": "LORCA Castilla la Vieja Felix Topolski Spain",
+      "sketch_descriptions": [
+        "A loose mountainous landscape with clustered hilltop towns and winding lines suggesting dramatic terrain.",
+        "A group of figures in the foreground, including one man in a hat, standing and conversing or observing.",
+        "An architectural tower with a cross at the top, labeled 'Lorca', rising on the right side of the image.",
+        "Domed and spired buildings scattered throughout an urban-like setting, intertwined with expressive, chaotic linework."
+      ],
+      "entities": {
+        "people": [
+          "Felix Topolski"
+        ],
+        "places": [
+          "Lorca",
+          "Castilla la Vieja",
+          "Spain"
+        ],
+        "events": [],
+        "dates": [
+          "1953"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle features energetic sketches capturing the dramatic landscape and urban architecture of Castilla la Vieja, Spain, with particular attention to Lorca. Handwritten annotations by Felix Topolski further situate the scene geographically and temporally.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T18:01:18.606530+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "",
+      "handwritten_text": "Segovia\nSegovia Cathedral",
+      "sketch_descriptions": [
+        "A street scene in Segovia with several figures, including elderly individuals with canes and people wearing traditional clothing, set against a backdrop of distinctive local architecture.",
+        "A group of robed clergy or religious figures, some kneeling and others standing in a linear formation, possibly engaged in a ceremony or procession.",
+        "An interior scene labeled 'Segovia Cathedral' showing seated and praying figures inside a church, with an atmosphere suggesting religious observance. The background includes arched architecture, religious symbols, and additional worshippers.",
+        "Close-up and mid-range sketches of individuals within the cathedral, some holding rosaries or other religious items, emphasizing a somber or reflective mood."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Segovia",
+          "Segovia Cathedral"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page features expressive sketches by Felix Topolski depicting life and religious devotion in Segovia, including street scenes and the interior of Segovia Cathedral with worshippers and clergy.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T18:01:26.317452+00:00"
+    }
+  ]
+}

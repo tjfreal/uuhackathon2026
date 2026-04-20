@@ -1,0 +1,29 @@
+# {{ ecosystem.system_name }}
+
+*{{ ecosystem.tagline }}*
+
+{{ ecosystem.what_it_is }}
+
+{{ ecosystem.why_it_matters }}
+
+{{ ecosystem.local_first_note }}
+
+{{ ecosystem.lineage }}
+
+{{ ecosystem.meta_note }}
+
+## Layers
+
+{% for layer in ecosystem.layers %}
+- **{{ layer.name }}**: {{ layer.description }}
+{% endfor %}
+
+## What exists now
+
+{% for component in components %}
+- **{{ component.name }}**: {{ component.one_line }} {% if component.status == "built" %}(built){% elif component.status == "in-progress" %}(in progress){% else %}(proposal){% endif %}
+{% endfor %}
+
+## Why Ladder belongs here
+
+`Ladder` is the communication layer because a people-first system has to stay explainable. The library as a ladder started as a service principle: meet people where they are and help them reach the next rung. In this ecosystem, that same principle shapes how technical knowledge work gets described, taught, and shared.

@@ -1,0 +1,9 @@
+openai>=1.0
+chromadb>=0.4
+python-dotenv
+requests
+beautifulsoup4
+pymupdf
+Pillow
+flask
+tenacity

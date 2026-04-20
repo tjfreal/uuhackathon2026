@@ -1,0 +1,76 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548468",
+    "title": "Topolski's Chronicle, V.2 No.2, 1954",
+    "date": "1954",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6y23zfq",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6y23zfq",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "UNIVERSITY OF UTAH LIBRARIES\nTOPOLSKI'S CHRONICLE No. 2 (14) Vol. II 1954\nof a voyage round the world (a)\nBOMBAY\n107, 108 IN THE STREETS 109. 110 WITH THE INTELLECTUALS. 111 AT THE RACES\nSUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME",
+      "handwritten_text": "Banks (Parsee) and Poors\nPublic Typists\nMalek Raj dressed with jewels",
+      "sketch_descriptions": [
+        "A cluster of standing and seated figures, mostly men in turbans and traditional South Asian attire, occupying the upper left orange block and filling its space in a dense, almost chaotic composition.",
+        "Three figures at left margin, one standing facing front, one facing profile, and one turned away, appearing isolated from the main crowd.",
+        "A small seated group in the middle left, some loosely sketched and clustered together.",
+        "A reclining figure, possibly sleeping or resting, among other loosely grouped individuals, lower left of the orange block.",
+        "A standing woman in traditional South Asian clothing, confidently posed, drawn in the lower left beige field.",
+        "A group of five men, seated in conversation, some with beards and distinct headwear, occupying the lower left beige area.",
+        "A large group scene of people on horseback, including riders in varied hats and onlookers, filling the bottom right quadrant. Several birds fly overhead.",
+        "Intellectuals or well-dressed men seated together closely, possibly in a discussion or audience setting, located near the bottom center.",
+        "Scattered individuals in flowing robes or draped garments, depicted in the upper right and far right of the orange block."
+      ],
+      "entities": {
+        "people": [
+          "Malek Raj"
+        ],
+        "places": [
+          "Bombay"
+        ],
+        "events": [],
+        "dates": [
+          "1954"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle vividly sketches scenes from 1950s Bombay, capturing street life, intellectual gatherings, and a horse race, accompanied by handwritten notes identifying figures and local types.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:06:33.319225+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "INDIA, the countryside 112, 113 PUNJABI VILLAGES 114 ROAD TO DELHI 115 IN RAJPUTANA",
+      "handwritten_text": "Punjab Village \u2013 northern land Gurgaon, Punjab Rajputana",
+      "sketch_descriptions": [
+        "Group of turbaned men gathered around a hookah and tea set, some seated and one standing, depicted in an apparent village setting.",
+        "Scene with women in veils and a man seated on the ground near a camel, set against architectural domes and rural background.",
+        "Village scene showing men and women, children, livestock, market stalls, and a camel in a detailed, energetic composition, labeled as Gurgaon, Punjab.",
+        "People congregating around a well, drawing water, with a man wearing a fez, other villagers, and camels present, labeled Rajputana.",
+        "Group of villagers, some writing or reading, set in a sparse rural landscape in the upper right."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Punjab",
+          "Gurgaon",
+          "Rajputana",
+          "Delhi",
+          "India"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page documents scenes of rural life in northern India, with expressive sketches depicting daily activities, village gatherings, and regional landscapes in Punjab and Rajputana.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:07:00.181128+00:00"
+    }
+  ]
+}

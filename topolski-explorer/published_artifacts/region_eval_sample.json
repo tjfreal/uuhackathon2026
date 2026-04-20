@@ -1,0 +1,718 @@
+{
+  "schema_version": "2026-04-19-region-eval-sample-v1",
+  "notes": [
+    "This is a deterministic selection of representative pages for exacting comparison work.",
+    "Selections are intentionally stress cases, not a statistically neutral sample."
+  ],
+  "source_artifacts": {
+    "feature_manifest": "data/feature_manifest.json",
+    "layout_manifest": "data/layout_manifest.json",
+    "region_crop_manifest": "data/region_crop_manifest.json"
+  },
+  "selection_parameters": {
+    "pages_per_bucket": 4
+  },
+  "corpus_context": {
+    "feature_item_count": 25,
+    "layout_item_count": 25,
+    "crop_item_count": 25
+  },
+  "summary": {
+    "bucket_count": 4,
+    "selected_page_count": 16
+  },
+  "buckets": [
+    {
+      "bucket": "handwriting_heavy",
+      "page_count": 4,
+      "pages": [
+        {
+          "item_id": "2548458",
+          "title": "Topolski's Chronicle, V.1 No.4, 1953",
+          "page_number": 2,
+          "score": 721,
+          "rationale": "Handwriting was detected here, which makes it a good stress test for region-aware rereads.",
+          "feature_flags": {
+            "has_typeset_text": true,
+            "has_handwritten_text": true,
+            "has_sketches": true,
+            "has_entities": true,
+            "has_summary": true,
+            "is_index_like": false,
+            "is_list_like": false,
+            "is_text_heavy": false,
+            "is_image_heavy": true
+          },
+          "word_counts": {
+            "typeset": 5,
+            "handwritten": 206,
+            "summary": 31
+          },
+          "sketch_count": 7,
+          "entity_count": 3,
+          "indexed_chunk_types": [
+            "blended",
+            "entities",
+            "sketch",
+            "summary",
+            "text"
+          ],
+          "layout_region_types": [
+            "handwritten_block",
+            "sketch_region",
+            "typeset_block"
+          ],
+          "crop_region_types": [
+            "handwritten_block",
+            "sketch_region",
+            "typeset_block"
+          ]
+        },
+        {
+          "item_id": "2548464",
+          "title": "Topolski's Chronicle, V.1 No.10-11, 1953",
+          "page_number": 4,
+          "score": 418,
+          "rationale": "Handwriting was detected here, which makes it a good stress test for region-aware rereads.",
+          "feature_flags": {
+            "has_typeset_text": true,
+            "has_handwritten_text": true,
+            "has_sketches": true,
+            "has_entities": true,
+            "has_summary": true,
+            "is_index_like": false,
+            "is_list_like": false,
+            "is_text_heavy": false,
+            "is_image_heavy": true
+          },
+          "word_counts": {
+            "typeset": 27,
+            "handwritten": 105,
+            "summary": 49
+          },
+          "sketch_count": 5,
+          "entity_count": 28,
+          "indexed_chunk_types": [
+            "blended",
+            "entities",
+            "sketch",
+            "summary",
+            "text"
+          ],
+          "layout_region_types": [
+            "handwritten_block",
+            "sketch_region",
+            "typeset_block"
+          ],
+          "crop_region_types": [
+            "handwritten_block",
+            "sketch_region",
+            "typeset_block"
+          ]
+        },
+        {
+          "item_id": "2548455",
+          "title": "Topolski's Chronicle, V.1 No.1, 1953",
+          "page_number": 2,
+          "score": 339,
+          "rationale": "Handwriting was detected here, which makes it a good stress test for region-aware rereads.",
+          "feature_flags": {
+            "has_typeset_text": false,
+            "has_handwritten_text": true,
+            "has_sketches": true,
+            "has_entities": true,
+            "has_summary": true,
+            "is_index_like": false,
+            "is_list_like": false,
+            "is_text_heavy": false,
+            "is_image_heavy": true
+          },
+          "word_counts": {
+            "typeset": 0,
+            "handwritten": 79,
+            "summary": 34
+          },
+          "sketch_count": 9,
+          "entity_count": 4,
+          "indexed_chunk_types": [
+            "blended",
+            "entities",
+            "sketch",
+            "summary",
+            "text"
+          ],
+          "layout_region_types": [
+            "handwritten_block",
+            "sketch_region"
+          ],
+          "crop_region_types": [
+            "handwritten_block",
+            "sketch_region"
+          ]
+        },
+        {
+          "item_id": "2548467",
+          "title": "Topolski's Chronicle, V.2 No.1, 1954",
+          "page_number": 2,
+          "score": 327,
+          "rationale": "Handwriting was detected here, which makes it a good stress test for region-aware rereads.",
+          "feature_flags": {
+            "has_typeset_text": false,
+            "has_handwritten_text": true,
+            "has_sketches": true,
+            "has_entities": true,
+            "has_summary": true,
+            "is_index_like": false,
+            "is_list_like": false,
+            "is_text_heavy": false,
+            "is_image_heavy": true
+          },
+          "word_counts": {
+            "typeset": 0,
+            "handwritten": 75,
+            "summary": 48
+          },
+          "sketch_count": 8,
+          "entity_count": 8,
+          "indexed_chunk_types": [
+            "blended",
+            "entities",
+            "sketch",
+            "summary",
+            "text"
+          ],
+          "layout_region_types": [
+            "handwritten_block",
+            "sketch_region"
+          ],
+          "crop_region_types": [
+            "handwritten_block",
+            "sketch_region"
+          ]
+        }
+      ]
+    },
+    {
+      "bucket": "index_like",
+      "page_count": 4,
+      "pages": [
+        {
+          "item_id": "2548454",
+          "title": "Topolski's Chronicle, V.1 Index, List of Drawings, 1953",
+          "page_number": 4,
+          "score": 1178,
+          "rationale": "Dense names, places, or list-like structure make this a likely index test page.",
+          "feature_flags": {
+            "has_typeset_text": true,
+            "has_handwritten_text": false,
+            "has_sketches": false,
+            "has_entities": true,
+            "has_summary": true,
+            "is_index_like": true,
+            "is_list_like": false,
+            "is_text_heavy": true,
+            "is_image_heavy": false
+          },
+          "word_counts": {
+            "typeset": 980,
+            "handwritten": 0,
+            "summary": 48
+          },
+          "sketch_count": 0,
+          "entity_count": 48,
+          "indexed_chunk_types": [
+            "blended",
+            "entities",
+            "summary",
+            "text"
+          ],
+          "layout_region_types": [
+            "index_or_list",
+            "typeset_block"
+          ],
+          "crop_region_types": [
+            "index_or_list",
+            "typeset_block"
+          ]
+        },
+        {
+          "item_id": "2548466",
+          "title": "Topolski's Chronicle, V.2 Index, List of Drawings, 1954",
+          "page_number": 1,
+          "score": 1170,
+          "rationale": "Dense names, places, or list-like structure make this a likely index test page.",
+          "feature_flags": {
+            "has_typeset_text": true,
+            "has_handwritten_text": false,
+            "has_sketches": false,
+            "has_entities": true,
+            "has_summary": true,
+            "is_index_like": true,
+            "is_list_like": true,
+            "is_text_heavy": true,
+            "is_image_heavy": false
+          },
+          "word_counts": {
+            "typeset": 958,
+            "handwritten": 0,
+            "summary": 50
+          },
+          "sketch_count": 0,
+          "entity_count": 55,
+          "indexed_chunk_types": [
+            "blended",
+            "entities",
+            "summary",
+            "text"
+          ],
+          "layout_region_types": [
+            "index_or_list",
+            "typeset_block"
+          ],
+          "crop_region_types": [
+            "index_or_list",
+            "typeset_block"
+          ]
+        },
+        {
+          "item_id": "2548454",
+          "title": "Topolski's Chronicle, V.1 Index, List of Drawings, 1953",
+          "page_number": 3,
+          "score": 736,
+          "rationale": "Dense names, places, or list-like structure make this a likely index test page.",
+          "feature_flags": {
+            "has_typeset_text": true,
+            "has_handwritten_text": true,
+            "has_sketches": false,
+            "has_entities": true,
+            "has_summary": true,
+            "is_index_like": true,
+            "is_list_like": true,
+            "is_text_heavy": true,
+            "is_image_heavy": false
+          },
+          "word_counts": {
+            "typeset": 495,
+            "handwritten": 4,
+            "summary": 41
+          },
+          "sketch_count": 0,
+          "entity_count": 69,
+          "indexed_chunk_types": [
+            "blended",
+            "entities",
+            "summary",
+            "text"
+          ],
+          "layout_region_types": [
+            "index_or_list",
+            "sidebar",
+            "typeset_block"
+          ],
+          "crop_region_types": [
+            "index_or_list",
+            "sidebar",
+            "typeset_block"
+          ]
+        },
+        {
+          "item_id": "2548466",
+          "title": "Topolski's Chronicle, V.2 Index, List of Drawings, 1954",
+          "page_number": 3,
+          "score": 631,
+          "rationale": "Dense names, places, or list-like structure make this a likely index test page.",
+          "feature_flags": {
+            "has_typeset_text": true,
+            "has_handwritten_text": true,
+            "has_sketches": true,
+            "has_entities": false,
+            "has_summary": true,
+            "is_index_like": true,
+            "is_list_like": false,
+            "is_text_heavy": true,
+            "is_image_heavy": false
+          },
+          "word_counts": {
+            "typeset": 527,
+            "handwritten": 27,
+            "summary": 33
+          },
+          "sketch_count": 1,
+          "entity_count": 0,
+          "indexed_chunk_types": [
+            "blended",
+            "sketch",
+            "summary",
+            "text"
+          ],
+          "layout_region_types": [
+            "handwritten_block",
+            "index_or_list",
+            "sketch_region",
+            "typeset_block"
+          ],
+          "crop_region_types": [
+            "handwritten_block",
+            "index_or_list",
+            "sketch_region",
+            "typeset_block"
+          ]
+        }
+      ]
+    },
+    {
+      "bucket": "mixed_layout",
+      "page_count": 4,
+      "pages": [
+        {
+          "item_id": "2548454",
+          "title": "Topolski's Chronicle, V.1 Index, List of Drawings, 1953",
+          "page_number": 2,
+          "score": 509,
+          "rationale": "This page appears to mix text and sketches across multiple region types.",
+          "feature_flags": {
+            "has_typeset_text": true,
+            "has_handwritten_text": false,
+            "has_sketches": true,
+            "has_entities": true,
+            "has_summary": true,
+            "is_index_like": true,
+            "is_list_like": false,
+            "is_text_heavy": true,
+            "is_image_heavy": false
+          },
+          "word_counts": {
+            "typeset": 388,
+            "handwritten": 0,
+            "summary": 39
+          },
+          "sketch_count": 3,
+          "entity_count": 21,
+          "indexed_chunk_types": [
+            "blended",
+            "entities",
+            "sketch",
+            "summary",
+            "text"
+          ],
+          "layout_region_types": [
+            "index_or_list",
+            "sketch_region",
+            "typeset_block"
+          ],
+          "crop_region_types": [
+            "index_or_list",
+            "sketch_region",
+            "typeset_block"
+          ]
+        },
+        {
+          "item_id": "2548455",
+          "title": "Topolski's Chronicle, V.1 No.1, 1953",
+          "page_number": 3,
+          "score": 440,
+          "rationale": "This page appears to mix text and sketches across multiple region types.",
+          "feature_flags": {
+            "has_typeset_text": true,
+            "has_handwritten_text": true,
+            "has_sketches": true,
+            "has_entities": true,
+            "has_summary": true,
+            "is_index_like": true,
+            "is_list_like": false,
+            "is_text_heavy": true,
+            "is_image_heavy": false
+          },
+          "word_counts": {
+            "typeset": 320,
+            "handwritten": 8,
+            "summary": 31
+          },
+          "sketch_count": 2,
+          "entity_count": 2,
+          "indexed_chunk_types": [
+            "blended",
+            "entities",
+            "sketch",
+            "summary",
+            "text"
+          ],
+          "layout_region_types": [
+            "index_or_list",
+            "sidebar",
+            "sketch_region",
+            "typeset_block"
+          ],
+          "crop_region_types": [
+            "index_or_list",
+            "sidebar",
+            "sketch_region",
+            "typeset_block"
+          ]
+        },
+        {
+          "item_id": "2548467",
+          "title": "Topolski's Chronicle, V.2 No.1, 1954",
+          "page_number": 1,
+          "score": 338,
+          "rationale": "This page appears to mix text and sketches across multiple region types.",
+          "feature_flags": {
+            "has_typeset_text": true,
+            "has_handwritten_text": true,
+            "has_sketches": true,
+            "has_entities": true,
+            "has_summary": true,
+            "is_index_like": false,
+            "is_list_like": false,
+            "is_text_heavy": true,
+            "is_image_heavy": false
+          },
+          "word_counts": {
+            "typeset": 221,
+            "handwritten": 20,
+            "summary": 35
+          },
+          "sketch_count": 2,
+          "entity_count": 22,
+          "indexed_chunk_types": [
+            "blended",
+            "entities",
+            "sketch",
+            "summary",
+            "text"
+          ],
+          "layout_region_types": [
+            "handwritten_block",
+            "sketch_region",
+            "typeset_block"
+          ],
+          "crop_region_types": [
+            "handwritten_block",
+            "sketch_region",
+            "typeset_block"
+          ]
+        },
+        {
+          "item_id": "2548464",
+          "title": "Topolski's Chronicle, V.1 No.10-11, 1953",
+          "page_number": 1,
+          "score": 308,
+          "rationale": "This page appears to mix text and sketches across multiple region types.",
+          "feature_flags": {
+            "has_typeset_text": true,
+            "has_handwritten_text": true,
+            "has_sketches": true,
+            "has_entities": true,
+            "has_summary": true,
+            "is_index_like": false,
+            "is_list_like": true,
+            "is_text_heavy": false,
+            "is_image_heavy": false
+          },
+          "word_counts": {
+            "typeset": 172,
+            "handwritten": 12,
+            "summary": 57
+          },
+          "sketch_count": 6,
+          "entity_count": 14,
+          "indexed_chunk_types": [
+            "blended",
+            "entities",
+            "sketch",
+            "summary",
+            "text"
+          ],
+          "layout_region_types": [
+            "footer",
+            "handwritten_block",
+            "sketch_region",
+            "typeset_block"
+          ],
+          "crop_region_types": [
+            "footer",
+            "handwritten_block",
+            "sketch_region",
+            "typeset_block"
+          ]
+        }
+      ]
+    },
+    {
+      "bucket": "sketch_heavy",
+      "page_count": 4,
+      "pages": [
+        {
+          "item_id": "2548476",
+          "title": "Topolski's Chronicle, V.2 No.10, 1954",
+          "page_number": 1,
+          "score": 175,
+          "rationale": "Sketch density is high enough to test visual-semantic retrieval against text-centric lanes.",
+          "feature_flags": {
+            "has_typeset_text": true,
+            "has_handwritten_text": true,
+            "has_sketches": true,
+            "has_entities": true,
+            "has_summary": true,
+            "is_index_like": false,
+            "is_list_like": false,
+            "is_text_heavy": false,
+            "is_image_heavy": true
+          },
+          "word_counts": {
+            "typeset": 42,
+            "handwritten": 2,
+            "summary": 43
+          },
+          "sketch_count": 12,
+          "entity_count": 13,
+          "indexed_chunk_types": [
+            "blended",
+            "entities",
+            "sketch",
+            "summary",
+            "text"
+          ],
+          "layout_region_types": [
+            "sidebar",
+            "sketch_region",
+            "typeset_block"
+          ],
+          "crop_region_types": [
+            "sidebar",
+            "sketch_region",
+            "typeset_block"
+          ]
+        },
+        {
+          "item_id": "2548471",
+          "title": "Topolski's Chronicle, V.2 No.5, 1954",
+          "page_number": 2,
+          "score": 170,
+          "rationale": "Sketch density is high enough to test visual-semantic retrieval against text-centric lanes.",
+          "feature_flags": {
+            "has_typeset_text": true,
+            "has_handwritten_text": true,
+            "has_sketches": true,
+            "has_entities": true,
+            "has_summary": true,
+            "is_index_like": false,
+            "is_list_like": false,
+            "is_text_heavy": false,
+            "is_image_heavy": true
+          },
+          "word_counts": {
+            "typeset": 3,
+            "handwritten": 11,
+            "summary": 44
+          },
+          "sketch_count": 11,
+          "entity_count": 4,
+          "indexed_chunk_types": [
+            "blended",
+            "entities",
+            "sketch",
+            "summary",
+            "text"
+          ],
+          "layout_region_types": [
+            "handwritten_block",
+            "sketch_region",
+            "typeset_block"
+          ],
+          "crop_region_types": [
+            "handwritten_block",
+            "sketch_region",
+            "typeset_block"
+          ]
+        },
+        {
+          "item_id": "2548469",
+          "title": "Topolski's Chronicle, V.2 No.3, 1954",
+          "page_number": 1,
+          "score": 165,
+          "rationale": "Sketch density is high enough to test visual-semantic retrieval against text-centric lanes.",
+          "feature_flags": {
+            "has_typeset_text": true,
+            "has_handwritten_text": true,
+            "has_sketches": true,
+            "has_entities": true,
+            "has_summary": true,
+            "is_index_like": true,
+            "is_list_like": true,
+            "is_text_heavy": false,
+            "is_image_heavy": false
+          },
+          "word_counts": {
+            "typeset": 107,
+            "handwritten": 58,
+            "summary": 51
+          },
+          "sketch_count": 12,
+          "entity_count": 11,
+          "indexed_chunk_types": [
+            "blended",
+            "entities",
+            "sketch",
+            "summary",
+            "text"
+          ],
+          "layout_region_types": [
+            "handwritten_block",
+            "index_or_list",
+            "sketch_region",
+            "typeset_block"
+          ],
+          "crop_region_types": [
+            "handwritten_block",
+            "index_or_list",
+            "sketch_region",
+            "typeset_block"
+          ]
+        },
+        {
+          "item_id": "2548477",
+          "title": "Topolski's Chronicle, V.2 No.11, 1954",
+          "page_number": 2,
+          "score": 165,
+          "rationale": "Sketch density is high enough to test visual-semantic retrieval against text-centric lanes.",
+          "feature_flags": {
+            "has_typeset_text": true,
+            "has_handwritten_text": true,
+            "has_sketches": true,
+            "has_entities": true,
+            "has_summary": true,
+            "is_index_like": false,
+            "is_list_like": false,
+            "is_text_heavy": false,
+            "is_image_heavy": true
+          },
+          "word_counts": {
+            "typeset": 5,
+            "handwritten": 74,
+            "summary": 58
+          },
+          "sketch_count": 10,
+          "entity_count": 8,
+          "indexed_chunk_types": [
+            "blended",
+            "entities",
+            "sketch",
+            "summary",
+            "text"
+          ],
+          "layout_region_types": [
+            "handwritten_block",
+            "sketch_region",
+            "typeset_block"
+          ],
+          "crop_region_types": [
+            "handwritten_block",
+            "sketch_region",
+            "typeset_block"
+          ]
+        }
+      ]
+    }
+  ]
+}

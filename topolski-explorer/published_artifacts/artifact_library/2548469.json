@@ -1,0 +1,98 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548469",
+    "title": "Topolski's Chronicle, V.2 No.3, 1954",
+    "date": "1954",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6k7bwrg",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6k7bwrg",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "UNIVERSITY OF UTAH LIBRARIES\nTOPOLSKI'S CHRONICLE No.3 (15) Vol.II 1954\nof a voyage round the world \u00a9\nNEW DELHI the capital of the New Republic\nTOPOLSKI'S CHRONICLE IS PUBLISHED 25 TIMES A YEAR AT 2s 6d. A COPY.\nYEARLY SUBSCRIPTION RATE (WITH FOUR POSTPAID, INDEX AND MAP PACK OF THE WORLD) 38s. 6d. UNITED STATES, CANADA, OTHER COUNTRIES PRO-RATA AIR MAIL QUOTATIONS.\nSUBCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE TIMESCO COUPON SCHEME\nSubscriptions and Orders from shops and newsagents to The Times Publishing Company Limited, Printing House Square, London, E.C. 4. Telephone: City 4321. Telegrams: Times Newspapers, London.",
+      "handwritten_text": "Dr. Prasad, the President, receives a group who read a chapter from the Koran\nDr. Sachdev, Chief of the State Probationary Children\nGovernment House Chaprassis\nReception \u2013 by Dr. Bedi\nMr. Menon \u2013 Reception given to American news photographers\nMaulana Azad\nDr. Rajendra Prasad at Prime Minister's House\nPandit Nehru\n'At Home' given by the President\nby F. Topolski",
+      "sketch_descriptions": [
+        "A group seated in a formal setting, one individual reading from a book while others listen.",
+        "A smaller group of men in turbans and traditional dress, possibly Chaprassis (government messengers).",
+        "A crowd scene depicting a reception, with figures gathered at the entrance of a building.",
+        "A portrait of a woman identified as Dr. Sachdev, among others, engaged in conversation.",
+        "Two men in traditional garb, standing prominently at center.",
+        "A trio of Indian men in varying styles of dress, engaged in animated discussion.",
+        "An interior meeting scene with Dr. Prasad, depicted seated and receiving a group.",
+        "A portrait of an elderly man in a cap and glasses, identified as Maulana Azad.",
+        "A formal reception including Dr. Rajendra Prasad at Prime Minister Nehru's house, with conversations among bespectacled and traditionally dressed men.",
+        "A cluster of figures, some in Western suits and hats, others in Indian attire, interacting.",
+        "A uniformed officer and turbaned man observing a gathering.",
+        "Multiple smaller sketches of crowded scenes, emphasizing groups and public life."
+      ],
+      "entities": {
+        "people": [
+          "Dr. Rajendra Prasad",
+          "Dr. Sachdev",
+          "Pandit Nehru",
+          "Maulana Azad",
+          "Mr. Menon"
+        ],
+        "places": [
+          "New Delhi",
+          "Prime Minister's House",
+          "Government House"
+        ],
+        "events": [
+          "Reception by Dr. Bedi",
+          "At Home given by the President"
+        ],
+        "dates": [
+          "1954"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle documents scenes and personalities from New Delhi in 1954, focusing on public receptions and prominent political figures such as President Rajendra Prasad, Prime Minister Nehru, and Maulana Azad. The expressive sketches capture both official events and the vibrant public life of India's new republic.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:07:10.376482+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "NEW DELHI, THE CAPITAL OF THE NEW REPUBLIC 116 Luncheon at the Prime Minister's 117 The President's 'At Home' 118 Garden Party at Government House 119 Russian diplomat, traditionalist politician and Congress Party official 120 An Asian embassy reception 121 Prime Minister's 'At Home' 122, 123 Distinguished guests, Republic Day 124, 125, 126 Republic Day 127 The Representative of The Crown",
+      "handwritten_text": "Garden Party at Government House\nBurmese Ambass. [unclear]\nGyndia Ambass.\nRussian Diplomat\nNew Delhi\n11:25 AM The open air 'reception' in the bright sun, where they all sit round the circular arena, the sight of magnificently turbaned, cup-bearers [or] officials.\nRussian Diplomat",
+      "sketch_descriptions": [
+        "A group of officials and diplomats engaging in conversation at a garden party, with some figures labeled as ambassadors and a Russian diplomat.",
+        "Various guests, including women in traditional and formal attire, engaged in small group conversations at an outdoor event.",
+        "A crowd scene in New Delhi with tightly clustered figures, including individuals in turbans and officials talking amongst themselves.",
+        "A reception gathering with groups and pairs of guests in an open-air setting, some wearing official or ceremonial dress.",
+        "Portrait-focused vignettes showing individuals with distinct headwear, possibly dignitaries or officials, depicted in profile and three-quarter view.",
+        "A mingling crowd of distinguished guests, including a Russian diplomat, women in saris, and men in suits and turbans, during a Republic Day event."
+      ],
+      "entities": {
+        "people": [
+          "Burmese Ambassador",
+          "Gyndia Ambassador",
+          "Russian diplomat"
+        ],
+        "places": [
+          "New Delhi",
+          "Government House"
+        ],
+        "events": [
+          "Garden Party at Government House",
+          "Republic Day",
+          "The President's 'At Home'",
+          "Prime Minister's 'At Home'",
+          "An Asian embassy reception"
+        ],
+        "dates": [
+          "11:25 AM"
+        ]
+      },
+      "page_summary": "This page captures a series of sketched scenes from official gatherings and celebrations in New Delhi during the early years of the Indian Republic, highlighting Republic Day, diplomatic receptions, and a garden party at Government House. Notable figures such as ambassadors and diplomats are featured amongst the diverse crowd.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:07:39.052894+00:00"
+    }
+  ]
+}

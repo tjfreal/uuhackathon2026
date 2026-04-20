@@ -1,0 +1,422 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548527",
+    "title": "Topolski's Chronicle, V.4 No.16-21, 1956",
+    "date": "1956",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6qzhxg4",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6qzhxg4",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 13,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI's CHRONICLE No. 16-21 (76-81) Vol. IV 1956\n...nothing affirmeth and therefore never lyeth ... Sir Philip Sidney (1580)\nU.S.A. ELECTS PRESIDENT\nThe drawings in this issue were made possible by the invitation of CBS TELEVISION to attend the PRESIDENTIAL CONVENTIONS in Chicago and San Francisco",
+      "handwritten_text": "",
+      "sketch_descriptions": [
+        "A loosely drawn, expressive black ink sketch of a man's head and shoulders in profile, with exaggerated facial features and rough, energetic lines."
+      ],
+      "entities": {
+        "people": [
+          "Sir Philip Sidney"
+        ],
+        "places": [
+          "Chicago",
+          "San Francisco",
+          "U.S.A."
+        ],
+        "events": [
+          "PRESIDENTIAL CONVENTIONS"
+        ],
+        "dates": [
+          "1956",
+          "1580"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle 1956 features an expressive ink sketch of a man's profile alongside typeset text referencing the USA presidential election and the artist's invitation by CBS Television to attend the 1956 presidential conventions in Chicago and San Francisco.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:14:13.559060+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "DEMOCRATIC PLATFORM AND RESOLUTIONS COMMITTEE",
+      "handwritten_text": "Committee on Platform and Resolutions Democratic National Committee August 7, 1956, Sheraton Blackstone Hotel Chicago In area John Williamson chairman Michael J. Donald with Orin H. Hibberman of America Mrs. Feltenberger for peace & freedom & labor Hotel lobby 5th Street Democratic Chicago Harding Ave. 1956 DEMOCRATIC NATIONAL CONVENTION Chicago Convention Headquarters Hilton Hotel Reception Desk",
+      "sketch_descriptions": [
+        "A busy meeting scene at the Democratic Platform and Resolutions Committee, showing a long table with multiple people seated and others observing, some taking notes or speaking into microphones.",
+        "A small marching band or musical group performing in a hotel lobby near a sign that reads '5th Street Democratic Chicago Harding Ave'.",
+        "A large figure of a donkey with '1956 Democratic National Convention' written on its side, surrounded by people near a sign labeled 'Incoming Room Assignments', likely at the Chicago Convention Headquarters and Hilton Hotel Reception Desk.",
+        "A close-up profile sketch of a man wearing sunglasses, possibly a speaker or notable attendee at the event."
+      ],
+      "entities": {
+        "people": [
+          "John Williamson",
+          "Michael J. Donald",
+          "Orin H. Hibberman",
+          "Mrs. Feltenberger"
+        ],
+        "places": [
+          "Sheraton Blackstone Hotel Chicago",
+          "Chicago",
+          "Hotel lobby 5th Street",
+          "Chicago Convention Headquarters",
+          "Hilton Hotel"
+        ],
+        "events": [
+          "Democratic Platform and Resolutions Committee",
+          "1956 Democratic National Convention"
+        ],
+        "dates": [
+          "August 7, 1956",
+          "1956"
+        ]
+      },
+      "page_summary": "The page captures scenes from the 1956 Democratic National Convention in Chicago, focusing on the Platform and Resolutions Committee meeting and related activities such as music in a hotel lobby and room assignments at the convention headquarters.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:14:18.829407+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "DEMOCRATIC\nPLATFORM\nAV\nHUMPHREY\nFOR\nHUMPHREY\nHUMPHREY\nJUD\n738\n739\n732\n733\n734\n735\n736\n737",
+      "handwritten_text": "Behind The Scenes\nAnother John Sparkman Chairman Senate Small Business Committee Lubber's [J?] at the entrance to the sitting of 14th Democratic Platform & Berdeley Committee at Sheraton-Blackstone Hotel, Chicago\nChicago Convention\nAt the Grotto Room of Sheraton Blackstone Hotel Mr Truman & Mrs Roosevelt at Lunch",
+      "sketch_descriptions": [
+        "A crowded scene of people standing indoors with an American flag and a sign reading 'DEMOCRATIC PLATFORM' displayed, depicting a political or convention meeting atmosphere.",
+        "A smaller scene of two seated figures, identified as Mr Truman and Mrs Roosevelt, engaged in conversation or lunch at the Sheraton Blackstone Hotel.",
+        "A series of smaller head-and-shoulder portraits and group sketches of several men, some looking serious and others engaged in discussion, likely political figures connected to the Democratic Platform and possibly Humphrey campaign.",
+        "Profile and partial frontal sketches of individuals in conversation or listening, emphasizing expressions and posture from a political event or convention."
+      ],
+      "entities": {
+        "people": [
+          "John Sparkman",
+          "Mr Truman",
+          "Mrs Roosevelt",
+          "Humphrey"
+        ],
+        "places": [
+          "Sheraton Blackstone Hotel",
+          "Chicago"
+        ],
+        "events": [
+          "Democratic Platform sitting",
+          "Chicago Convention"
+        ],
+        "dates": []
+      },
+      "page_summary": "The page captures scenes and figures from a Democratic political event held at the Sheraton Blackstone Hotel in Chicago, featuring sketches of attendees, committee members, and notable figures like Mr Truman and Mrs Roosevelt during the Democratic Platform sitting and Chicago Convention.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:14:44.585438+00:00"
+    },
+    {
+      "page_number": 4,
+      "typeset_text": "UNIVERSITY OF UTAH LIBRARIES\n740\n741\n742\n743",
+      "handwritten_text": "Chicago Butler opening the Democratic Convention\nRt Freeman at Chicago Convention\nChicago opening session - Wis. party, Greek orthodox priest in\nDemocratic Convention in Chicago 1935 Walkie-talkie men view from a box; exhibition below Rostrum and front rows",
+      "sketch_descriptions": [
+        "Chaotic scene depicting several men, including a man identified as 'Butler', with a large figure behind a shield with stars and stripes, suggesting a political convention opening.",
+        "Portrait sketch of a man labeled 'Rt Freeman' at the Chicago Convention, showing a profile view with a hat and mustache amid crowd outlines.",
+        "Crowded gathering labeled as 'Chicago opening session' with various figures, including a Greek Orthodox priest and banners, one of which says 'TEXAS'.",
+        "Busy scene from a political convention showing a large group of people, with a tall vertical sign reading 'MINNESOTA' and references to 'walkie-talkie men', indicating a live event with communication equipment."
+      ],
+      "entities": {
+        "people": [
+          "Butler",
+          "Rt Freeman"
+        ],
+        "places": [
+          "Chicago",
+          "Texas",
+          "Minnesota"
+        ],
+        "events": [
+          "Democratic Convention",
+          "Chicago Convention"
+        ],
+        "dates": [
+          "1935"
+        ]
+      },
+      "page_summary": "This page contains sketches and handwritten notes from the 1935 Democratic Convention in Chicago, featuring political figures, delegates from various states, and scenes from the event, including communication setups and religious attendees.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:15:10.596312+00:00"
+    },
+    {
+      "page_number": 5,
+      "typeset_text": "UNIVERSITY OF UTAH LIBRARIES",
+      "handwritten_text": "Democratic National Convention Chicago View of the boxes from the floor Chicago Conv. Clement and his mother ADLA National Chicago from a box Flower Demonstration Chairman [?] in minority report on Civil Rights DIRF",
+      "sketch_descriptions": [
+        "Top-left sketch showing faces of attendees at the Democratic National Convention in Chicago, including a person wearing a hat labeled 'STEVENS'.",
+        "Bottom-left sketches depict various figures including a man with a large horn hat labeled 'ADLA National' and another labeled 'Clement and his mother'.",
+        "Right-side large sketch illustrating a crowded scene at the convention with people holding signs including 'U.S. ARMY' and 'CALE' and a figure dressed as a rabbit among demonstrators.",
+        "Bottom-right smaller sketches showing groups of people, including one possibly labeled as chairman speaking to a group in a minority report on civil rights, and another sketch of a man with a badge."
+      ],
+      "entities": {
+        "people": [
+          "Clement",
+          "Stevens"
+        ],
+        "places": [
+          "Chicago",
+          "University of Utah Libraries"
+        ],
+        "events": [
+          "Democratic National Convention",
+          "Flower Demonstration",
+          "Civil Rights minority report"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page features charcoal sketches capturing moments and attendees at the Democratic National Convention held in Chicago, including scenes of demonstrations and key figures involved in civil rights discussions.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:15:35.788399+00:00"
+    },
+    {
+      "page_number": 6,
+      "typeset_text": "UNIVERSITY OF UTAH LIBRARIES",
+      "handwritten_text": "Democratic Convention Chicago the Floor: Sen. [E.?] Kennedy, Mr. Jacket [?] off after the Texas caucus in the placard to have vice-presidential ballot\nSen. John Kennedy Floor Scene Chicago Convention\nChicago Convention - Peter Semanstein",
+      "sketch_descriptions": [
+        "Top left sketch depicts a crowded convention floor with numerous seated and standing figures, viewed from behind, with a visible 'TAS' sign and several ambiguous placards.",
+        "Bottom left sketch shows three figures, including one holding up a placard that reads 'WHY TRUMAN DITCH[ED?] HOLD-IN-NHRAE STORE' in a moment of energetic expression, labeled as a floor scene at the Chicago Convention.",
+        "The right sketch is a busy street or crowd scene with many figures amidst multiple signs and placards, various text references including 'Dem. Demo', 'Texas Union', and 'S.A.M. Rights', characterized by dense line work and portraying a lively public or political gathering."
+      ],
+      "entities": {
+        "people": [
+          "Sen. John Kennedy"
+        ],
+        "places": [
+          "Chicago",
+          "Texas"
+        ],
+        "events": [
+          "Democratic Convention",
+          "Chicago Convention"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page captures expressive sketches and handwritten notes depicting scenes and key moments from the Democratic Convention in Chicago, highlighting Sen. John Kennedy and the floor activities including caucuses and placard displays.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:15:40.360180+00:00"
+    },
+    {
+      "page_number": 7,
+      "typeset_text": "ROLL CALL TOTALS",
+      "handwritten_text": "Beresford Adams \u2014 for President\nFeliks Topolski\nDemocratic Convention\nChamber of demonstrators\nBisceast Johnson\nThe early (?) expression\nPile a raft (?) policeman",
+      "sketch_descriptions": [
+        "A crowded and energetic scene of a political convention with many figures, some holding signs with names and slogans, showing a chaotic, dynamic atmosphere.",
+        "Several prominent placards are visible, including one that says 'HAG CHAN MYERS' and another 'FAVORITE SON HAPPY GIDLER'.",
+        "In the background, a raised platform with seated figures and a sign 'ROLL CALL TOTALS' is visible, indicating an official tally or announcement area.",
+        "The right side shows smaller groups and individuals, including a man with a cap labeled 'LAI' and a few people seemingly engaged in conversation or discussion.",
+        "The drawing is very sketchy and expressive with many overlapping lines, capturing the movement and intensity of the scene."
+      ],
+      "entities": {
+        "people": [
+          "Feliks Topolski",
+          "Beresford Adams",
+          "Bisceast Johnson",
+          "Happy Gidlers",
+          "Chan Myers"
+        ],
+        "places": [],
+        "events": [
+          "Democratic Convention"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page depicts a lively and chaotic scene at a Democratic Convention, featuring various political figures and supporters with placards, and emphasizing the roll call totals process.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:16:05.587135+00:00"
+    },
+    {
+      "page_number": 8,
+      "typeset_text": "753\n754",
+      "handwritten_text": "Stevenson Democratic Rally Felix Topolski Oct 12 1956\nDemocratic convention in Chicago Stevenson Democratic",
+      "sketch_descriptions": [
+        "A crowded political rally with many figures holding signs including 'WE ALL', 'VIVAS FOR ADLA', 'CALIFORNIA', 'COLORADO', and more. The crowd is densely packed, some raising fists or holding hats. The drawing is dynamic and captures the energy and density of the gathering.",
+        "A scene from the Democratic convention in Chicago showing a crowd with many signs, some labeled 'OMA', 'MINN', 'OTA', and others partially visible. There is a central figure facing away from the viewer, recording or observing the event. The crowd surrounds the figure, conveying the chaotic and dense environment of the convention."
+      ],
+      "entities": {
+        "people": [
+          "Stevenson",
+          "Felix Topolski"
+        ],
+        "places": [
+          "Chicago",
+          "California",
+          "Colorado",
+          "Oma",
+          "Minn",
+          "Ota"
+        ],
+        "events": [
+          "Democratic convention",
+          "Stevenson Democratic Rally"
+        ],
+        "dates": [
+          "Oct 12 1956"
+        ]
+      },
+      "page_summary": "This page features sketches by Felix Topolski capturing the vibrant and crowded scenes of the 1956 Democratic convention rally in Chicago, highlighting political supporters and campaign signs.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:16:32.489571+00:00"
+    },
+    {
+      "page_number": 9,
+      "typeset_text": "",
+      "handwritten_text": "Chicago Oklahoma delegation: Gov. Young, marching Harrison ... (?) exhibition basketball, full cut ... Democratic National Convention.",
+      "sketch_descriptions": [
+        "A sketch of a crowd scene outside a building with a sign reading 'AHOSEN' showing a group of people and event dates 1955 and 1956 posted.",
+        "A sketch of another crowded street scene with signs 'MIZOSSIO' and 'WMON' and many people holding signs and balloons.",
+        "A sketch focusing on a group of protesters or demonstrators holding signs reading 'OKLAHOMA' and 'DEBRIS ORLEANS' led by individuals with expressive facial expressions."
+      ],
+      "entities": {
+        "people": [
+          "Gov. Young",
+          "Harrison"
+        ],
+        "places": [
+          "Chicago",
+          "Oklahoma"
+        ],
+        "events": [
+          "Democratic National Convention"
+        ],
+        "dates": [
+          "1955",
+          "1956"
+        ]
+      },
+      "page_summary": "This page features multiple expressive sketches depicting crowds and protest scenes tied to the Oklahoma delegation at a Democratic National Convention, with handwritten annotations including names and locations.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:16:37.284446+00:00"
+    },
+    {
+      "page_number": 10,
+      "typeset_text": "",
+      "handwritten_text": "Chicago Demonstrators jam Rosenum CBS Tel: Wallie Hollis\nMrs Roosevelt and Akin Stevenson hut - reception at the Prudential Building, Chicago\nscenttime",
+      "sketch_descriptions": [
+        "A crowded scene of demonstrators holding signs, some slogans include 'VEGAS WORSE' and 'D.C. wants VOTE FOR ADLA', featuring rough facial sketches and figures in motion.",
+        "A group of people gathered closely, including a woman wearing a hat and others under umbrellas or parasols, depicted in dense line work, suggestive of a social or public reception event."
+      ],
+      "entities": {
+        "people": [
+          "Mrs Roosevelt",
+          "Akin Stevenson",
+          "Wallie Hollis"
+        ],
+        "places": [
+          "Chicago",
+          "Prudential Building"
+        ],
+        "events": [
+          "Demonstrations in Chicago"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page captures two main scenes: one of a dense crowd of demonstrators in Chicago and another of a reception at the Prudential Building featuring Mrs Roosevelt and Akin Stevenson.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:17:01.171951+00:00"
+    },
+    {
+      "page_number": 11,
+      "typeset_text": "CBS Television staffs at the hearings criticizing the [???] but office in Washington and in San Francisco.\n761\n762",
+      "handwritten_text": "Warren [?] Marsden Andy Lampley Roy Hewitt Flor Osborne Henry J. Gilbeal Bob Long Peter Waldow CBS Television Persons present at hearings in Washington\nH. Untertaker [?] [?] Blue Peter\n[???] [?] San Francisco",
+      "sketch_descriptions": [
+        "Large group portrait sketch showing a cluster of people in varied poses and expressions, some smoking cigars.",
+        "Interior scene depicting a sizable group of people closely gathered in a room with ceiling lights, possibly a meeting or hearing.",
+        "Sketch of a crowd observing a scene or event, drawn with energetic, dark pencil lines covering most of the right page."
+      ],
+      "entities": {
+        "people": [
+          "Warren Marsden",
+          "Andy Lampley",
+          "Roy Hewitt",
+          "Flor Osborne",
+          "Henry J. Gilbeal",
+          "Bob Long",
+          "Peter Waldow",
+          "H. Untertaker"
+        ],
+        "places": [
+          "Washington",
+          "San Francisco"
+        ],
+        "events": [
+          "Hearings criticizing the CBS Television office"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page features expressive sketches of CBS Television staff attending and observing hearings criticizing the CBS office, with named participants and scenes set in Washington and San Francisco.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:17:26.072127+00:00"
+    },
+    {
+      "page_number": 12,
+      "typeset_text": "REPUBLICAN INFORMATION",
+      "handwritten_text": "San Francisco Convention Com. delegates within a few\nRepublican Convention, St. Francis' Hotel \"batt[le?] of \"amped\"\nWomen for Eisenhower\nRepublican Convention (Vice-President Nixon Nixon accepts renomination)\nKeep Women Convention - Alumni Memories\nThe President departs on St Francis Hotel to deliver a nomination speech\nPutnam's Tavern, Reno, Nevada",
+      "sketch_descriptions": [
+        "Large sketch of a seated woman holding a baby, roughly outlined.",
+        "Small scene showing three people seated at a table with the sign 'REPUBLICAN INFORMATION' above.",
+        "Crowd scene inside a hall, presumably the Republican Convention at St. Francis' Hotel, with various figures interacting.",
+        "Detailed crowded scene showing delegates at convention, with many placards naming U.S. states (Alaska, Arkansas, Tennessee, California, Michigan, Idaho, Oklahoma, Massachusetts, Missouri) and a sign saying 'Women for Eisen.'",
+        "Scene showing figures at a Republican Convention with a United Press press member, one wearing a star badge, and signs including 'TV NEWS' and 'REPUBLICAN NATIONAL CONVENTION', and one figure identified as Vice-President Nixon accepting renomination.",
+        "Sketch of the President departing from St. Francis Hotel to deliver a nomination speech, viewed inside a large room with a central carpeted aisle and many silhouetted figures seated.",
+        "Scene outside a building marked 'Putnam's Tavern, Reno, Nevada' with figures walking and gathering."
+      ],
+      "entities": {
+        "people": [
+          "Vice-President Nixon",
+          "The President"
+        ],
+        "places": [
+          "San Francisco",
+          "St. Francis' Hotel",
+          "Reno",
+          "Putnam's Tavern"
+        ],
+        "events": [
+          "Republican Convention",
+          "Republican National Convention"
+        ],
+        "dates": [
+          "1956"
+        ]
+      },
+      "page_summary": "The page contains expressive sketches and notes related to the 1956 Republican National Convention with scenes from San Francisco including delegates, media, and notable figures such as Vice-President Nixon accepting renomination.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:17:51.674013+00:00"
+    },
+    {
+      "page_number": 13,
+      "typeset_text": "THIS SIXFOLD ISSUE COSTS $3.00 (\u00a31.1s.)\n\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 50\u00a2 (3s.6d.) A COPY\nYEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE $12.00 (\u00a34.4s. or equivalent); SHORTER PERIODS PRO RATA. AIR MAIL BY QUOTATION\nSUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME\nLithographed in U.S.A. by Jurist Co. Inc., 318 E. 32 St., New York City, N. Y. and published by TOPOLSKI'S Chronicles, Ltd. from Bridge Arch 158, Sutton Walk, London, S.E.1, England. Copyright reserved",
+      "handwritten_text": "AKE VOTE? VIE W AMERICAN? Jan Convention a final Demonstration\nSTHULC\nOH LUKE\nOH NO FOR IKE FOR DICK\nJOE COME!",
+      "sketch_descriptions": [
+        "Crowded scene of roughly sketched figures, many with expressive faces, some wearing hats or glasses.",
+        "Multiple protest or campaign signs with slogans including 'OH LUKE', 'OH NO FOR IKE FOR DICK', and 'JOE COME!'.",
+        "One figure at bottom left holding a sign reading 'AKE VOTE? VIE AMERICAN?'",
+        "An older style parade or rally atmosphere, possibly a political demonstration, with figures clustered closely together."
+      ],
+      "entities": {
+        "people": [
+          "Luke",
+          "Ike",
+          "Dick",
+          "Joe"
+        ],
+        "places": [
+          "New York City",
+          "London",
+          "Sutton Walk"
+        ],
+        "events": [
+          "Jan Convention"
+        ],
+        "dates": []
+      },
+      "page_summary": "The page depicts a lively, chaotic scene of a political demonstration or convention with multiple figures holding protest signs, alongside announcement text about the publication and subscription details for Topolski's Chronicle.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:17:57.099178+00:00"
+    }
+  ]
+}

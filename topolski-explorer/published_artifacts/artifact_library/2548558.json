@@ -1,0 +1,75 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548558",
+    "title": "Topolski's Chronicle, V.5 No.9, 1957",
+    "date": "1957",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6b79n55",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6b79n55",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "JOYCE CARY, the blessed writer-impersonator, writer - 'saviour', died at his home in Oxford on March 29th of this year. Having created his sinners, he miraculously entered them and, becoming Sarah the trollop-cook, Gulley Jimson the 'gipsy' artist, Wilcher the exhibitionist miser, earned their redemption in our eyes.",
+      "handwritten_text": "Felix Topolski",
+      "sketch_descriptions": [
+        "A detailed expressionistic black ink sketch of an elderly man's head and shoulders, facing left, with pronounced facial lines and a thoughtful smile, drawn in a lively cross-hatched style on brownish paper."
+      ],
+      "entities": {
+        "people": [
+          "Joyce Cary",
+          "Sarah",
+          "Gulley Jimson",
+          "Wilcher",
+          "Felix Topolski"
+        ],
+        "places": [
+          "Oxford"
+        ],
+        "events": [],
+        "dates": [
+          "March 29th",
+          "1957"
+        ]
+      },
+      "page_summary": "This page features a portrait sketch of writer Joyce Cary by Felix Topolski, accompanied by a text eulogy marking Cary's death on March 29, 1957, and highlighting his literary characters.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:29:19.615530+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "POLAND (AND ALL EUROPE) IS GUTTED OUT OF ITS BLACK JEWISH FOLKLORE. IN MY POLISH YOUTH I WENT, INCURIOUS,\nBY THAT WORLD - NOW IRRETRIEVABLE. THEREFORE THE FLEETING MAKE-BELIEF RESURRECTION OF IT, BROUGHT TO\nLONDON BY THE POLISH STATE JEWISH THEATRE, IS RECORDED HERE NOT AS THEATRE BUT AS REMEMBERED REALITY.",
+      "handwritten_text": "",
+      "sketch_descriptions": [
+        "Top row features sketches of several Jewish men mostly viewed from behind or side, wearing traditional hats and coats, some with beards.",
+        "Middle left shows a group of three Jewish men sitting closely at a table, engaged in discussion or study.",
+        "Middle right depicts five men in a semi-circle, possibly in conversation or study, two viewed from behind and three facing the viewer.",
+        "Bottom left details a group of four individuals including an old man with a beard wearing a tall hat, a woman with long hair, and two other figures.",
+        "Bottom right shows a gathering of six people clustered together, some seated, one man reading a book, with elements of traditional Jewish dress including hats and head coverings."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Poland",
+          "Europe",
+          "London"
+        ],
+        "events": [
+          "Polish State Jewish Theatre"
+        ],
+        "dates": [
+          "Polish youth"
+        ]
+      },
+      "page_summary": "This page reflects the artist's nostalgic remembrance and depiction of Jewish folklore and cultural life from Poland and Europe, highlighted by sketches and a textual reflection on its loss and theatrical preservation in London.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:29:44.805534+00:00"
+    }
+  ]
+}

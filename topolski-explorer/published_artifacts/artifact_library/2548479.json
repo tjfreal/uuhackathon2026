@@ -1,0 +1,84 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548479",
+    "title": "Topolski's Chronicle, V.2 No.13, 1954",
+    "date": "1954",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6p57x7q",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6p57x7q",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE No. 13 (25) Vol.II 1954\nUNIVERSITY OF UTAH LIBRARIES",
+      "handwritten_text": "Felix Topolski",
+      "sketch_descriptions": [
+        "Sketch of three reclining human figures, one holding a child, with a standing figure in the background holding up a staff or pole and a sun-like element in the upper right.",
+        "Loose sketches of multiple pelicans with prominent beaks and gestural lines, showing a mix of standing, preening, and interacting birds."
+      ],
+      "entities": {
+        "people": [
+          "Felix Topolski"
+        ],
+        "places": [],
+        "events": [],
+        "dates": [
+          "1954"
+        ]
+      },
+      "page_summary": "This page features Felix Topolski's quick, expressive sketches depicting a reclining group of figures, including a mother and child, and a series of pelicans rendered with dynamic linework. The page is from a 1954 issue of Topolski's Chronicle.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:34:44.262530+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "SUN BATHING\u2014the static 'movement' which withdraws millions into slumbering inertia. The immediate and obvious explanations, like head-shrinking, parallel water-worship, or urinating on the marble, are possibly only shortsighted rationalisations. The natural yarn of humanity has been purposely lighter, colourless, bleached in the inner world of the white race, with only the gilding of skin in sun-soaked phenomena. Possibly indicators and amplifications of the future will see the century as a period in which the western pink-skinned man, though aware of his real purpose, was making biologically hopeless bid for PROTECTIVE COLOUR to be ready for the Era of the Common Man of Colour.",
+      "handwritten_text": "Nudists' camp",
+      "sketch_descriptions": [
+        "Three standing nude figures sketched in expressive, loose lines.",
+        "Nude figures reclining and lying on the ground, some paired or grouped together in relaxation.",
+        "A close-up of two figures lying side by side, viewed from behind.",
+        "A group scene where figures interact or are in a communal setting, suggestive of a social or communal activity.",
+        "A small scene with two figures at a table, one holding an object, possibly engaged in conversation.",
+        "A solitary seated figure with hand to their chin, possibly observing or reflecting.",
+        "Two loosely drawn, cloud-like forms floating above the main scenes."
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page depicts expressive sketches of nude figures in various poses and groupings, centered around the theme of sunbathing and 'nudist camp.' The editorial reflection contemplates cultural and biological aspects of sun-bathing and exposure.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:34:50.720685+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "211\n212",
+      "handwritten_text": "Scots monkey\nMandrill",
+      "sketch_descriptions": [
+        "A group of expressive human figures posed together, including seated, standing, and reclining bodies drawn with fluid, gestural lines.",
+        "A cluster of monkey and ape sketches showing varied poses and facial expressions, rendered in energetic strokes.",
+        "A sketch of a mandrill, capturing distinctive face and posture, with a rider-like figure on its back.",
+        "A drawing of a 'Scots monkey' labeled as such, displaying a hunched posture and animated style.",
+        "Several small studies of monkey heads and dynamic monkey gestures, interspersed with lively movement."
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page from Topolski's Chronicle features expressive sketches of human figures in various poses and a variety of lively monkey and mandrill studies, some annotated with handwritten notes. The illustrations capture both anatomical observation and energetic movement.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:34:55.770048+00:00"
+    }
+  ]
+}

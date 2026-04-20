@@ -1,0 +1,90 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548563",
+    "title": "Topolski's Chronicle, V.5 No.16, 1957",
+    "date": "1957",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6j6tdp1",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6j6tdp1",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE No. 10(100) VOL V 25044\n\u2026mocking affirmative and negative votes Sir Philip Spalding (1580)\nUNIVERSITY OF UTAH LIBRARIES\n\"TOPOLSKI CHRONICLE\" ESTABLISHED 1954 TIMES A YEAR AT 3s. 6d. A COPY. YEARLY SUBSCRIPTION RATES (WITH HOLDERS AND INDENTED) TO ANY PART OF THE WORLD ARE \u00a34. 4s. (\u00a312 or equivalent) SHORTER PERIODS ON REQUEST.\nSUBSCRIPTIONS MUST BE PAID THROUGH THE STRIKES AND MAY BE PAID THROUGH THE SMOKO COUPON SCHEME. Hand-printed in Great Britain by Poets & Painters' Press 140 Saxton Walk, S.E.1., from blocks made by Austin Miles Ltd. and published by Topolski Chronicles Ltd., 21 Arch 158, Suit\u2026\n932",
+      "handwritten_text": "Lambeth, South London\nMay first [?]",
+      "sketch_descriptions": [
+        "A large figure of a tall man in formal attire, wearing a top hat and holding an umbrella, standing on the right side of the image.",
+        "On the left, a hunched figure dressed in a coat and hat appears to be deep in thought or looking down.",
+        "In the center foreground, a group of loosely sketched figures, mostly women, standing and walking in various postures.",
+        "In the background, a cityscape featuring St. Paul's Cathedral dome, construction cranes, and a glass-domed structure, possibly a train station or market building.",
+        "Scribbled lines and shading suggest an active urban environment."
+      ],
+      "entities": {
+        "people": [
+          "Sir Philip Spalding"
+        ],
+        "places": [
+          "St. Paul's Cathedral",
+          "Lambeth, South London"
+        ],
+        "events": [],
+        "dates": [
+          "1954",
+          "May first"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle features an expressive sketch of a London cityscape with St. Paul's Cathedral and a formal man, likely from early 20th century, alongside crowds and urban construction motifs. It includes subscription information and a handwritten note referencing Lambeth, South London.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:33:49.274070+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "NUMBER ONE HUNDRED\nTHIS CHRONICLE has been mostly busy in the four-corners-of-the-world. The hundredth issue stays home within sight of the studio under Hungerford Bridge on London's South Bank and sees: the Thames between Westminster Towers and St. Paul's Cathedral; the helicopters landing at the window; the giant activities of the building trade; the Royal Festival Hall with its \"popular\" concerts and ballets -- also with its surprises when borrowed for ceremonial occasions; the Cockneys and Teddies on the riverside promenade and in Lambeth backstreets; the down-and-outs under the arches; the unpredictable guests and \"visitors\" to the studio...",
+      "handwritten_text": "View of my English studio from Waterloo Bridge?\nBallet at the Festival Hall\nCeramic Occasion at the Festival Hall\nJAZZ TODAY\nLeoni Koch\nBack Exhibition Public\nLyce Spencer giving in red dress\nView of the South Bank\nVintage Celeste Jazz Solo\nBallet and Film Festival",
+      "sketch_descriptions": [
+        "Sketch of figures and architectural elements with a view of a cathedral and bridge, noted as from Waterloo Bridge viewpoint.",
+        "Sketch of a ballet scene at the Festival Hall featuring dancers and audience profiles.",
+        "Sketch showing a musical or orchestral performance scene with several figures playing instruments in the Festival Hall.",
+        "Large crowd scene with attendees at a ceramic occasion event at the Festival Hall, including signs reading 'JAZZ TODAY' and 'Leoni Koch.'",
+        "A sequence of figures in various social interactions, including a woman giving a talk or performance, attendees mingling, and vintage jazz soloist departing with an instrument.",
+        "Scenes of groups and pairs engaged in conversation or observation, with some wearing top hats and formal attire, set against the South Bank backdrop.",
+        "Illustration of people waiting or observing, some in vintage clothing, indicating cultural events around the Festival Hall and South Bank area."
+      ],
+      "entities": {
+        "people": [
+          "Leoni Koch",
+          "Lyce Spencer"
+        ],
+        "places": [
+          "Hungerford Bridge",
+          "London's South Bank",
+          "Thames",
+          "Westminster Towers",
+          "St. Paul's Cathedral",
+          "Royal Festival Hall",
+          "Waterloo Bridge",
+          "Lambeth"
+        ],
+        "events": [
+          "Ceramic Occasion at the Festival Hall",
+          "Ballet at the Festival Hall",
+          "Jazz Today",
+          "Back Exhibition",
+          "Ballet and Film Festival"
+        ],
+        "dates": [
+          "hundredth issue"
+        ]
+      },
+      "page_summary": "This page marks the hundredth issue of Topolski's Chronicle, focusing on scenes around London's South Bank, particularly the Royal Festival Hall and its cultural events including ballet, jazz, ceramic exhibitions, and social gatherings.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:34:16.883272+00:00"
+    }
+  ]
+}

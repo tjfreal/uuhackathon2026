@@ -1,0 +1,360 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548564",
+    "title": "Topolski's Chronicle, V.5 No.17-22, 1957",
+    "date": "1957",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6k7ewdc",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6k7ewdc",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 11,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "UNIVERSITY OF UTAH LIBRARIES\nTOPOLSKI'S CHRONICLE No. 17-22 (101-106) Vol. V 1957\n. . . nothing affirmeth and therefore never lyeth . . . Sir Philip Sidney (1580)\nROYAL VISIT TO AMERICA\nThis Sixfold Issue Costs \u00a31. 1s. ($3.00)\n\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 3s.6d. (50 CENTS) A COPY. YEARLY SUBSCRIPTION RATES WITH FOLDER AND INDEXED TO ANY PART OF THE WORLD ARE \u00a34. 4s ($12 or equivalent). SHORTER PERIODS PRO RATA.\n1 sh. Paper only. CONTINENTAL SUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME.\nLithographed in Great Britain by CAPS Ltd Dean Street, London W1, and published by Topolski's Chronicle Ltd, James Beddow Anst. 168 Tottenham W.C.4 London S.E.1. COPYRIGHT BERGQUIST",
+      "handwritten_text": "NORTH CAROLINA",
+      "sketch_descriptions": [
+        "Several loosely sketched groups of people facing each other, with some characters in profile and one figure in the center wearing a shirt that reads 'North Carolina' and waving items in both hands.",
+        "A side profile sketch of a woman with styled hair facing right, positioned prominently near the center.",
+        "A larger side profile sketch of a stern man with distinctive facial features, along with several smaller faces and figures clustered near the right edge."
+      ],
+      "entities": {
+        "people": [
+          "Sir Philip Sidney"
+        ],
+        "places": [
+          "North Carolina",
+          "America"
+        ],
+        "events": [
+          "Royal Visit to America"
+        ],
+        "dates": [
+          "1957",
+          "1580"
+        ]
+      },
+      "page_summary": "The page is a 1957 issue of Topolski's Chronicle featuring a depiction of a Royal Visit to America, including expressive sketches of crowds and individuals with references to North Carolina and a quote from Sir Philip Sidney.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:34:44.020415+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "CANADA",
+      "handwritten_text": "Monday, October 21, 1957 - 3.30 P.M. \u2013 2.55 P.M.  Ceremony of Parliament Opening by Governor General in House of Commons in main place\n\"Under the Peace Tower\"\nGOLD SAVE\nTwenty-Third Parliament, Ottawa\nParliament, Ottawa",
+      "sketch_descriptions": [
+        "A sketch group of figures wearing long dresses and hats, possibly parade-goers or officials, near the Parliament building.",
+        "A detailed scene showing the Parliament building with various figures attending a ceremonial event with flags and ornate decorations.",
+        "A seated figure with a wide hat viewed from the back, with several other figures nearby, some standing and some seated, interpreted as people attending the event 'Under the Peace Tower'.",
+        "A lone figure in a top hat standing by a decorative structure or carriage on the left side of the page."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Canada",
+          "Parliament, Ottawa",
+          "House of Commons",
+          "Peace Tower"
+        ],
+        "events": [
+          "Ceremony of Parliament Opening"
+        ],
+        "dates": [
+          "Monday, October 21, 1957"
+        ]
+      },
+      "page_summary": "This page contains expressive sketches documenting the ceremonial opening of the Canadian Parliament on October 21, 1957, with handwritten annotations describing the event and location.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:34:48.652632+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "UNIVERSITY OF UTAH LIBRARIES",
+      "handwritten_text": "\u00c0 l'occasion de la visite de Sa Majest\u00e9 La Reine Elizabeth II et son Altesse Royale le Prince Philippe une r\u00e9ception civique \u00e0 l'H\u00f4tel de Ville de la Cit\u00e9 de Hull octobre 15 - 10 h 10-10:20 a.m.\n2:15 p.m. octobre 15 - In Grounds of Government House, Ottawa\nFelix Topolski\nInauguration of the Queen's Own Rifles, Ottawa, October 1957",
+      "sketch_descriptions": [
+        "A group of people at a civic reception including a seated woman and standing men and women with flags bearing fleur-de-lys motifs above them.",
+        "A gathering of people outdoors around a tree in the grounds of Government House, Ottawa, with a soldier standing prominently and a photographer taking pictures on the left.",
+        "A parade or procession scene featuring military personnel, mounted soldiers, and four standing officers in uniform, related to the inauguration of the Queen's Own Rifles in Ottawa."
+      ],
+      "entities": {
+        "people": [
+          "Queen Elizabeth II",
+          "Prince Philippe",
+          "Felix Topolski"
+        ],
+        "places": [
+          "H\u00f4tel de Ville",
+          "Cit\u00e9 de Hull",
+          "Government House, Ottawa"
+        ],
+        "events": [
+          "Reception for Queen Elizabeth II and Prince Philippe",
+          "Inauguration of the Queen's Own Rifles"
+        ],
+        "dates": [
+          "October 15, 1957",
+          "October 1957"
+        ]
+      },
+      "page_summary": "This page contains sketches and notes documenting Queen Elizabeth II and Prince Philippe's civic reception at Hull City Hall and the inauguration of the Queen's Own Rifles in Ottawa in October 1957.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:35:14.433340+00:00"
+    },
+    {
+      "page_number": 4,
+      "typeset_text": "",
+      "handwritten_text": "M Opening of Parliament by Her Majesty The Queen. 14th October 1957\nGovernment Reception at Charterhouse Lancisr. outlooks. over 1200 forms 5:30 - 7:30 P.M.\nReporters for the \"Women's Page\" watch from above.",
+      "sketch_descriptions": [
+        "Upper left sketch: group of distinguished figures including men in formal military or aristocratic attire and women in elegant dresses, likely attending a formal event.",
+        "Upper right sketch: close-up of a formal interaction where an elderly woman in a cloak is being greeted or honored by a man in a top hat and formal suit.",
+        "Lower left sketch: a large, crowded reception scene with many loosely outlined figures mingling inside a hall or outdoor setting.",
+        "Lower right sketch: group of women seated and observing the scene, identified as reporters for the 'Women's Page' watching from above, with a crowd visible in the background."
+      ],
+      "entities": {
+        "people": [
+          "Her Majesty The Queen"
+        ],
+        "places": [
+          "Charterhouse"
+        ],
+        "events": [
+          "Opening of Parliament",
+          "Government Reception at Charterhouse"
+        ],
+        "dates": [
+          "14th October 1957",
+          "5:30 - 7:30 P.M."
+        ]
+      },
+      "page_summary": "This page captures sketches and notes depicting the Opening of Parliament by Queen Elizabeth II on 14th October 1957, including a government reception at Charterhouse and reporters covering the event.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:35:39.421506+00:00"
+    },
+    {
+      "page_number": 5,
+      "typeset_text": "U.S.A.\n\nThe Military Air Transport Service Terminal\nWASHINGTON NATIONAL AIRPORT 11:15 A.M. OCTOBER 17\n\nOctober 18th outside United States Capitol\n\nWatching the procession on TV in a Drug Store\n\nOctober 20th noon - Panthers doing march hand to hold - march with signs @ 14th Street",
+      "handwritten_text": "dig that cool cat! he nearly\n\nWatching the procession on TV in a drug-store",
+      "sketch_descriptions": [
+        "A busy scene at the Military Air Transport Service Terminal at Washington National Airport, showing military personnel and other figures standing with flags and a man seated, dated October 17.",
+        "A group of people outside the United States Capitol on October 18, some holding umbrellas and appearing to participate in or observe a crowd event.",
+        "A loose figure drawing of people watching a parade or procession on TV in a drug store, with a focus on two figures mid-conversation.",
+        "Four smaller sketches showing various views of a procession or march, one with the caption 'WELCOME DEAR ELDERS', and the final one showing a Panthers march with people holding signs, dated October 20 at noon."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Washington National Airport",
+          "United States Capitol",
+          "14th Street"
+        ],
+        "events": [
+          "The Military Air Transport Service Terminal event",
+          "Panthers march"
+        ],
+        "dates": [
+          "October 17",
+          "October 18",
+          "October 20"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle depicts various scenes from the United States in October, including military personnel at an airport, crowds at the United States Capitol, people watching a procession on TV, and a Panthers march with signs.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:36:04.599217+00:00"
+    },
+    {
+      "page_number": 6,
+      "typeset_text": "PARK(25) HERE & SEE THE QUEEN",
+      "handwritten_text": "oct 16th 3:55-4:55 p.m. James Fort - The three Ships Pier\nWaiting for the Visitors      Old car rally process     Williamsburg, Virginia\nOct 16th 3:55-4 p.m. The Queen and the Philip who is convoys a Kelsey the very high Colby & William and Mary",
+      "sketch_descriptions": [
+        "Several figures walking and standing near three ships docked at a pier with the sun shining above and birds flying.",
+        "A small procession of people, some holding flags, along with early 20th century cars and a lamppost with signs pointing to Richmond and Jamstown, labeled as Old Car Rally Process in Williamsburg, Virginia.",
+        "A group of seated and standing people around a table with microphones, apparently during an event or meeting, captioned referring to the Queen and the Philip with a convoy and named individuals, possibly Mary and William."
+      ],
+      "entities": {
+        "people": [
+          "The Queen",
+          "Philip",
+          "Kelsey",
+          "Colby",
+          "William",
+          "Mary"
+        ],
+        "places": [
+          "James Fort",
+          "Williamsburg, Virginia",
+          "Richmond",
+          "Jamestown"
+        ],
+        "events": [
+          "Old Car Rally Process"
+        ],
+        "dates": [
+          "Oct 16th",
+          "3:55-4:55 p.m.",
+          "3:55-4 p.m."
+        ]
+      },
+      "page_summary": "This page features sketches depicting a historical event at James Fort with three ships, an old car rally procession in Williamsburg, Virginia, and a gathering involving the Queen and other notable figures.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:36:09.659868+00:00"
+    },
+    {
+      "page_number": 7,
+      "typeset_text": "961\n962",
+      "handwritten_text": "The Court of Welcome, Jamestown Festival Park  Ockwells 3:15 p.m.\nWASHINGTON  at the British Embassy Reception",
+      "sketch_descriptions": [
+        "A large crowd scene at an outdoor place with many people gathered in the foreground and background, some holding flags or banners, and officers present; a policeman stands prominently at right. The scene likely represents a welcoming event or parade.",
+        "A group of formally dressed people in an indoor setting, likely at a social or diplomatic reception, with some individuals seated and others standing and interacting in conversation."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Jamestown Festival Park",
+          "Washington",
+          "British Embassy"
+        ],
+        "events": [
+          "The Court of Welcome",
+          "Embassy Reception"
+        ],
+        "dates": [
+          "3:15 p.m."
+        ]
+      },
+      "page_summary": "The page depicts two distinct scenes: a welcoming event or festival at Jamestown Festival Park with a large crowd and flags, and a formal reception at the British Embassy in Washington with a group of guests socializing.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:36:34.006483+00:00"
+    },
+    {
+      "page_number": 8,
+      "typeset_text": "",
+      "handwritten_text": "Octbr 18th 5:00 P.M. The Heads of Mission & the Commonwealth Countries Give a Reception in Honor of Her Majesty at The British Embassy, WASHINGTON\nOct 19. 4:30 P.M. The Queen and Prince Philip receive the Heads of Diplomatic Missions in Washington",
+      "sketch_descriptions": [
+        "Sketch of a group of people at a formal reception, with some individuals standing and one seated; scene labeled as a reception at the British Embassy in Washington.",
+        "Close-up sketch of a group of formally dressed men and women, some wearing hats, engaged in conversation.",
+        "Sketch of people in formal attire, seen from the side or back, some standing closely together and engaging in conversation.",
+        "Larger group sketch showing multiple men and women in formal dress mingling at an event, identified as the Queen and Prince Philip receiving Heads of Diplomatic Missions."
+      ],
+      "entities": {
+        "people": [
+          "Her Majesty",
+          "The Queen",
+          "Prince Philip"
+        ],
+        "places": [
+          "British Embassy",
+          "Washington"
+        ],
+        "events": [
+          "Reception in Honor of Her Majesty",
+          "Reception by the Queen and Prince Philip for Heads of Diplomatic Missions"
+        ],
+        "dates": [
+          "Octbr 18th",
+          "Oct 19"
+        ]
+      },
+      "page_summary": "This page depicts a series of sketches capturing formal receptions held in Washington, D.C., featuring the Queen, Prince Philip, and diplomatic heads at the British Embassy around October 18-19.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:36:58.836782+00:00"
+    },
+    {
+      "page_number": 9,
+      "typeset_text": "",
+      "handwritten_text": "The Royal Ceremony of Prem Ratty at the Nottingham Rochester Station 5:00 p.m. in honour of Her Majesty Queen and Prince Philip and the Stanley Hotel. October 17\nWes Farmer last permanent painter. - \"VOC II\"",
+      "sketch_descriptions": [
+        "Top-left sketch depicts a crowded scene with many standing figures viewed mostly from behind, possibly at a ceremonial or public event, with a rope barrier and some figures wearing hats.",
+        "Bottom-left sketch shows a group of individuals, mostly women in hats, with two men in front; the scene appears to be indoors and participants are facing mostly right, one man facing away.",
+        "Right-side large sketch features a close-up view of two standing figures, one slightly hunched wearing a large hat and heavy clothing, the other stands upright wearing a skirt and heels, seen from the back."
+      ],
+      "entities": {
+        "people": [
+          "Queen",
+          "Prince Philip",
+          "Wes Farmer"
+        ],
+        "places": [
+          "Nottingham Rochester Station",
+          "Stanley Hotel"
+        ],
+        "events": [
+          "Royal Ceremony of Prem Ratty"
+        ],
+        "dates": [
+          "October 17"
+        ]
+      },
+      "page_summary": "The page documents scenes and figures related to the \"Royal Ceremony of Prem Ratty\" held on October 17 at Nottingham Rochester Station, honoring Queen and Prince Philip, including observational sketches of attendees and locations.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:37:23.051700+00:00"
+    },
+    {
+      "page_number": 10,
+      "typeset_text": "NEW YORK",
+      "handwritten_text": "Monday, Oct 21, 10:35 a.m. Departure from Staten Island aboard the U.S. Army ferry for the BATTERY, MANHATTAN, NEW YORK CITY\n11:10 a.m. THE MOTORCADE proceeds to CITY HALL\nving doll",
+      "sketch_descriptions": [
+        "Left page sketch: A view from Staten Island showing people aboard a ferry with the name 'P.W. I. Nichols' visible, various boats and ships in the water, airships and birds flying in the sky, and the Manhattan skyline in the background.",
+        "Right page sketch: A narrow street scene in Manhattan with tall buildings, a crowd of people, and flags flying above."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "New York",
+          "Staten Island",
+          "The Battery",
+          "Manhattan",
+          "New York City",
+          "City Hall"
+        ],
+        "events": [],
+        "dates": [
+          "Monday, Oct 21, 10:35 a.m.",
+          "11:10 a.m."
+        ]
+      },
+      "page_summary": "This page depicts a scene from a ferry departing Staten Island to Manhattan, New York City, with sketches illustrating the ferry trip, the Manhattan skyline, and a motorcade proceeding to City Hall.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:37:27.454532+00:00"
+    },
+    {
+      "page_number": 11,
+      "typeset_text": "",
+      "handwritten_text": "October 21, 3:15 p.m. The Queen and Prince Philip at the United Nations\nOctober 21, 4:15 p.m. Outside the United Nations Building\nFREE KENYA FROM EUROPEAN RULE\nAFRICA FOR AFRICANS\nUNITED NATIONS HELP US END SOVIET OPPRESSION AND BRITISH IRON REGIME DISSOLUTION TELLING THE PEOPLE OF ALBANIA POLAND BULGARIA ROMANIA ESTONIA TCHURSOSKA HUNGARIAN UKRAINE LATVIA LITHUANIA\nOctober 21, 8:00 p.m. The Ridings meeting Canadian, speaking Union give dinner in honor of H.M. the K.H. at the Waldorf Astoria",
+      "sketch_descriptions": [
+        "Sketch of the Queen and Prince Philip seated in a large semi-circular assembly hall (the United Nations) with many attendees.",
+        "Street scene outside the United Nations Building depicting a protest or demonstration with signs reading 'FREE KENYA FROM EUROPEAN RULE' and 'AFRICA FOR AFRICANS' and a United Nations help plea listing countries under Soviet oppression.",
+        "Crowded indoor meeting scene identified as the Ridings meeting with Canadian attendee, showing many people engaged closely.",
+        "Sketch of a solitary figure sitting on a chair seen from the back, wearing a wide hat.",
+        "Sketch of a vehicle labeled 'DOMINION WIDE PHOTOGRAPHS' parked near a press stand with 'PRESS THROUGH USE RED CAR MATCH' sign."
+      ],
+      "entities": {
+        "people": [
+          "The Queen",
+          "Prince Philip",
+          "H.M. the K.H."
+        ],
+        "places": [
+          "United Nations",
+          "United Nations Building",
+          "Waldorf Astoria"
+        ],
+        "events": [
+          "The Ridings meeting"
+        ],
+        "dates": [
+          "October 21, 3:15 p.m.",
+          "October 21, 4:15 p.m.",
+          "October 21, 8:00 p.m."
+        ]
+      },
+      "page_summary": "This page features sketches and notes capturing events around the United Nations on October 21, including the presence of the Queen and Prince Philip, a protest outside the UN building, and a Ridings meeting dinner at the Waldorf Astoria.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:37:54.693166+00:00"
+    }
+  ]
+}

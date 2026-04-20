@@ -1,0 +1,93 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548480",
+    "title": "Topolski's Chronicle, V.2 No.14, 1954",
+    "date": "1954",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6dxzx47",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6dxzx47",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE No. 14 (26) Vol. II 1954 of a voyage round the world (I)",
+      "handwritten_text": "",
+      "sketch_descriptions": [
+        "A dimly lit, expressive sketch showing a group of figures with prominent hands and faces gathered around a table or central figure, with the lighting focused on the central character's bald head and bowed posture, evoking an intense or dramatic scene.",
+        "Several other loosely rendered heads and hands, some reaching or gesturing, which surround and add to the crowded, almost theatrical composition."
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "dates": [
+          "1954"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle features a dark, dramatic sketch of multiple figures clustered around a table, illuminated to highlight a central, bald character. The composition and lighting suggest a scene of tension or significance, introducing a visual account from a 1954 voyage around the world.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:35:20.734098+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "BUDDHISM, Southern School ...the threat of Communism has stimulated interest in the Buddhist theory of life and the basis of national recovery from BUDDHISM by Christmas Humphreys 225 Detail from Mural painted for the Festival of Britain, now in Victoria Memorial Hall, Singapore. 226, 227, 229, 230, 231 Sacred Buddhist Relics, lent to Burma by Ceylon, arrive in Rangoon aboard a British Cruiser, attended by Priests, Temple Dancers and Drummers 228 Government troops patrol the countryside outside Rangoon 232 Steps to Shwe Dagon (Golden) Pagoda in Rangoon 233 Buddhist Monks",
+      "handwritten_text": "",
+      "sketch_descriptions": [
+        "A crowd of figures, including what appear to be monks, priests, and traditionally dressed individuals gathered in ceremonial fashion.",
+        "A group of people, possibly temple dancers and drummers, depicted in motion, suggesting a ceremonial procession.",
+        "A distant scene with buildings and pagoda shapes, possibly representing a countryside or temple view.",
+        "A group of government troops moving across a landscape, some on horseback or carrying flags, suggesting patrol or official presence.",
+        "Sacred relics being ceremonially presented or transported by figures in elaborate dress.",
+        "Steps leading up to a large pagoda structure, with small figures climbing or standing around the base.",
+        "A cluster of monks in traditional robes, with some individuals kneeling or performing religious gestures.",
+        "Portrait of a woman or dancer adorned with traditional jewelry and headgear, emphasizing cultural attire."
+      ],
+      "entities": {
+        "people": [
+          "Christmas Humphreys"
+        ],
+        "places": [
+          "Victoria Memorial Hall, Singapore",
+          "Ceylon",
+          "Burma",
+          "Rangoon",
+          "Shwe Dagon Pagoda"
+        ],
+        "events": [
+          "Festival of Britain"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page documents Buddhist religious ceremonies and processions in Burma, accompanied by expressive sketches of monks, officials, dancers, and sacred relics, and references to their historical and geographical context.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:35:29.449113+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "'TOPOLSKI'S CHRONICLE' IS PUBLISHED 24 TIMES A YEAR AT 2s 6d. A COPY. YEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE \u00a33. 6s. (S9 or equivalent). SHORTER PERIODS PRO RATA. AIR MAIL BY QUOTATION. SUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME Lithographed in Great Britain by C.A.P.S. Ltd., Dean Street, London, W.1., and published from Bridge Arch 158, Sutton Walk, South Bank, London, S.E.1. Copyright reserved",
+      "handwritten_text": "How to Kalbagan\u2014Rangoon",
+      "sketch_descriptions": [
+        "A dynamic sketch of figures climbing or descending a broad staircase in an architectural interior, with ornate details and several people in various poses, some carrying bags or staffs.",
+        "A line drawing of a group of robed figures, some with turbans and umbrellas, walking among pagoda-like spires with a reclining dog in the foreground, evoking a bustling outdoor scene with Buddhist monks."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Kalbagan",
+          "Rangoon"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page features expressive sketches depicting scenes from Kalbagan to Rangoon, including an architectural interior with travelers and an outdoor gathering of robed figures among pagodas, likely Buddhist monks. The visual and handwritten content suggests travel observations or reportage from Burma (Myanmar).",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:35:55.414142+00:00"
+    }
+  ]
+}

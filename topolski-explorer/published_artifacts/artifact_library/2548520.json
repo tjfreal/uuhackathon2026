@@ -1,0 +1,92 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548520",
+    "title": "Topolski's Chronicle, V.4 No.6, 1956",
+    "date": "1956",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6q9xrz9",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6q9xrz9",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE No. 646 (2) Vol VI 1956 (Collated, edited and hand-written and drawn by Felix Topolski. Thursday, 28th June, 1956)\n\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 3s. 6d. A COPY. YEARLY SUBSCRIPTIONS (WITH FOLDERS) UNITED TO ANY PART OF THE WORLD ARE 4 4s. 4d. (Air registered, SHORT PERIODS, PRO RATA, AIR MAIL BY QUOTATION. SUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME.) Printed in Great Britain by The Baynard Press Limited. 68-70 Paul Street, London, E.C.2, and Published by Chora Books (Felix Topolski), 33 King Street, Covent Garden, London, W.C.2. Sole Distributors: The Times Book Club, 86 New Bond Street, London, W.1. Sole American agents: Doubleday and Company Inc., 457 Madison Ave., New York. Sole Canadian agents: George Allen and Unwin, Ltd., Toronto, Ontario.\nUNIVERSITY OF UTAH LIBRARIES",
+      "handwritten_text": "East Coast\nA village pub in Kilcock\nChurchgoers in Connemara\nMayoral Mass, Chapel\nFisher\nKylemore Abbey\nConnemara\nBallad singer",
+      "sketch_descriptions": [
+        "Two figures walking along a windswept coastal landscape.",
+        "Two men speaking closely over drinks inside a rustic pub setting.",
+        "Figure ascending a rocky path toward a church with a cross-topped spire.",
+        "Crowd around horses and carts, rural and clustered together.",
+        "People gathered in a craggy countryside for communal activity.",
+        "Locals outside a chapel, a priest visible on porch with townsfolk and sheep.",
+        "Loose sketch of two people walking or conversing, rendered minimally.",
+        "A farmer tending a flock of sheep in a hilly pasture.",
+        "Veiled woman and another woman, one possibly praying, near a religious site.",
+        "Middle-aged man in religious or clerical robes.",
+        "Woman with child in a simple interior, faces somber.",
+        "Sweeping Connemara landscape with small groups of figures.",
+        "Portrait of a ballad singer looking outward, face expressive."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "East Coast",
+          "Kilcock",
+          "Connemara",
+          "Kylemore Abbey"
+        ],
+        "events": [
+          "Mayoral Mass"
+        ],
+        "dates": [
+          "Thursday, 28th June, 1956",
+          "1956"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle illustrates rural Irish scenes and people, including churchgoers, farmers, and local gatherings in places like Connemara and Kilcock. The sketches are accompanied by handwritten captions and contextually rooted in mid-20th century Ireland.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T21:43:03.319785+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "IRISH AND ANGLO-IRISH EIRE\nReprinted from American VOGUE. Copyright 1930. The Cond\u00e9 Nast Publications Inc.",
+      "handwritten_text": "West Country Squire (Anglo-Irish)\nStamfordland Hall\nLord Glenavy\nMiss Childers\nProg. Hunt in County Meath",
+      "sketch_descriptions": [
+        "Portrait sketch of an elderly man labeled 'West Country Squire (Anglo-Irish)' with a heraldic shield featuring a bird and a fleur-de-lis.",
+        "Sketch of a man and woman beside a horse, with loose architectural elements around, labeled 'Stamfordland Hall'.",
+        "Portrait of an elderly man smoking a pipe labeled 'Lord Glenavy' next to a seated woman labeled 'Miss Childers'.",
+        "Crowded scene of people in formal attire including men in top hats and women in riding gear, many on horseback, showing a hunting or equestrian social event.",
+        "Two men in top hats on horseback with a woman sitting nearby, interpreted as part of a hunt scene.",
+        "Small group of people, including a man and woman with a child, captioned 'Prog. Hunt in County Meath'.",
+        "Small sketch of a goat in the lower right corner."
+      ],
+      "entities": {
+        "people": [
+          "Lord Glenavy",
+          "Miss Childers"
+        ],
+        "places": [
+          "West Country",
+          "Stamfordland Hall",
+          "County Meath",
+          "Irish and Anglo-Irish Eire"
+        ],
+        "events": [
+          "Prog. Hunt in County Meath"
+        ],
+        "dates": [
+          "1930"
+        ]
+      },
+      "page_summary": "This page features ink sketches depicting Anglo-Irish and Irish figures, scenes, and social events such as formal hunts, alongside prominent individuals like Lord Glenavy and Miss Childers, with the illustrations originally reprinted from American Vogue in 1930.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:04:42.469364+00:00"
+    }
+  ]
+}

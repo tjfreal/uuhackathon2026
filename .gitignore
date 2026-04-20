@@ -10,3 +10,5 @@ julia-stl/AGENTS.md
 
 decksmith/outputs/**/*.key
 decksmith/outputs/**/*.pptx
+
+throughline/.throughline_state.json

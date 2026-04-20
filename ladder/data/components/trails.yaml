@@ -1,0 +1,36 @@
+name: Trails
+layer: sensemaking
+status: proposal
+one_line: Reconstructs how an idea developed across time and notes.
+problem: Once an idea is spread across daily notes, project files, and revisions, it becomes hard to see the shape of its development.
+inputs:
+  - local note corpus
+  - timestamps
+  - links between notes
+  - repeated concepts across entries
+outputs:
+  - an ordered trail showing how an idea evolved
+  - candidate milestones in a line of thought
+dependencies:
+  - note-system corpus
+  - note links
+  - time metadata
+example: The idea of the library as a ladder did not begin with AI or note-system tooling; Trails would help show how that service idea later became a design principle for Ladder.
+audience_value:
+  all_staff: It helps explain that the system is not just about storing notes, but about seeing how ideas grow over time.
+  student: It can show how your understanding of a topic changes across a semester instead of leaving each note isolated.
+  collaborator: It makes temporal reconstruction a first-class tool, which raises design questions about granularity and evidence.
+  self: It is the tool most closely tied to preserving lineage instead of flattening everything into a present-tense summary.
+next_rung:
+  all_staff: Ask to see how one idea changed over time rather than only its latest version.
+  student: Pick one recurring course idea and trace where it appears across your notes.
+  collaborator: Define the minimum evidence needed for a trail to feel trustworthy rather than narratively convenient.
+  self: Decide how much interpretation Trails is allowed to add versus simply reconstructing observable note history.
+limitations:
+  - It is still a proposal rather than a finished tool
+  - Time order does not automatically explain causation
+  - Good trails need enough note density to reconstruct something real
+relationships:
+  - Depends on the same note history that note-system preserves.
+  - Can use notes surfaced by Surface or connected by Bridge.
+  - Supports Ladder's need to explain lineage rather than just features.

@@ -1,0 +1,78 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548489",
+    "title": "Topolski's Chronicle, V.2 No.24, 1954",
+    "date": "1954",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6f4g035",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6f4g035",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE No. 24 (36) Vol. II 1954\nTOPOLSKI'S CHRONICLE IS PUBLISHED 24 TIMES A YEAR AT 2/- a COPY\nYEARLY POST FREE SUBSCRIPTION RATES: WITHIN UK AND EIRE 24/-; EUROPE AND BRITISH EMPIRE 30/-; U.S.A. AND CANADA $5.00\nCAPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNIVERSAL COUPON SCHEME.",
+      "handwritten_text": "shouts of[?] Magic\nWaterloo Hall, Horse Guards, A parade",
+      "sketch_descriptions": [
+        "A grouping of figures wearing elaborate military dress and capes, some draped in red garments, likely engaged in ceremonial or parade activity.",
+        "A cluster of individuals to the right, depicted as an observing or participating crowd, rendered with quick and expressive lines.",
+        "Two figures in the lower left corner in an embracing posture, drawn with sparse, flowing strokes.",
+        "Several figures in historical or military uniform engaged in direct conversation or formation in the center foreground."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Waterloo Hall",
+          "Horse Guards"
+        ],
+        "events": [
+          "A parade"
+        ],
+        "dates": [
+          "1954"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle visually documents a parade or ceremonial gathering at Waterloo Hall, Horse Guards, showing groups of figures in historical military attire and observing crowds, accompanied by brief handwritten notes.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:44:03.198351+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "THE COURT OF CHIVALRY. \u2014 a court of honour dealing with disputes over coats of arms and questions of nobility, was composed of 239 members: the Earl Marshal, the Duke of Norfolk, and the Judges from the College of Arms. Press item The champions have been summoned to the lists for the Court of the Constable and the Marshal. When victors in the Court of Chivalry have established their claim, the defeated party is defamed and debarred from wearing coat-armour. Press item Counsel: \u2014 The Earl Marshal used to have as the Serjeant-at-Arms, the Gentleman Usher of the Black Rod, but that office is now employed in another court. The Surrogate: \u2014 Is it not open to counsel to prove by evidence or authorities that the Black Rod is an officer of this court? The Surrogate: \u2014 Perhaps it is right I should point out the Black Rod is not strictly part of the court, but is rather an officer of the Earl Marshal. Counsel: \u2014 But the Black Rod is present here, and could tell His Grace the Earl Marshal if he thought it necessary. The Surrogate: \u2014 No doubt; but I do not wish to prejudice the issue till it is proved by sufficient evidence. Counsel: \u2014 Will your Lordships allow me to park on this point? The Surrogate: \u2014 Yes, provided you do not let your car rest in the courtyard of the College of Arms, otherwise you may have a difficult question. The Surrogate: \u2014 In this case we will adjourn. from Law Report, December 13 1954 No. 360: ARISTOCRATS 371, 372: HERALDS, KINGS, EARL MARSHALS, THE DUKE OF NORFOLK 373: THE COLLEGE OF ARMS 374: BLUEMANTLE PURSUIVANT",
+      "handwritten_text": "Felix Topolski College of Arms",
+      "sketch_descriptions": [
+        "Upper left: Expressive portrait of a standing man with arm resting, set against a filled background featuring heraldic motifs and abstract lines.",
+        "Upper right: Scene of several figures working in an office filled with books, documents, and shelving, labeled 'College of Arms.'",
+        "Lower left: Group of individuals bent over work tables or writing, with an individual on a ladder surrounded by shelves and documents.",
+        "Lower right: Standing male figure in elaborate historical uniform, holding a long staff, with decorative and detailed linework."
+      ],
+      "entities": {
+        "people": [
+          "Felix Topolski",
+          "Earl Marshal",
+          "Duke of Norfolk",
+          "Serjeant-at-Arms",
+          "Gentleman Usher of the Black Rod",
+          "The Surrogate"
+        ],
+        "places": [
+          "College of Arms"
+        ],
+        "events": [
+          "Court of Chivalry"
+        ],
+        "dates": [
+          "December 13 1954"
+        ]
+      },
+      "page_summary": "This page illustrates the historic Court of Chivalry, depicting scenes set in the College of Arms, and portraits of key figures involved in heraldic legal disputes. Typeset text and sketches evoke the formality and process of court proceedings around nobility and coats of arms.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:44:11.698885+00:00"
+    }
+  ]
+}

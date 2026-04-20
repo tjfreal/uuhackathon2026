@@ -1,0 +1,26 @@
+id: all_staff
+name: Library Colleagues (All-Staff)
+description: >
+  Mixed technical literacy. No assumed AI or PKM background. Some consumer AI
+  experience. Skeptical and curious in equal measure.
+vocabulary_level: plain
+omit:
+  - implementation details
+  - model names
+  - vector indices
+  - ChromaDB
+lead_with: what the system does for a person, not how it works
+frame: personal and practical — here is what I built and why it might matter in a library context
+prior_knowledge:
+  - information literacy
+  - library workflows
+  - general consumer AI experience
+first_questions:
+  - What is this, and what does it actually do for you?
+  - How is this different from just using Google Docs or Obsidian or ChatGPT?
+  - Why are you showing us this — is this something we could use?
+desired_outcome: basic understanding plus enough curiosity to ask one good question
+spotlight_components:
+  - note-system
+  - surface
+  - ladder

@@ -1,0 +1,120 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548467",
+    "title": "Topolski's Chronicle, V.2 No.1, 1954",
+    "date": "1954",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6gff2db",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6gff2db",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE No. 1 (13) Vol.II 1954\nof a voyage round the world (a)\nLONDON\u2014BOMBAY\n... My cabin immediately under the bridge, looks ahead onto our course. The rising sun fires at me with a red glow straight over the bows of the ship, renders burning the mountains it is regarding. We travel east: An Indian ship carries its crew eastward, amongst the New Asians, to NEW ASIA. The eastern and gathers strength: we sail studiously against it, carrying the seeds of the west: there is a meeting held on the poop to exchange ideas, the speakers\u2014an Indian member of an Anglican Order, who travels to work and is Mission in Bombay; a doctor from Lucknow, who has gathered in England the latest in the field of serums and vaccinations; a teacher-psychologist going back to browse for a special teaching method in Madras; a young man from the U.P. who had studied in Birmingham the economy of agriculture; and an English lady, who taught in Bombay for 20 years and felt like returning... The ship is officered and manned by Indians, but captained by an Irishman. And it contains a number of German technicians and British businessmen. A collection of \"English brides\" on their way to join their Indian husbands completes the cargo of western influences ...",
+      "handwritten_text": "professor\nSociety of St. John The Evangelist\nFather Albert Ranngaswamy [?] SSJE\nMarayan Bombay 10\nSt. John\u2019s, Poona, King\u2019s ...",
+      "sketch_descriptions": [
+        "Expressive charcoal portrait of a man gazing upwards, rendered with bold and energetic lines.",
+        "Loose, abstracted landscape or architectural outlines fill the background, suggesting mountains or distant scenery."
+      ],
+      "entities": {
+        "people": [
+          "Father Albert Ranngaswamy",
+          "professor",
+          "Society of St. John The Evangelist",
+          "Marayan",
+          "English lady",
+          "German technicians",
+          "British businessmen",
+          "Indian member of an Anglican Order",
+          "doctor from Lucknow",
+          "teacher-psychologist",
+          "young man from the U.P.",
+          "Irishman (ship captain)"
+        ],
+        "places": [
+          "London",
+          "Bombay",
+          "New Asia",
+          "England",
+          "Lucknow",
+          "Madras",
+          "Birmingham",
+          "Poona",
+          "St. John\u2019s"
+        ],
+        "events": [],
+        "dates": [
+          "1954"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle features a dramatic, expressive portrait sketch and personal observations from a voyage between London and Bombay in 1954, including profiles of passengers and reflections on east-west cultural exchange.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:05:44.426645+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "",
+      "handwritten_text": "In the hyper-in-class   an English tourist  English colonial gentleman  1st Class 'racing' Horse lovers  Death due mostly to malnutrition  List of passengers by countries  \"The intellectuals\" on \"the poop\"  Quarantine for Bombay arriving boat, must be called,  Professor of chemistry, University of Bombay, returning from European congresses; lively, full of reminiscences, often humorous, much travelled  \u201cA Russell lady\u201d  Victoria Promenade, Haifa  P. de Suez  old woman - mourning  and praying on deck - feeds birds",
+      "sketch_descriptions": [
+        "Cluster of four figures against a minimal shoreline and distant buildings, possibly travelers or locals.",
+        "Bustling port scene with ships, boats, and two male figures in the foreground, one holding an object.",
+        "Group of standing and seated figures, including musicians or performers, some dressed in flowing robes\u2014captioned 'Victoria Promenade, Haifa.'",
+        "Older woman in profile, draped in shawl, hands clasped\u2014captioned 'A Russell lady.'",
+        "Passengers walking and standing by luggage with ship infrastructure in the background, annotated 'P. de Suez.'",
+        "Seated elderly man wearing a fez, surrounded by smaller figures and handwritten notes about mourning, prayer, and feeding birds.",
+        "Lower left: large crowded group, some in turbans, one labeled 'English colonial gentleman,' another a 'tourist,' and a peaceful woman with closed eyes, hands with horses below\u2014captioned '1st Class, \"racing\" Horse lovers.'",
+        "Lower right: dense cluster of male faces and figures, annotated with references to malnutrition, professors, and intellectuals on a ship's 'poop' deck; one figure specifically labeled as a professor from the University of Bombay, another a quarantine for Bombay-arriving boats."
+      ],
+      "entities": {
+        "people": [
+          "A Russell lady",
+          "Professor of chemistry, University of Bombay",
+          "English colonial gentleman",
+          "English tourist"
+        ],
+        "places": [
+          "Haifa",
+          "P. de Suez",
+          "Bombay",
+          "University of Bombay"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page documents the scenes and personalities aboard a passenger ship voyage, with sketches of travelers from various backgrounds, including colonial figures, intellectuals, and everyday passengers. The illustrations highlight interactions, quarantine procedures, and moments of reflection or activity during the journey between ports such as Haifa and Suez.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:05:54.955700+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "THE CHRONICLE OF A VOYAGE ROUND THE WORLD will be interpolated by issues on Europe.\n'TOPOLSKI'S CHRONICLE' IS PUBLISHED 24 TIMES A YEAR AT 2s. 6d. A COPY.\nYEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE \u00a33. 3s. 0d (or equivalent); SHORTER PERIODS PRO RATA. AIR MAIL BY QUOTATION.\nSUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME\nLithographed in Great Britain by C.A.P.S. Ltd. Dean Street, London, W.1., and published from 14, Hanover Terrace, London, N.W.1. Telephone: AMBassador 6059 Copyright reserved",
+      "handwritten_text": "Felix Topolski LONDON\u2014BOMBAY",
+      "sketch_descriptions": [
+        "Expressive portrait sketch of a man in a naval or military officer's cap looking outward, upper left.",
+        "Figure in profile wearing a peaked cap, possibly using binoculars or a telescope, center left.",
+        "Figure climbing or attending to a mast or pole, center.",
+        "Portrait of a seated or crouched figure, possibly in uniform, lower right."
+      ],
+      "entities": {
+        "people": [
+          "Felix Topolski"
+        ],
+        "places": [
+          "London",
+          "Bombay"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page from Topolski's Chronicle visually documents scenes from a voyage between London and Bombay, featuring expressive sketches of figures in naval or military settings and brief notes by Felix Topolski.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:06:22.159025+00:00"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548598",
+    "title": "Topolski's Chronicle, V.6 No.17, 1958",
+    "date": "1958",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6srtqnd",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6srtqnd",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 1,
+  "pages": [
+    {
+      "page_number": 2,
+      "typeset_text": "\"TOPOLSKI'S CHRONICLE' IS PUBLISHED 24 TIMES A YEAR AT 3L 3d. (50 cents) A COPY. YEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE 4L 4s. (12 cr. or equivalent). SHORTER PERIODS PRO RATA. AIR MAIL BY QUOTATION. SUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME.\". Lithographed in Great Britain by Charles & Reed Ltd. and published by Topolski's Chronicles Ltd. from Bridge Arch, 158 Sutton Walk, London, S.E.1. Copyright reserved.",
+      "handwritten_text": "",
+      "sketch_descriptions": [
+        "Sketch of two male figures; the left figure is standing prominently with exaggerated muscular legs, a protruding belly, wearing a large broad-brimmed hat and shorts, with arms partially raised.",
+        "The right figure is more faintly drawn, apparently barefoot, holding or eating something with both hands."
+      ],
+      "entities": {
+        "people": [
+          "Felix Topolski"
+        ],
+        "places": [
+          "Bridge Arch, 158 Sutton Walk, London, S.E.1"
+        ],
+        "events": [],
+        "dates": [
+          "1950s to 1980s (period when Topolski's Chronicle was published)"
+        ]
+      },
+      "page_summary": "The page features a sketch of two male figures and includes publication details for Topolski's Chronicle, a biweekly illustrated broadsheet by Felix Topolski.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T23:21:06.809467+00:00"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548515",
+    "title": "Topolski's Chronicle, V.3 No.23-24, 1955",
+    "date": "1955",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6vxwv2g",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6vxwv2g",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 4,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOI.SKI's CHRONICLE No. 23-24 (59-60) Vol III 1955 of a voyage round the world (y) UNIVERSITY OF UTAH LIBRARIES WASHINGTON, D.C. * A drawing of the Supreme Court, which virtually belongs here, was reproduced in \"Midcentury Retrospect\" issue (No. 10-11, Vol. 1) \"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 25 6d. A COPY. This double issue costs 5s. YEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE \u00a3. 3. 3s. (9 or equivalent); SHORTER PERIODS PRO RATA. AIR MAIL BY QUOTATION. SUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME Hand-printed in Great Britain by Parrett's Press 146, Sutton Walk, S.E.1. from blocks made by Anabis Midee Ltd. and run published from Redfame Arch 186, Sutton Walk, London, S.E.1. Copyright reserved.",
+      "handwritten_text": "F. T. The bench\nSENATE\nSen Lucas - Majority Leader\nAction Leader Saltonstall\nSen Minowski*\nWalter Reed Hospital - war Veterans Administration Hospital\nTHE HOUSE OF REPRESENTATIVES from Salton.\npress at a Committee meeting",
+      "sketch_descriptions": [
+        "A sketch of two men sitting closely together labeled 'The bench', likely depicting members of the Supreme Court.",
+        "A group sketch showing multiple people, including a standing figure holding a paper, identified as the Senate with annotations naming 'Sen Lucas - Majority Leader', 'Saltonstall', and 'Sen Minowski'.",
+        "A sketch of a person lying in a hospital bed with another figure sitting next to the bed, labeled 'Walter Reed Hospital - war Veterans Administration Hospital'.",
+        "A drawing of several men seated in a room labeled 'The House of Representatives'.",
+        "A sketch of several men seated with one man appearing to speak on the telephone, captioned 'press at a Committee meeting'."
+      ],
+      "entities": {
+        "people": [
+          "Sen Lucas",
+          "Saltonstall",
+          "Sen Minowski",
+          "F.T."
+        ],
+        "places": [
+          "Washington, D.C.",
+          "Walter Reed Hospital",
+          "Veterans Administration Hospital",
+          "The House of Representatives",
+          "Senate"
+        ],
+        "events": [],
+        "dates": [
+          "1955"
+        ]
+      },
+      "page_summary": "This page features sketches and handwritten notes depicting scenes from the U.S. Supreme Court, Senate, House of Representatives, and Walter Reed Hospital, accompanied by typeset information about Topolski's Chronicle publication details from 1955.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T21:59:37.596806+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "599\n600\n601\n602\n603\nUNIVERSITY OF UTAH LIBRARIES",
+      "handwritten_text": "A political cocktail\nM[?] Cregan\nM. V. Kingdall\nJustice Douglas\nMr. Hampstead\nBrixton Ambo Mabers [?] [?]\n'Mrs. Tadious at the Italian Embassy'\nSulgrave Club 'Meidets choice Dinner' Mrs. Clark O'Flynn\n'Library of Congress Exhibit'\nDr. Ali Sastromidjojo wife and lady [?] Bayan and Sy? - Monica Lewis [?] Jones light",
+      "sketch_descriptions": [
+        "Group of five men in conversation at a political cocktail event, labeled with names such as Justice Douglas and Mr. Hampstead.",
+        "Interior scene at the 'Library of Congress Exhibit' showing several people sitting and reclining on chairs and benches, sketched loosely.",
+        "Crowd scene with a seated woman and standing figures, labeled as 'Mrs. Tadious at the Italian Embassy'.",
+        "Group of women seated closely together in a social setting titled 'Sulgrave Club \"Meidets choice Dinner\"', including Mrs. Clark O'Flynn.",
+        "Two women seated and conversing, one annotated as Dr. Ali Sastromidjojo's wife, with another woman identified as Monica Lewis."
+      ],
+      "entities": {
+        "people": [
+          "Justice Douglas",
+          "Mr. Hampstead",
+          "Mrs. Tadious",
+          "Mrs. Clark O'Flynn",
+          "Dr. Ali Sastromidjojo",
+          "Monica Lewis",
+          "M. V. Kingdall",
+          "M. Cregan"
+        ],
+        "places": [
+          "Italian Embassy",
+          "Sulgrave Club",
+          "Library of Congress"
+        ],
+        "events": [
+          "Meidets choice Dinner",
+          "Library of Congress Exhibit"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page features a collection of expressive sketches of social and political gatherings, including events at the Italian Embassy, Sulgrave Club dinner, and the Library of Congress Exhibit, accompanied by handwritten captions identifying notable attendees.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:00:03.711928+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "",
+      "handwritten_text": "Washington DC\nA Mary Plunkett famous woman\nFelix Topolski\nMr Thaw & Mrs Peter Kristburg\nMr Millard ?? insight of an ??humble? lady\nMayor Peale\nConf. opposition, ?Sophie Paton\nBest Claremonte Whitemaster",
+      "sketch_descriptions": [
+        "Left side: Three figures around a table, two women in large hats and a man, with a distant dome building in the background, likely in Washington DC.",
+        "Top right: Two women indoors with one sitting on a patterned couch and wearing a large hat, the other seated nearby, labeled Mr Thaw & Mrs Peter Kristburg.",
+        "Bottom right: Two separate groups of people in formal or theatrical attire; the left group includes Mayor Peale and a conf. opposition member Sophie Paton, the right group includes three women, one labeled Best Claremonte Whitemaster."
+      ],
+      "entities": {
+        "people": [
+          "Mary Plunkett",
+          "Felix Topolski",
+          "Mr Thaw",
+          "Mrs Peter Kristburg",
+          "Mr Millard",
+          "Mayor Peale",
+          "Sophie Paton",
+          "Best Claremonte Whitemaster"
+        ],
+        "places": [
+          "Washington DC"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "The page contains expressive ink sketches by Felix Topolski depicting social and political figures, among them Mary Plunkett and Mayor Peale, in scenes set in Washington DC and possibly UK social contexts.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:00:28.788277+00:00"
+    },
+    {
+      "page_number": 4,
+      "typeset_text": "EDITH HAMILTON, FORMER HEADMISTRESS OF BRYN MAWR SCHOOL, A GREEK, ROMAN AND BIBLICAL SCHOLAR\nReprinted from American VOGUE, Copyright 1950, The Cond\u00e9 Nast Publications Inc.\nDr Mordecai Johnson, President for over twenty years of Howard the Negro University in Washington",
+      "handwritten_text": "",
+      "sketch_descriptions": [
+        "Left side: A detailed portrait sketch of an elderly woman with expressive lines, shown from the waist up, seated with her hands resting on a surface.",
+        "Right side: A full-body sketch of a man in a suit with an expressive style, standing and pointing outward."
+      ],
+      "entities": {
+        "people": [
+          "Edith Hamilton",
+          "Dr Mordecai Johnson"
+        ],
+        "places": [
+          "Bryn Mawr School",
+          "Howard University",
+          "Washington"
+        ],
+        "events": [],
+        "dates": [
+          "1950",
+          "twenty years"
+        ]
+      },
+      "page_summary": "This page features expressive sketches of Edith Hamilton, a classical scholar and former headmistress, and Dr. Mordecai Johnson, long-time president of Howard University, along with related typeset captions noting their professional roles and timelines.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:00:33.405544+00:00"
+    }
+  ]
+}

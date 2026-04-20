@@ -1,0 +1,35 @@
+name: Surface
+layer: retrieval
+status: proposal
+one_line: Resurfaces older notes when they are likely to be relevant again.
+problem: Notes get captured and forgotten. The archive becomes a graveyard unless something brings useful material back at the right time.
+inputs:
+  - local note corpus
+  - recent daily notes
+  - semantic similarity signals
+  - review context
+outputs:
+  - ranked list of notes worth revisiting
+  - candidate resurfacing digest for review
+dependencies:
+  - note-system corpus
+  - parsing and embedding passes over local notes
+example: During a weekly review, Surface could show the user a note from two years ago about library service that suddenly matters again while he is designing Ladder.
+audience_value:
+  all_staff: It helps useful things you already wrote come back when they matter again instead of staying buried in old notes.
+  student: It can make an old class note useful again when a new assignment suddenly connects to it.
+  collaborator: It makes retrieval proactive rather than query-only, which raises questions about scoring, explainability, and trust.
+  self: It is one of the clearest examples of the system trying to fight note decay instead of just storing more text.
+next_rung:
+  all_staff: Ask the user to show a real example of an old note becoming relevant again during recent work.
+  student: Keep daily notes for two weeks, then try looking for something older that unexpectedly still matters.
+  collaborator: Start with the ranking logic and the question of how Surface should explain why something was resurfaced.
+  self: Decide whether Surface needs explicit rationale output so a resurfaced note feels inspectable rather than magical.
+limitations:
+  - It is still a proposal rather than a finished tool
+  - Relevance scoring can be persuasive without being correct
+  - A resurfaced note still needs human judgment to matter
+relationships:
+  - Builds on the note-system corpus and review habit.
+  - Can feed Bridge by making candidate notes visible again.
+  - Gives Ladder a concrete retrieval story to explain.

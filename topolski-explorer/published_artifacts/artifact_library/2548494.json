@@ -1,0 +1,220 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548494",
+    "title": "Topolski's Chronicle, V.3 No.5-7, 1955",
+    "date": "1955",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6ddfgfy",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6ddfgfy",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 7,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE No. 5-7 (41-43) Vol. III 1955 of a voyage round the world (q)\nThe plane descends, as in a forced landing, on sheer jungle. Seven rough miles away, Kuching, the capital of Sarawak, grips at the river bank; seemingly against odds. There are no roads, nor other towns but outpost stations, slender mapping. The jungle stares from across the river at the Secretariat, where the Englishman, the Euro-Asian, and the Malay officiate. Sikhs on sentry posts. All round it the Chinese traders market European 'goods'; further away a Chinese temple, a mosque, and a missionary school; a Malay pro-White Raja plotter, a Communist editor, a government educationalist and an English lover of 'the noble savage' each to influence the spirit. Government House there still hangs portraits of the three White Rajas. Three generations and a complete tale: the romantic conqueror, the hard-headed consolidator, and the spent dreamer-with-reaked features. And then the jungle. And in the jungle! the Dyak who returned to head-hunting, when they took the side of the British against the Japanese ... one reaches them by boat up the river and on foot through marshy bush. Yet more often than not, at the end of the trek, anti-climax. A Chinese trading compound where the Dyak buys his first shirt and his first bottle of 'arak'. Only noon, and the traveller can squat on the floor of a 'longhouse'. And not a minute too soon. In a very short while the savage Utopia of the Dyak will give way to the threefold pressure: the Chinese worship import and export; the British, forced by the pace of history, must act progress, often regretfully, to their allies in Borneo.",
+      "handwritten_text": "UNIVERSITY OF UTAH LIBRARIES SARAWAK (Borneo) \nMALAYAN MUMMY \nSir Charles Brooke 2nd White Rajah of Sarawak b. 1829\u2014d. 1917",
+      "sketch_descriptions": [
+        "A woman sits in an airplane reading a newspaper, with another passenger next to her and the headline in a Southeast Asian script.",
+        "A rough, expressive landscape sketch showing a river, jungle, mountains, and figures\u2014likely landing near Kuching.",
+        "A small drawing of a display case or container labeled 'MALAYAN MUMMY' showing a preserved form.",
+        "A portrait of a man in colonial attire standing confidently, possibly one of the White Rajas.",
+        "A bust portrait labeled as Sir Charles Brooke, the 2nd White Rajah of Sarawak, with decorative handwriting beneath.",
+        "A more somber bust portrait of a man with medals, another likely White Rajah.",
+        "A crowd scene of various people waiting or gathering, possibly at the riverbank, including European, local, and military figures.",
+        "A group of figures in looser sketch, possibly representing jungle dwellers or traders amid markets."
+      ],
+      "entities": {
+        "people": [
+          "Sir Charles Brooke",
+          "the White Rajas",
+          "Malay pro-White Raja plotter",
+          "Communist editor",
+          "English lover of 'the noble savage'",
+          "British",
+          "Euro-Asian",
+          "Malay",
+          "Sikhs",
+          "Chinese traders",
+          "Dyak"
+        ],
+        "places": [
+          "Kuching",
+          "Sarawak",
+          "Borneo",
+          "Chinese temple",
+          "mosque",
+          "missionary school",
+          "Government House",
+          "river",
+          "longhouse"
+        ],
+        "events": [
+          "the British against the Japanese"
+        ],
+        "dates": [
+          "1955",
+          "1829\u20131917"
+        ]
+      },
+      "page_summary": "This page chronicles a flight into Kuching, Sarawak in the 1950s, observing its colonial legacies, ethnic mix, and the role of the White Rajas through sketches, portraits, and handwritten notations. Diverse scenes capture colonial officials, traders, local Dyak, and remnants of British rule amid encroaching modern pressures.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:50:49.835715+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "UNIVERSITY OF UTAH LIBRARIES",
+      "handwritten_text": "427 Kuching Headache 429 Kuching 430 Long Betang (Rice) Lupar. M. Zaini Batang Lupar",
+      "sketch_descriptions": [
+        "A composition of expressive faces and figures, including a person with large earrings and exaggerated features, possibly referencing local or tribal imagery, labeled 'Kuching Headache'.",
+        "A bustling riverside scene with figures standing and interacting on a wooden dock, some fishing or working, overlooking a wide river with distant trees and a cloudy sky.",
+        "A busy port area labeled 'Kuching', with people disembarking from a boat, interacting on the pier, and a colonial-era building in the background.",
+        "A wide river view labeled 'Long Betang (Rice) Lupar', showing a large group of people gathered at the riverbank beneath dramatic clouds, with a few figures in the foreground observing the scene."
+      ],
+      "entities": {
+        "people": [
+          "M. Zaini"
+        ],
+        "places": [
+          "Kuching",
+          "Long Betang",
+          "Lupar",
+          "Batang Lupar"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page documents scenes along the rivers of Sarawak, Borneo, with lively depictions of daily life at Kuching and Long Betang. Pencil notes and captions add regional context, and one person, M. Zaini, is mentioned alongside views of riverside settlement and social activity.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:50:54.753669+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "COURTESY OF LUBRA LENSES",
+      "handwritten_text": "Biyam bazaar by local artist. Give tract present at village waddy. The return banquet. The king in meditation on his successor. Police Inspector. The king. Maharaja of Udaipur. Maharaja of Bikaner. Maharaja of Jodhpur. Maharaja of Jaipur. Maharaja of Alwar. Maharaja of Kota. Maharaja of Bundi. Maharaja of Dungarpur.",
+      "sketch_descriptions": [
+        "A group of men seated at a table, some holding glasses or bottles, engaged in conversation; a bottle and glass visible on the table.",
+        "A scene with multiple figures working around a structure with poles or stilts; one person is sitting at a lower level writing or drawing, with a large lantern nearby.",
+        "An indoor domestic scene with a woman sitting cross-legged, nursing a child on a mat, with another child and various household items in the background.",
+        "A large banquet or meeting scene showing a round table surrounded by numerous people, food and dishes in front of them, several of whom are identified by handwritten notes as local royalty or officials.",
+        "A group of women in saris standing and talking outdoors, possibly by a fence or in a garden-like setting."
+      ],
+      "entities": {
+        "people": [
+          "king",
+          "Police Inspector",
+          "Maharaja of Udaipur",
+          "Maharaja of Bikaner",
+          "Maharaja of Jodhpur",
+          "Maharaja of Jaipur",
+          "Maharaja of Alwar",
+          "Maharaja of Kota",
+          "Maharaja of Bundi",
+          "Maharaja of Dungarpur"
+        ],
+        "places": [
+          "Biyam bazaar",
+          "village waddy"
+        ],
+        "events": [
+          "return banquet"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page captures scenes from a royal or official gathering in India, featuring local royalty at a banquet, daily life in a village, and moments of interaction among community members. The sketches and notes highlight social rituals, local personalities, and everyday domestic settings.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:51:23.525898+00:00"
+    },
+    {
+      "page_number": 4,
+      "typeset_text": "",
+      "handwritten_text": "long house night Welemu (calabash?)",
+      "sketch_descriptions": [
+        "Large expressive sketch of a longhouse interior crowded with seated and standing figures, some in conversation, others appearing to rest or interact; several vertical beams support the open roof structure.",
+        "A dog is shown toward the lower right corner of the scene.",
+        "Background suggestions of baskets, architectural details, and household items."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Welemu"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page captures a densely populated interior scene in a longhouse at night in Welemu, with numerous individuals gathered in a communal setting and a dog in the foreground.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:51:49.536015+00:00"
+    },
+    {
+      "page_number": 5,
+      "typeset_text": "",
+      "handwritten_text": "Drums\nSt. Mark's Ave at Washington\nBlack sculptor, etc, etc.",
+      "sketch_descriptions": [
+        "A large group of people, many seated on the floor, in a dynamic communal interior surrounded by pillars and hanging objects, with a strong central figure and many attentive faces.",
+        "A lively street scene showing multiple figures in energetic motion, several adorned with elaborate feathered or floral headpieces, suggestive of a parade or celebration, set in an urban context.",
+        "A seated group of people, closely clustered in the foreground, with an individual labeled as a black sculptor, situated in an art-filled room with statues and reliefs visible in the background."
+      ],
+      "entities": {
+        "people": [
+          "black sculptor"
+        ],
+        "places": [
+          "St. Mark's Ave at Washington"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page features expressive sketches of communal gatherings, a vibrant street scene, and an intimate depiction of an artist within a sculptural environment. Handwritten captions provide sparse context connecting the visuals to specific places and people.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:51:55.276118+00:00"
+    },
+    {
+      "page_number": 6,
+      "typeset_text": "",
+      "handwritten_text": "Longhead\nSHWEE LA[?] KELABIT",
+      "sketch_descriptions": [
+        "A group of seated figures in a loose interior setting, drawn with energetic lines and surrounded by abstract spatial forms, with a rooster in the foreground.",
+        "Several figures sitting on a wooden platform with plants in the background, accompanied by a rooster and possibly another bird, the atmosphere informal and communal.",
+        "Four figures depicted in profile with elaborate headdresses, ear ornaments, and detailed hairstyles, indicating ceremonial or cultural attire, labeled as 'Kelabit.'"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Kelabit"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page assembles expressive sketches of communal gatherings and portraits, with detailed depictions of individuals wearing traditional attire identified as 'Kelabit.' It reflects group dynamics and cultural elements likely observed firsthand.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:52:20.459861+00:00"
+    },
+    {
+      "page_number": 7,
+      "typeset_text": "THIS TRIPLE ISSUE COSTS 7s 6d\n'TOPOLSKI'S CHRONICLE' IS PUBLISHED 24 TIMES A YEAR AT 2s 6d. A COPY. YEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE \u00a33. 3s. (89 or equivalent); SHORTER PERIODS PRO RATA. AIR MAIL BY QUOTATION.\nSUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME\nLithographed in Great Britain by C.A.P.S. Ltd., Dean Street, London, W.1., and published from Bridge Arch 158, Sutton Walk, South Bank, London, S.E.1. Copyright reserved",
+      "handwritten_text": "",
+      "sketch_descriptions": [
+        "Three expressive line drawings of young children, two with hands on hips and one with an arm raised, all with distinct facial expressions, positioned prominently at the center and right side of the page.",
+        "A small, rough sketch of an ambiguous object or figure in the bottom left corner next to a dome-like form."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Great Britain",
+          "Dean Street, London",
+          "Bridge Arch 158, Sutton Walk, South Bank, London"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page features large, expressive sketches of three children and some smaller background forms. Typeset subscription and publication information for Topolski's Chronicle appears at the bottom.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:52:47.494930+00:00"
+    }
+  ]
+}

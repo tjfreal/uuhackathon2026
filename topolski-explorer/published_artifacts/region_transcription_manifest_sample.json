@@ -1,0 +1,687 @@
+{
+  "schema_version": "2026-04-19-region-transcription-v1",
+  "manifest_type": "region_transcription_experiment",
+  "source_crop_manifest_path": "published_artifacts/region_crop_manifest_sample.json",
+  "source_crop_manifest_schema_version": "2026-04-19-region-crop-manifest-v1",
+  "model": "gpt-4.1",
+  "generated_at": "2026-04-19T20:08:56.281797+00:00",
+  "notes": [
+    "Region outputs are experimental and comparison-oriented.",
+    "Crop provenance is provisional unless later stages attach measured geometry.",
+    "This manifest mirrors page-level fields where practical so region-vs-page comparisons stay simple."
+  ],
+  "items": {
+    "2548454": {
+      "pages": {
+        "1": {
+          "page_number": 1,
+          "regions": [
+            {
+              "region_id": "2548454-p001-r001-typeset_block",
+              "region_type": "typeset_block",
+              "crop_path": "page_0001_region_01_typeset_block_PROVISIONAL.jpg",
+              "bounds": {},
+              "provenance": {
+                "provisional": true,
+                "basis": "provisional_layout_scaffold",
+                "source_manifest_path": "published_artifacts/region_crop_manifest_sample.json",
+                "source_manifest_schema_version": "2026-04-19-region-crop-manifest-v1",
+                "source_region_type": "typeset_block",
+                "source_region_notes": []
+              },
+              "typeset_text": "U.S.A. ELECTS PRESIDENT\nTOKYO \u00b7 FUJI \u00b7 KYOTO",
+              "handwritten_text": "",
+              "sketch_descriptions": [
+                "Sketch of a man's profile labeled 'U.S.A. ELECTS PRESIDENT'.",
+                "Scene with people in front of traditional buildings, labeled 'TOKYO \u00b7 FUJI \u00b7 KYOTO'.",
+                "Part of a much larger portrait of a suited man with an elongated face dominates the right side.",
+                "A partial red sketch with indistinct forms in the lower left."
+              ],
+              "entities": {
+                "people": [],
+                "places": [
+                  "U.S.A.",
+                  "TOKYO",
+                  "FUJI",
+                  "KYOTO"
+                ],
+                "events": [
+                  "U.S.A. elects president"
+                ],
+                "dates": []
+              },
+              "page_summary": "This crop features sketches with captions, specifically referencing a U.S. presidential election and travel to Japanese cities, alongside a large expressive portrait. Only fragments of editorial content are visible.",
+              "model": "gpt-4.1",
+              "transcribed_at": "2026-04-19T20:05:19.935325+00:00"
+            },
+            {
+              "region_id": "2548454-p001-r002-sidebar",
+              "region_type": "sidebar",
+              "crop_path": "page_0001_region_02_sidebar_PROVISIONAL.jpg",
+              "bounds": {},
+              "provenance": {
+                "provisional": true,
+                "basis": "provisional_layout_scaffold",
+                "source_manifest_path": "published_artifacts/region_crop_manifest_sample.json",
+                "source_manifest_schema_version": "2026-04-19-region-crop-manifest-v1",
+                "source_region_type": "sidebar",
+                "source_region_notes": []
+              },
+              "typeset_text": "",
+              "handwritten_text": "",
+              "sketch_descriptions": [
+                "Expressive, loosely inked sketch possibly depicting the upper body, arm, and head of a person, with visible dynamic lines suggesting movement or drapery."
+              ],
+              "entities": {
+                "people": [],
+                "places": [],
+                "events": [],
+                "dates": []
+              },
+              "page_summary": "This crop shows a fragment of an expressive illustrated figure drawn in ink, with no visible text or clear identifiers. The image appears to be a partial view, likely from a marginal or sidebar area of the page.",
+              "model": "gpt-4.1",
+              "transcribed_at": "2026-04-19T20:05:23.540278+00:00"
+            },
+            {
+              "region_id": "2548454-p001-r003-sketch_region",
+              "region_type": "sketch_region",
+              "crop_path": "page_0001_region_03_sketch_region_PROVISIONAL.jpg",
+              "bounds": {},
+              "provenance": {
+                "provisional": true,
+                "basis": "provisional_layout_scaffold",
+                "source_manifest_path": "published_artifacts/region_crop_manifest_sample.json",
+                "source_manifest_schema_version": "2026-04-19-region-crop-manifest-v1",
+                "source_region_type": "sketch_region",
+                "source_region_notes": []
+              },
+              "typeset_text": "U.S.A. ELECTS PRESIDENT\nTOKYO - FUJI - KYOTO",
+              "handwritten_text": "",
+              "sketch_descriptions": [
+                "Large expressive sketch of a standing figure in a suit holding a hat, occupying the right half of the crop.",
+                "Small line sketch of a person holding flowers or objects, accompanied by another figure in the background.",
+                "Portrait sketch of a man in profile.",
+                "Sketch of several people and structures, possibly depicting a scene in Japan.",
+                "Dense, textured sketch of a person or people, marked 'VARIATIONS ON THE THEME G.B.S.'",
+                "Small sketched scene of two figures and a background, and a portrait-like head."
+              ],
+              "entities": {
+                "people": [],
+                "places": [
+                  "Tokyo",
+                  "Fuji",
+                  "Kyoto",
+                  "U.S.A."
+                ],
+                "events": [
+                  "U.S.A. Elects President"
+                ],
+                "dates": []
+              },
+              "page_summary": "This crop features a large sketch of a formally dressed person and a grid of smaller scene and portrait sketches labeled with references to Japan and a U.S. presidential election, suggesting themes of international events and notable individuals.",
+              "model": "gpt-4.1",
+              "transcribed_at": "2026-04-19T20:05:29.044975+00:00"
+            }
+          ]
+        },
+        "2": {
+          "page_number": 2,
+          "regions": [
+            {
+              "region_id": "2548454-p002-r001-index_or_list",
+              "region_type": "index_or_list",
+              "crop_path": "page_0002_region_01_index_or_list_PROVISIONAL.jpg",
+              "bounds": {},
+              "provenance": {
+                "provisional": true,
+                "basis": "provisional_layout_scaffold",
+                "source_manifest_path": "published_artifacts/region_crop_manifest_sample.json",
+                "source_manifest_schema_version": "2026-04-19-region-crop-manifest-v1",
+                "source_region_type": "index_or_list",
+                "source_region_notes": []
+              },
+              "typeset_text": "ANDREW RITCHIE of the NEW YORK MUSEUM OF MODERN ART ... Today Topolski has perhaps no equal in reportorial draughtsmanship. ... SIR JOHN ROTHENSTEIN, the Director of the TATE GALLERY, London: ... We should be grateful that an artist of such panoramic vision, animated by so robust an interest in the whole life of man as Feliks Topolski, is among us. ... BERNARD SHAW: ... the greatest living draughtsman; perhaps the greatest of all the impressionists in black and white. ... THE TIMES (London): That unique fortnightly modern broadsheet published ... and syndicated round the world, by air subscription from Tokyo to Buenos Aires. ... REALITES (Paris): The rapid call to arms en masse of Topolski's entire Chronicle line forms a unique structure dans son propre talent et dans l'histoire de l'art contemporain: cette Chronicle. ... CARREFOUR (Paris): Chronique formelle qui marquera une date dans son propre talent et dans l'histoire de l'art contemporain: cette Chronicle. ... THE HINDUSTAN TIMES (New Delhi): Topolski is cosmopolitan in outlook and concept, exploring his Roman and Chinese ancestry as he appeals to the imagination with the surreal element of abstraction and contemporary colours. ... GRAPHIS (Zurich): Wherever he goes he is a great traveller. Wherever he finds himself he chooses to meet new influences which are his choice in the sense that he is a world citizen. ... THE IRISH TIMES (Dublin): ... his pictures are commentaries as well as records. HARPER'S BAZAAR (New York): Lisa Bowell's famous Journal, the Chronicle are devoted to trapping the spirit and shape of our time. ... ART DIRECTION (New York): Chronicle obtained him a medal from the New York Art Directors' Club. ... AMERICAN ARTIST (New York): When has there been an artist who has been as well-equipped to be an epic, panoramic graphic chronicler of the entire world? I believe the answer to be: never until now, and the artist is Feliks Topolski. HEADLINE FROM ARTE (Buenos Aires): Topolski 1 x Comedia Humana\nCORONATION OF H.M. Queen Elizabeth II. No. 2 Sir Winston Churchill. No. 3 London. No. 4 Conferences and Congresses; No. 6 Spain II\u2014Madrid; No. 7 Spain III; No. 8 England\u2014County Horse Shows; No. 9 London Freaks, Misfits, Circ ... No. 10-11 Mid-Century Retrospect; No. 12 Mother and Child.\n1954\nNo. 1, 1954: London\u2014Bombay. No. 2 (14) Bombay, India, the countryside; No. 3 (15) New Delhi; No. 4 (16) With Nehru on his Tour; No. 5 (18) The Rulers and Rajahs of the South, Calcutta; No. 6 (19) Prophets, saints, crusaders of the West; No. 8 (20) ... Viet-Nam, Indo-China. No. 9 (13) Season\u2014Spring. No. 10-11 (17) English Theatre; No. 12 English Theatre. No. 13 (21) Calcutta; No. 14 (26) Buddhism, Southern School. No. 15 (27) Burma. No. 16 (28) The Great Up Sein and the Phoenix. No. 17 (29) The Labour Party of Britain. No. 18 (30) Nationalism and the New Crown Colony of ... Malaya. No. 19 (31) Malaya. No. 20 (32) Malayan Government\u2014Summary of Annual Abstract of Statistics for the U.K. No. 22-23 (34-35) Hong Kong...\n1955\nNo. 1 (35) Nehru \"The Song of Business\". No. 2 (38) Macau; No. 3-4 (39-40) The Artist in Modern Society. No. 5-7 (41-43) Poland; No. 8-9 (44-45) Tokyo and Kyoto; No. 10-12 (47-49) U.S.A. San Francisco; No. 13 (50) San Francisco; No. 15 (51) Hollywood; No. 16 (52) Brazilian Dancers. No. 18-22 (54-58) New York. No. 23-24 (59-60) Washington D.C\n1956\nNo. 1 (61) U.S.A. Elects President. No. 3 (63) Spirit of Geneva. No. 4-5 (64-65) Dublin. No. 6 (66) Irish and Anglo-Irish; No. 7-8 (67-68) America and Krushchev in London. No. 9 (69) Detail of Mural at Victoria Memorial Hall, Singapore. No. 10-12 (71-73) The Problem of the Middle East. No. 13 (74-76) Youth Festival in Warsaw. No. 14-16 (77-79) U.S.A. Teenage and Elvis (rock'n'roll) Presley. No. 22-24 (83-85) Paris.",
+              "handwritten_text": "",
+              "sketch_descriptions": [
+                "A small group of figures in motion, possibly dancing or engaged in lively activity, rendered in expressive line work.",
+                "A band of five stylized figures grouped together, depicted with minimal detail.",
+                "A rectangular illustrated editorial block featuring figures and text, possibly a scene or narrative with dense handwritten or printed matter."
+              ],
+              "entities": {
+                "people": [
+                  "Feliks Topolski",
+                  "Andrew Ritchie",
+                  "Sir John Rothenstein",
+                  "Bernard Shaw",
+                  "Sir Winston Churchill",
+                  "Queen Elizabeth II",
+                  "Nehru",
+                  "Elvis Presley"
+                ],
+                "places": [
+                  "New York",
+                  "London",
+                  "Tokyo",
+                  "Buenos Aires",
+                  "Paris",
+                  "Zurich",
+                  "New Delhi",
+                  "Dublin",
+                  "Bombay",
+                  "Spain",
+                  "Madrid",
+                  "England",
+                  "County Horse Shows",
+                  "U.K.",
+                  "Vietnam",
+                  "Indo-China",
+                  "Calcutta",
+                  "Burma",
+                  "Hong Kong",
+                  "Macau",
+                  "Poland",
+                  "Tokyo",
+                  "Kyoto",
+                  "San Francisco",
+                  "Hollywood",
+                  "Brazil",
+                  "Washington DC",
+                  "Geneva",
+                  "Victoria Memorial Hall, Singapore",
+                  "Warsaw",
+                  "U.S.A.",
+                  "Paris",
+                  "Malaya"
+                ],
+                "events": [
+                  "Coronation of H.M. Queen Elizabeth II",
+                  "Mid-Century Retrospect",
+                  "Annual Abstract of Statistics for the U.K.",
+                  "Youth Festival in Warsaw",
+                  "English Theatre",
+                  "The Song of Business"
+                ],
+                "dates": [
+                  "1953",
+                  "1954",
+                  "1955",
+                  "1956"
+                ]
+              },
+              "page_summary": "This crop contains excerpts from reviews and commentary on Topolski's Chronicle, along with a sequential, numbered index of issues and their key thematic subjects and events spanning 1953 to 1956. Multiple languages, editorial testimonials, and issue listings for Topolski's Chronicle are visible, together with several illustrated vignette sketches.",
+              "model": "gpt-4.1",
+              "transcribed_at": "2026-04-19T20:06:05.578982+00:00"
+            },
+            {
+              "region_id": "2548454-p002-r002-typeset_block",
+              "region_type": "typeset_block",
+              "crop_path": "page_0002_region_02_typeset_block_PROVISIONAL.jpg",
+              "bounds": {},
+              "provenance": {
+                "provisional": true,
+                "basis": "provisional_layout_scaffold",
+                "source_manifest_path": "published_artifacts/region_crop_manifest_sample.json",
+                "source_manifest_schema_version": "2026-04-19-region-crop-manifest-v1",
+                "source_region_type": "typeset_block",
+                "source_region_notes": []
+              },
+              "typeset_text": "Topolski has perhaps no equal as reportorial draughtsman. \u2013 SIR JOHN ROTHENSTEIN the Director of the TATE GALLERY, London: ... We should be grateful that an artist of such panoramic vision, animated by so robust an insight in the whole life of man as Felix Topolski, is at work among us. \u2013 BERNARD SHAW ... Topolski...an astonishing draughtsman; perhaps the greatest all the impressionists in black and white. THE TIMES (London): That unique fortnightly modern broadsheet published, written, signed single-handed and able to boast an array of subscribers from Tokyo to Buenos Aires. ... REALITES (Paris): La collection de ce magazine, veritable anthologie de la vie de ce temps, parait destinee a devenir la derniere que le talent de Topolski transforme son chronicle une oeuvre d\u2019art traversera le temps comme celles de ses grands predecesseurs. ... CARREFOUR (Paris): ... presente avec sa Chronicle une formule ormale qu marquera une date dans son propre talent et dans l\u2019histoire de l\u2019art contemporain ... cette Chronicle ... semble repondre et correspondre a une attente encore inexprimee, a une orientation latente du gout moderne du surrealisme et d\u2019abstraction. THE HINDUSTAN TIMES (New Delhi): ... Topolski is cosmopolitan in outlook and consequently appeals to the man in the street wherever he goes. ... GRAPHIS (Zurich): Wherever he goes he is a great traveller, he preserves what he sees for his Chronicle in the way that the camera can never hope to do. IRISH TIMES (Dublin): ... like Boswell\u2019s famous Journal, the Chronicles are devoted to trapping the spirit of our time. ART DIRECTION AWARD: ... The Chronicles earned him a medal from the New York Art Directors Club. ... AMERICAN ARTIST (New York): ...When has there been an artist to blend the daring, energy and skill to entwine allied form and matter on such a scale as this? HEADLINE FROM ARTE (Buenos Aires): ... \u2018Topolski y la Comedia Humana.\u2019",
+              "handwritten_text": "",
+              "sketch_descriptions": [
+                "A small group of standing figures, drawn in a quick, expressive style.",
+                "An abstract, chaotic line drawing that may depict a crowd or figures in motion."
+              ],
+              "entities": {
+                "people": [
+                  "Felix Topolski",
+                  "Sir John Rothenstein",
+                  "Bernard Shaw"
+                ],
+                "places": [
+                  "TATE GALLERY, London",
+                  "London",
+                  "Tokyo",
+                  "Buenos Aires",
+                  "Paris",
+                  "New Delhi",
+                  "Zurich",
+                  "Dublin",
+                  "New York"
+                ],
+                "events": [],
+                "dates": []
+              },
+              "page_summary": "This crop features an English block of printed editorial reviews and accolades for Topolski and his Chronicle, with international press quotes and references to his artistic prominence. Two expressive sketches are also present: one of a group of figures and one abstract line drawing.",
+              "model": "gpt-4.1",
+              "transcribed_at": "2026-04-19T20:06:14.001365+00:00"
+            },
+            {
+              "region_id": "2548454-p002-r003-sketch_region",
+              "region_type": "sketch_region",
+              "crop_path": "page_0002_region_03_sketch_region_PROVISIONAL.jpg",
+              "bounds": {},
+              "provenance": {
+                "provisional": true,
+                "basis": "provisional_layout_scaffold",
+                "source_manifest_path": "published_artifacts/region_crop_manifest_sample.json",
+                "source_manifest_schema_version": "2026-04-19-region-crop-manifest-v1",
+                "source_region_type": "sketch_region",
+                "source_region_notes": []
+              },
+              "typeset_text": "TOPOLSKI'S KRONIKE",
+              "handwritten_text": "",
+              "sketch_descriptions": [
+                "A horizontal group of roughly sketched human figures, appearing to be walking or engaged in animated discussion, rendered in expressive, minimal style."
+              ],
+              "entities": {
+                "people": [],
+                "places": [],
+                "events": [],
+                "dates": []
+              },
+              "page_summary": "This crop captures a sketch of a group of people alongside the caption 'TOPOLSKI'S KRONIKE', serving as a potential visual emblem or logo for the publication.",
+              "model": "gpt-4.1",
+              "transcribed_at": "2026-04-19T20:06:37.741528+00:00"
+            }
+          ]
+        },
+        "3": {
+          "page_number": 3,
+          "regions": [
+            {
+              "region_id": "2548454-p003-r001-index_or_list",
+              "region_type": "index_or_list",
+              "crop_path": "page_0003_region_01_index_or_list_PROVISIONAL.jpg",
+              "bounds": {},
+              "provenance": {
+                "provisional": true,
+                "basis": "provisional_layout_scaffold",
+                "source_manifest_path": "published_artifacts/region_crop_manifest_sample.json",
+                "source_manifest_schema_version": "2026-04-19-region-crop-manifest-v1",
+                "source_region_type": "index_or_list",
+                "source_region_notes": []
+              },
+              "typeset_text": "1953 VOLUME I LIST OF DRAWINGS No. 1 CORONATION OF H.M. QUEEN ELIZABETH II (1) A peer at the Coronation Dress Rehearsal (2) The Prime Ministers' Procession (3) The Royal Marines arrive at the Abbey (4) The Duke of Norfolk receives the Princes and Princesses of the blood Royal at the Abbey (5) The Queen Mother's Procession (6) The Peers' Procession in the Abbey (7) The procession in the Abbey at the conclusion of the Ceremony (8) The Queen at the conclusion of the Ceremony (9) The public (10) In the Abbey (11) The Peers in the rain (12) After the Ceremony No. 2 SIR WINSTON CHURCHILL (13) (14) (15) (16) No. 3. LONDON (17) The Thames\u2014City of London (18) Central London (19) South London (20) Edgware Road (21) Speakers in Hyde Park (22) Piccadilly No. 4. CONFERENCES AND CONGRESSES (23) Seretse Khama of Bechuanaland and his wife (24) A Peace Conference (25) (26) (27) (28) (29) London Conference for World Government (31) International Conference of Youths for Peace (32) at the Hague Congress (33) United Europe Conference No. 5 SPAIN I (34) Old Castile (35) The Mediterranean Shore (36) At the foot of the Sierra Nevada (37) Near Cordoba (38) Ascent of the Picos in Segovia (39) (40) In Segovia Cathedral No. 6. SPAIN II\u2014MADRID (41) In La Gran Via (42) (43) (44) Plaza de Toros (45) Carmen Amaya at Teatro Fontalba (46) Social Gathering No. 7 SPAIN III (47) Seville\u2014the Church of San Salvador (48) Seville\u2014at La Terraza (49) Seville\u2014Inside the cathedral (50) Seville\u2014at Cerveceria la Espanola (51) Seville\u2014Archivo de Indias (Casa Longa) (52) Seville\u2014Plaza del Salvador (53) Seville\u2014inside the Cathedral (54) Seville\u2014Plaza del Salvador (55) Fiesta in Andalusia (56) Ronda (57) In Malaga No. 8. ENGLAND\u2014COUNTY HORSE SHOWS (58) County Horse Show (59) Horse Show in Kent (60) Eton Sneakoys Gymkhana (62) Windsor Horse Show No. 9. FREAKS, MISFITS, GROTESQUES, ECCENTRICS, ETC. (64) The Old Sportsman (65) Buskers in session (66) In Regent's Park (67) Mr Feathers (68) In Leicester Square (69) In Harrow Road (70) Augustus John No. 10-11 MID-CENTURY RETROSPECT (71) 'Displaced Persons' (72) Warsaw after the war (73) Divided Berlin First U.N.O. Assembly (75) Wailing Wall, Jerusalem (76) Palestinian Arab (77) Palestinian Beduin (78) Calcutta Maidan (79) Republic of India (80) Mahatma Gandhi (81) Nehru (81B) The High Commissioner of Malaya (82) Borneo Jungle\u2014Head-hunter in sheep attire (83) India (84) Annamite patrol in Indo China (85) N.E.I. (86) Prisoner of war Hong Kong (86B) General MacArthur in Tokyo (87) Kenya Farm (88) Meeting of U.S. and British ...",
+              "handwritten_text": "",
+              "sketch_descriptions": [],
+              "entities": {
+                "people": [
+                  "H.M. Queen Elizabeth II",
+                  "The Duke of Norfolk",
+                  "The Queen Mother",
+                  "Sir Winston Churchill",
+                  "Seretse Khama",
+                  "Carmen Amaya",
+                  "Mahatma Gandhi",
+                  "Nehru",
+                  "The High Commissioner of Malaya",
+                  "General MacArthur",
+                  "Augustus John",
+                  "Mr Feathers"
+                ],
+                "places": [
+                  "London",
+                  "Hyde Park",
+                  "Piccadilly",
+                  "Hague",
+                  "Old Castile",
+                  "Mediterranean Shore",
+                  "Sierra Nevada",
+                  "Cordoba",
+                  "Segovia",
+                  "Madrid",
+                  "La Gran Via",
+                  "Plaza de Toros",
+                  "Teatro Fontalba",
+                  "Seville",
+                  "Church of San Salvador",
+                  "La Terraza",
+                  "Cerveceria la Espanola",
+                  "Archivo de Indias",
+                  "Plaza del Salvador",
+                  "Andalusia",
+                  "Ronda",
+                  "Malaga",
+                  "Kent",
+                  "Eton",
+                  "Regent's Park",
+                  "Leicester Square",
+                  "Harrow Road",
+                  "Warsaw",
+                  "Berlin",
+                  "Jerusalem",
+                  "Wailing Wall",
+                  "Calcutta Maidan",
+                  "India",
+                  "Borneo Jungle",
+                  "Indo China",
+                  "Hong Kong",
+                  "Tokyo",
+                  "Kenya Farm"
+                ],
+                "events": [
+                  "Coronation of H.M. Queen Elizabeth II",
+                  "London Conference for World Government",
+                  "International Conference of Youths for Peace",
+                  "Hague Congress",
+                  "United Europe Conference",
+                  "County Horse Shows",
+                  "Windsor Horse Show",
+                  "First U.N.O. Assembly"
+                ],
+                "dates": [
+                  "1953"
+                ]
+              },
+              "page_summary": "This crop is an index listing the drawings for Volume I of Topolski's 1953 Chronicle, detailing scenes and events such as the coronation of Queen Elizabeth II, notable figures, locations in London, Spain and beyond, as well as a variety of social, political, and retrospective world events. The structure preserves entry numbers and identifies key topics and persons featured in the illustrations.",
+              "model": "gpt-4.1",
+              "transcribed_at": "2026-04-19T20:06:48.283110+00:00"
+            },
+            {
+              "region_id": "2548454-p003-r002-typeset_block",
+              "region_type": "typeset_block",
+              "crop_path": "page_0003_region_02_typeset_block_PROVISIONAL.jpg",
+              "bounds": {},
+              "provenance": {
+                "provisional": true,
+                "basis": "provisional_layout_scaffold",
+                "source_manifest_path": "published_artifacts/region_crop_manifest_sample.json",
+                "source_manifest_schema_version": "2026-04-19-region-crop-manifest-v1",
+                "source_region_type": "typeset_block",
+                "source_region_notes": []
+              },
+              "typeset_text": "1953 VOLUME I LIST OF DRAWINGS No. 1 CORONATION OF H.M. QUEEN ELIZABETH II (1) A peer at the Coronation Dress Rehearsal (2) The Prime Ministers' Procession (3) The Royal Marines arrive at the Abbey (4) The Duke of Norfolk receives the Princes and Princesses of the blood Royal at the Abbey (5) The Queen Mother's Procession (6) The Peers' Procession in the Abbey (7) The procession in the Abbey at the conclusion of the Ceremony (8) The Queen at the conclusion of the Ceremony (9) The public (10) In the Abbey (11) The Peers in the rain (12) After the Ceremony No. 2 SIR WINSTON CHURCHILL (13) (14) (15) (16) No. 3 LONDON (17) The Thames--City of London (18) Central London (19) South London (20) Edgware Road (21) Speakers in Hyde Park (22) Piccadilly No. 4 CONFERENCES AND CONGRESSES (23) Seretse Khama of Bechuanaland and his wife (24) A Peace Conference (25) (26) (27) (28) (29) (30) London Conference for World Government (31) International Congress of Intellectuals for Peace (32) At the Hague Congress (33) United Europe Conference No. 5 SPAIN I (34) Old Castile (35) The Mediterranean Shore (36) At the foot of the Sierra Nevada (37) Near Cordoba (38) Casa de los Picos in Segovia (39) (40) In Segovia (many) No. 6 SPAIN II--MADRID (41) In La Gran Via (42) (43) (44) Plaza de Toros (45) Carmen Amaya at Teatro Fontabla (46) Social Gathering No. 7 SPAIN",
+              "handwritten_text": "",
+              "sketch_descriptions": [],
+              "entities": {
+                "people": [
+                  "H.M. Queen Elizabeth II",
+                  "The Duke of Norfolk",
+                  "The Queen Mother",
+                  "Sir Winston Churchill",
+                  "Seretse Khama"
+                ],
+                "places": [
+                  "Abbey",
+                  "London",
+                  "Edgware Road",
+                  "Hyde Park",
+                  "Piccadilly",
+                  "Bechuanaland",
+                  "Hague",
+                  "Old Castile",
+                  "Mediterranean Shore",
+                  "Sierra Nevada",
+                  "Cordoba",
+                  "Casa de los Picos",
+                  "Segovia",
+                  "Madrid",
+                  "La Gran Via",
+                  "Plaza de Toros",
+                  "Teatro Fontabla"
+                ],
+                "events": [
+                  "Coronation of H.M. Queen Elizabeth II",
+                  "Prime Ministers' Procession",
+                  "Royal Marines arrive at the Abbey",
+                  "Queen Mother's Procession",
+                  "Peers' Procession",
+                  "Peace Conference",
+                  "London Conference for World Government",
+                  "International Congress of Intellectuals for Peace",
+                  "Hague Congress",
+                  "United Europe Conference"
+                ],
+                "dates": [
+                  "1953"
+                ]
+              },
+              "page_summary": "This crop contains a typeset list of drawings from 1953 Volume I of Topolski's Chronicle, focusing on notable events and people, including the coronation of Queen Elizabeth II and various conferences, processions, and locations in Britain and Spain.",
+              "model": "gpt-4.1",
+              "transcribed_at": "2026-04-19T20:07:16.031121+00:00"
+            },
+            {
+              "region_id": "2548454-p003-r003-sidebar",
+              "region_type": "sidebar",
+              "crop_path": "page_0003_region_03_sidebar_PROVISIONAL.jpg",
+              "bounds": {},
+              "provenance": {
+                "provisional": true,
+                "basis": "provisional_layout_scaffold",
+                "source_manifest_path": "published_artifacts/region_crop_manifest_sample.json",
+                "source_manifest_schema_version": "2026-04-19-region-crop-manifest-v1",
+                "source_region_type": "sidebar",
+                "source_region_notes": []
+              },
+              "typeset_text": "",
+              "handwritten_text": "",
+              "sketch_descriptions": [],
+              "entities": {
+                "people": [],
+                "places": [],
+                "events": [],
+                "dates": []
+              },
+              "page_summary": "This crop only shows a blank or mostly blank sidebar region with no visible text or illustrations. It does not appear to contain any readable content.",
+              "model": "gpt-4.1",
+              "transcribed_at": "2026-04-19T20:07:39.131474+00:00"
+            }
+          ]
+        },
+        "4": {
+          "page_number": 4,
+          "regions": [
+            {
+              "region_id": "2548454-p004-r001-index_or_list",
+              "region_type": "index_or_list",
+              "crop_path": "page_0004_region_01_index_or_list_PROVISIONAL.jpg",
+              "bounds": {},
+              "provenance": {
+                "provisional": true,
+                "basis": "provisional_layout_scaffold",
+                "source_manifest_path": "published_artifacts/region_crop_manifest_sample.json",
+                "source_manifest_schema_version": "2026-04-19-region-crop-manifest-v1",
+                "source_region_type": "index_or_list",
+                "source_region_notes": []
+              },
+              "typeset_text": "1953 VOLUME I INDEX 4, 6, 7, 8, 10 England : Coronation of Queen Elizabeth II 83 County Horse Shows 33 London 17-22, 66-68 Sir Winston Churchill 13-14 Englishman Abroad 76, 77 Feathers, Mister 51 Fish, Andalusia 75 Frankfurt, Felix 38, 67 French Battalion Commdr., Indo-China 52 Granada, Spain 28 Funeral, Ronda, Spain 29 Gandhi, Mahatma 83 Gold Stick in Waiting 12 Grantham, Sir Alexander, Governor, Hong Kong, 1950 49, 51 Guria, Civil Police, Soldiers of Spain 34, 35, 41, 49, 51 Guards, Brigade of 9 Gurney, Sir Henry, High Commissioner, Malaya, 1950 83 Happy Diners 42-44 Headhunter, Borneo 20 Henderson, Rt. Hon. Arthur, Q.C., M.P. 83 Ho, Chinese Boundary --- Governor attends Ceremonial Occasion 78 Horse Shows 83 India : Calcutta 49, 87 King's Maidan --- Military Parade on day of Declaration of Republic 83 Malaya : Troops 52 Instructor by High Commissioner, Malaya 83 Israel 51 Jackson, Robert H. 84 Japan, Dr. Cheddi, P.M. of British Guiana 7 Japanese 83 Jews 10 Job, Augustus 29 Joucloir, Madame 19 Jungle, Borneo, Chinese trader's shop 20 Kabaka of Buganda 59 Kenya, Horse Shows 83 Kenyan Farm Labourers, Kenya 23 Kuala Lumpur, Malaya 46 London 17-22, 66-68 Eccleston Road 62 Feaks, Mists, Grotesques, Eccentrics, etc. 64 \"Good Time Girls\" 20 Harrow Road --- Hyde Park, Speakers 65 Icknield Street 63 Inside Valuers 60 Jack the Antelope * 22 London : \"Museum of Breeding\" 27 \"Zoot-suit\" girls 31 MacArthur, General 74, 77, 41 Mari Carmen Amaya at Teatro Fontalla 31 Market at Granada 28 Market Gatherings 32, 33 National Farmers' Waiting Room ... 30 Obituary : Bevin, Rt. Hon. Ernest 83 Gandhi, Mahatma 83 Gurney, Sir Henry 83 Shaw, George Bernard 83 Vandenberg, Senator 56 Vinson, Fred. M., Chief Justice 57 Wells, H. G. 58 Pages 75 Peeresses 86 Police : Calcutta (with Lathis) 49 Hong Kong 65 London 77 Malaya 83 Prasad, R., President of India 34, 35, 41, 47, 49, 51, 52, 53 Prime Ministers' Procession 79 Procession in Westminster Abbey 40 Public, Coronation Day 41 Queen Elizabeth II, Coronation of 63 Queen Mother's Procession 78 Queens of Arts 53 Reading, Dr. J. H. 80 Regiment 81 Robinson, Mrs. Eleanor 83 Royal Navy, Force Captain 68 Royal Navy, Commander 84 Russian Army 89 Sarawak, Borneo 75, 77 Segovia --- Casa los Picos 75 Selnang, H.H. the Sultan of 77 Seretse Khama of Bechuanaland and Wife 77 Singapore Horse Show and Gymkhana 77 Sevilla 35 Sevilla india de Indias 35 Show, India en Espalador 36 Soldier's daughter 41 Inside the Cathedral 36 Inscriptions 37 Joo Tau Kok, New Territories, Hong Kong 38 Sha Tin, Kowloon 39 Sierra Leone 87 Silver Stick in Waiting 12 Spain 28 South Front of Sierra Nevada 75 Spring, Andalusia 28 Student Cordoba 28 Student, Royal 28 Students, Vidaleria 29 Sunday, Coronation 42, 44 Synagogue, Old 62 Synagogue Court of U.S.A. 62 Temple, City of London 46 Tokyo --- United States, 1st General Assembly, London, 1946 41 United States, Supreme Court 42-44 Vinson, Fred. Chief Justice 57 Welsh, H. G. 58 Westminster Hall, Jerusalem 62 Williams, Supreme Court 63 Wells, H. G.",
+              "handwritten_text": "",
+              "sketch_descriptions": [],
+              "entities": {
+                "people": [
+                  "Queen Elizabeth II",
+                  "Sir Winston Churchill",
+                  "Felix Frankfurt",
+                  "Sir Alexander Grantham",
+                  "Sir Henry Gurney",
+                  "Rt. Hon. Arthur Henderson",
+                  "Robert H. Jackson",
+                  "Dr. Cheddi",
+                  "Augustus Job",
+                  "Madame Joucloir",
+                  "Kabaka of Buganda",
+                  "Mari Carmen Amaya",
+                  "General MacArthur",
+                  "Bevin, Rt. Hon. Ernest",
+                  "Mahatma Gandhi",
+                  "George Bernard Shaw",
+                  "Senator Vandenberg",
+                  "Fred. M. Vinson",
+                  "H. G. Wells",
+                  "R. Prasad",
+                  "Dr. J. H. Reading",
+                  "Mrs. Eleanor Robinson",
+                  "Seretse Khama",
+                  "H.H. the Sultan",
+                  "Queen Mother"
+                ],
+                "places": [
+                  "England",
+                  "London",
+                  "Andalusia",
+                  "Frankfurt",
+                  "Indo-China",
+                  "Spain",
+                  "Ronda, Spain",
+                  "Granada",
+                  "Borneo",
+                  "Malaya",
+                  "Hong Kong",
+                  "India",
+                  "Calcutta",
+                  "Kenya",
+                  "Kuala Lumpur, Malaya",
+                  "Eccleston Road",
+                  "Harrow Road",
+                  "Hyde Park",
+                  "Icknield Street",
+                  "Segovia",
+                  "Casa los Picos",
+                  "Selangor",
+                  "Buganda",
+                  "Kowloon",
+                  "Joo Tau Kok, New Territories, Hong Kong",
+                  "Sha Tin, Kowloon",
+                  "Sierra Leone",
+                  "Cordoba",
+                  "Vidaleria",
+                  "Synagogue Court of U.S.A.",
+                  "Temple, City of London",
+                  "Tokyo",
+                  "United States",
+                  "Westminster Abbey",
+                  "Westminster Hall",
+                  "Jerusalem"
+                ],
+                "events": [
+                  "Coronation of Queen Elizabeth II",
+                  "Military Parade on day of Declaration of Republic",
+                  "Prime Ministers' Procession",
+                  "Horse Shows",
+                  "Procession in Westminster Abbey",
+                  "Sunday, Coronation",
+                  "Singapore Horse Show and Gymkhana",
+                  "United States, 1st General Assembly, London, 1946"
+                ],
+                "dates": [
+                  "1953",
+                  "1950",
+                  "1946"
+                ]
+              },
+              "page_summary": "This crop shows a detailed index page for '1953 Volume I' of Topolski's Chronicle, listing people, places, events, and topics with page references. The index offers extensive cross-references to figures and significant occurrences of the year, preserving original numbering and categories.",
+              "model": "gpt-4.1",
+              "transcribed_at": "2026-04-19T20:08:23.891747+00:00"
+            },
+            {
+              "region_id": "2548454-p004-r002-typeset_block",
+              "region_type": "typeset_block",
+              "crop_path": "page_0004_region_02_typeset_block_PROVISIONAL.jpg",
+              "bounds": {},
+              "provenance": {
+                "provisional": true,
+                "basis": "provisional_layout_scaffold",
+                "source_manifest_path": "published_artifacts/region_crop_manifest_sample.json",
+                "source_manifest_schema_version": "2026-04-19-region-crop-manifest-v1",
+                "source_region_type": "typeset_block",
+                "source_region_notes": []
+              },
+              "typeset_text": "1953 VOLUME I\nEngland :\nCoronation of Queen Elizabeth II\nCounty Horse Shows\nLondon\nSir Winston Churchill\nEnglishman Abroad\nFeathers, Mister\nFiesta, Andalusia\nFrankfurter, Felix\nFrench Battalion Commdr., Indo-China\nFuneral, Ronda, Spain\nGandhi, Mahatma\nGaza, Palestine\nGold Stick in Waiting\nGrantham, Sir Alexander, Governor, Hong Kong, 1950\nGuardia Civil, Police, Soldiers of Spain\nGurney, Sir Henry, High Commissioner, Malaya, 1950\nGypsy Dancers\nHenderson, Rt. Hon. Arthur, Q.C., M.P.\nHong Kong\nChinese Boundary\nHorse show stands Ceremonial Occasion\nHussars\nCalcutta Maidan\nMilitary Parade on day of Declaration of Republic\nMahatma Gandhi\nIndo-China\nGurney, Sir Henry High Commissioner, Malaya\nJackson, Robert H.\nJagan, Dr. Cheddi, P.M. of British Guiana\nJerusalem\nJewels\nJoint-Fore, made\nObituary:\nBevin, Rt. Hon. Ernest\nGandhi, Mahatma\nGurney, Sir Henry\nShaw, George Bernard\nVandenberg, Senator\nWilson, Fred. M., Chief Justice\nWells, H. G.\nPages\nPastes\nPoets\nPeers\nPercesses\n\rCalcutta (with Lathis)\nLondon\nMalaya\nSpain\nPrasad, R., President of India\nPriests\nPrime Minister's Procession\nProcession in Westminster Abbey\nPublic, Coronation Day\nPursuivants of Arms\nQueen Elizabeth II, Coronation of\nQueen Mother's Procession\nRetinue\nReting, Dr. J. H.\nRoses\nRoyalty\nRussell, Mrs. Eleanor\nSampson, Royal Air Force, Group Captain\nSavory, Maj., Commander\nSuez Canal\nSpanish Army",
+              "handwritten_text": "",
+              "sketch_descriptions": [],
+              "entities": {
+                "people": [
+                  "Queen Elizabeth II",
+                  "Sir Winston Churchill",
+                  "Mahatma Gandhi",
+                  "Felix Frankfurter",
+                  "Sir Alexander Grantham",
+                  "Sir Henry Gurney",
+                  "Arthur Henderson",
+                  "Robert H. Jackson",
+                  "Dr. Cheddi Jagan",
+                  "Ernest Bevin",
+                  "George Bernard Shaw",
+                  "Senator Vandenberg",
+                  "Fred. M. Wilson",
+                  "H.G. Wells",
+                  "Dr. J. H. Reting",
+                  "Mrs. Eleanor Russell",
+                  "Maj. Savory"
+                ],
+                "places": [
+                  "England",
+                  "London",
+                  "Andalusia",
+                  "Indo-China",
+                  "Ronda, Spain",
+                  "Gaza, Palestine",
+                  "Hong Kong",
+                  "Chinese Boundary",
+                  "Calcutta Maidan",
+                  "Malaya",
+                  "Jerusalem",
+                  "Suez Canal",
+                  "Westminster Abbey",
+                  "Spain"
+                ],
+                "events": [
+                  "Coronation of Queen Elizabeth II",
+                  "Military Parade on day of Declaration of Republic",
+                  "Prime Minister's Procession",
+                  "Queen Mother's Procession",
+                  "Ceremonial Occasion",
+                  "Public, Coronation Day"
+                ],
+                "dates": [
+                  "1953",
+                  "1950"
+                ]
+              },
+              "page_summary": "This crop appears to show a detailed index or contents section from a publication dated 1953, listing notable people, places, and events including the Coronation of Queen Elizabeth II and prominent global figures. It includes obituary references, geographic locations, and ceremonial occasions covered in the volume.",
+              "model": "gpt-4.1",
+              "transcribed_at": "2026-04-19T20:08:33.434260+00:00"
+            }
+          ]
+        }
+      }
+    },
+    "2548455": {
+      "pages": {
+        "1": {
+          "page_number": 1,
+          "regions": [
+            {
+              "region_id": "2548455-p001-r001-typeset_block",
+              "region_type": "typeset_block",
+              "crop_path": "page_0001_region_01_typeset_block_PROVISIONAL.jpg",
+              "bounds": {},
+              "provenance": {
+                "provisional": true,
+                "basis": "provisional_layout_scaffold",
+                "source_manifest_path": "published_artifacts/region_crop_manifest_sample.json",
+                "source_manifest_schema_version": "2026-04-19-region-crop-manifest-v1",
+                "source_region_type": "typeset_block",
+                "source_region_notes": []
+              },
+              "typeset_text": "",
+              "handwritten_text": "",
+              "sketch_descriptions": [
+                "Expressive line drawing of a person in profile wearing a hat and coat, rendered with swirling and overlapping black lines."
+              ],
+              "entities": {
+                "people": [],
+                "places": [],
+                "events": [],
+                "dates": []
+              },
+              "page_summary": "This crop features a loose, expressive sketch of a person in profile, with no printed or handwritten text visible in the region.",
+              "model": "gpt-4.1",
+              "transcribed_at": "2026-04-19T20:08:56.281744+00:00"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

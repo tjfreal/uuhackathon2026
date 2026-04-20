@@ -1,0 +1,144 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548519",
+    "title": "Topolski's Chronicle, V.4 No.4-5, 1956",
+    "date": "1956",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6qvykgg",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6qvykgg",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 5,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI's CHRONICLE No. 4-5 (64-65) Vol IV 1956\n...nothing affirmeth and therefore never lyeth... Sir Phillip Sidney (1580)\nDUBLIN\nUNIVERSITY OF UTAH LIBRARIES",
+      "handwritten_text": "el. Blu\nMr. Keonich",
+      "sketch_descriptions": [
+        "A street scene featuring various figures drawn in an expressive, loose style, showing men and women walking and standing near arched doorways or building entrances.",
+        "Figures include a man in a long coat and hat, a woman in a dress and wide-brimmed hat, and smaller figures sketched near windows or doors representing people looking from windows.",
+        "The architecture is sketched with tall, rectangular window frames, arched doorways, and some indication of columns or gate-like structures."
+      ],
+      "entities": {
+        "people": [
+          "Sir Phillip Sidney",
+          "Mr. Keonich"
+        ],
+        "places": [
+          "Dublin"
+        ],
+        "events": [],
+        "dates": [
+          "1956",
+          "1580"
+        ]
+      },
+      "page_summary": "The page presents a loosely sketched street scene in Dublin accompanied by a typeset title and a quotation from Sir Phillip Sidney. It is from Topolski's Chronicle, volume IV, 1956.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:03:08.158526+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "619\n620\n621\n622\nUNIVERSITY OF UTAH LIBRARIES",
+      "handwritten_text": "Find a triple at V\\ [?]\nThe \"Shadflies\" by the Liffey\nDissi- Market",
+      "sketch_descriptions": [
+        "Top left sketch shows three figures standing in front of a background with some buildings and two smaller figures in the distance.",
+        "Bottom left sketch shows a group of people standing closely together outdoors, some wrapped in cloaks or shawls, with faint urban background details and a small dog near the bottom left.",
+        "Top right sketch features a close-up of a cow's head surrounded by several people, some wearing hats, curiously looking towards the animal; the scene is captioned 'Dissi-Market'.",
+        "Bottom right sketch illustrates an outdoor street scene with four figures in the foreground near a gated fence, with buildings and additional figures in the background; a sign reading 'DOGGETTS' is visible on a building in the distance."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Liffey"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page presents a series of charcoal or ink sketches depicting market scenes and groups of people, including a notable cow at the Dissi Market and a crowd near the Liffey, with handwritten captions naming the locations and subjects.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:03:12.463971+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "623",
+      "handwritten_text": "Felix Topolski Dublin",
+      "sketch_descriptions": [
+        "Black ink sketch of a street scene with people gathered along the sidewalks and buildings on both sides. The left side shows detailed architectural features and groups of people sitting or standing, while the right side features a red-toned building with windows and doorways."
+      ],
+      "entities": {
+        "people": [
+          "Felix Topolski"
+        ],
+        "places": [
+          "Dublin"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "The page features a sketch by Felix Topolski depicting a busy street scene in Dublin, with groups of people interacting in an urban setting framed by detailed buildings.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:03:35.972603+00:00"
+    },
+    {
+      "page_number": 4,
+      "typeset_text": "THE IRISH TIMES,\nCENSORSHIP BOA\nBAN ON 183 BOOKS\n\"The Forester,\" by Maria Kuncewicz; \"A Forest of Eyes,\" by Victor Canning; \"The Fragile Chain,\" by Annie Morcom; \"From Blood, by Brett Halliday; \"The Gates Of Life,\" by Hella Hammig.\n\"The Glorious Three,\" by June Wheelis; \"The Governor's Wife,\" by David Unwin; \"Green Forest Love,\" by Anne Phippen; \"Grit and Polish,\" by Oliver Anderson; \"A Gun In My Back,\" by Ace Capelli; \"Handle With Care,\" by Rick Madison; \"Harvest For Harpies,\" by Hans Lugar; \"Heart on the Left,\" by Leonhard Frank; \"Hellgate Canyon,\" Fred Delano; \"He Moved Away,\" Brett Vane; \"A History of Courting,\" by E. S. Turner; \"Home is Uprising,\" by Brian Harwin; \"Horseman, Pass By,\" by Dennis Parry; \"The House Of Men,\" by Marcel Ayme; \"Human Behaviour In The Concentration Camp,\" by Elie A. Cohen; \"In For Life,\" by Tom Runyon; \"Vintage,\" by Christopher Veillet; \"Its Easy Money,\" by Al Morici; \"Its Your Fourer,\" by Al Bocca; \"Jungle Comics,\" all editions.\n\"Cross The Deep,\" by John Keir Price; \"The Nags' Maze,\" by Felix Caine; \"Man In A Kilt Before Dying,\" by J. E. Lewis; \"Lady of China Street,\" by Mark Corrigan; \"The Last Resort,\" by Van Siller St. Leglos, (all editions); \"The Long Beat Home,\" by Peter Glading.\n\"The Long Shadow,\" by Denise Robins; \"Love's Blaze Burns On,\" by Wendy Malieson; \"A Love Knot,\" by J. E. Mikellatos; \"The Lovers' Pocketbook,\" by Raymond Penyet; \"Lucrezia Borgia,\" by Joan Haslip; \"The Lusty Land,\" by Valerie Taylor; \"Forbidden Fruit,\" by Curtis Lucas; \"Madame of Pompadour,\" by Nancy Mitford.\n\"Malas and females,\" by Roger Pilkington; \"The Man Who Died Twice,\" by Maurice Dekker; \"The Mercenary,\" by Jacques Robert; \"Merica Wade,\" by Eric Baume; \"The Midnight Male,\" by Ricky Drayton; \"The Midwife of Port Clery,\" by Flora Sandstrom; \"Mrs Otis Desires,\" by Ben Sarto; \"Miss Prunella's Prayer,\" by Jehanne d'Autume; \"Risky,\" by Lew Delila; \"Story of a Harem,\" all editions 204,\" by Ramon Lacroix; \"Saint,\" by Fritz Von; \"Savage Misters,\" by Jon A. Concubine; \"Eye Seducer,\" Royal Merry-go-round, by F. Kenyon.\n\"Save Your Tears,\" by Rick Madison; \"Scollay Square,\" by Pearl Schiff; \"See Problems in School,\" by Ren\u00e9 Allendy Hella Lobstein; \"Sex, Sin and Sanctity,\" by John Langdon-Davies; \"Sexual Fear,\" by Edwin W. Hirsch, B.S. M.D.; \"Sexual Life During The World War,\" by H. C. Fischer Jr.; Dr. E. X. Dubois; \"Shadow Play,\" by Conrad Phillips; \"The Sickle,\" by Max Catto; \"The Singing Stone,\" by Reardon Connors; \"Smiling Tigers,\" by Oliver Anderson; \"Sour de Suzette-\" (Sister of Suzette), by Charles Dumas; \"A Soul for Sale,\" by Henri Dupres; \"Sprite,\" various authors; \"Stolen Fruits,\" by various authors; \"Strange Customs of Guatemala,\" by Laramara; \"By William J. Fielding; \"Strangers and Lovers,\" by Edwin Granbery; \"Street Of the Barefoot Lovers,\" by Louis Foster; \"Strumpet City,\" the original title of Streets of Askelon,\" by Don Tracy; \"Swamp Kill,\" by Whit Harrison; \"Sweet & Low,\" by Nick Perrelli.\n\"Technique of Nude Photography, Volume II,\" by Philip Gilroy, A.R.P.S.; \"Tell Freedom,\" by Peter Abrahams; \"Thais of Monks' Temptation,\" A. Anahu France; \"That Dame S.II,\" by L. Linton; \"The Third Skin,\" by Joe Bingham; \"Thorn In The Flesh,\" by Oliver Anderson; \"Of The Widedses,\" by Loua Grace Erdman; \"Ticket Of Leave,\" by Georges Simenon; \"Titie Helga Moray; \"Tombolo,\" by Nicholas Freshen; \"Too Late for Youth,\" by Lizzy Daragh; \"Tooth Forest,\" by Robin Reddie. \"Trapped,\" by William Newton; \"The Troubled Midnight,\" by Rodolf Goodman; \"The Worm From Wonderland\" by unknown. \"Venus in Summer,\" by",
+      "handwritten_text": "Magistrate's Court, Dublin\nIrish Republic\nTB children & sanitorium\nThe President Mr Jean Thomas O'Kelly\n\"Father\" Paddy Brown of Galway University\nJack Keats",
+      "sketch_descriptions": [
+        "Group scene in a courtroom with several men including a figure in military uniform and a seated judge on a bench.",
+        "Profile portrait of an elderly man with glasses, with text identifying him as 'The President Mr Jean Thomas O'Kelly'.",
+        "Various sketches of children's faces, labeled TB children & sanitorium.",
+        "Portrait sketch of a man in profile with handwritten label 'Jack Keats'.",
+        "Profile portrait bust sketch of a man labeled 'Father Paddy Brown of Galway University'.",
+        "Large profile sketch of a man seated next to a page of censored Irish Times newspaper text listing banned books."
+      ],
+      "entities": {
+        "people": [
+          "Mr Jean Thomas O'Kelly",
+          "Paddy Brown",
+          "Jack Keats"
+        ],
+        "places": [
+          "Dublin",
+          "Galway University"
+        ],
+        "events": [
+          "Censorship ban on 183 books"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page features courtroom sketches, portraits including that of President Jean Thomas O'Kelly and Father Paddy Brown, and a censored page from The Irish Times listing 183 banned books during a censorship event.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:04:08.062005+00:00"
+    },
+    {
+      "page_number": 5,
+      "typeset_text": "\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 3s. 6d A COPY\nYEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE \u00a34. 4s. ($12 or equivalent). SHORTER PERIODS PRO RATA. AIR MAIL BY QUOTATION.\nSUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME\nHandprinted in Great Britain by Puets & Painters' Press 146 Sutton Walk, S.E.1. from blocks made by Austin Miles Ltd and published from Bridge Arch 158, Sutton Walk, London, S.E.1. Copyright reserved",
+      "handwritten_text": "GAIETY theatre Dublin \"The Silver Tassie\" by Sean O'Casey\nDublin - on the way to cattle-market",
+      "sketch_descriptions": [
+        "A group portrait of four men, roughly sketched, with expressive faces and hats, captioned as from a theatre scene in Dublin for the play 'The Silver Tassie' by Sean O'Casey.",
+        "A busy cattle market scene in Dublin, featuring various animals including cows and pigs, with several human figures and structures in the background."
+      ],
+      "entities": {
+        "people": [
+          "Sean O'Casey"
+        ],
+        "places": [
+          "Gaiety Theatre",
+          "Dublin",
+          "London",
+          "Sutton Walk"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page features two primary sketches: a theatrical group portrait from the Gaiety Theatre in Dublin illustrating Sean O'Casey's play 'The Silver Tassie,' and a complex scene depicting a busy cattle market in Dublin. It also contains publication details of Topolski's Chronicle.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:04:12.568445+00:00"
+    }
+  ]
+}

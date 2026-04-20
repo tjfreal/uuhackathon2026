@@ -1,0 +1,251 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548454",
+    "title": "Topolski's Chronicle, V.1 Index, List of Drawings, 1953",
+    "date": "1953",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6rycnza",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6rycnza",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 4,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "UNIVERSITY OF UTAH LIBRARIES\nTOPOLSKI'S CHRONICLE\nU.S.A. ELECTS PRESIDENT\nTOKYO - FUJI - KYOTO\nVARIATIONS ON THE THEME G.B.S.\nBridges Arch 158 Sutton Walk LONDON S.E.1",
+      "handwritten_text": "my guest",
+      "sketch_descriptions": [
+        "A tall man in a suit and bowler hat stands with one hand in his pocket and the other holding a cane, drawn in expressive, fluid lines.",
+        "A small sketch of a figure in profile carrying a bag or bundle.",
+        "Portrait of a man's head in profile view.",
+        "A scene showing multiple people near traditional Japanese architecture, with Mount Fuji visible.",
+        "A group of figures gathered closely together, heads bowed and faces expressive, evocative of a crowd or mass scene.",
+        "A portrait of an elderly man with distinct features.",
+        "A smaller full-body figure walking or standing, partially framed by vertical lines.",
+        "A block of multiple vignettes, likely depicting a series of people engaged in discussion or social activity."
+      ],
+      "entities": {
+        "people": [
+          "G.B.S."
+        ],
+        "places": [
+          "USA",
+          "Tokyo",
+          "Fuji",
+          "Kyoto",
+          "London"
+        ],
+        "events": [
+          "U.S.A. elects President"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page of Topolski's Chronicle features a large, expressive portrait of a man in formal attire alongside a series of smaller vignettes capturing moments from political and cultural events, including the U.S. presidential election and scenes from Japan. Visual motifs reference George Bernard Shaw and social gatherings, reflecting Topolski's documentary style.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T17:30:56.763758+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "Each issue of Topolski's Chronicle measures 18 by 23 inches. Published 24 times a year at Bridge Arch 158, Sutton Walk, South Bank, London, S.E.1, England. Annual subscription (with folder and index) is $12.00 (\u00a34 8s or equivalent). The complete collection is still available: 1953 volume of 12 issues $9.00 (\u00a33 3s); 1954, 1955, 1956, 1957, 1958, 1959 & 1960 volumes of 24 issues $12.00 (\u00a34 4s) each.\n\nJOYCE CARY: ...The most brilliant record we have of the contemporary scene as lived by a contemporary mind. ANDREW RITCHIE of the NEW YORK MUSEUM MODERN ART: ...Today Topolski has perhaps no equal in pictorial journalism. JOHN ROTHENSTEIN-Director of the TATE GALLERY, London: ...We should ban the stiff, able and faithful school of representational art in favour of such as his. Interest in the whole art lies as much in the script with which he writes, as in his drawing... He is kin to Daumier and the Impressionists\u2014perhaps he is even the Impressionists, parading in black armlets and laughing. THE TIMES (London): ...One of the most remarkable records of our time that exists in graphic form. ANDRE MALRAUX: ...la version moderne de la Comedie Humaine. T\u00c9MOIGNAGE CHR\u00c9TIEN (Paris): ...Le chroniqueur Topolski a une conscience de l'\u00e9v\u00e8nement sup\u00e9rieure \u00e0 celle des plus grands reporters... CARREFOUR (Paris): ...the greatest Chronicle from London. Chronicles from all the capitals would be a real service to culture. CIT\u00c9 (France): ...Topolski est semblable \u00e0 certains visionnaires du Moyen Age ...GRAFIS (Zurich): ...the line sometimes near to madness; the sight of expression is not always secure; especially grotesque scenes are rendered with such a boldness of expression as one never sees. L'AURORE (Paris): ...the Topolski Chronicle is admirable for its amplitude and for its movement. IRISH TIMES (Dublin): ...his book contains as little conventional reportage as trampolining and chess have of one another. ART DIRECTION (New York): ...You can sense with throbbing vividness the heart and the shape of our contemporary world. (Museum of Modern Art, New York). ...When has there been an artist before, either in or out of the pages of Life and Picture Post, to go out into the world and observe the things you see walking behind the changing banners of the street: HEAD-LINE FROM ARTE (Bologna, Italy): ...Topolski is a Com\u00e9die Humaine.",
+      "handwritten_text": "",
+      "sketch_descriptions": [
+        "A group scene of several people walking together, rendered in expressive, fast line work.",
+        "A motley group of figures beneath the handwritten 'TOPOLSKIS KRONIKE', suggesting a scene of everyday life or social observation.",
+        "A small vignette of figures among columns of what appears to be Hebrew text, with one figure standing and others in a rural setting."
+      ],
+      "entities": {
+        "people": [
+          "Felix Topolski",
+          "JOYCE CARY",
+          "ANDREW RITCHIE",
+          "JOHN ROTHENSTEIN",
+          "ANDRE MALRAUX"
+        ],
+        "places": [
+          "Bridge Arch 158, Sutton Walk, South Bank, London, S.E.1, England",
+          "New York Museum of Modern Art",
+          "Tate Gallery, London",
+          "Paris",
+          "Dublin",
+          "Zurich",
+          "Bologna, Italy"
+        ],
+        "events": [
+          "Coronation of H.M. Queen Elizabeth II"
+        ],
+        "dates": [
+          "1953",
+          "1954",
+          "1955",
+          "1956",
+          "1957",
+          "1958",
+          "1959",
+          "1960"
+        ]
+      },
+      "page_summary": "This page features editorial reviews and global press commentary showcasing the critical acclaim of Topolski's Chronicle, along with an index of volumes and issues from 1953 to 1960 and several expressive sketches typical of Topolski's reportage style.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T17:31:08.295338+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "TOPOLSKI\u2019S CHRONICLE 1953 VOLUME I LIST OF DRAWINGS No. 1 CORONATION OF H.M. QUEEN ELIZABETH II (1) A peer at the Coronation Dress Rehearsal (2) The Prime Ministers\u2019 Procession (3) The Royal Marines arrive at the Abbey (4) The Duke of Norfolk receives the Princes and Princesses of the blood Royal at the Abbey (5) The Queen Mother\u2019s Procession (6) The Peers\u2019 Procession in the Abbey (7) The procession in the Abbey at the conclusion of the Ceremony (8) The Queen at the conclusion of the Ceremony (9) The public (10) In the Abbey (11) The Peers in the rain (12) After the Ceremony No. 2 SIR WINSTON CHURCHILL (13) (14) (15) (16) No. 3 LONDON (17) The Thames\u2014City of London (18) Central London (19) South London (20) Edgware Road (21) Speakers in Hyde Park (22) Piccadilly No. 4 CONFERENCES AND CONGRESSES (23) Seretse Khama of Bechuanaland and his wife (24) A Peace Conference (25) (26) (27) (28) (29) (30) London Conference of World Government (31) International Congress of Intellectuals for Peace (32) At the Hague Congress (33) United Europe Conference No. 5 SPAIN I (34) Old Castile (35) The Mediterranean Shore (36) At the foot of the Sierra Nevada (37) Near Cordoba (38) Casa de los Picos in Segovia (39) (40) (41) To Segovia Cathedral No. 6 SPAIN II\u2014MADRID (41) In La Gran Via (42) (43) (44) Plaza de Toros (45) Carmen Amaya at Teatro Fontalla (46) Social Gathering No. 7 SPAIN III (47) Seville\u2014the Church of San Salvador (48) Seville\u2014at La Terraza (49) Seville\u2014Inside the Cathedral (50) Seville\u2014at Cerveceria la Espanola (51) Seville\u2014Archive do Indias (Casa Longa) (52) Seville\u2014Plaza del Salvador (53) Seville\u2014inside the Cathedral (54) Seville\u2014Plaza del Salvador (55) Fiesta in Andalusia No. 8 RONDA (57) In Malaga No. 8 ENGLAND\u2014COUNTY HORSE SHOWS (58) County Horse Show (59) Horse Show in Kent (60) (61) Sevenoaks Gymkhana (62) (63) Windsor Horse Show No. 9 LONDON\u2014FREAKS, MISFITS, GROTESQUES, ECCENTRICS, ETC. (64) The Old Sportsman (65) Buskers in procession, Regent\u2019s Park (67) Mr Feathers (68) In Leicester Square (69) In Harrow Road (70) Augustus John No. 10-11 MID-CENTURY RETROSPECT (71) \u201cDisplaced Persons\u201d (72) Warsaw after the War (73) Divided Berlin (74) First U.N.O. Assembly (75) Walling Wall, Jerusalem (76) Palestinian Arab (77) Jerusalem (78) Calcutta Maidan (79) Republic of India (80) Mahatma Gandhi (detail) (81) The \u2018Black\u2019 Aristocracy of Malaya (82) Borneo\u2014Head hunter in Chinese shop (83) Nadya (84) Annamite patrol in Indo China (85) H.E. the Governor of Hong Kong (86) General MacArthur in Tokyo (87) Kenya Farm (88) Miners of British Colombia (89) The Supreme Court of U.S.A. in Washington (90) A Russian General (detail) (91) George Bernard Shaw (92) H. G. Wells (93) The Kabaka of Buganda No. 12 MOTHER AND CHILD (94) (95) (96) The CHRONICLE having begun in mid-year, this 1953 Volume contains twelve issues",
+      "handwritten_text": "UNIVERSITY OF UTAH LIBRARIES",
+      "sketch_descriptions": [],
+      "entities": {
+        "people": [
+          "H.M. Queen Elizabeth II",
+          "Duke of Norfolk",
+          "The Queen Mother",
+          "Sir Winston Churchill",
+          "Seretse Khama",
+          "Carmen Amaya",
+          "Augustus John",
+          "Mahatma Gandhi",
+          "General MacArthur",
+          "George Bernard Shaw",
+          "H. G. Wells",
+          "The Kabaka of Buganda"
+        ],
+        "places": [
+          "Abbey",
+          "London",
+          "City of London",
+          "Hyde Park",
+          "Piccadilly",
+          "Bechuanaland",
+          "Old Castile",
+          "Mediterranean Shore",
+          "Sierra Nevada",
+          "Segovia",
+          "Cathedral",
+          "Madrid",
+          "Plaza de Toros",
+          "Teatro Fontalla",
+          "Seville",
+          "Church of San Salvador",
+          "La Terraza",
+          "Cathedral",
+          "Cerveceria la Espanola",
+          "Archive do Indias",
+          "Casa Longa",
+          "Plaza del Salvador",
+          "Andalusia",
+          "Ronda",
+          "Malaga",
+          "Kent",
+          "Sevenoaks",
+          "Windsor",
+          "Regent\u2019s Park",
+          "Leicester Square",
+          "Harrow Road",
+          "Warsaw",
+          "Berlin",
+          "Jerusalem",
+          "Calcutta Maidan",
+          "Republic of India",
+          "Malaya",
+          "Borneo",
+          "Indo China",
+          "Hong Kong",
+          "Tokyo",
+          "Kenya",
+          "British Columbia",
+          "Washington"
+        ],
+        "events": [
+          "Coronation of H.M. Queen Elizabeth II",
+          "Prime Ministers\u2019 Procession",
+          "Ceremonies at the Abbey",
+          "Peace Conference",
+          "London Conference of World Government",
+          "International Congress of Intellectuals for Peace",
+          "The Hague Congress",
+          "United Europe Conference",
+          "Fiesta in Andalusia",
+          "County Horse Shows",
+          "U.N.O. Assembly"
+        ],
+        "dates": [
+          "1953",
+          "mid-year"
+        ]
+      },
+      "page_summary": "This page is the index for the first 1953 volume of Topolski's Chronicle, listing the subjects and scenes illustrated throughout the year. It documents a range of events, locations, notable people, and political or cultural moments across Europe and beyond.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T17:31:20.787646+00:00"
+    },
+    {
+      "page_number": 4,
+      "typeset_text": "TOPOLSKI's CHRONICLE 1953 VOLUME I INDEX Abbey, Westminster Allied Council for Japan Angry, Rt. Hon. Hume, L.S. Anglo-Chinese Boundary Armistice Soldiers, Patrol Arabs Archive do Indias, Seville Bechuanaland Belgian West-East, 1946 Bevin, Rt. Hon. Ernest, M.P. Bishop of Bath and Wells Builder, Hugo, Portrait Bishop of Durham Boy Scouts Brophy, Paul F\u00fcrst, Hermann British Guiana, Ministers of State Burma Burnham, F. B., Min. of Educ., British Guiana Cardens, Sec. of State, 1946 Calcutta Calcutta Maiden Ceylon, Ministers of State Choristers Choir Boys Choir Boys Choi's Cathedral Westminster Abbey Clarke, Thomas, OBE Concerts Congregations and Congresses United Europe World Government Conservative M.P. Coronation of Queen Elizabeth II Dress Rehearsal Processions to Abbey After the Ceremony County Horse Shows, England Council for the Abbey Dali Ruchi Bishop, Tokyo Davies, Rt. Hon. Clement, Liberal M.P. Debates, E. E. Economic Survey Churchill, Rt. Hon. Winston Conscription and Labour Party Cabinet 'Restored World Government' Trades Union United Kingdom Devorsak, Lt. Gen. Kuzma 'Distinguished Guests' PSs. to the cons. 1945 Evans, William O. Dyak England: -- Coronation of Queen Elizabeth II -- County Horse Shows -- London -- Sir Winston Churchill Englishmen Abroad Festivals, Mitchel Franks, Andrea Frankfurt, Felix Furuhata, John Funerals, Spain Gandhi, Mahatma Garcia, Roland, Spain Ganda, Malaya Gold Stick in Waiting Grantham, Sir Alexander, Governor, Hong Kong, 1950 Guards, Civil, Police, Soldiers of Spain Gyani, Sir Henry, High Commissioner, Malaya, 1950 Guyabourne Hederson, Borneo High Commissioner, Kenya Houses Anglo-Chinese Boundary House Stewards Ceremonial Occasion Houses India Malaya Malaysia parade on day of Declaration of Republic Churchill Ruchi Chetty, Dr. Chedi, P.M. of British Guiana Isabella, Augusta Jungle, Borneo, Chinese trader's shop Kabake of Buganda Kenya, Horse Shows Kenya Farms Kikuyu Farm Labourers, Kenya King, Fore Kuala Lumpur, Malaya Klimis, Modern Liberal Member of Parliament London -- Central Area -- Eccleston Road -- Friends' Mtg. Groteseques, Eccentrics, etc. -- Hyde Park Speakers -- Lyric Hall Speakers -- Peace Rally -- Procession -- Revivalists -- Ski demonstration -- Socialists -- The Park People Machines 'Zoo of Breeding' Macdonald, General La Crena Gran Amaya at Teatro Fontiza Madrid, Army review King's dinner Room Trial, Madrid Marriage, Rt. Hon. Hilary, Labour M.P. Married to Sir John (H. G. Wells) Mass marriages Mother and child Mother-in-law Molesey, Rt. Hon. Philip, M.P. Norfolk, Duke of Nuns Obituary: Bevin, Rt. Hon. Ernest Gandhi, Mahatma Gunney, Sir Henry Van Geyzel, Bernard Shaw, George Senator Englishmen Abroad Fether, Mr., Chief Justice Wilson, H. G. Pages 4, 6, 7, 8, 9, 10 1-12 58-66 17-22, 64-74 54-56 16-34 31 76, 81 83, 77 75 38 73 28 75 75 90 34, 35, 41, 49, 51, 53 49-52, 57, 63, 70 53, 59, 65 42-44 83 79-83 80 72 67-70 73, 74 88-89 89 22, 32, 33 34-35 33 15, 30, 33 33 41-46 24, 54, 53 33 63, 42, 49 46 53 53 53 74 83 83 88 85 83 86-87 86-87 53 56 62, 63 71 76 79 71 83 53 31 33 74 76, 77 73 73 75, 76, 77 78 73 69-73 59-61 59-61 61 33, 36 33 60 33 79, 80, 81 30, 33 17-22, 64-73 12 60 60 61 62 38-39 64-68 48 73 79 80-81 75, 76 84 31 66, 72, 76 71, 75 74 66-67 60 90 53, 54, 55, 56-60 80 71, 75, 76 87 4, 6, 7, 8, 9, 10, 16, 17, 18, 19, 20, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57 Obituary: Bevin, Rt. Hon. Ernest 74 Gandhi, Mahatma 54 Gunney, Sir Henry 74 Van Geyzel, Bernard 74 Shaw, George Senator 74 Englishmen Abroad 54-56 Fether, Mr., Chief Justice 56 Wilson, H. G. 74 Pages 6, 7, 71 Politics (with Lathis) 71 Police 71 Poultry, India 73 Processions -- London 1, 6, 7, 10, 17, 18, 19, 20, 45, 46, 47, 48, 49, 50, 51, 52, 53 -- Malaya 71 -- Sudan 49, 53, 54 -- India 62 President, S. R., President of India 34, 35, 41, 49, 51, 49, 51, 52, 54, 56, 57, 66, 71, 73 President, Westminster Abbey 1, 2, 6 Prime Minister's Procession 6 Queen Elizabeth II, Procession 1 Refugees 34, 35, 41, 49, 51, 53, 71 Religious Procession 73 Roach, Sir, President, S. R., India 34, 35, 41, 51, 53, 71 Saville, Lady, S. R. 35 Shelters, London 62 Ships, Sea Cadet Procession 56, 58, 60 Siamese, King and Sultan of Brunei, Sarawak and Gynkhana 34, 35, 41, 49, 51, 53, 71 Singapore 49, 73 Sopot, Poland 41, 53 Spain -- Arrival to India 49, 51 -- Conference in Salvador 49, 51 -- Gold Stick in Waiting 49 -- Isabel Cathedral 49, 51 -- Lisa Teruel 49, 51 -- 74 -- Trade and Territories, Hong Kong 49, 51 -- Women at the foot of the cross 34-35 -- See at the foot of Sierra Nevada 41-45 -- Artists in Andalusia 41-45 -- Isabel Cathedral 47 -- Mercedes 41 -- Michael Cordon 45 -- Nationalist Shore 47 -- Old Cathedral 47 -- Towns 47 -- Towns 47, 51, 53 St. Paul's Cathedral 8 Stockholm, Old 76 Switzerland 66, 72, 76 Synagogue, City of London 41 Theatre 26, 29, 31, 32, 33, 34, 35, 45, 46, 56, 57, 62, 64, 65, 76, 77, 78, 80, 83, 89, 90 U.S.A., Embassy, London 46 United Nations, 1st General Assembly, London, 1946 U.S.S.R., Supreme Court Wakefield, Mr., Chief Justice Wilson, H. G., Premier\u2014tuez tout ce qui divise les hommes Warsaw, Washington, U.S. Washington, U.S. Supreme Court Westeminster Abbey 1-12 Wigs 62, 65 Windsor Castle, Nuns 40, 66, 87 Woman at the foot of cross 34-35 Women 71, 75-87, 89, 93 Zulu, Women Zulu, Queen's Bodyguard 71, 75-87, 89, 93 Zaslavski, David 31 NUMBERS REFER TO DRAWINGS ONLY, NOT TO ISSUES LIST OF DRAWINGS",
+      "handwritten_text": "",
+      "sketch_descriptions": [],
+      "entities": {
+        "people": [
+          "Felix Topolski",
+          "Queen Elizabeth II",
+          "Sir Winston Churchill",
+          "Rt. Hon. Ernest Bevin",
+          "Gandhi, Mahatma",
+          "Van Geyzel, Bernard",
+          "Shaw, George",
+          "Fether, Chief Justice",
+          "Wilson, H. G.",
+          "Sir Henry Gunney"
+        ],
+        "places": [
+          "Westminster Abbey",
+          "England",
+          "London",
+          "Malaya",
+          "Spain",
+          "Hong Kong",
+          "British Guiana",
+          "Calcutta",
+          "Ceylon",
+          "Borneo",
+          "Buganda",
+          "Kenya",
+          "Kuala Lumpur",
+          "Moscow",
+          "Andalusia",
+          "City of London",
+          "U.S.A.",
+          "U.S.S.R.",
+          "Poland",
+          "Switzerland",
+          "Stockholm",
+          "Warsaw",
+          "Seville",
+          "Bechuanaland",
+          "Sarawak",
+          "Singapore",
+          "Salvador",
+          "Sopot",
+          "Sierra Nevada",
+          "Windsor Castle"
+        ],
+        "events": [
+          "Coronation of Queen Elizabeth II",
+          "United Nations 1st General Assembly, London, 1946",
+          "Declaration of Republic",
+          "County Horse Shows",
+          "Prime Minister's Procession",
+          "Trade and Territories, Hong Kong"
+        ],
+        "dates": [
+          "1953",
+          "1946"
+        ]
+      },
+      "page_summary": "This index page from Topolski's Chronicle 1953 Volume I provides a comprehensive reference to the drawings within, listing people, places, and notable events depicted in the volume. It serves as a retrieval guide to the chronicle\u2019s visual documentation of political, cultural, and social moments in 1953.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T17:31:46.183678+00:00"
+    }
+  ]
+}

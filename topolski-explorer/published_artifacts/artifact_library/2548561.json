@@ -1,0 +1,93 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548561",
+    "title": "Topolski's Chronicle, V.5 No.14, 1957",
+    "date": "1957",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s630y3kk",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s630y3kk",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI's CHRONICLE No. 14 (98) Vol. V 1957\nTHE STATE VISIT TO PORTUGAL OF H.M. QUEEN ELIZABETH II AND H.R.H. THE DUKE OF EDINBURGH (3)",
+      "handwritten_text": "Os Estudantes\nC\u00e2mara Municipal de Lisboa",
+      "sketch_descriptions": [
+        "A loosely sketched crowd scene in a large plaza or square with several figures walking away from the viewer and some seated or standing, including a woman on the right side sitting and writing or reading.",
+        "Architectural elements in the background include classical-style buildings and possibly a municipal building, with flags on top and a decorative central column or monument.",
+        "Figures are depicted in various styles of cloaks and hats, suggesting formality; the scene evokes the presence of students and an official municipal setting in Lisbon."
+      ],
+      "entities": {
+        "people": [
+          "H.M. Queen Elizabeth II",
+          "H.R.H. The Duke of Edinburgh"
+        ],
+        "places": [
+          "Lisboa",
+          "Portugal"
+        ],
+        "events": [
+          "The state visit to Portugal of H.M. Queen Elizabeth II and H.R.H. The Duke of Edinburgh"
+        ],
+        "dates": [
+          "1957"
+        ]
+      },
+      "page_summary": "This page presents an expressive sketch of a bustling municipal square in Lisbon, capturing students and officials during the 1957 state visit of Queen Elizabeth II and the Duke of Edinburgh to Portugal.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:32:12.159122+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "",
+      "handwritten_text": "Lisbon - Alfama\nALFAMA",
+      "sketch_descriptions": [
+        "An expressive black ink and charcoal drawing depicting a narrow street scene in the Alfama district of Lisbon featuring multiple human figures engaged in various activities, a person standing on a balcony, clothes hanging on lines, intricate architectural features including doorways and windows, and a detailed wrought iron staircase."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Lisbon - Alfama",
+          "Alfama"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "The page captures a dynamic street scene in the Alfama district of Lisbon, illustrated with expressive figures and architectural details highlighting everyday life in this historic neighborhood.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:32:35.981211+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "\"The drawings in this and the other issues on Portugal were made possible by the co-operation of LOOK Magazine.\n\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 3s.6d. (50 CENTS) A COPY. YEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE \u00a34. 4s. (\u00a312 or equivalent): SHORTER PERIODS PRO RATA.\nAIR MAIL BY QUOTATION. SUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME.\nLithographed in Great Britain by CAPS Ltd. Dean Street, London, W1, and published by Topolski's Chronicles Ltd, from Bridge Arch 158, Sutton Walk, London, SE1. COPYRIGHT RESERVED.",
+      "handwritten_text": "\"FADOS\"\nLisboa\nMacedo e Lucio Nortes\n\"Fado\"",
+      "sketch_descriptions": [
+        "Upper large sketch: A crowd scene with several figures, including a figure in a helmet and mask facing a group of people standing near buildings with shuttered windows; some faces and figures are loosely sketched.",
+        "Lower left sketch: Three figures including a seated man on the left and two standing figures on the right, one of whom wears a decorative ruffled collar.",
+        "Lower right sketch: A tall expressive figure in the foreground, possibly a singer, with two smaller figures seated behind."
+      ],
+      "entities": {
+        "people": [
+          "Macedo",
+          "Lucio Nortes"
+        ],
+        "places": [
+          "Lisboa",
+          "London",
+          "Portugal"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page from Topolski's Chronicle contains sketches related to Portugal, including scenes titled 'Fados' and 'Fado,' featuring expressive figures and some with detailed costumes, accompanied by publication and subscription information.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:33:02.684468+00:00"
+    }
+  ]
+}

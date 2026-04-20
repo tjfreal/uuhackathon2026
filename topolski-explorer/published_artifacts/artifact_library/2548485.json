@@ -1,0 +1,108 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548485",
+    "title": "Topolski's Chronicle, V.2 No.19, 1954",
+    "date": "1954",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6ctb8w6",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6ctb8w6",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE No. 19(31) Vol. II 1954 of a voyage round the world (m)",
+      "handwritten_text": "back files of the brigade. T. what's Batang? Malay - Gurkha Jungle Patrol. platoon. Machine patrol in the bush. Gurkha regiment mounted in A.P. (Armoured Personnel) Carrier. Through a rubber plantation. 7th Gurkhas",
+      "sketch_descriptions": [
+        "Upper left: Portraits and bust sketches of uniformed soldiers and officers, shown in close-up profile and group views.",
+        "Upper right: A group of armed soldiers in fatigues, including a figure gesturing as if giving orders, labeled as a Gurkha Jungle Patrol in Malaya.",
+        "Middle left: Soldiers packed into a military vehicle aiming rifles outward, depicted as engaged in patrol or transport duty.",
+        "Middle right: A convoy scene with troops and an armored personnel carrier, as soldiers move through rough terrain or embark/disembark.",
+        "Lower left: Troops advancing through thick vegetation, possibly in rubber plantation, cautiously spaced and alert.",
+        "Lower right: Large close-up sketch of a soldier's face, showing determined or thoughtful expression."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Malaya"
+        ],
+        "events": [],
+        "dates": [
+          "1954"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle visually documents British and Gurkha military patrols and activities in Malaya during 1954, featuring sketches of jungle operations and troop movements. Illustrated scenes highlight the daily realities of soldiers engaged in counterinsurgency and patrol in Southeast Asian terrain.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:39:49.038659+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "MALAYA: 295 Scots Guards; Officers; 100-plt Gurkhas in action 306, C.I.T. (Communist Terrorists) 307; 'Surrendered Enemy Personnel' 308; Scots Guards at concert 307; Officer of the Police Field Force interrogating suspect; Pol. Detainee, suspect? The Island, Guards on Kuala Lumpur 307 after the presentation of Honors at the High Commissioner's Residence in Kuala Lumpur: the Sultan and the Sultan of Selangor with a Gurkha Languor decorated with the Military Medal",
+      "handwritten_text": "Kuala Kubu-Ratze prison. A place in the jungle hut, Scots Guards. Interrogation room, with [?] officer.",
+      "sketch_descriptions": [
+        "Two figures in military uniforms, one possibly a Sikh, standing side by side against a green background.",
+        "A crowded prison or holding facility interior labeled 'Kuala Kubu-Ratze prison,' with multiple people seated or standing behind bars, some in military attire.",
+        "Group of soldiers or detainees huddled together in a dense, chaotic space, potentially inside a jungle hut.",
+        "A soldier in beret aiming or handling a rifle within a confined room, facing two seated figures, possibly an interrogation.",
+        "Interaction between an armed figure and a seated person in a sparse room, suggesting an interrogation or questioning."
+      ],
+      "entities": {
+        "people": [
+          "Scots Guards",
+          "Gurkhas",
+          "C.I.T. (Communist Terrorists)",
+          "Sultan of Selangor",
+          "Officer of the Police Field Force"
+        ],
+        "places": [
+          "Kuala Kubu-Ratze prison",
+          "Malaya",
+          "The Island",
+          "Kuala Lumpur",
+          "High Commissioner's Residence"
+        ],
+        "events": [
+          "Malayan Emergency",
+          "Presentation of Honors at the High Commissioner's Residence"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page documents scenes from the Malayan Emergency, including military operations involving the Scots Guards and Gurkhas, the interrogation and detention of suspects, and official ceremonies in Kuala Lumpur. The sketches vividly capture life in army posts, rural prisons, and colonial political events.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:40:18.001781+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 2s. 6d. A COPY YEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE \u00a33. 3s. (or equivalent): SHORTER PERIODS PRO RATA. AIR MAIL BY QUOTATION. SUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME Handprinted in Great Britain by C. Beauclerk,pgtd. 15 Sutton Walk, S.E.I. from blocks made by Austin Vials Ltd and published from Bridge Arch, 15b, Sutton Walk, South Bank, London, S.E.I Copyright reserved.",
+      "handwritten_text": "Presentation of Honours. Ku [?] Ku [?] H.H. Sultan of Selangor W.J. Scott H.H. Sultan of Selangor. H.H. Sir. M.B.E. (H.I.). Kuala Lumpur, De Selangor, Malaya",
+      "sketch_descriptions": [
+        "A group of people, including men in uniforms and distinctive regional attire, gathered as if attending an official ceremony or presentation.",
+        "A lively outdoor scene with people walking and congregating under tropical trees and near buildings, evoking the atmosphere of a Southeast Asian city or park."
+      ],
+      "entities": {
+        "people": [
+          "H.H. Sultan of Selangor",
+          "W.J. Scott",
+          "H.H. Sir. M.B.E. (H.I.)"
+        ],
+        "places": [
+          "Kuala Lumpur",
+          "Selangor",
+          "Malaya"
+        ],
+        "events": [
+          "Presentation of Honours"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page from Topolski's Chronicle documents a 'Presentation of Honours' ceremony in Kuala Lumpur, Selangor, featuring sketches of dignitaries and local scenes. The visuals and notes highlight the cultural and official atmosphere of the event in mid-20th century Malaya.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:40:45.055600+00:00"
+    }
+  ]
+}

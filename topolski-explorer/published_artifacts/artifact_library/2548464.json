@@ -1,0 +1,239 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548464",
+    "title": "Topolski's Chronicle, V.1 No.10-11, 1953",
+    "date": "1953",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6q7vnbb",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6q7vnbb",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 5,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE No. 10-11 Vol. I 1953\nMID-CENTURY RETROSPECT\nTHE TIMES SATURDAY OCTOBER 24 1953\nTHE CHRONICLE as the pictorial record, must widen its time-horizon above the accidental date of its- birth: it cannot dwell in the past, the present pressing through its double issue- its purpose to look back, fleetingly, in global panorama, at the post-war years: wrenched in displacement, ruins and division and progress, going through further displacement, ruins and conflicts, made, as always in the Chronicle, from the material collected in terrain\u2026\nRecent Books\nCARAVAGGIO\nFRENCH DEBATE ON INDO-CHINA\nRECEDING THREAT TO GOVERNMENT\nMEETING OF ARAB DELEGATIONS\nCOST OF THE UNITED NATIONS\nGUIANESE PLEA FOR MORE AID\nAGA FOR O.E.E.C\nISRAEL REPLY TO BRITISH PROTEST?\nDECISION EMPHASIZED\nMEMBERS FROM NYASALAND\nELECTION REGULATIONS\nWEST GERMAN BORDER\nFRIENDLY ACTS BY PERSIA\nPOLICY IN KENYA\nGOVERNOR'S SPEECH CRITICIZED\nALLEGED SPY GIVEN UP IN U.S. ZONE\nFORMER RUSSIAN OFFICER\nThis page from The Times is reproduced by kind permission of the Editor",
+      "handwritten_text": "DISPLACED PERSONS REPORT UNWANTED, UNMENTIONED\nWARSAW 1948\nLEAVING SECTOR BERLIN\nBERLIN EAST",
+      "sketch_descriptions": [
+        "Loose portrait sketches of several figures' heads in the upper center, above the main landscape.",
+        "Large chaotic scene of ruined cityscape with shattered buildings and displaced figures moving through the ruins, possibly representing postwar Warsaw.",
+        "Smaller group in lower center-left, with figures and a sign reading 'LEAVING SECTOR BERLIN', suggesting border crossing or fleeing.",
+        "Bottom right: marching or walking people among fragmented landscape, labelled 'BERLIN EAST'.",
+        "Cluster of people and figures along lower section, amidst ruins and a backdrop of destroyed architecture and city.",
+        "Sketch of a transmission tower or observation post in the upper right, blending into city ruins."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Warsaw",
+          "Berlin",
+          "Berlin East"
+        ],
+        "events": [
+          "Displacement after World War II",
+          "Panmunjom",
+          "French Debate on Indo-China",
+          "Meeting of Arab Delegations",
+          "Cost of the United Nations",
+          "Guianese Plea for More Aid"
+        ],
+        "dates": [
+          "1953",
+          "October 24, 1953",
+          "1948",
+          "mid-century",
+          "post-war years"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle visually reflects the theme of mid-century retrospect, with sketches evoking postwar displacement, ruined cities, and the movement of people across divided borders, especially referencing Warsaw in 1948 and Berlin. The combination of documentary headlines, handwritten notes, and expressive artwork sharply documents the turmoil and aftermath of mid-twentieth-century conflicts.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:02:30.233680+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "1946 First General Assembly of the UNITED NATIONS opened in London 1948 State of Israel emerged after struggle against the British Mandate and war with the Arab States UNIVERSITY OF TEL-AVIV LECTURERS",
+      "handwritten_text": "UNITED STATES UKRAINE UNITED KINGDOM U.N.O. Assembly Feb. 46 Trygve Lie Byrd Gromyko Malik Pavlov Vishinsky Skaeril (Cz) Molotov Malik GAZA Holy Wall, Jerusalem Topolsky Topolski (Jerusalem) Selcuk, Haider Tel-Aviv, university classrooms, science, economics, philosophy, history, literature",
+      "sketch_descriptions": [
+        "A densely packed room with delegates labeled as UNITED STATES, UNITED KINGDOM, and UKRAINE at a United Nations assembly, showing figures in discussion or contemplation.",
+        "A crowd scene at the Western (Holy) Wall in Jerusalem, with figures pressed toward the foreground.",
+        "A head-and-shoulders portrait of a bespectacled older man with prominent facial lines, rendered expressively.",
+        "A side profile portrait labeled 'GAZA,' depicting a person in headscarf and heavy clothing.",
+        "A sweeping panoramic landscape of Jerusalem, capturing city domes and the rocky terrain with human figures in the foreground.",
+        "A group of stylized lecturers depicted in academic robes or formalwear, titled 'UNIVERSITY OF TEL-AVIV LECTURERS.'",
+        "A series of smaller, almost caricatured figures involved in classroom or lecturing scenes, possibly science or academic discussions."
+      ],
+      "entities": {
+        "people": [
+          "Byrd",
+          "Gromyko",
+          "Malik",
+          "Pavlov",
+          "Vishinsky",
+          "Skaeril",
+          "Molotov",
+          "Trygve Lie",
+          "Selcuk",
+          "Haider"
+        ],
+        "places": [
+          "United States",
+          "United Kingdom",
+          "Ukraine",
+          "London",
+          "Jerusalem",
+          "Gaza",
+          "Tel-Aviv",
+          "Western Wall",
+          "UNIVERSITY OF TEL-AVIV"
+        ],
+        "events": [
+          "First General Assembly of the UNITED NATIONS",
+          "State of Israel emerged",
+          "struggle against the British Mandate and war with the Arab States"
+        ],
+        "dates": [
+          "1946",
+          "1948",
+          "Feb. 46"
+        ]
+      },
+      "page_summary": "This page captures pivotal moments of the founding of the United Nations and the emergence of the State of Israel, illustrated through dynamic sketches of assemblies, cities, and notable figures. It blends observation of historical events in the Middle East and international diplomacy with expressive, firsthand artistic impressions.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:02:41.074380+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "1946\u2013 War in Indo-China 1949\u2013 Civil War in China ends with victory of People\u2019s Republic 1950\u2013 Civil War in Malaya. In 1952 Sir Henry Gurney the British High Commissioner, Malaya, was ambushed by jungle rebels 1950\u2013 United States of Indonesia brought into being 1951\u2013 War in Korea 1953\u2013 Wars in Korea &amp; Indo-China. Truce signed at San Francisco. Dismissal of General MacArthur CHINA dominates the Asian scene by ideological pressure and armed action THE CHINESE emigre merchant-adventurers amass economic power in South-East ASIA",
+      "handwritten_text": "H.H. the Sultan of Selangor H.D. Sir Henry Gurney Commissioner of MALAYA - Borneo Head-hunters \u2013 Chins [chief?] of the Dyaks Anglo-Chinese Mission School SHA TIN H.K. Anglo-Chinese Mission School SHA TIN, H.K. 1953[?] (uncertain words and dates marked)",
+      "sketch_descriptions": [
+        "Seated and standing men in traditional attire, one figure labeled as the Sultan of Selangor.",
+        "A group of colonial officials or military, some in pith helmets, including an identified commissioner, possibly in conversation with local leaders.",
+        "Dense crowd of soldiers or police, depicted with helmets, rifles, and lively gestures and expressions.",
+        "A large outlined mountain or tropical backdrop with figures gathered near a sign reading 'Anglo Chinese Mission School SHA TIN H.K. 1953'.",
+        "Two separate scenes showing groups conversing or greeting in outdoor or public settings.",
+        "A boxed scene with two smiling figures behind a counter, and a smaller figure at front labeled as a 'head-hunter', referencing Borneo.",
+        "A group of police or military, including a woman holding a child, suggesting a scene of dispersal or official presence."
+      ],
+      "entities": {
+        "people": [
+          "H.H. the Sultan of Selangor",
+          "Sir Henry Gurney"
+        ],
+        "places": [
+          "Selangor",
+          "Malaya",
+          "Borneo",
+          "South-East Asia",
+          "Anglo-Chinese Mission School",
+          "Sha Tin",
+          "H.K. (Hong Kong)"
+        ],
+        "events": [
+          "War in Indo-China",
+          "Civil War in China",
+          "Civil War in Malaya",
+          "United States of Indonesia brought into being",
+          "War in Korea",
+          "Truce signed at San Francisco",
+          "Dismissal of General MacArthur"
+        ],
+        "dates": [
+          "1946",
+          "1949",
+          "1950",
+          "1951",
+          "1952",
+          "1953"
+        ]
+      },
+      "page_summary": "This page documents power struggles and postwar transitions across Southeast Asia in the late 1940s and early 1950s, with focus on Chinese influence, local leaders, military and police presence, and social changes depicted through lively sketches and editorial commentary.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:02:51.113808+00:00"
+    },
+    {
+      "page_number": 4,
+      "typeset_text": "THE COLD WAR between the UNITED STATES of AMERICA and SOVIET RUSSIA overshadows and engulfs the racial and national tensions. SCIENCE raises armaments to the cataclysmic THREAT",
+      "handwritten_text": "Kenya Farm Drying Multiflour Crown Jagann Prime Minister in a Kennington (London) house F.B. Burnham British Guiana Minister of [External] Affairs The Supreme Court at Washington Thurgood Marshall Robert L. Jackson Hugo Black William O. Douglas Stafford [Reed] Harold Burton Tom Clark Hugen Soviet Member Miss Delaney 1948 South Africa introduces the policy of apartheid 1949 Political self-government in West Indies 1951 Gold Coast given self-government 1952 Ghana offered same, cannabis reforms THE 'KIPAN' MAU MAU REVOLT in KENYA Media fears and North Africa 1953 SUDAN Government in Self-Given SENAT in Ghana and suspended. The Kabaka of Buganda DEPOSED AND RULED",
+      "sketch_descriptions": [
+        "Two figures standing under overhead beams, labeled as 'Kenya Farm'.",
+        "A group portrait of multiple figures seated behind a balcony, labeled as 'The Supreme Court at Washington', with names handwritten below.",
+        "A judicial scene with seated judge next to attendants in front of a clock.",
+        "Two head-and-shoulder portraits, one labeled as 'Crown Jagann, Prime Minister, in a Kennington (London) house' and the other as 'F.B. Burnham, British Guiana Minister of [External] Affairs'.",
+        "Portrait of an individual in uniform writing or reading, annotated as a 'Soviet Member' and 'Miss Delaney'."
+      ],
+      "entities": {
+        "people": [
+          "Crown Jagann",
+          "F.B. Burnham",
+          "Thurgood Marshall",
+          "Robert L. Jackson",
+          "Hugo Black",
+          "William O. Douglas",
+          "Stafford Reed",
+          "Harold Burton",
+          "Tom Clark",
+          "Miss Delaney"
+        ],
+        "places": [
+          "Kenya",
+          "Kennington (London)",
+          "British Guiana",
+          "The Supreme Court at Washington",
+          "South Africa",
+          "West Indies",
+          "Gold Coast",
+          "Ghana",
+          "North Africa",
+          "Sudan",
+          "Buganda"
+        ],
+        "events": [
+          "The Cold War",
+          "Mau Mau Revolt"
+        ],
+        "dates": [
+          "1948",
+          "1949",
+          "1951",
+          "1952",
+          "1953"
+        ]
+      },
+      "page_summary": "This Topolski's Chronicle page juxtaposes global Cold War tensions with scenes and figures from African and American legal and political life, including Kenyan agriculture, British Guiana leaders, and the US Supreme Court. Timelines of decolonization and handwritten notes enrich the documentary layering of the period's social upheavals.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:03:00.532549+00:00"
+    },
+    {
+      "page_number": 5,
+      "typeset_text": "OBITUARY\nTHE PERIOD IS MARKED BY THE DEPARTURE OF\nTHE TWO LEADING PROPHETS OF OPTIMISTIC RATIONALISM\nH. G. Wells died in 1946\nGeorge Bernard Shaw died in 1950 at the age of 94\n'TOPOLSKI'S CHRONICLE' IS PUBLISHED 24 TIMES A YEAR AT 2s. 6d. A COPY. YEARLY SUBSCRIPTION RATES TO ANY PART OF THE WORLD ARE \u00a33. 3s. ($9 or equivalent). THIS INCLUDES FOLDER AND INDEX, NOT PROVIDED FOR SHORTER, PRORATA PERIODS, BUT AVAILABLE AT 5s. AIR MAIL BY QUOTATION. SUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME\nPrinted in Great Britain by R. & C. Beharcarpi of Tunbridge Wells from blocks made by the Dome Engraving Co., Ltd and published from 14 Hanover Terrace, London N.W.1. Copyright reserved.",
+      "handwritten_text": "\"Marxism is no more a gospel\"\n\"My god is TRUTH\"",
+      "sketch_descriptions": [
+        "Loose, expressive sketch of a standing, thin, elderly man in profile, with beard and glasses, hands at sides.",
+        "Bust sketch of an elderly, balding man in a suit, seated or hunched, looking pensive."
+      ],
+      "entities": {
+        "people": [
+          "H. G. Wells",
+          "George Bernard Shaw"
+        ],
+        "places": [
+          "Tunbridge Wells",
+          "14 Hanover Terrace, London N.W.1"
+        ],
+        "events": [],
+        "dates": [
+          "1946",
+          "1950",
+          "age of 94"
+        ]
+      },
+      "page_summary": "This page marks the passing of H. G. Wells and George Bernard Shaw, described as leading prophets of optimistic rationalism. It features Topolski's expressive sketches likely depicting Shaw and/or Wells, paired with reflective handwritten commentary.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:03:07.901787+00:00"
+    }
+  ]
+}

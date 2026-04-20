@@ -1,0 +1,65 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548521",
+    "title": "Topolski's Chronicle, V.4 No.7-8, 1956",
+    "date": "1956",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6hgdjb9",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6hgdjb9",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI's CHRONICLE No. 7-8 (67-68) Vol IV 1956\n...nothing affirmeth and therefore never lyeth... Sir Phillip Sidney (1580)\n\n658\nA MYSTIC'S EPISTLE by SWAMI AGEHANANDA BHARATI\nSwami Agehananda wrote this epistle in reply to the CHRONICLE'S request for a dissertation on Indian Mysticism. He chose, sadly, to ponder over What Mysticism Is Not and, then, in the customary Swami manner, vanished, no doubt to continue in peace his sadhanas. But, whatever the disappointments of his text, it seems worthy of publication for the vigour and originality of its exotic iconoclasm.\nThe quest after happiness is the chief quest, though the mystic life; and I warn you that professional mystics, in phrase is hackneyed. \"Happiness\" in itself is not quite so common with professional catechists and professional hackneyed a word; in fact it is one of the philosophers' philosophers (except the modern logicians), claim with con dictionary, a technical term. All philosophical disciplines viction that their happiness is the highest of all happinesses, except logic are directly concerned with happiness, and if or that it is the only happiness that is worthwhile. I am you can argue the point well enough, even logic is a professional mystic myself, yet I do not uphold this Teachers of religion talk of happiness as the main implica- claim, and for this lack of conviction I have incurred much tion of whatever else they teach; not the catechists but wrath from my fellow-mystics, monastic and lay alike. the founders of faiths. They promise happiness as the However, I found there is some little additional happiness only reward for the toils they make incumbent on their in renouncing the claiming of a thing with conviction, when flock. Now politicians and advertising firms promise the this conviction constitutes a part of the canonical happisame, and if we list all those whose job is to promise ness. Personally, I believe this claim is particularly happiness, we shall get a chequered trade-list, reminding immoral, much more than that of the advertisers of Soap or us of the telephone-directory in its rich disparity. To the Brandy; for the truth or falsity of their promise can be critical mind, however, no such list would be acceptable, verified by the customer, and the manufacturer along with because what the persons and institutions thus listed his advertising agent invites possible refutation. Not so the promise is simply not the same thing. \"Happiness\" means mystic: his happiness is hard to attain, in fact it cannot be about as much as \"Miscellaneous\". I am writing to you attained by normal human beings, and the clique of those about a particular happiness only, the happiness of the who teach its attainment is so small that competitors from without hardly come forth. What the mystic promises, cannot be refuted, though it does not have to be accepted. Non-acceptance, on the other hand, adds to the strength of the mystic's promise, for it makes the circle of the elect more elect, and non-acceptance more vulgar. One of my homiletic pastimes is to let little secrets leak out from the mystics' hermetic sphere, for critical thought and philosophers are my secret love-secret, because the mystics don't like the philosophers, unless the latter claim to be mystics of a special kind-like the metaphysicians; their endeavour the professional mystics condone, because it is harmless. The classical metaphysician writes about intuition of the Absolute, about the non-discursive method of that intuition: it is a sheer joy to the mystic who has this intuition, to whom it is an entirely simple affair (simple, that is, once he has attained it), and to whom the verbose disquisitions of the teachers of metaphysics, if they ever get acquainted with them, sound like utter and self-complacent swindle. For though the mystic, who usually\nUNIVERSITY OF UTAH LIBRARIES\nThe drawings in this issue were made in India, mostly in Banaras.",
+      "handwritten_text": "",
+      "sketch_descriptions": [
+        "A rough expressive line drawing of a seated bald figure in the center, surrounded by a dense jungle or forest with tall palm trees and large leafy plants.",
+        "Behind the seated figure is a jagged mountain or large rock with a zigzag path or line leading up to a small structure or temple at the peak."
+      ],
+      "entities": {
+        "people": [
+          "Swami Agehananda Bharati",
+          "Sir Philip Sidney"
+        ],
+        "places": [
+          "India",
+          "Banaras"
+        ],
+        "events": [],
+        "dates": [
+          "1956",
+          "1580"
+        ]
+      },
+      "page_summary": "This 1956 Topolski's Chronicle page features an article titled 'A Mystic's Epistle' by Swami Agehananda Bharati discussing Indian mysticism, accompanied by an expressive sketch of a mystic figure in a jungle landscape with mountains and trees. The drawings were reportedly made in India, mainly in Banaras.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:05:14.211038+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "661\n662\n663\n664",
+      "handwritten_text": "",
+      "sketch_descriptions": [
+        "Top left drawing of a street scene with a figure leaning out of a window above and several people sitting along stairs and near a doorway, with birds flying and boat scenes in the background, including a person rowing a boat and another seated under an umbrella.",
+        "Top right drawing featuring multiple human figures positioned on steps or blocks, one larger figure seated with other standing figures around including one with hands behind the head, a few birds flying around.",
+        "Bottom left sketch illustrating a waterfront scene with boats on the water, several figures on structures by the water's edge, and groups of people gathered with some standing and others seated, a bird flying overhead.",
+        "Bottom right drawing of a crowded scene with many standing and seated figures, some under a canopy or shaded structure, and others grouped along what appears to be steps or tiers."
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page contains four distinct ink sketches depicting lively social and waterfront scenes with multiple human figures engaging in various activities such as boating, resting on steps, and gathering under umbrellas or canopies.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:06:41.459559+00:00"
+    }
+  ]
+}

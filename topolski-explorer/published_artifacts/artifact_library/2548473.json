@@ -1,0 +1,87 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548473",
+    "title": "Topolski's Chronicle, V.2 No.7, 1954",
+    "date": "1954",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6veb9tw",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6veb9tw",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "UNIVERSITY OF UTAH LIBRARIES\nTOPOLSKI's CHRONICLE No. 7 (19) Vol.II 1954\nProphets, Saints, Crusaders of the West",
+      "handwritten_text": "Felix Topolski\nBertrand Russell",
+      "sketch_descriptions": [
+        "Expressive, linear portrait sketch of an elderly man with pronounced facial features, wrinkled skin, deep-set eyes, and holding what appears to be a rolled object or scroll in one hand."
+      ],
+      "entities": {
+        "people": [
+          "Felix Topolski",
+          "Bertrand Russell"
+        ],
+        "places": [],
+        "events": [],
+        "dates": [
+          "1954"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle features a dynamic portrait sketch of Bertrand Russell, accompanied by titles and a handwritten note, highlighting influential Western thinkers or figures.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:10:16.121311+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "",
+      "handwritten_text": "Martyries \u00e0 So[u]thanne de ces mis[e]rables \u00eatre[s]\nmettez en lumiere la souffrance du monde\nVis[e] au milieu du temple\nHe has [so] that to you to-night\nIf you walk as he has \u2013 you have to make up your mind so[me] \u2013 make up your mind to-night\nBilly Graham",
+      "sketch_descriptions": [
+        "A large, dark expressive portrait of a bearded man seen from the chest up, hands crossed over his chest, gaze intense and upward.",
+        "A loose, energetic sketch of a man standing at a microphone, hand raised as if mid-speech, with dramatic posture.",
+        "A small head-and-shoulders profile of a suited man looking downward.",
+        "Two standing figures, one bent over with a hand to the face in apparent distress, and another upright.",
+        "A small group of figures in coats and hats from behind or in profile, walking or gathered together."
+      ],
+      "entities": {
+        "people": [
+          "Billy Graham"
+        ],
+        "places": [],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page juxtaposes a solemn figure symbolizing martyrdom and suffering with dynamic sketches of evangelist Billy Graham addressing an audience, capturing both personal anguish and the fervor of public preaching.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:10:21.573525+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "YELLOW SQUARES INDICATE POINTS FOR THE 'ROUND AND ROUND THE UN'S ROUND TABLE' COMPETITION. (Queries concerning Chronicle should be sent to Chronicle, 24 Fitzroy Square, London W.1, tel. LANgham 2424). TO THE STRANGERS WHOSE WORDS APPEAR IN THIS ISSUE, OUR THANKS. The Chronicle is printed by C.W.S., Ltd., on machine-made wove, and published and distributed by Charles Letts & Co. Ltd., Dalston, London, E.8. THE STREAM OF CONSCIOUSNESS, No. 85. Price 1s/6d, plus postage; 3d. for single copies. THE ANNUAL CUMULATIVE SUBSCRIPTION IS 32s.6d., post free. THE SECOND CHRONICLE SEEN.",
+      "handwritten_text": "\"I think the existence of the hydrogen bomb presents a perfectly clear alternative to all the governments of the world. Will they submit to an international authority, or shall the human race die out?\" Bertrand Russell\n\"There is no reason now why I should be unhappy. I have health, success and affection. -- Bertrand Russell\"",
+      "sketch_descriptions": [
+        "Expressive pen sketch portrait of an elderly man with wild hair, deep lines, and a solemn expression, captioned with a handwritten quote below.",
+        "Another expressive pen sketch portrait of the same elderly man, viewed straight on with a composed but introspective demeanor, also accompanied by a handwritten quote."
+      ],
+      "entities": {
+        "people": [
+          "Bertrand Russell"
+        ],
+        "places": [
+          "London",
+          "Fitzroy Square",
+          "Dalston"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page features two expressive portrait sketches of Bertrand Russell, each paired with reflective handwritten quotes by him, alongside publication details for Topolski's Chronicle.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:10:49.015296+00:00"
+    }
+  ]
+}

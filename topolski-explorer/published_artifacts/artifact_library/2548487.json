@@ -1,0 +1,100 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548487",
+    "title": "Topolski's Chronicle, V.2 No.21, 1954",
+    "date": "1954",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s676geaz",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s676geaz",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE No. 21(33) Vol. II 1954\nHER BRITANNIC MAJESTY'S GOVERNMENT ... is for the older faces and gives no room to make for the thrusting young\u2014or for what plan for young in our rather aged society... The Manchester Guardian 18.10.1954.\n325 Viscount Simon, Lord Chancellor, formerly Sir David Maxwell Fyfe, Home Secretary\n323\n327 Sir David Eccles, Minister of Education; Minister of Works\n328 Mr. Duncan Sandys, Minister of Housing; Minister of Supply\n329 Mr. Harold Macmillan, Minister of Defence, formerly Minister of Housing & Local Government.\n326 Lord Somervell, the retiring Lord Chancellor\nTOPOLSKI'S CHRONICLE IS PUBLISHED 24 TIMES A YEAR AT 2s. 6d. COPY. YEARLY SUBSCRIPTION RATE (WITH POSTAGE) 36s. ($5.00) AT PART (OR WHOLE) OF THE WORLD. NEGOTIATED.",
+      "handwritten_text": "",
+      "sketch_descriptions": [
+        "Upper left portrait of an elderly man in judicial robes and wig, drawn in expressive lines.",
+        "Large central figure seated in full legal regalia with a detailed long robe and bar wig, crossing legs with hand to face.",
+        "Upper right small red-toned sketch of a man's face in deep shadow.",
+        "Upper right blue-toned drawing of the head and shoulders of an older man with distinct facial features.",
+        "Mid right, rectangular sketch of a man in profile with short hair, drawn in blue lines.",
+        "Lower mid right, small red-toned sketch of a man's head and shoulders with sideburns.",
+        "Bottom right, standing figure of a man in dark clothing with cane and monocle, facing forward.",
+        "Clipped textual elements and floating portraits connect specific figures to government roles."
+      ],
+      "entities": {
+        "people": [
+          "Viscount Simon",
+          "Lord Chancellor",
+          "Sir David Maxwell Fyfe",
+          "Sir David Eccles",
+          "Mr. Duncan Sandys",
+          "Mr. Harold Macmillan",
+          "Lord Somervell",
+          "Mr. Anthony Eden"
+        ],
+        "places": [
+          "Manchester",
+          "Britain"
+        ],
+        "events": [],
+        "dates": [
+          "1954",
+          "18.10.1954"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle features expressive sketches of prominent British government officials of 1954, particularly focusing on figures holding judicial and ministerial posts. It visually references the age and composition of Her Britannic Majesty's Government, interweaving portraits with editorial reflections from the period.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:41:52.433756+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "TOPOLSKI'S CHRONICLE SUMMARIES \"ANNUAL ABSTRACT OF STATISTICS FOR THE UNITED KINGDOM\" (1954) PUBLISHED BY CENTRAL STATISTICAL OFFICE\nPOPULATION: 1851 \u2013 27,296,000 1953 \u2013 50,592,000\nNUMBER OF ELECTORS (1951): 34,894,689\nNUMBER OF VOTES RECORDED (1951): 28,597,000\nMIGRATION: NET 1947\u201351: Loss 413,000 GAIN: 1952: 45,000 IMMIGRANTS OF COMMONWEALTH 1952: 36,640 NATIONALITIES 1937 \u2013 62,089 1953 \u2013 66,600\nSOCIAL SERVICES (1952-53): HOUSING: \u00a3220,000,000 NATIONAL HEALTH SERVICE: \u00a3437,500,000 NATIONAL INSURANCE: \u00a3687,000,000\nJUSTICE AND CRIME (England and Wales): 1953\u201355,311 1951\u201373,537 1953\u201363,770\nENTERTAINMENT BROADCAST LICENSES (1953): Sound \u2013 10,758,000 Television \u2013 2,142,000 CINEMA ADMISSIONS: 1953\u20131,599,000,000 1953\u20131,258,000,000\nINTOXICATING LIQUORS LICENSES: 1931\u2013111,606 1952\u201397,918\nEDUCATION: GRANT-AIDED PRIMARY AND SECONDARY SCHOOLS 1951\u20136,318,747 pupils UNIVERSITY STUDENTS (1952-53) \u2013 81,471\nDEFENCE (1953) ARMY 1952\u2013435,100\nROYAL AIR FORCE 246,200\nROYAL NAVY 146,800",
+      "handwritten_text": "FRANQUETERIS\nSHOCK\nSCHOOL",
+      "sketch_descriptions": [
+        "A crowded street scene featuring a classic British red telephone box and a group of people, possibly in an urban setting.",
+        "A group of people standing and interacting, with several figures dressed in overcoats, some looking outwards, and one or two children.",
+        "A street scene with people walking and conversing along a row of townhouses and buildings, evoking an everyday urban life atmosphere.",
+        "A busy urban or market scene labeled with handwritten 'FRANQUETERIS' and 'SHOCK', showing people gathered and interacting near a storefront.",
+        "A portrait or close-up group of people, one wearing a suit and tie, possibly a depiction of authority or officials.",
+        "A crowd of people in a theater or cinema setting, with banners or signs, under the heading 'ENTERTAINMENT.'",
+        "Two women, one holding up a paper or license, depicted in a discussion about broadcast licenses.",
+        "A group of people drinking at a pub or bar, part of the 'INTOXICATING LIQUORS' section.",
+        "Marching crowds, possibly a parade or demonstration, shown in a high-energy, dynamic composition.",
+        "A lone soldier seated near bags or sacks, part of the 'DEFENCE' section.",
+        "A group of boys or young men, possibly students, sitting together waving large Union Jack flags under the heading 'EDUCATION.'",
+        "A construction or industrial site featuring cranes and unfinished buildings, possibly representing postwar rebuilding.",
+        "Aircraft in flight, marked 'ROYAL AIR FORCE,' with a visual of an airplane and a map or chart nearby.",
+        "A formation of marching soldiers, labeled as 'ARMY.'",
+        "A naval vessel or ship at port, labeled 'ROYAL NAVY.'"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "United Kingdom",
+          "Commonwealth"
+        ],
+        "events": [],
+        "dates": [
+          "1954",
+          "1851",
+          "1953",
+          "1951",
+          "1947\u201351",
+          "1952",
+          "1937",
+          "1952-53"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle offers an illustrated statistical summary of postwar Britain in 1954, covering population, migration, social services, justice, entertainment, education, and defense, accompanied by lively sketches of daily and institutional life. It visually translates abstract government statistics into expressive scenes capturing the social fabric of the era.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:42:26.020005+00:00"
+    }
+  ]
+}

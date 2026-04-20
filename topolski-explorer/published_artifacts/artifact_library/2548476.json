@@ -1,0 +1,87 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548476",
+    "title": "Topolski's Chronicle, V.2 No.10, 1954",
+    "date": "1954",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6tevn3y",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6tevn3y",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "SOHO FAIR\nUNIVERSITY OF UTAH LIBRARIES\nTOPOLSKI'S CHRONICLE No. 10 (22) Vol. II 1954\nLONDON SEASON\nTHE QUEEN\u2019S RETURN TO LONDON   186. The Duke of Edinburgh with friends   187. Royal Reception   188. Royal Ascent   189. Debutantes, Courtiers, Chaperones   190. Wedding",
+      "handwritten_text": "de Mexico",
+      "sketch_descriptions": [
+        "A crowd gathered near Big Ben, with London landmarks and bunting flags visible.",
+        "A group of people, some in refined attire, possibly artists or fair-goers, shown at the Soho Fair.",
+        "A lively crowd scene with people in hats and period dress appearing to stroll or gather in public space labeled 'LONDON'.",
+        "Another exuberant crowd scene labeled 'SEASON', with figures engaged in conversation and social activity.",
+        "A scene labeled 'de Mexico', with horsemen and people in elaborate dress suggesting a parade or ceremonial procession.",
+        "Dancing couples and a small orchestra or band playing music, suggesting a formal social dance event.",
+        "A close-knit gathering labeled 'THE QUEEN\u2019S RETURN TO LONDON', distinguished by a central figure that appears to be a woman in regal attire.",
+        "Groups in formal wear; caption indicates this is 'The Duke of Edinburgh with friends'.",
+        "A reception line with figures greeting one another under 'Royal Reception'.",
+        "People gathered for a formal ascent, captioned 'Royal Ascent'.",
+        "Groups of debutantes and their chaperones in ceremonial or formal dress.",
+        "A wedding scene, with a central couple and attendees; figures appear to be observing or celebrating."
+      ],
+      "entities": {
+        "people": [
+          "The Queen",
+          "The Duke of Edinburgh"
+        ],
+        "places": [
+          "London",
+          "Soho",
+          "Big Ben",
+          "Mexico"
+        ],
+        "events": [
+          "Soho Fair",
+          "The Queen\u2019s Return to London",
+          "Royal Reception",
+          "Royal Ascent",
+          "Debutantes, Courtiers, Chaperones",
+          "Wedding"
+        ],
+        "dates": [
+          "1954"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle visually chronicles notable London social and royal events in 1954, including the Soho Fair, the return of the Queen, formal receptions, and ceremonial gatherings. The sketches vividly capture crowds, dignitaries, and celebratory moments against iconic city backdrops.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:13:17.395512+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "SCULPTOR EPSTEIN\nWHO'S WHO: ? (1954)\u2014attacked by newspapers, religious bodies, etc.\nSupplement to WHO'S WHO, 1954: \"EPSTEIN, JACOB, now EPSTEIN, SIR JACOB, K.B.E. cr. 1954.\"",
+      "handwritten_text": "VIZ Jacob Epstein\nFROM THE HOT PRESS: ARTIST AT WORK",
+      "sketch_descriptions": [
+        "Expressive portrait sketch of an elderly man with wild curly hair and a heavy shirt, seated and facing forward.",
+        "Portrait sketch in three-quarter view of the same elderly man, arms crossed, with a somber expression.",
+        "Crowded small scene at the bottom left depicting a group of figures, likely artists or onlookers, around a central seated person with signs and text, creating a bustling and energetic atmosphere."
+      ],
+      "entities": {
+        "people": [
+          "Jacob Epstein",
+          "Sir Jacob Epstein"
+        ],
+        "places": [],
+        "events": [],
+        "dates": [
+          "1954"
+        ]
+      },
+      "page_summary": "This page centers on sculptor Jacob Epstein, featuring two expressive portrait sketches and a crowded scene referencing artistic or public interest. Typeset and handwritten notes mention Epstein\u2019s recognition in 1954 and his public reception.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:13:23.232246+00:00"
+    }
+  ]
+}

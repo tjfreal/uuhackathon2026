@@ -1,0 +1,116 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548483",
+    "title": "Topolski's Chronicle, V.2 No.17, 1954",
+    "date": "1954",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s61zck6r",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s61zck6r",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI's CHRONICLE No. 17(29) Vol.II 1954\nTHE ENGLISHWOMAN\nA Study in Near-Anthropology\nTHIS issue of the CHRONICLE was intended to contribute to the accumulated research on the inhabitants of England: a condensed study of the Englishwoman. Exhaustive pictorial materials were most devotedly collected in terrain and put before a leading University Anthropologist in the belief that the scientific spirit of investigation holds itself in receptive and broad-minded readiness to engulf, digest and draw conclusions even from such evidence\u2014the evidence of an artist's eye. But the science of Anthropology, together with other antiquarian wisdoms, seems to have entered its middle-age and, forgetting early fearlessness, settled to the dignity of \u201cchairs\u201d and a secure gathering of data.\nThis Anthropologist of Fame, when approached, would not budge from his fossilized routine: \u201cNo, no, I cannot do such a thing; no, no, as a responsible anthropologist I must hold back my judgment till we know more. We are progressing towards further evidence... excavations and so forth. To-day, you see, we\u2019re so advanced, so much material gathered already, hmm... scientific data, blood groups, questionnaires, measurements, precision, accuracy... you see... pride in relying only on irrefutables, hmm...\u201d.",
+      "handwritten_text": "",
+      "sketch_descriptions": [
+        "A dense, expressive ink drawing depicting a group of women, characterized by exaggerated facial features and hands, appearing in heavy clothing and elaborate hats or shawls. The central figure gazes outward, hand to chin in a pensive pose, surrounded by other contorted figures, possibly in a social or observational setting. The background suggests grand or ornate interior architecture."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "England",
+          "University"
+        ],
+        "events": [],
+        "dates": [
+          "1954"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle explores the theme of the 'Englishwoman' through a combination of expressive illustration and editorial commentary, critiquing contemporary anthropological approaches to the study of English identity in 1954.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:38:02.097062+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "human \u2014 it is, as you see, difficult to rush into statements; we \u2014 the scientists prefor\u2014 responsibility you know\u2014to worry. Ah, the nineteenth century\u2014they were, hm, ha!\u2014assured. They remembered that their 'superiors', to protect them from criminal and commercial depravity, as if by magic, anthropologists would write only the facts. Take, for instance, a classic like Beddoe's Races of Britian. (Positive attempts brought further extracts from a Famous Observer of both the British 'races' and the jungle-dwellers, and more disappointments when trying to establish definitions at a serious level; see note on anthropology/periodicals to track these instant guides.) 'The Races of Britain\u2014A Contribution to the Anthropology of Western Europe, by John Beddoe, M.D., F.R.S., etc. (London 1885), ex-President of the Anthropological Society of London, President of the Ethnological Society of London, etc.; with numerous illustrations. The development of the anthropological doctrine of Races, Heads and Hair, Naming and Theory of Origins by the author is described fittingly by Prof. Tylor in his fine and careful review of it (Journal Anthropological Institute, 1886). Somewhat in the style of Quatrefages, Scandinavian, Saxon, Prelate, etc., origin, is given entirely in quotations from John Beddoe (1885). These are examples of the positive difficulties of the last century anthropologists, objected to by their successors for too great a cautiousness.'",
+      "handwritten_text": "The chin's rather cruel but corresponds well with the subject's traditional role. Really a most beautiful upper lip. The picture always a reflection on the artist. The skin is seldom saved except by touch. Slight loss in proportion (Calib). Leg is fifteen inches too long. high torso in proportion (Calib).",
+      "sketch_descriptions": [
+        "Top left: Loose, reclining female figure in a soft sketch style.",
+        "Top center: Bold sketch of a person with heavy hat and obscured face, dense cross-hatched lines.",
+        "Top right: Tall, slender standing figure in dark clothing, hands in pockets, drawn with stylized silhouette.",
+        "Far right: Large, nude female figure with exaggerated proportions, surrounded by handwritten anatomical and artistic annotations.",
+        "Grid (left to right, top to bottom):",
+        "Group of expressive, closely clustered faces and figures, overlapping lines.",
+        "Profile of two heads, one male and one female, rendered in brisk lines.",
+        "Pair of males in berets shown in side view, heads turned left.",
+        "Cluster of four heads, suggestive of group discussion.",
+        "Portrait of woman with ornate hairstyle, profile view.",
+        "Group of four faces, two appearing to wear hats, huddling together.",
+        "Stylized bust of a woman with piled-up hair, facing front.",
+        "Two elegant women in late 19th-century dress, standing together.",
+        "Bearded man seated, cross-legged, beside a woman in voluminous skirt.",
+        "Row of expressive, roughly sketched faces (male and female) with exaggerated features.",
+        "Darkly shaded head, only facial features and broad hair visible.",
+        "Portrait of a woman, headband or head covering, sharp features."
+      ],
+      "entities": {
+        "people": [
+          "John Beddoe",
+          "Prof. Tylor"
+        ],
+        "places": [
+          "Western Europe",
+          "London",
+          "Britain"
+        ],
+        "events": [],
+        "dates": [
+          "1885",
+          "1886",
+          "nineteenth century"
+        ]
+      },
+      "page_summary": "This page from Topolski\u2019s Chronicle features numerous expressive sketches of individuals and groups, juxtaposed with commentary and references to 19th-century anthropologists and their works. The combination of illustrations, handwritten notes, and editorial text explores the depiction and study of human types and racial theories in Victorian Britain.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:38:13.844150+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "Though confounded at first by these disturbing glimpses into the inner temple of the science of anthropology, after reading John Beddoe (1885) a courageous professional decision was reached: the material in its raw state is presented here on the assumption that it may stimulate extra-mural, as it were, anthropologists to come forward with their own theories or add, as thus, a drop of new vigour may be injected into this branch of science, weighed down and brought to a standstill, it seems, by the evergrowing load of evidence for evidence's sake.\n\nSTOP PRESS\nBritish Association\nUnbowdlerized Version NOT INTENDED FOR GROWN-UPS Playground Rhymes Reproduced from the Manchester Guardian 8/9/54\n\n\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 2s 6d. A COPY. YEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX TO) TO ANY PART OF THE WORLD ARE: \u00a33. 0s. 0d (or equivalent); SHORTER PERIODS PRO RATA. AIR MAIL BY QUOTATION. SUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME\nLithographed in Great Britain by C.A.P.S. Ltd. Dean Street, London, W.1., and published from Bridge Arch 158, Sutton Walk, South Bank, London. S.E.1 Copyright reserved",
+      "handwritten_text": "likely Topolski",
+      "sketch_descriptions": [
+        "Loose, expressive portrait of two seated women, one older and one younger, with flowing garments and minimal background.",
+        "Three figures drawn in profile, two women and a young girl with glasses, all shown from the shoulders up.",
+        "Crowded scene with several overlapping faces and heads, suggesting a group of people in a busy setting, viewed in partial profile.",
+        "Four standing figures seen from behind and the side, including a woman in a dark coat and hat and three others in lighter clothing.",
+        "Two women standing close together, one with voluminous hair, both looking toward the viewer in conversation."
+      ],
+      "entities": {
+        "people": [
+          "Felix Topolski",
+          "John Beddoe"
+        ],
+        "places": [
+          "Great Britain",
+          "London",
+          "Sutton Walk",
+          "South Bank"
+        ],
+        "events": [],
+        "dates": [
+          "1885",
+          "8/9/54"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle features a series of expressive sketches of women and crowds, accompanied by editorial reflections on anthropology and a press clipping about playground rhymes. The content juxtaposes visual impressions with musings on scientific stagnation and social observation.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:38:42.739616+00:00"
+    }
+  ]
+}

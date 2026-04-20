@@ -1,0 +1,95 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548455",
+    "title": "Topolski's Chronicle, V.1 No.1, 1953",
+    "date": "1953",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s694jqsx",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s694jqsx",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "UNIVERSITY OF UTAH LIBRARIES\nTOPOLSKI'S CHRONICLE No.1 Vol.I 1953",
+      "handwritten_text": "Constantin Albuad [?]",
+      "sketch_descriptions": [
+        "Expressive line drawing of a man in profile wearing a hat and coat, holding a mask or theatrical face in his right hand."
+      ],
+      "entities": {
+        "people": [
+          "Constantin Albuad [?]"
+        ],
+        "places": [
+          "University of Utah Libraries"
+        ],
+        "events": [],
+        "dates": [
+          "1953"
+        ]
+      },
+      "page_summary": "This is the cover page of Topolski's Chronicle No.1 Vol.I from 1953, featuring an expressive sketch of a man holding a theatrical mask, with references to the University of Utah Libraries and a possible name written by hand.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T17:31:49.664059+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "",
+      "handwritten_text": "Police head[?] procession awaits at entrance to the Abbey. The Heralds walk to the Abbey. The Queen Mother's Procession (and in front, the Heralds). Queen Mother's Procession, the Band of S.W. [?] (Irish and Welsh Guards). The Queen Mother's Procession. A part of the service in the Abbey. The procession in the Abbey and the Coronation Oath ceremony. The Queen at the Coronation Oath ceremony. Coronation Day in The Abbey. The procession in the Abbey, Heralds.",
+      "sketch_descriptions": [
+        "A line of mounted policemen leading a ceremonial procession with horses and carriages.",
+        "A crowd of elegantly dressed figures, some carrying banners, making their way toward a significant building.",
+        "A formal procession of horse-drawn carriages surrounded by mounted guards and spectators.",
+        "A large carriage procession accompanied by marching band and uniformed guards.",
+        "A carriage labeled the Queen Mother\u2019s Procession, surrounded by pageantry and crowds.",
+        "Interior views showing religious or ceremonial figures in robes, participating in formal ritual inside a large hall.",
+        "Groups of worshippers in suits and robes paying homage in what appears to be a cathedral or abbey setting.",
+        "A gathering of onlookers outside the ceremony, capturing the hustle and spectacle of the day.",
+        "Rows of people kneeling and formalities observed during what is likely a coronation oath or religious ceremony."
+      ],
+      "entities": {
+        "people": [
+          "The Queen Mother"
+        ],
+        "places": [
+          "The Abbey"
+        ],
+        "events": [
+          "Coronation",
+          "Coronation Oath Ceremony"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page depicts the processional and ceremonial scenes from the coronation of the Queen Mother, focusing on both the exterior procession and the interior events inside the Abbey, including the solemn coronation oath ceremony.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T17:32:18.443901+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "I HAVE KNOWN FOR A LONG TIME THAT I MUST START THESE BROADSHEETS SOME DAY. MY REASONS, THOUGH PERHAPS COMMERCIALLY UNSOUND, ARE GOOD ENOUGH FOR ME: I HAVE AN URGE TO DRAW LIFE AND TO COMMUNICATE MY PICTORIAL CHRONICLE TO MY CONTEMPORARIES. AND, HAVING BEEN PERSUADED THAT I AM GOOD AT TRAPPING THE SPIRIT AND SHAPE OF OUR TIME, I ASSUME THAT SUCH A CONTINUOUS PANORAMA, WHEN COLLECTED AND PRESERVED, AS I HOPE, OVER MANY YEARS, WILL BECOME A UNIQUE DOCUMENT. THE CONTENT WILL NOT BE SUBDUED BY ANY RULES AND IT WILL SWING FROM A NUMBER OF ISSUES GIVEN OVER TO THEME, SINGLE, \"OMNIBUS\" ISSUES, WITH SERIAL FEATURES, TEXTUAL DECORATIONS AND ROUND-THE-WORLD EXPERIENCES INCLUDED. FOLDERS WILL BE MADE FOR THE 24 BROADSHEETS WHICH WILL APPEAR YEARLY, TO FORM A HANDSOME LINE ON THE BOOKSHELVES; AND EACH YEAR WILL BE CLOSED WITH THE LIST OF DRAWINGS AND AN INDEX OF THE PEOPLE, PLACES AND EVENTS RECORDED. THE DRAWINGS OF THE CORONATION, WHICH I WAS COMMISSIONED TO DO FOR THE GOVERNMENT, SUPPLIED THE IMMEDIATE IMPETUS FOR THE OBVIOUS FIRST NUMBER. THOUGH IT COUNTS THE ADMINISTRATION SIDE IS NOT YET READY. BUT, AT WHATEVER INTERVALS THE END OF THE FIRST YEAR'S 24 BROADSHEETS, THE PRICE, I TRUST, WILL NOT SEEM TO BE ANY MORE THAN BE AS MUCH AS THAT OF A SIP OF WHISKY, A SHORT TAXI-RIDE, OR THE CHEAPEST CINEMA SEAT. AS, WITH ADVANCE, THE NUMBER OF COPIES GROW, THE CHARGE WILL SHRINK.\n\nSubscriptions are most welcome as they will be regulated by the number of copies and the subscriber list can be reviewed at the issue of each year, upon which fresh subscriptions may be invited. \n\n\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 2s. 6d. A COPY. YEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) FOR ANYWHERE IN THE WORLD ARE \u00a33. 0s (OR EQUIVALENT); SHORTER PERIODS PRO RATA. AIR MAIL BY QUOTATION.",
+      "handwritten_text": "After the ceremony, in the rain\nFeliks Topolski",
+      "sketch_descriptions": [
+        "A large group of figures gathered closely together, many holding umbrellas, giving a sense of a crowd outdoors in rainy weather.",
+        "Several figures in ceremonial or formal clothing, some with elaborate hats and epaulets, one figure in the lower section appearing to play a musical instrument, drawn in expressive linework."
+      ],
+      "entities": {
+        "people": [
+          "Feliks Topolski"
+        ],
+        "places": [],
+        "events": [
+          "the Coronation"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page introduces Topolski's Chronicle, describing its intent as an illustrated documentary of contemporary life, and features expressive sketches of crowds at a ceremonial rainy event, likely referencing the Coronation.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T17:32:27.550870+00:00"
+    }
+  ]
+}

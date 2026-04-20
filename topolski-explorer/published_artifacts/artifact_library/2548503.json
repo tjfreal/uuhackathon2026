@@ -1,0 +1,304 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548503",
+    "title": "Topolski's Chronicle, V.3 No.18-22, 1955",
+    "date": "1955",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6afmc27",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6afmc27",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 11,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "UNIVERSITY OF UTAH LIBRARIES\nTOPOLSKI'S CHRONICLE No. 18 22 (54-5) Vol. XII 1955\nof a voyage round the world (x)\n352\nThe Statue of Liberty is not pictured here, not only because this artist arrived from Asia through America's \"back-door\", but also because this collection does not set out to be of guide-book \"landmarks\", but is mainly drawn from New York.",
+      "handwritten_text": "WORLD'S MOST FAMOUS\nFRIENDLY LUMBER\nDYKES LUMBER\nNEW YORK",
+      "sketch_descriptions": [
+        "A rough charcoal sketch of a cityscape featuring a large suspension bridge, tall skyscrapers, and street-level activity with people and bicycles.",
+        "A darkly shaded figure of a person in a coat and hat standing prominently in the foreground.",
+        "Street signs and billboards with partial readable text including 'WORLD'S MOST FAMOUS', 'FRIENDLY LUMBER', and 'DYKES LUMBER'."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "New York",
+          "University of Utah Libraries"
+        ],
+        "events": [],
+        "dates": [
+          "1955"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle features a charcoal sketch of a New York cityscape with a suspension bridge, skyscrapers, street scenes, and signage, dated 1955, illustrating the artist's perspective distinct from typical landmarks like the Statue of Liberty.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T21:56:52.018005+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "UNIVERSITY OF UTAH LIBRARIES\n553\n554\n555",
+      "handwritten_text": "Harlem\nCarolina funeral chapel Mickey\nHarlem Felix Topolski",
+      "sketch_descriptions": [
+        "A group of African-American people in a street scene with some buildings in the background, including one with a sign 'SOLO FEST'.",
+        "A crowd scene outside the Carolina Funeral Chapel with several people gathered, some wearing hats, and the chapel sign prominent.",
+        "People on steps and a sidewalk, some engaged in conversation, with an elevated train track or bridge structure in the background and a sign reading 'CHUK or COI L'."
+      ],
+      "entities": {
+        "people": [
+          "Felix Topolski",
+          "Mickey"
+        ],
+        "places": [
+          "Harlem",
+          "Carolina Funeral Chapel"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page features sketches by Felix Topolski depicting various street scenes and gatherings in Harlem, including a funeral chapel crowd, capturing urban African-American life.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T21:56:55.891120+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "556\n557\n558\n559\n560\n561\n\u2605 A drawing of the Museum of Modern Art (419), which virtually belongs to this issue, was reproduced in \"The Artist in Modern Society\" issue (Nr. 3-4, Vol. III)\nUNIVERSITY OF UTAH LIBRARIES",
+      "handwritten_text": "Subway Entrance York\nGREENWICH\nPoetry Exhibits Washington Sq.\ndivision my mind, impressions, handiwork is no public or federal minimum is no matter but rolling printing windows passing pamphlets more hotels passing on train\n5th Avenue\nTruth Builds the ORPHEUM\nMidtown Manhattan\nCentral Park\nSubway column just underground + they somehow - negrin mix with old store + new life flying big drum",
+      "sketch_descriptions": [
+        "Sketch of several people standing near a structure labeled 'Subway Entrance York', with figures walking or standing around the entrance.",
+        "Group of people in conversation near a wall with notices and a sign labeled 'Poetry Exhibits Washington Sq' with a posted exhibit note in Greenwich.",
+        "Crowd of people participating in a strike or protest on 5th Avenue, holding signs that say 'DELMAN' and 'STRIKE'.",
+        "Crowd scene in Midtown Manhattan, with layered figures and a sign mentioning 'Truth Builds the Orpheum' and 'The Cookie'.",
+        "Sketch of people sitting on a bench in Central Park with buildings in the background.",
+        "Interior subway scene showing seated passengers, with handwritten notes mentioning a subway column underground, old and new mixed with a drum."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "York",
+          "Greenwich",
+          "Washington Sq",
+          "5th Avenue",
+          "Midtown Manhattan",
+          "Central Park",
+          "Subway"
+        ],
+        "events": [
+          "DELMAN Strike"
+        ],
+        "dates": []
+      },
+      "page_summary": "The page contains various sketches and handwritten notes depicting urban scenes in New York City, including subway entrances, public demonstrations, and street life in locations like Greenwich, 5th Avenue, Midtown Manhattan, and Central Park.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T21:57:21.715031+00:00"
+    },
+    {
+      "page_number": 4,
+      "typeset_text": "",
+      "handwritten_text": "Want a couple of good men. BOWERY. Feb 15 1962. LEVITYS FIXTURES BOUGHT 89. CABINET WORK. The SALVATION. 30 day bargain. Soldiers mission. A friend to the friendless. Bowery homeless.",
+      "sketch_descriptions": [
+        "A charcoal sketch of five men in heavy coats inside a dimly lit interior, drawn in an expressionist style, captioned 'Want a couple of good men' and marked 'BOWERY Feb 15 1962'.",
+        "A pen sketch showing a man standing in a doorway with architectural elements, and a group of three men, two wearing hats, in a street scene beneath lines of text including 'Levitys Fixtures' and 'Cabinet Work'.",
+        "A dense, energetic pen sketch of a crowded urban scene, possibly the Bowery, with multiple men interacting or standing, signage including 'The Salvation', 'Soldiers mission', 'A friend to the friendless', and the annotation 'Bowery homeless'."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Bowery",
+          "Levitys",
+          "Soldiers mission"
+        ],
+        "events": [],
+        "dates": [
+          "Feb 15 1962",
+          "30 day"
+        ]
+      },
+      "page_summary": "This page contains sketches and handwritten notes depicting scenes and people from the Bowery area, highlighting homeless individuals and urban social spaces in early 1960s New York.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T21:57:47.210856+00:00"
+    },
+    {
+      "page_number": 5,
+      "typeset_text": "UNIVERSITY OF UTAH LIBRARIES",
+      "handwritten_text": "UNITED NATIONS\nGREECE\nFRANCE\nDENMARK\nYUGOSLAVIA\nUNITED NATIONS Commission on Human Rights\nUNITED NATIONS Commission on the Status of Women\nRAPPORTER\nM EDITOR",
+      "sketch_descriptions": [
+        "A dense group portrait showing animated delegates or representatives in discussion, each labeled with country names such as Greece, France, Denmark, and Yugoslavia, underneath a handwritten 'UNITED NATIONS' and 'Commission on Human Rights' label.",
+        "A crowded scene of people seated around a table, including one labeled 'RAPPORTER,' engaged in what appears to be a formal meeting or debate, labeled 'UNITED NATIONS Commission on the Status of Women.'",
+        "A single, relaxed individual wearing a cap and sunglasses, sitting back with one leg over the other and a drink in hand, labeled 'M EDITOR.'"
+      ],
+      "entities": {
+        "people": [
+          "M EDITOR",
+          "RAPPORTER"
+        ],
+        "places": [
+          "United Nations",
+          "Greece",
+          "France",
+          "Denmark",
+          "Yugoslavia"
+        ],
+        "events": [
+          "United Nations Commission on Human Rights",
+          "United Nations Commission on the Status of Women"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page features quick sketches capturing scenes from United Nations meetings, specifically the Commission on Human Rights and the Commission on the Status of Women, with animated delegates from several countries and a casual portrait of someone labeled as the editor. The illustrations convey the dynamic atmosphere of international diplomatic discussion.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T21:14:24.116438+00:00"
+    },
+    {
+      "page_number": 6,
+      "typeset_text": "N. Y. STOCK EXCHANGE",
+      "handwritten_text": "Public Gallery N. Y. Stock Exchange\nWall Street\nS. Stock Exchange\n(2) Trading in relays - rigging - relay [?]",
+      "sketch_descriptions": [
+        "Group of people walking or standing on a city street with flags and tall buildings in the background.",
+        "Crowd of people in the public gallery of the New York Stock Exchange, some wearing hats and seated or standing.",
+        "Large crowd inside the stock exchange with individuals engaged in discussions and transactions, with flags on walls.",
+        "Individual, possibly a policeman, standing near a car on Wall Street.",
+        "Two men in hats talking near an entrance or corridor inside the New York Stock Exchange.",
+        "Group of people gathered on a circular trading floor or area within the exchange, viewed from above.",
+        "Person standing near some office equipment or an adding machine, appearing engaged in work or communication."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "New York Stock Exchange",
+          "Wall Street"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "The page features a series of expressive sketches depicting scenes inside and outside the New York Stock Exchange, including crowds trading, people in the public gallery, and Wall Street surroundings.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T21:57:52.244539+00:00"
+    },
+    {
+      "page_number": 7,
+      "typeset_text": "575\n576\n577\n578",
+      "handwritten_text": "Long Island week end\nMaharani of Jaipur\nEl Morocco\nCompetition Club (Women)\nRene starts dressing from paper come miss you missed air",
+      "sketch_descriptions": [
+        "A group of four people and a dog at a beach, with one person holding a drink, captioned 'Long Island week end'.",
+        "A crowded scene with multiple people gathered closely together, including a woman in profile in the foreground, captioned 'Maharani of Jaipur'.",
+        "A social lounge or club scene showing a woman and a man in formal attire seated beside a decorative lamp and urn, captioned 'Competition Club (Women)'.",
+        "Two women sitting and conversing closely, one wearing a hat, with handwritten caption indicating greeting or dressing notes: 'Rene starts dressing from paper come miss you missed air'."
+      ],
+      "entities": {
+        "people": [
+          "Maharani of Jaipur",
+          "Rene"
+        ],
+        "places": [
+          "Long Island",
+          "El Morocco",
+          "Competition Club"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page features sketches depicting social gatherings and individuals at notable places such as Long Island, El Morocco, and the Competition Club, with handwritten captions adding context to the scenes.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T21:58:17.215761+00:00"
+    },
+    {
+      "page_number": 8,
+      "typeset_text": "",
+      "handwritten_text": "In a bar\nRigaults Bowery reflections\nDowntown bar\nBROOKLYN DODGE GAMES WOR[?]",
+      "sketch_descriptions": [
+        "Left page: Multiple loosely sketched figures in a bar setting, with a focus on people wearing hats, engaged in drinking or socializing, including a depiction of a framed picture or painting on the wall.",
+        "Right page: Group of people, mostly men, wearing hats and coats, sitting and standing closely in a bar or social environment, with a back view of a person in a large hat and a sign that reads 'BROOKLYN DODGE GAMES.'"
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Brooklyn",
+          "Bowery"
+        ],
+        "events": [
+          "Brooklyn Dodge Games"
+        ],
+        "dates": []
+      },
+      "page_summary": "The page depicts lively scenes inside bars, with groups of people socializing in settings identified as Bowery and Brooklyn, and references a local event called the Brooklyn Dodge Games.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T21:58:41.586396+00:00"
+    },
+    {
+      "page_number": 9,
+      "typeset_text": "583\n584\n585\n586",
+      "handwritten_text": "H boring public - - politeness - a precious machine\nBowling\nPicking-out 'Court of London' by chance\n- style forms very hard, but the driving thing is very impressive - raising of abstract-?\nBASEBALL at Yankee Stadium\nTrotting at Yonkers Raceway\nYankees Stadium",
+      "sketch_descriptions": [
+        "Upper left dense sketch group of several loosely drawn people sitting together, some possibly holding drinks, with a chaotic overlapping of lines.",
+        "Lower left sketch of a group of men, some wearing hats, appearing to be in a social or public setting, maybe at a bar or club.",
+        "Upper right drawing of a man in a cap observing a baseball game, with partial stadium architecture and audience in the background.",
+        "Lower right, two small sketches: one with a group of people sitting on a bench at Yonkers Raceway labeled 'Trotting at Yonkers Raceway'; the other shows a woman carrying bags and a man in a uniform or suit near a corner, captioned 'Yankees Stadium'."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Yankee Stadium",
+          "Yonkers Raceway",
+          "Yankees Stadium"
+        ],
+        "events": [
+          "BASEBALL"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page contains multiple expressive sketch studies of crowds and scenes from public venues, including baseball at Yankee Stadium and trotting at Yonkers Raceway, accompanied by handwritten notes describing the setting and atmosphere.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T21:59:06.470182+00:00"
+    },
+    {
+      "page_number": 10,
+      "typeset_text": "587 588 589 590 591",
+      "handwritten_text": "Early hours in Manhattan\nW. Bar with Cipriano\nCentral Park South",
+      "sketch_descriptions": [
+        "A loose sketch of a woman singing or performing with musicians in the background.",
+        "A sketch of a group of people sitting closely together, possibly in a bar or social setting, with the caption 'W. Bar with Cipriano'.",
+        "A group sketch of several people sitting and interacting in a crowded indoor space, with an emphasis on two central figures, one wearing a cap.",
+        "Two sketches of New York City skylines with tall buildings and architectural details.",
+        "A group of people gathered outdoors with one officer in uniform standing prominently on the right; the scene is labeled 'Central Park South'."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Manhattan",
+          "Central Park South"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "The page features expressive ink sketches illustrating social scenes in Manhattan, including bar interiors and cityscapes, alongside a group interaction near Central Park South.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T21:59:31.558209+00:00"
+    },
+    {
+      "page_number": 11,
+      "typeset_text": "\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 2s 6d. A COPY The price of this quintuple issue is 12s. 6d. YEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD (ARE 4.3s. 3d. or equivalent): RATE, AIR MAIL BY QUOTATION. SUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME. Handprinted in Great Britain by Poets & Painters Press 146 Sutton Walk, S.E.1. from blocks made by Austin Milne Ltd and published from Bridge Arch 146 Sutton Walk, London, S.E.1. Copyright reserved.",
+      "handwritten_text": "East River 592 BROOK 593",
+      "sketch_descriptions": [
+        "A densely sketched cityscape featuring a suspension bridge, likely the Brooklyn Bridge, numerous high-rise buildings, crowded streets, and elements of urban architecture with small human figures; one figure prominently dressed in dark clothing and a hat stands closer to the foreground.",
+        "A broad river vista with silhouetted, jagged city skyscrapers against a dark, star-speckled night sky, the city reflected in the water below; rough, expressive lines suggest mood and motion."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "East River",
+          "Brooklyn",
+          "Brooklyn Bridge"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page from Topolski's Chronicle features expressive sketches of New York's East River and Brooklyn Bridge area, capturing both daytime urban life and a nighttime city skyline, accompanied by minimal handwritten notations and publication information.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T21:21:26.503303+00:00"
+    }
+  ]
+}

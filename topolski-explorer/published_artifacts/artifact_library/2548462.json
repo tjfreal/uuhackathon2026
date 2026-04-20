@@ -1,0 +1,89 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548462",
+    "title": "Topolski's Chronicle, V.1 No.8, 1953",
+    "date": "1953",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6rw5128",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6rw5128",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE No. 8 Vol. I 1953\nENGLAND: County Horse Shows",
+      "handwritten_text": "England County Horse Shows",
+      "sketch_descriptions": [
+        "A group of people wearing hats and riding attire stand near a horse, with expressive line work suggesting the scene of a horse show or equestrian event.",
+        "One central horse, partially visible, is flanked by several figures, some holding riding crops or leading the horse.",
+        "Distinctive clothing details such as riding boots, jackets, and equestrian headgear are visible, emphasizing the county horse show setting."
+      ],
+      "entities": {
+        "people": [
+          "Feliks Topolski"
+        ],
+        "places": [
+          "England"
+        ],
+        "events": [
+          "County Horse Shows"
+        ],
+        "dates": [
+          "1953"
+        ]
+      },
+      "page_summary": "This page from 'Topolski's Chronicle' features expressive sketches illustrating a scene at an English county horse show in 1953, capturing both participants and a horse in characteristic equestrian attire.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T18:03:27.485866+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "",
+      "handwritten_text": "Horse Show Knot\nSchoarch[?] Horse Show & Syndicate[?]\nHorse Show",
+      "sketch_descriptions": [
+        "Series of gestural figures drawn on a green field, showing people in dynamic movement, possibly involved in handling horses or ropes.",
+        "Outdoor scene with a marquee or tent, people seated and standing in groups, and horses and figures dispersed in the background, indicative of an event or gathering.",
+        "Crowd of men, women, and children in formal or period dress, many wearing hats, standing in front of a tent or awning, with horses and riders in the background."
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [
+          "Horse Show"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page presents expressive sketches capturing scenes from a horse show, including dynamic figures, gatherings under tents, and crowds observing the event. It documents the vibrant atmosphere and social activity at an equestrian public occasion.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T18:03:52.115761+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 2s. 6d. A COPY. YEARLY SUBSCRIPTION RATES TO ANY PART OF THE WORLD ARE \u00a33.3- (S9 or equivalent); THIS INCLUDES FOLDER AND INDEX, NOT PROVIDED FOR SHORTER, PRO RATA PERIODS, BUT AVAILABLE AT 5-. AIR MAIL BY QUOTATION. Printed in Great Britain by R.G.C. Bednarczuk of Tunbridge Wells from blocks made by the Dome Engraving Co., Ltd and published from 14 Hanover Terrace, London N.W.1 Copyright reserved.",
+      "handwritten_text": "Windsor Horse Show",
+      "sketch_descriptions": [
+        "A crowd of finely dressed people, including women in hats and men in top hats, gathered in front of Windsor Castle with flags and a large tent visible in the background.",
+        "A scene showing horses and riders parading or performing before a large audience, with Windsor Castle recognizable behind the throngs of spectators.",
+        "Figures in the foreground, including a man and a child, watching the equestrian activities and mingling among the crowd."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Windsor Castle"
+        ],
+        "events": [
+          "Windsor Horse Show"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page from Topolski's Chronicle features dynamic sketches capturing the lively atmosphere of the Windsor Horse Show against the backdrop of Windsor Castle, illustrating crowds, equestrian events, and the pageantry of the occasion.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T18:04:17.642760+00:00"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "schema_version": "2026-04-19-topolski-benchmark-queries-v1",
+  "notes": [
+    "This is a starter benchmark for the current 25-item corpus slice.",
+    "Queries should be judged across whole-page retrieval, blended retrieval, and future region-aware retrieval."
+  ],
+  "queries": [
+    {
+      "query_id": "q_named_churchill",
+      "query": "Churchill coronation London",
+      "intent": "Find issues and pages involving Churchill and British ceremonial/public scenes.",
+      "query_type": "named_person_event",
+      "success_criteria": [
+        "Top results should include pages from the coronation period or nearby index material.",
+        "Evidence should mention Churchill, coronation, London, Westminster Abbey, or clearly adjacent ceremonial context."
+      ],
+      "failure_modes_to_watch": [
+        "Results are only broadly British without Churchill-level specificity.",
+        "Summaries are plausible but the evidence text is too generic to trust."
+      ]
+    },
+    {
+      "query_id": "q_named_japan",
+      "query": "Japan Tokyo Kyoto Fuji",
+      "intent": "Find Japan travel/reportage pages and test place-heavy retrieval.",
+      "query_type": "place_cluster",
+      "success_criteria": [
+        "Top results should include Japan-related issues or index references.",
+        "Evidence should surface Tokyo, Kyoto, Fuji, or clearly matching descriptions."
+      ],
+      "failure_modes_to_watch": [
+        "Results collapse into generic travel or crowd scenes.",
+        "The page theme is right but specific locations are missing from evidence."
+      ]
+    },
+    {
+      "query_id": "q_named_spain",
+      "query": "Spain Madrid Seville cathedral",
+      "intent": "Test place-plus-architecture retrieval and issue grouping.",
+      "query_type": "place_architecture",
+      "success_criteria": [
+        "Top results should cluster around Spain issues or index pages.",
+        "Evidence should include place names or architecture-related descriptions."
+      ],
+      "failure_modes_to_watch": [
+        "Results are geographically adjacent but not clearly Spanish.",
+        "Architecture is inferred from sketches without grounded evidence."
+      ]
+    },
+    {
+      "query_id": "q_visual_portrait",
+      "query": "large expressive portrait suited man",
+      "intent": "Test sketch-description retrieval when text is weak or partial.",
+      "query_type": "visual_scene",
+      "success_criteria": [
+        "At least one top result should show a strongly portrait-dominant page.",
+        "The explanation or source text should make it clear the match came from sketch semantics."
+      ],
+      "failure_modes_to_watch": [
+        "Portrait-heavy pages are missed because text lanes dominate ranking.",
+        "Results mention people but do not actually surface visually relevant pages."
+      ]
+    },
+    {
+      "query_id": "q_index_pages",
+      "query": "index contents list people places dates",
+      "intent": "Test whether index-like pages are retrievable as a distinct document behavior.",
+      "query_type": "index_structure",
+      "success_criteria": [
+        "Index or list-like pages should appear near the top.",
+        "Evidence should show dense names, places, dates, or list structure."
+      ],
+      "failure_modes_to_watch": [
+        "Results are merely text-heavy rather than index-like.",
+        "Pages surface without any sign of list or index structure."
+      ]
+    },
+    {
+      "query_id": "q_handwriting_margin",
+      "query": "handwritten caption marginal note",
+      "intent": "Stress-test the weak lane where v1 is least trustworthy.",
+      "query_type": "handwriting_boundary",
+      "success_criteria": [
+        "Approaches should at least surface handwriting-heavy or mixed-layout pages.",
+        "Region-aware approaches should eventually outperform whole-page retrieval here."
+      ],
+      "failure_modes_to_watch": [
+        "No handwriting-heavy pages appear.",
+        "Results are entirely driven by typeset text or generic page summaries."
+      ]
+    },
+    {
+      "query_id": "q_meta_mixed_layout",
+      "query": "page with sketches text blocks sidebars and captions",
+      "intent": "Test mixed-layout retrieval and expose whether page-level summaries are too coarse.",
+      "query_type": "mixed_layout",
+      "success_criteria": [
+        "Results should include pages with multiple region types present.",
+        "The evidence surface should make the mixed-layout nature legible."
+      ],
+      "failure_modes_to_watch": [
+        "Broad summary matches dominate without showing component evidence.",
+        "Pages with only one strong modality crowd out genuinely mixed pages."
+      ]
+    }
+  ]
+}

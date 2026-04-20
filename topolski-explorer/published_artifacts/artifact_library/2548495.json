@@ -1,0 +1,105 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548495",
+    "title": "Topolski's Chronicle, V.3 No.8, 1955",
+    "date": "1955",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6dc21h4",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6dc21h4",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE No. 8 (44) Vol. III 1955\nUNIVERSITY OF UTAH LIBRARIES\nCOSTUMES OF BRITAIN IN THE MID-XXth CENTURY\n444 NEW EDWARDIAN STYLES\nNever before in the long story of male attire has there been so obvious an attempt to wear the clothes of a previous generation...\n445 SURPLUS STORES STYLES\nFor so long men's clothes have been deliberately uncomfortable, as if to show that their wearers did not intend, and had no need, to soil their hands with work...\n446 IMMIGREE STYLES\nThey have, so to speak, been through European clothes, and come out on the other side into a world of freedom and fantasy...\n447 HOLIDAY STYLES\nWe have at last almost arrived at the logical end of bathing costumes with the invention of the Bikini...\nThese four \"fashion plates\" are interpretations and not, as always in the CHRONICLE, immediate drawings \"from life\".\nNos. 445\u2014447 are reproduced by permission of the proprietors of PUNCH; quotations are taken from James Laver's articles in PUNCH.",
+      "handwritten_text": "long hair - not brushed\nvery high collar\nshort tie, soft hat\nshiny cuffs, slightly fancy shoes\nEdwardian embroidery\nDuffle coats\nwaterproof\nlabels\nold Army boots\nparatroop jackets\nshabby raincoat\nsuit\nFrench hat\nJewish trousers\npainted shoes\nSummer hats\nBikini top\nloose wrap\nsunburnt\ncane\nsandals",
+      "sketch_descriptions": [
+        "A group of men in 'New Edwardian Styles,' including bowler hats, fitted coats, and distinct period details, standing together in conversation.",
+        "Figures in 'Surplus Stores Styles,' wearing duffle coats, army surplus clothing, boots, and raincoats, suggesting practicality and repurposing of attire.",
+        "A group of people, some in wide-brimmed hats and trench coats, labeled as 'Immigree Styles,' with expressive and flamboyant outfits reflecting European influence and individuality.",
+        "Two figures in 'Holiday Styles,' one elderly man with cane and sandals and another in a bikini, highlighting the evolution and lightening of bathing costumes."
+      ],
+      "entities": {
+        "people": [
+          "Felix Topolski",
+          "James Laver"
+        ],
+        "places": [
+          "Britain",
+          "Europe",
+          "University of Utah"
+        ],
+        "events": [],
+        "dates": [
+          "1955",
+          "MID-XXth CENTURY",
+          "Nos. 445\u2014447"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle visually explores four distinct mid-20th century British costume styles\u2014Edwardian revival, surplus store clothing, immigrant-influenced fashion, and holiday beachwear\u2014combining Topolski's expressive sketches and handwritten notes with editorial commentary.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:53:16.531968+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "COSTUMES OF THE BRITISH MALE IN THE MID-XXth CENTURY\nOld and New Edwardians, Teddy Boys and the Others\nDrawings in this issue are available as postcards (single and in series of 15) and as greeting cards (harmonicas: made of 7 drawings). Some originals can also be had.",
+      "handwritten_text": "HANDWRITTEN TEXTS BELOW IMAGES:\n- GUARDS\u2019 OFFICERS\u2019 STYLES\n- UNDERGRADUATE STYLES\n- CHELSEA STYLES\n- \u201cTEDDY BOY\u201d STYLES (appears twice)\n- CHARING STYLES\n- \u201cAT LORDS\u201d STYLES\n- WORKMEN STYLES\n- VAGABOND STYLES\n- WEST INDIAN STYLES\n\nSome cursive notations within the sketches, e.g., \u201cOxford\u201d, \u201cChelsea\u201d, \u201cLondon\u201d, \u201c\u2018Teddy Boy\u2019\u201d and possibly artist\u2019s notes on a few images that are partially unclear.",
+      "sketch_descriptions": [
+        "Group of men in formal uniforms and hats, with upright posture suggesting officers in a social setting.",
+        "Two young men standing together, one tall and slender with a long coat, evoking a university context.",
+        "Scene of casually dressed men and women in a lively urban environment, possibly an art district.",
+        "Two young men in stylish, sharp suits known as 'Teddy Boy' attire, with one woman in conversation.",
+        "Solitary figure in profile with curled hair, dressed in 'Teddy Boy' style.",
+        "Crowds moving through or congregating near a monument reminiscent of Trafalgar Square with Nelson's Column.",
+        "Men in light summer suits and hats walking at a venue labeled as 'At Lords', recalling a cricket match.",
+        "Two workmen in rough, layered attire carrying bags and everyday items.",
+        "Disheveled individual in oversized clothes, hunched and carrying bags, showing the 'Vagabond' style.",
+        "Pair of men in wide-brimmed hats and loose suits, labeled as 'West Indian Styles', walking together."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Chelsea",
+          "Lords",
+          "West Indies"
+        ],
+        "events": [],
+        "dates": [
+          "MID-XXth CENTURY"
+        ]
+      },
+      "page_summary": "This page presents a series of expressive sketches by Felix Topolski depicting a diverse range of British male fashion styles in the mid-20th century, from formal and subcultural to working-class and immigrant influences. The images are accompanied by handwritten captions categorizing each style and highlight the social and sartorial variety in postwar Britain.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:53:24.973953+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 2s. 6d. A COPY\nYEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE \u00a33. 3s. ($9 or equivalents); SHORTER PERIODS PRO RATA, AIR MAIL BY QUOTATION.\nSUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME\nHandprinted in Great Britain by Poets' & Painters' Press 146 Sutton Walk, S.E.1. from blocks made by Austin Miles Ltd and published from Bridge Arch 156, Sutton Walk, South Bank, London, S.E.1. Copyright reserved.",
+      "handwritten_text": "In East End Felix Topolski",
+      "sketch_descriptions": [
+        "A lively, dense street scene dominated by the sketch of a woman walking in the foreground, surrounded by several adults and children.",
+        "In the background, a two-story building with a sign reading 'FITHS DAIRIES' and a partially obscured street setting.",
+        "Groups of people are gathered under and around the shopfront, with expressive lines suggesting movement and urban bustle."
+      ],
+      "entities": {
+        "people": [
+          "Felix Topolski"
+        ],
+        "places": [
+          "East End",
+          "FITHS DAIRIES"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page captures a bustling street scene in London's East End, featuring expressive sketches of pedestrians gathered near a local dairy and annotated with Topolski's location. It combines urban architecture with dynamic human figures, illustrating city life.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:53:51.664098+00:00"
+    }
+  ]
+}

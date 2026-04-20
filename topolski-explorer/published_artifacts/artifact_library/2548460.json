@@ -1,0 +1,76 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548460",
+    "title": "Topolski's Chronicle, V.1 No.6, 1953",
+    "date": "1953",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s68x8k0z",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s68x8k0z",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE is published 12 times a year at 2s. 6d. a copy. YEARLY SUBSCRIPTION RATES TO ANY PART OF THE WORLD ARE \u00a31 1s. 0d. or equivalent. SINGLE COPIES FOUND TO HAVE BEEN TAMPERED WITH OR RENDERED FOR POSTAGE AND SHOULD NOT BE ACCEPTED. NOT AVAILABLE AT THE MALL BUT BY CONTACTING the Editor, Felix Topolski, 3a Railway Arches (off Tansfield Place, York Road), London S.E.1 and published from 17 Hanover Terrace, London N.W.1 Copyright reserved.",
+      "handwritten_text": "Feliks Topolski Madrid",
+      "sketch_descriptions": [
+        "A loose crowd of figures, including men in military helmets with rifles, standing alongside several people in varied civilian attire.",
+        "A uniformed officer is depicted in profile with hands behind his back, observing the group.",
+        "A suggestion of flags waving above the figures, adding a sense of place or ceremony."
+      ],
+      "entities": {
+        "people": [
+          "Feliks Topolski"
+        ],
+        "places": [
+          "Madrid"
+        ],
+        "events": [],
+        "dates": [
+          "1953"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle features expressive sketches of a group of soldiers and civilians, with particular reference to Madrid, and includes publication information from 1953.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T18:01:53.127261+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "SPAIN 2 MADRID: In La Gran Via (41) Plaza De Toros (42, 43, 44) Carmen Amaya at Teatro Espa\u00f1ol (45) Social gathering (46)",
+      "handwritten_text": "Plaza de Toros de Madrid Carmen Amaya - Spanish Gypsy Dancer R. Eugenio d'Ors",
+      "sketch_descriptions": [
+        "Matador facing a bull in a bullring with assistants nearby, rendered with expressive lines.",
+        "Wide scene of a bullfight in progress with matadors, picadors, bull, and a crowd in a bullring, with faces of spectators and secondary figures in the foreground.",
+        "Another moment in the bullring, showing matadors and spectators reacting to the action.",
+        "Group of performers and spectators, possibly on stage or after a performance, with two guitarists accompanying energetic dancers and a seated group watching.",
+        "Three men seated at a table, two older with distinguished features, one younger, all engaged thoughtfully, possibly at a social or intellectual gathering."
+      ],
+      "entities": {
+        "people": [
+          "Carmen Amaya",
+          "R. Eugenio d'Ors"
+        ],
+        "places": [
+          "Madrid",
+          "Plaza de Toros de Madrid",
+          "La Gran Via",
+          "Teatro Espa\u00f1ol"
+        ],
+        "events": [
+          "Plaza De Toros",
+          "Social gathering",
+          "Carmen Amaya performance"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page documents scenes from Madrid, focusing on a bullfight at Plaza de Toros, a flamenco dance performance by Carmen Amaya, and a social gathering likely involving notable cultural figures. The sketches blend dynamic crowd scenes, portraits, and moments of Spanish public life.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T18:02:20.077874+00:00"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548562",
+    "title": "Topolski's Chronicle, V.5 No.15, 1957",
+    "date": "1957",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6hmafn7",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6hmafn7",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE No. 15 (99) Vol. V 1957\nTHE CAMBRIDGE\nARTS THEATRE\nMONDAY JUNE 3 TO SATURDAY JUNE 8, 1957\n2ND WEEK\nKATHLEEN JACK\nMICHAEL MacGOWRAN\nAMEDEE\nEUGENE IONESCO\nMAGDA MILLER  ERIC FRANCIS\nHILARY SESTA  ANTHONY BURLEY\nCY GRANT\nPETER ZADEK FELIKS TOPOLSKI\nTHE CAMBRIDGE ARTS THEATRE DIRECTOR: LYNN HOLLETT\nALL SEATS BOOKABLE IN ADVANCE\nAMEDEE OU COMME S'EN DEBARRASSER\nThese drawings of the Cambridge production of a play by Ionesco serve to put on record the present mood in Parisian play-writing, in which Ionesco, Beckett and Genet (but not so Felicien Marceau) stage their protagonists in barrenness, in order not to inconvenience their argument, and eschew the purpose: the REPRODUCTION of the species and the whole chain of exasperating (but hardly limp) events and conflicts leading to it and deriving from it. However, they are in an age-honoured tradition: The Bachelor - the Immaculate dominate the prevalent systems of faith and worship. The commitment unto martyrdom of the detached is thought by the community of the attached to be the holiest path, although in the days of recent brutality the truer Calvary was that of a family and the heavier Cross the crowded family cart, with the tragic trepidations not only of bodily torture but of separation, mortal choice, love and charity challenged and threatened, of torture by witnessing. The myth of the Family is still to be created. And to be written as the Morality Play of our time.\nTOPOLSKI'S CHRONICLE IS PUBLISHED 24 TIMES A YEAR AT 3s. 6d. (50c) A COPY.\nYOUNG SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE \u00a34. 4s (\u00a312 or equivalent). AIR MAIL BY QUOTATION. SUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME. Headclothing in Great Britain by Poets & Painters' Press from blocks made by Anton Kritz Ltd and published from Bridge Arch 158, Serous Walk, London, S.E.1. by Topolski's Chronicles Ltd. Copyright reserved.",
+      "handwritten_text": "Cyclorama back-cloth, Act III\n\"L'\u00e9lever, je l'\u00e9l\u00e8ve, mais tu ne montes pas dans ma caisse?\"\n\"Mais dis-moi donc que tu n'aimes pas mon personnage, je ne veux pas qu'il parte.\"\nArle Pommer: (Am\u00e9d\u00e9e guittait, j'chuis moyen - - - caisse \u00e0 piston (car il faut des pi\u00e8ces de 3 frs 30) - - mais je n'ai pas de monnaie et je n'ai pas sommeil mais j'esp\u00e8re me remettre - - - - que tu t'es, ce que j'aime dans ton personnage! - - - j'te change, mon? Zut! Alors, j'si si on personne d'ans la salle, le monopole: \u00e7a co\u00fbte cher.\n\"Le facteur! Une lettre pour vous.\"\nAm\u00e9d\u00e9e: \"C'est pourquoi? Monsieur?\"\nMadeleine: \"Qui pourrait pas \u00e9crire, monsieur? C'est ce qu'il j'ai. J'sais pas mon texte! Vois-tu tr\u00e8s vraiment qu'on attend?\"\n\"J'sy vole\"\n\"As-tu peur?\"\n\"Non, tout est clair. J'ai honte - - - quoi?\"\n\"Au temps qu'il a fait, il n'y avait pas d'orage?\"\ncrinkle right - back cut, vieux \u00e0 la ville.\nAndr\u00e9e: \"Oh c'est toujours d'\u00e9crire. \u00c7a m'\u00e9nerve.\"\nMadeleine: \"Je veux pas... Je me le forme...\"",
+      "sketch_descriptions": [
+        "Detailed and expressive background scene with faint figures and abstract shapes in purple gradient with handwritten annotations.",
+        "Black line sketch of a long corridor or hallway with ceiling beams, windows, and distant figures, framed by a staircase on the right.",
+        "Inset purple poster for 'Am\u00e9d\u00e9e' by Eugene Ionesco at The Cambridge Arts Theatre with cast and production details.",
+        "Three black line sketches of characters: one sitting at a table with a clock behind, one playing a piano or accordion, and a group of three seated on stairs engaged in conversation."
+      ],
+      "entities": {
+        "people": [
+          "Kathleen",
+          "Jack",
+          "Michael MacGowran",
+          "Eugene Ionesco",
+          "Magda Miller",
+          "Eric Francis",
+          "Hilary Sesta",
+          "Anthony Burley",
+          "Cy Grant",
+          "Peter Zadek",
+          "Feliks Topolski"
+        ],
+        "places": [
+          "The Cambridge Arts Theatre",
+          "Paris"
+        ],
+        "events": [
+          "Cambridge production of Am\u00e9d\u00e9e"
+        ],
+        "dates": [
+          "Monday June 3 to Saturday June 8, 1957",
+          "1957"
+        ]
+      },
+      "page_summary": "This 1957 page from Topolski's Chronicle illustrates the Cambridge Arts Theatre production of Eugene Ionesco's play 'Am\u00e9d\u00e9e' with expressive sketches, a promotional poster, handwritten commentary, and an editorial on the themes of contemporary Parisian playwriting.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:33:15.778672+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "",
+      "handwritten_text": "Madeleine: \"Je veux d\u00e9jeuner tranquill[e]ment. Je suis \u00e0 table, moi! dis?\"  Je vous le disai[s], avant la guerre, je n'a[i]s pas temps de m'occuper de moi, j'esp\u00e8[re]... - Non, Madeleine: B[ie]n, Madeleine...\nAm\u00e9d\u00e9e: \"Moi le mont a dos (comme, Madeleine - Madeleine: C'est plus une vie, m'ton d'\u00f4t poua pounch\u00e9e.\"\nAct II\nMadeleine: \"\u00c7a va s'arranger, je te dirai ce s'arrange...\" ... \u00c9coute, si tu n'en [s]en ob\u00e9issat pas, je divorce.\"\nMadeleine: \"Tu appelles \u00e7a 'vivre' ?\"\nMadeleine: \"Comme s'il n'y avait rien d'int\u00e9ressant... Un jour comme les autres, comme les autres...\"\nAm\u00e9d\u00e9e: \"Je d\u00e9borde de chansons... la, la, la, la, la, la, la...\"\nMadeleine: \"...quelle mix triste! T'in me perces la oreille.\"\nMadeleine: \"J'ai peur. On n'aurait pas d\u00fb se d\u00e9cider si vite. Il n'y avait pas moyen, je t'en ai retourn\u00e9... c'est la faute...\"\nAct II\nMadeleine: \"... Arr\u00eate! Am\u00e9d\u00e9e! H\u00e9! Am\u00e9d\u00e9e! L\u00e9! On... on! donnerais-nous nouvelle? mais (maintenant)\"",
+      "sketch_descriptions": [
+        "Top-left sketch shows a seated figure at a table with a bird nearby, with a partially visible person behind.",
+        "Top-center sketch features a group of three figures, loosely drawn, engaged in conversation.",
+        "Center-left sketch depicts an outdoor scene with figures sitting under a covered area near a building with windows and stairs.",
+        "Center-right sketch shows three figures in an intimate setting, possibly a bedroom, with two figures leaning over another.",
+        "Bottom-left sketch portrays a reclining figure on a bed, partially draped by another figure.",
+        "Bottom-center sketch illustrates a cluttered interior scene with multiple standing and seated figures, some appearing to be in emotional distress.",
+        "Bottom-right sketch represents a large room with a variety of scattered objects and figures, including a rocking chair and a large Christmas tree or similar decoration."
+      ],
+      "entities": {
+        "people": [
+          "Madeleine",
+          "Am\u00e9d\u00e9e"
+        ],
+        "places": [],
+        "events": [
+          "Act II"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page presents a series of expressive ink sketches accompanied by handwritten French dialogue and notes, portraying intimate domestic scenes and emotional exchanges primarily between characters named Madeleine and Am\u00e9d\u00e9e, occurring during Act II of an unnamed theatrical or narrative work.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:33:42.986852+00:00"
+    }
+  ]
+}

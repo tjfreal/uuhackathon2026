@@ -1,0 +1,110 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548458",
+    "title": "Topolski's Chronicle, V.1 No.4, 1953",
+    "date": "1953",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6j9832k",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6j9832k",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE No.4 Vol.1 1953",
+      "handwritten_text": "Meeting held by Seretse Khama of Bechuanaland & his wife\nFelix Topolski A Peace Conference\n\"A Martinique Delegate. 'You would see a bronze... Hug whose brise [breeze] whom.\"",
+      "sketch_descriptions": [
+        "Expressive group portrait of five people in close discussion or listening, with dynamic black lines on a pink textured background.",
+        "Conference scene with a delegate standing behind a bank of microphones speaking to an audience, the foreground includes several people listening at a table marked 'POLSKA', and a photographer capturing the moment."
+      ],
+      "entities": {
+        "people": [
+          "Seretse Khama",
+          "Seretse Khama's wife",
+          "Felix Topolski"
+        ],
+        "places": [
+          "Bechuanaland",
+          "Martinique",
+          "Polska"
+        ],
+        "events": [
+          "A Peace Conference",
+          "Meeting held by Seretse Khama"
+        ],
+        "dates": [
+          "1953"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle visually documents a peace conference and a meeting held by Seretse Khama of Bechuanaland, featuring dynamic sketches of key figures, audience members, and a press scene.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T18:00:15.559387+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "London Conference for World Government",
+      "handwritten_text": "A great deal is being done in a great deal of places... but a great deal remains to be done. A great deal remains to be done... The plan of organization... All God's children... I am addressing you as free people, not as politicians... Can we draw law from experience, and as yet abide by it... ...we have not yet rationalized our governments, we are still liable to hysterical reactions. There are two ways of securing a government, by coercion or consent (?)... He who has wealth and privilege... has to give up something for others... I am asked as a Communist point of view... I am asked as an Anglican. Aside from the floor: 'He is always very good.' ... the world is terribly uneven, people do not live democrat- ...I support the private initiative... I would like to bring in a word for family... Intellectual type\u2014 Content is confused... general programme agreed to at Cambridge... enough of necessary organization... we will have no party politics; forum on... national independence absolutely impossible. ... we work in twenty languages... we cannot educate men and women for world citizenship, we cannot make World Citizen... We should have the levels of the World Police[?]... I am learning something every day.",
+      "sketch_descriptions": [
+        "A row of suited men seated at a table, some gesturing and speaking animatedly.",
+        "A group of figures, including one with a large hat, standing and reading from paperwork or addressing an audience.",
+        "Multiple individuals, some standing, some seated, gesticulating as if engaged in debate or making declarations.",
+        "Several close-up portraits of men and women, many with speech captions, expressing various degrees of engagement or criticism.",
+        "A figure in academic robes standing at a podium, possibly presiding over or addressing the conference.",
+        "Crowds and clusters of audience members taking notes, appearing attentive or argumentative.",
+        "Iconic hats, distinctive clothing, and hand gestures indicating diverse social or professional backgrounds amongst the participants."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "London",
+          "Cambridge"
+        ],
+        "events": [
+          "London Conference for World Government"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page visually documents discussions and speeches at the London Conference for World Government, with expressive sketches capturing various speakers and audience members debating issues of law, governance, and global cooperation.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T18:00:44.799148+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "\"Associate yourselves, O ye people, and ye shall be broken in pieces.\"\n\"Take counsel together and it shall come to nought.\"\n(ISAIAH, VIII)\nThis issue is devoted to the conference-room crusaders of sweet reason, who attempt to \"kill all that divides men\" for the sake of Peace, Unity and Justice.\n\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 2s. 6d. A COPY.\nYEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE \u00a33. 5s (15$ or equivalent). SHORTER PERIODS PRO RATA. AIR MAIL BY QUOTATION.\nPrinted in Great Britain by C. Bedosncraft of Tunbridge Wells from blocks made by the Dante Engraving Co. Ltd and published from: 14 Hanover Terrace, London N.W.1 Copyright reserved.",
+      "handwritten_text": "\"...has no chance of success whatever, mind you! Whether we like it or not, it will have no influence on question of war & peace.\"\n\"International Congress of Intellectuals for Peace\"\nUnited Europe Conference\nHungary England Germany Belgium France Spain Poland",
+      "sketch_descriptions": [
+        "Expressive sketch of an impassioned speaker gesturing dramatically, with an audience or panel in the background.",
+        "Loose sketch of two seated figures either at a conference or discussion panel.",
+        "Small illustrative square of a figure bent over a desk, shown in the red area accompanying the Isaiah quote.",
+        "Three men\u2014one standing and two sitting at a table\u2014appear to be participating in a serious discussion or debate, possibly at an international conference."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Hungary",
+          "England",
+          "Germany",
+          "Belgium",
+          "France",
+          "Spain",
+          "Poland",
+          "London",
+          "Tunbridge Wells"
+        ],
+        "events": [
+          "International Congress of Intellectuals for Peace",
+          "United Europe Conference"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page from Topolski's Chronicle captures the atmosphere and participants of prominent mid-20th-century peace and unity conferences, featuring expressive sketches of speakers and delegates. Editorial and biblical reference text emphasizes the international and reconciliatory aims of the chronicled events.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T18:00:52.110148+00:00"
+    }
+  ]
+}

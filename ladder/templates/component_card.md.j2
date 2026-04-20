@@ -1,0 +1,50 @@
+# {{ component.name }}
+*{{ component.layer | title }} layer{% if component.status %} · {{ component.status }}{% endif %}*
+
+{{ component.audience_value[audience.id] }}
+
+{% if component.status != "built" %}
+This is {{ component.status | replace('-', ' ') }}, not a finished tool. It matters here because it shows where the system is trying to go next.
+{% endif %}
+
+**What it is**: {{ component.one_line }}
+
+**The problem it solves**: {{ component.problem }}
+
+**A concrete example**: {{ component.example }}
+
+{% if component.relationships %}
+**How it fits**:
+{% for relationship in component.relationships %}
+- {{ relationship }}
+{% endfor %}
+{% endif %}
+
+{% if audience.id == "collaborator" %}
+**Inputs**:
+{% for item in component.inputs %}
+- {{ item }}
+{% endfor %}
+
+**Outputs**:
+{% for item in component.outputs %}
+- {{ item }}
+{% endfor %}
+
+**Dependencies**:
+{% for item in component.dependencies %}
+- {{ item }}
+{% endfor %}
+
+**Current limitations**:
+{% for item in component.limitations %}
+- {{ item }}
+{% endfor %}
+{% else %}
+**What to keep in mind**:
+{% for item in component.limitations %}
+- {{ item }}
+{% endfor %}
+{% endif %}
+
+**Next rung for you**: {{ component.next_rung[audience.id] }}

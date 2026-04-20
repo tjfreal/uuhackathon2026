@@ -1,0 +1,861 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Topolski Explorer</title>
+  <style>
+    * { box-sizing: border-box; }
+
+    :root {
+      --paper: #efe7d9;
+      --ink: #1f1b16;
+      --accent: #9b4f2e;
+      --card: #fffdf8;
+      --line: #d8cebe;
+      --muted: #6c6359;
+      --gold: #d09a2d;
+      --good: #2f6f4a;
+      --soft: #f7f1e6;
+    }
+
+    body {
+      margin: 0;
+      font-family: Georgia, "Times New Roman", serif;
+      background:
+        radial-gradient(circle at top, rgba(155, 79, 46, 0.12), transparent 34%),
+        linear-gradient(180deg, #f4ede2 0%, var(--paper) 100%);
+      color: var(--ink);
+      min-height: 100vh;
+    }
+
+    a { color: inherit; }
+
+    .shell {
+      max-width: 1160px;
+      margin: 0 auto;
+      padding: 28px 18px 64px;
+    }
+
+    .hero {
+      border: 1px solid rgba(31, 27, 22, 0.16);
+      background:
+        linear-gradient(135deg, rgba(31, 27, 22, 0.94), rgba(70, 48, 33, 0.94)),
+        linear-gradient(135deg, rgba(255, 255, 255, 0.08), transparent);
+      color: #f7f0e6;
+      border-radius: 18px;
+      padding: 28px 24px 22px;
+      box-shadow: 0 18px 40px rgba(50, 36, 24, 0.12);
+    }
+
+    .hero h1 {
+      margin: 0;
+      font-size: clamp(2rem, 4vw, 3.2rem);
+      letter-spacing: -0.03em;
+      font-weight: 700;
+    }
+
+    .hero p {
+      margin: 10px 0 0;
+      max-width: 780px;
+      line-height: 1.5;
+      color: rgba(247, 240, 230, 0.82);
+      font-size: 1rem;
+    }
+
+    .nav {
+      display: flex;
+      gap: 10px;
+      margin-top: 18px;
+      flex-wrap: wrap;
+    }
+
+    .nav a {
+      text-decoration: none;
+      border: 1px solid rgba(255, 255, 255, 0.18);
+      background: rgba(255, 255, 255, 0.08);
+      padding: 9px 12px;
+      border-radius: 999px;
+      font-size: 0.82rem;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+    }
+
+    .nav a.active {
+      background: rgba(255, 255, 255, 0.18);
+      font-weight: 700;
+    }
+
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 12px;
+      margin-top: 18px;
+    }
+
+    .stat, .bento, .example-card, .result-card, .toolbar, .message {
+      border: 1px solid var(--line);
+      background: rgba(255, 253, 248, 0.9);
+      border-radius: 16px;
+    }
+
+    .stat {
+      padding: 12px 14px;
+      background: rgba(255, 255, 255, 0.08);
+      border-color: rgba(255, 255, 255, 0.12);
+    }
+
+    .stat-label {
+      display: block;
+      font-size: 0.72rem;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: rgba(247, 240, 230, 0.62);
+    }
+
+    .stat-value {
+      display: block;
+      margin-top: 6px;
+      font-size: 1.35rem;
+      font-weight: 700;
+      color: #fffaf2;
+    }
+
+    .toolbar {
+      margin-top: 18px;
+      padding: 16px;
+      backdrop-filter: blur(12px);
+    }
+
+    .toolbar form {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 10px;
+    }
+
+    .toolbar input[type="text"] {
+      width: 100%;
+      border: 1px solid #bcae98;
+      border-radius: 10px;
+      padding: 14px 16px;
+      font-size: 1rem;
+      background: #fffdfa;
+      color: var(--ink);
+    }
+
+    .toolbar button {
+      border: 0;
+      border-radius: 10px;
+      background: linear-gradient(180deg, #b8623b, #8f4323);
+      color: #fff9f1;
+      padding: 0 20px;
+      font-size: 0.98rem;
+      font-weight: 700;
+      cursor: pointer;
+    }
+
+    .toolbar-note {
+      margin-top: 10px;
+      font-size: 0.86rem;
+      color: var(--muted);
+    }
+
+    .message {
+      margin-top: 18px;
+      padding: 14px 16px;
+    }
+
+    .message.error {
+      background: #fff4df;
+      border-color: #efc46d;
+      color: #6d5209;
+    }
+
+    .message.info {
+      color: var(--muted);
+    }
+
+    .examples {
+      margin-top: 24px;
+      display: grid;
+      gap: 12px;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    }
+
+    .example-card {
+      padding: 14px 16px;
+    }
+
+    .example-card strong {
+      display: block;
+      margin-bottom: 8px;
+      font-size: 0.84rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--accent);
+    }
+
+    .example-card span {
+      display: block;
+      line-height: 1.45;
+    }
+
+    .results-header {
+      margin: 28px 0 14px;
+    }
+
+    .results-header h2 {
+      margin: 0;
+      font-size: 1.2rem;
+    }
+
+    .results-header p {
+      margin: 4px 0 0;
+      color: var(--muted);
+      font-size: 0.92rem;
+    }
+
+    .results {
+      display: grid;
+      gap: 18px;
+    }
+
+    .result-card {
+      display: grid;
+      grid-template-columns: 220px 1fr;
+      overflow: hidden;
+      box-shadow: 0 10px 28px rgba(72, 55, 40, 0.08);
+    }
+
+    .result-image {
+      background: linear-gradient(180deg, #ddd0bc 0%, #c9baa3 100%);
+      min-height: 260px;
+    }
+
+    .result-image a,
+    .result-image span {
+      display: block;
+      width: 100%;
+      height: 100%;
+    }
+
+    .result-image img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: top center;
+      display: block;
+    }
+
+    .result-image .empty {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: rgba(31, 27, 22, 0.52);
+      font-size: 0.88rem;
+      text-align: center;
+      padding: 20px;
+    }
+
+    .result-body {
+      padding: 18px 20px 18px 18px;
+      display: grid;
+      gap: 12px;
+    }
+
+    .result-topline {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      align-items: start;
+      flex-wrap: wrap;
+    }
+
+    .result-title {
+      text-decoration: none;
+      font-size: 1.12rem;
+      font-weight: 700;
+    }
+
+    .result-meta {
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    .score-panel {
+      text-align: right;
+      min-width: 110px;
+    }
+
+    .score-panel strong {
+      display: block;
+      font-size: 1.4rem;
+      color: var(--accent);
+    }
+
+    .score-panel span {
+      font-size: 0.78rem;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+
+    .chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      border-radius: 999px;
+      border: 1px solid;
+      padding: 5px 10px;
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      font-weight: 700;
+    }
+
+    .chip.summary { background: #fff4d9; border-color: #e7c775; color: #8a6412; }
+    .chip.blended { background: #f2ecff; border-color: #c7b7ec; color: #5a438f; }
+    .chip.entities { background: #e8f7ec; border-color: #9ec9aa; color: #2e6940; }
+    .chip.text { background: #e8f0fb; border-color: #9bb9ea; color: #26569e; }
+    .chip.sketch { background: #f8ece4; border-color: #d7ad90; color: #8b4d2f; }
+    .chip.default { background: #f0ede8; border-color: #c8c0b3; color: #5e564c; }
+
+    .explanation {
+      background: #fff8e8;
+      border-left: 4px solid var(--gold);
+      padding: 12px 14px;
+      border-radius: 10px;
+      line-height: 1.5;
+      color: #4b3b12;
+    }
+
+    .source-box {
+      border-top: 1px solid #ece3d6;
+      padding-top: 12px;
+    }
+
+    .source-box strong,
+    .explanation strong,
+    .bento h3 {
+      display: block;
+      margin-bottom: 7px;
+      font-size: 0.77rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--muted);
+    }
+
+    .source-box pre {
+      margin: 0;
+      white-space: pre-wrap;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 0.92rem;
+      line-height: 1.55;
+      color: #3f372f;
+    }
+
+    .result-footer {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      align-items: center;
+      flex-wrap: wrap;
+      padding-top: 4px;
+      color: var(--muted);
+      font-size: 0.86rem;
+    }
+
+    .result-footer a {
+      text-decoration: none;
+      color: var(--accent);
+      font-weight: 700;
+    }
+
+    .dashboard-grid {
+      margin-top: 24px;
+      display: grid;
+      grid-template-columns: repeat(12, 1fr);
+      gap: 14px;
+    }
+
+    .bento {
+      padding: 16px;
+      background: rgba(255, 253, 248, 0.94);
+    }
+
+    .span-3 { grid-column: span 3; }
+    .span-4 { grid-column: span 4; }
+    .span-6 { grid-column: span 6; }
+    .span-8 { grid-column: span 8; }
+    .span-12 { grid-column: span 12; }
+
+    .big-number {
+      font-size: 2rem;
+      font-weight: 700;
+      color: var(--accent);
+      line-height: 1;
+      margin-bottom: 6px;
+    }
+
+    .muted {
+      color: var(--muted);
+      font-size: 0.88rem;
+      line-height: 1.45;
+    }
+
+    .pill-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 10px;
+    }
+
+    .pill {
+      border-radius: 999px;
+      background: var(--soft);
+      border: 1px solid var(--line);
+      padding: 6px 10px;
+      font-size: 0.8rem;
+    }
+
+    .pill.strong {
+      background: rgba(155, 79, 46, 0.1);
+      border-color: rgba(155, 79, 46, 0.3);
+      color: #6f3119;
+      font-weight: 700;
+    }
+
+    .pill.warn {
+      background: rgba(208, 154, 45, 0.14);
+      border-color: rgba(208, 154, 45, 0.4);
+      color: #6d5209;
+      font-weight: 700;
+    }
+
+    .pill.good {
+      background: rgba(47, 111, 74, 0.1);
+      border-color: rgba(47, 111, 74, 0.28);
+      color: var(--good);
+      font-weight: 700;
+    }
+
+    .table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+    }
+
+    .table th, .table td {
+      text-align: left;
+      padding: 8px 10px;
+      border-bottom: 1px solid #eadfce;
+      vertical-align: top;
+    }
+
+    .table th {
+      color: var(--muted);
+      font-size: 0.76rem;
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+    }
+
+    .mini-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: grid;
+      gap: 10px;
+    }
+
+    .mini-list li {
+      padding-bottom: 10px;
+      border-bottom: 1px solid #eadfce;
+    }
+
+    .mini-list li:last-child {
+      border-bottom: 0;
+      padding-bottom: 0;
+    }
+
+    .mini-list strong {
+      display: block;
+      font-size: 0.92rem;
+    }
+
+    .mini-list span {
+      color: var(--muted);
+      font-size: 0.84rem;
+      line-height: 1.45;
+    }
+
+    .mini-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 10px;
+      margin-top: 12px;
+    }
+
+    .mini-stat {
+      border: 1px solid #eadfce;
+      border-radius: 12px;
+      padding: 12px;
+      background: rgba(255, 255, 255, 0.55);
+    }
+
+    .mini-stat-label {
+      display: block;
+      color: var(--muted);
+      font-size: 0.72rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+
+    .mini-stat-value {
+      display: block;
+      margin-top: 5px;
+      font-size: 1.2rem;
+      font-weight: 700;
+      color: var(--accent);
+    }
+
+    @media (max-width: 920px) {
+      .dashboard-grid { grid-template-columns: 1fr 1fr; }
+      .span-3, .span-4, .span-6, .span-8, .span-12 { grid-column: span 2; }
+    }
+
+    @media (max-width: 760px) {
+      .toolbar form { grid-template-columns: 1fr; }
+      .result-card { grid-template-columns: 1fr; }
+      .result-image { min-height: 220px; }
+      .score-panel { text-align: left; }
+      .dashboard-grid { grid-template-columns: 1fr; }
+      .span-3, .span-4, .span-6, .span-8, .span-12 { grid-column: span 1; }
+    }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <section class="hero">
+      <h1>Topolski Explorer</h1>
+      <p>Local-first semantic search and corpus observability for the Topolski Chronicles, built from saved page images, transcriptions, feature manifests, and local embeddings.</p>
+      <div class="nav">
+        <a href="/" class="{{ 'active' if view != 'dashboard' else '' }}">Search</a>
+        <a href="/dashboard" class="{{ 'active' if view == 'dashboard' else '' }}">Dashboard</a>
+      </div>
+      <div class="stats">
+        <div class="stat">
+          <span class="stat-label">Indexed Items</span>
+          <span class="stat-value">{{ stats.items }}</span>
+        </div>
+        <div class="stat">
+          <span class="stat-label">Indexed Pages</span>
+          <span class="stat-value">{{ stats.pages }}</span>
+        </div>
+        <div class="stat">
+          <span class="stat-label">Stored Chunks</span>
+          <span class="stat-value">{{ stats.chunks }}</span>
+        </div>
+        <div class="stat">
+          <span class="stat-label">Ranking Mode</span>
+          <span class="stat-value">{{ "Hybrid" if rerank_enabled else "Local" }}</span>
+        </div>
+      </div>
+    </section>
+
+    {% if view == 'dashboard' %}
+      {% set d = dashboard %}
+      <section class="dashboard-grid">
+        <div class="bento span-3">
+          <h3>Staged Items</h3>
+          <div class="big-number">{{ d.summary.staged_items }}</div>
+          <div class="muted">{{ d.summary.staged_pages }} total staged pages</div>
+        </div>
+        <div class="bento span-3">
+          <h3>Transcribed</h3>
+          <div class="big-number">{{ d.summary.transcribed_items }}</div>
+          <div class="muted">{{ d.summary.transcribed_pages }} transcribed pages</div>
+        </div>
+        <div class="bento span-3">
+          <h3>Indexed</h3>
+          <div class="big-number">{{ d.summary.indexed_items }}</div>
+          <div class="muted">{{ d.summary.indexed_pages }} indexed pages</div>
+        </div>
+        <div class="bento span-3">
+          <h3>Chunk Store</h3>
+          <div class="big-number">{{ d.summary.indexed_chunks }}</div>
+          <div class="muted">local Chroma chunks</div>
+        </div>
+
+        <div class="bento span-6">
+          <h3>Processing Matrix</h3>
+          <div class="muted">{{ d.processing_matrix.verdict_text }}</div>
+          <div class="pill-row">
+            <span class="pill strong">Verdict: {{ d.processing_matrix.verdict.replace('_', ' ') }}</span>
+            <span class="pill">Active or provisional: {{ d.processing_matrix.active_approach_count }}</span>
+            <span class="pill">Implemented approaches: {{ d.processing_matrix.implemented_approach_count }}</span>
+          </div>
+          <div class="pill-row">
+            {% for approach in d.processing_matrix.active_approaches %}
+              <span class="pill {{ 'good' if approach.status == 'active' else 'warn' }}">{{ approach.label }}</span>
+            {% else %}
+              <span class="pill">No processing-matrix approaches loaded yet.</span>
+            {% endfor %}
+          </div>
+        </div>
+
+        <div class="bento span-3">
+          <h3>Region Crops</h3>
+          <div class="big-number">{{ d.region_experiment.crop_count }}</div>
+          <div class="muted">{{ d.region_experiment.crop_page_count }} pages across {{ d.region_experiment.crop_item_count }} items</div>
+          <div class="pill-row">
+            <span class="pill {{ 'good' if d.region_experiment.crop_manifest_available else '' }}">
+              {{ "crop manifest active" if d.region_experiment.crop_manifest_available else "crop manifest missing" }}
+            </span>
+          </div>
+        </div>
+
+        <div class="bento span-3">
+          <h3>Region Sample</h3>
+          <div class="big-number">{{ d.region_experiment.sample_region_count }}</div>
+          <div class="muted">{{ d.region_experiment.sample_page_count }} pages across {{ d.region_experiment.sample_item_count }} items</div>
+          <div class="pill-row">
+            <span class="pill {{ 'good' if d.region_experiment.sample_available else '' }}">
+              {{ d.region_experiment.sample_model if d.region_experiment.sample_model else "sample not run" }}
+            </span>
+          </div>
+        </div>
+
+        <div class="bento span-6">
+          <h3>Manifest Coverage</h3>
+          <div class="muted">
+            Feature manifest: <strong>{{ "available" if d.feature_manifest_available else "not built yet" }}</strong><br>
+            Layout manifest: <strong>{{ "available" if d.layout_manifest_available else "not built yet" }}</strong>
+          </div>
+          <div class="pill-row">
+            <span class="pill">Layout items: {{ d.layout_item_count }}</span>
+            <span class="pill">Layout pages: {{ d.layout_page_count }}</span>
+            {% for key, value in d.feature_counts.items() %}
+              <span class="pill">{{ key.replace('_', ' ') }}: {{ value }}</span>
+            {% endfor %}
+          </div>
+        </div>
+
+        <div class="bento span-6">
+          <h3>Read On Current State</h3>
+          <div class="muted">
+            This dashboard is the trust surface for the current corpus slice. It does not claim precision;
+            it shows what the current pipeline believes it has recovered and where coverage is still thin.
+          </div>
+          <div class="pill-row">
+            <span class="pill warn">{{ d.layout_caution.message }}</span>
+          </div>
+        </div>
+
+        <div class="bento span-6">
+          <h3>What This Answers Next</h3>
+          <ul class="mini-list">
+            {% for question in d.processing_matrix.unresolved_questions %}
+              <li><span>{{ question }}</span></li>
+            {% else %}
+              <li><span>No unresolved questions recorded yet.</span></li>
+            {% endfor %}
+          </ul>
+        </div>
+
+        <div class="bento span-4">
+          <h3>Likely Index Pages</h3>
+          <ul class="mini-list">
+            {% for item in d.likely_index_pages %}
+              <li>
+                <strong>{{ item.title }}</strong>
+                <span>{{ item.item_id }} · page {{ item.page_number }}</span>
+              </li>
+            {% else %}
+              <li><span>No index-like pages detected yet.</span></li>
+            {% endfor %}
+          </ul>
+        </div>
+
+        <div class="bento span-4">
+          <h3>Sketch-Heavy Items</h3>
+          <ul class="mini-list">
+            {% for item in d.sketch_heavy_items %}
+              <li>
+                <strong>{{ item.title }}</strong>
+                <span>{{ item.sketch_page_count }} sketch-heavy pages · {{ item.item_id }}</span>
+              </li>
+            {% else %}
+              <li><span>No sketch-heavy items surfaced yet.</span></li>
+            {% endfor %}
+          </ul>
+        </div>
+
+        <div class="bento span-4">
+          <h3>Handwriting-Heavy Items</h3>
+          <ul class="mini-list">
+            {% for item in d.handwriting_heavy_items %}
+              <li>
+                <strong>{{ item.title }}</strong>
+                <span>{{ item.handwriting_page_count }} handwriting pages · {{ item.item_id }}</span>
+              </li>
+            {% else %}
+              <li><span>No handwriting-heavy items surfaced yet.</span></li>
+            {% endfor %}
+          </ul>
+        </div>
+
+        <div class="bento span-6">
+          <h3>Weakly Characterized Items</h3>
+          <ul class="mini-list">
+            {% for item in d.weak_items %}
+              <li>
+                <strong>{{ item.title }}</strong>
+                <span>{{ item.item_id }} · weak pages: {{ item.weak_pages | join(', ') }}</span>
+              </li>
+            {% else %}
+              <li><span>No weakly characterized items flagged yet.</span></li>
+            {% endfor %}
+          </ul>
+        </div>
+
+        <div class="bento span-6">
+          <h3>Item Status</h3>
+          <table class="table">
+            <thead>
+              <tr>
+                <th>Item</th>
+                <th>Pages</th>
+                <th>Transcribed</th>
+                <th>Indexed</th>
+                <th>Weak</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for item in d.item_rows %}
+                <tr>
+                  <td>{{ item.title }}</td>
+                  <td>{{ item.page_count }}</td>
+                  <td>{{ item.transcribed_page_count }}</td>
+                  <td>{{ item.indexed_page_count }}</td>
+                  <td>{{ item.weak_page_count }}</td>
+                </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </section>
+    {% else %}
+      <section class="toolbar">
+        <form method="POST" action="/search">
+          <input
+            type="text"
+            name="query"
+            value="{{ query | e }}"
+            placeholder="e.g. Churchill coronation London, Seville cathedral, Tokyo Kyoto Fuji"
+            autofocus
+          >
+          <button type="submit">Search Archive</button>
+        </form>
+        <div class="toolbar-note">
+          Search runs against the local Chroma index. {% if rerank_enabled %}Optional API reranking is enabled for final ordering.{% else %}Results are ordered locally by embedding similarity across saved page signals.{% endif %}
+        </div>
+      </section>
+
+      {% if error %}
+        <div class="message error">{{ error }}</div>
+      {% endif %}
+
+      {% if results is none %}
+        <section class="examples">
+          <div class="example-card">
+            <strong>Political Figures</strong>
+            <span>Churchill speaking, parliament, public ceremony, diplomatic crowd</span>
+          </div>
+          <div class="example-card">
+            <strong>Visual Mood</strong>
+            <span>war aftermath, ruined streets, solemn crowd, anxious faces</span>
+          </div>
+          <div class="example-card">
+            <strong>Place Search</strong>
+            <span>London architecture, cathedral interior, bridge, street procession</span>
+          </div>
+          <div class="example-card">
+            <strong>People And Events</strong>
+            <span>Malcolm X, royal event, protest, funeral, rally, ceremony</span>
+          </div>
+        </section>
+      {% elif results | length == 0 %}
+        <div class="message info">No relevant pages found for <em>{{ query | e }}</em>.</div>
+      {% else %}
+        <div class="results-header">
+          <h2>{{ results | length }} result{{ "s" if results | length != 1 }} for <em>{{ query | e }}</em></h2>
+          <p>Each result aggregates the strongest matching page signals rather than showing a single chunk in isolation.</p>
+        </div>
+
+        <section class="results">
+          {% for r in results %}
+            <article class="result-card">
+              <div class="result-image">
+                {% if r.display_image_url %}
+                  <a href="{{ r.display_image_url }}" target="_blank" rel="noopener noreferrer">
+                    <img src="{{ r.display_image_url }}" alt="Page {{ r.page_number }} from {{ r.item_title or r.item_id }}" loading="lazy">
+                  </a>
+                {% else %}
+                  <span class="empty">No page image available</span>
+                {% endif %}
+              </div>
+
+              <div class="result-body">
+                <div class="result-topline">
+                  <div>
+                    <a class="result-title" href="{{ r.collection_url }}" target="_blank" rel="noopener noreferrer">
+                      {{ r.item_title or r.item_id }}
+                    </a>
+                    <div class="result-meta">
+                      {% if r.item_date %}{{ r.item_date }} · {% endif %}Page {{ r.page_number }} · Best signal: {{ r.best_chunk_type }}
+                    </div>
+                  </div>
+                  <div class="score-panel">
+                    <strong>{{ "%.1f"|format(r.relevance_score) }}</strong>
+                    <span>Relevance / 10</span>
+                  </div>
+                </div>
+
+                <div class="chips">
+                  {% for chunk_type in r.matched_chunk_types %}
+                    <span class="chip {{ chunk_type if chunk_type in ['summary', 'blended', 'entities', 'text', 'sketch'] else 'default' }}">{{ chunk_type }}</span>
+                  {% endfor %}
+                </div>
+
+                {% if r.explanation %}
+                  <div class="explanation">
+                    <strong>Why This Surfaced</strong>
+                    {{ r.explanation }}
+                  </div>
+                {% endif %}
+
+                {% if r.source_text %}
+                  <div class="source-box">
+                    <strong>Matched Evidence</strong>
+                    <pre>{{ r.source_text }}</pre>
+                  </div>
+                {% endif %}
+
+                <div class="result-footer">
+                  <span>Local similarity score: {{ "%.3f"|format(r.score) }} · {{ r.matched_chunks | length }} chunk match{{ "es" if r.matched_chunks | length != 1 }}</span>
+                  <a href="{{ r.collection_url }}" target="_blank" rel="noopener noreferrer">View collection record</a>
+                </div>
+              </div>
+            </article>
+          {% endfor %}
+        </section>
+      {% endif %}
+    {% endif %}
+  </div>
+</body>
+</html>

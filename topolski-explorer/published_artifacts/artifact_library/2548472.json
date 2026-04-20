@@ -1,0 +1,90 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548472",
+    "title": "Topolski's Chronicle, V.2 No.6, 1954",
+    "date": "1954",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6jr6k2z",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6jr6k2z",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE No. 6 (18) Vol.II 1954 of a voyage round the world THE RULERS AND RAJAHS OF THE SOUTH TOPOLSKI'S CHRONICLE IS PUBLISHED 24 TIMES A YEAR AT 2s. 6d. A COPY YEARLY SUBSCRIPTION RATES (WITH POSTAGE INSIDE THE UNITED KINGDOM) \u00a33. STERLING SUBSCRIPTION (WITH POSTAGE OUTSIDE BRITISH ISLES, AND THROUGH SHOPS DISTRIB. POSTA AIR MAIL) QUOTATION. SUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME. Lithographed in Great Britain by CATS Ltd. Denis Turner, technical editor. Write and published by Felix Topolski RA, 14, South Bank, London, S.E.1. Copyright reserved.",
+      "handwritten_text": "In the typical pose - His Exalted Highness The Nizam of Hyderabad Hyderabad Mysore Maharajas H.H. Maharajah of Mysore To the Council of Ministers A grandson of Bahimayel - son of Vishnugama, Ceylon Kuli, governor",
+      "sketch_descriptions": [
+        "A standing man in elaborate attire identified as the Nizam of Hyderabad with a gateway in the background.",
+        "A monumental architectural gateway, possibly the Charminar, with a single small figure approaching.",
+        "A group of figures in turbaned, flowing robes walking or standing with architectural and landscape elements behind them, labeled as Maharajas of Mysore.",
+        "A large, dignified figure in elaborate dress viewed from behind, labeled as H.H. Maharajah of Mysore, with followers or a crowd suggested in the background.",
+        "A formal group of men seated in a semicircle, wearing classical attire and headgear, labeled 'To the Council of Ministers.'",
+        "A group of musicians or speakers, focused around one man with a drum, labeled as 'A grandson of Bahimayel.'",
+        "Smaller vignettes of individual figures in various costumes, including a portrait of a single man seated with a large cylindrical object."
+      ],
+      "entities": {
+        "people": [
+          "His Exalted Highness The Nizam of Hyderabad",
+          "H.H. Maharajah of Mysore",
+          "A grandson of Bahimayel",
+          "Bahimayel",
+          "Vishnugama",
+          "Council of Ministers"
+        ],
+        "places": [
+          "Hyderabad",
+          "Mysore",
+          "Ceylon",
+          "Charminar (implied/likely from gateway depiction)"
+        ],
+        "events": [],
+        "dates": [
+          "1954"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle features expressive sketches and notes depicting the rulers and nobility of southern India and Ceylon in 1954, focusing on the Nizam of Hyderabad, the Maharajah of Mysore, and regional ministers and dignitaries. The illustrations capture characteristic dress, ceremonial settings, and dynastic lineages among South Asian royalty.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:09:43.774039+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "CALCUTTA",
+      "handwritten_text": "DIGTONSKI 63 Radical, British P.O. Porter, Marriage breakdown, music, The Maidan Calcutta, Sikkim, The anniversary of the State of Maharastra, Bombay - at Government House Calcutta, Police Commissioner, in a Hall of relations, newly married, viewing Indian National Congress poster, The Calcutta Chief, Calcutta",
+      "sketch_descriptions": [
+        "A crowded Calcutta street scene with figures, a cow, building facades, and heads in expressive linework.",
+        "A street group with two men in tall hats, women with bundles, and an urban background, labeled 'Sikkim'.",
+        "Procession or gathering with costumed figures, some with hats and instruments.",
+        "Crowd of people in the Maidan, Calcutta, with one central figure carrying objects and smaller groups conversing.",
+        "A busy indoor meeting or assembly, with people sitting, listening, and several standing participants, possibly a ceremony or commemoration.",
+        "Discussion or ceremony involving Indian men in formal attire and a woman in a sari, marked as an official or governmental context.",
+        "Close-up group portrait, focused intense discussion between men and women, captioned 'The Calcutta Chief, Calcutta'."
+      ],
+      "entities": {
+        "people": [
+          "Police Commissioner",
+          "The Calcutta Chief"
+        ],
+        "places": [
+          "Calcutta",
+          "Sikkim",
+          "Maharastra",
+          "Bombay",
+          "Maidan",
+          "Government House"
+        ],
+        "events": [
+          "The anniversary of the State of Maharastra"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page documents vivid scenes from Calcutta, including public gatherings, ceremonies, and street life, alongside references to prominent officials and a significant state anniversary. The artist's expressive sketches and annotations evoke the city's atmosphere during a period of social and political activity.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:09:52.105097+00:00"
+    }
+  ]
+}

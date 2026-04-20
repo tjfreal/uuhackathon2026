@@ -1,0 +1,67 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548501",
+    "title": "Topolski's Chronicle, V.3 No.16, 1955",
+    "date": "1955",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s66z3v8z",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s66z3v8z",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "BRAZILIAN DANCERS\nTOPOLSKI'S CHRONICLE No. 16 (52) Vol. III 1955\n\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 2s 6d. A COPY.\nYEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE \u00a33 3s. (189 or equivalent); SHORTER PERIODS PRO RATA. AIR MAIL BY QUOTATION, YEARLY SUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME. Lithographed in Great Britain by C.A.P.S. Ltd. Dean Street, London, W.1., and published from Bridge Arch 158, Sutton Walk, South Bank, London, S.E.1. Copyright reserved",
+      "handwritten_text": "\"Brasiliano\" Felix Topolski",
+      "sketch_descriptions": [
+        "Top left shows five Brazilian dancers in lively poses, some with arms raised and flowing skirts, sketchily rendered with emphasis on movement.",
+        "Top right depicts four Brazilian dancers, two holding handkerchiefs or fans, and a figure raising an arm high, surrounded by energetic swirling lines suggesting dance motion.",
+        "Bottom left features a crowd scene with multiple figures in Victorian or historical dress, hats, and coats, engaging dynamically, with some holding banners.",
+        "Bottom right illustrates a group of dancers in elaborate costumes, one holding a pole with a decoration, others in flowing dresses and headwear, set near architectural details."
+      ],
+      "entities": {
+        "people": [
+          "Felix Topolski"
+        ],
+        "places": [
+          "London",
+          "Sutton Walk",
+          "South Bank",
+          "Dean Street"
+        ],
+        "events": [],
+        "dates": [
+          "1955"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle No. 16 (1955) presents dynamic sketches of Brazilian dancers performing with detailed crowd scenes and notes on publication details and subscription rates.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T21:55:35.627250+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "CARIBBEAN DANCERS",
+      "handwritten_text": "Caribbean dancers [?] [?] [?]",
+      "sketch_descriptions": [
+        "Two large loosely sketched figures of dancers, one male and one female, in vibrant movement wearing traditional or festive attire.",
+        "A group of smaller sketches depicting six dancers in various dynamic poses, some wearing hats and flowing garments, emphasizing motion and cultural costume."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Caribbean"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page features expressive sketches of Caribbean dancers capturing their vibrant movement and traditional attire, with the title 'CARIBBEAN DANCERS' prominently typeset.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T21:56:00.224668+00:00"
+    }
+  ]
+}

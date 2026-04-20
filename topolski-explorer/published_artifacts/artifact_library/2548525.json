@@ -1,0 +1,162 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548525",
+    "title": "Topolski's Chronicle, V.4 No.13-14, 1956",
+    "date": "1956",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s681fpan",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s681fpan",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 5,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI's CHRONICLE No 13-14 (73-74) Vol IV 1956\n...nothing aftermeth and therefore never lyeth... Sir Philip Sidney (1580)\nLONDON INTERNATIONAL",
+      "handwritten_text": "Marketing Club Soho",
+      "sketch_descriptions": [
+        "Expressive black ink sketch of three people indoors, with one appearing to smoke, set against a vibrant purple background with vertical window or curtain lines."
+      ],
+      "entities": {
+        "people": [
+          "Sir Philip Sidney"
+        ],
+        "places": [
+          "Soho",
+          "London"
+        ],
+        "events": [],
+        "dates": [
+          "1956",
+          "1580"
+        ]
+      },
+      "page_summary": "This 1956 issue of Topolski's Chronicle features a bold sketch of a trio in Soho, London, accompanied by a quote from Sir Philip Sidney and the title 'London International.'",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:11:24.000437+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "702 703 704\nUNIVERSITY OF UTAH LIBRARIES",
+      "handwritten_text": "The Duke of Kent with Louis ('Satchmo') Armstrong in his dressing room\nAll-Language Interpreter\nAndre Chamson France\nprof. Franz Rinden Crohn (Austria)\nRosemary Lehmann England\nAndr\u00e9 Maurois\nXXVIII Congress of International P.E.N. in London July, 1956",
+      "sketch_descriptions": [
+        "Loose black pencil sketch showing several men seated and seemingly engaged in discussion or work including a figure believed to be Louis Armstrong.",
+        "Sketch of three figures standing; identified as The Duke of Kent with Louis 'Satchmo' Armstrong in his dressing room.",
+        "Sketch of people sitting at a long table with names labeled including an interpreter, Andre Chamson of France, Prof. Franz Rinden Crohn of Austria, Rosemary Lehmann of England, and Andr\u00e9 Maurois.",
+        "General crowd scene with multiple individuals interacting, indicating a conference or congress setting."
+      ],
+      "entities": {
+        "people": [
+          "The Duke of Kent",
+          "Louis 'Satchmo' Armstrong",
+          "Andre Chamson",
+          "Prof. Franz Rinden Crohn",
+          "Rosemary Lehmann",
+          "Andr\u00e9 Maurois"
+        ],
+        "places": [
+          "London"
+        ],
+        "events": [
+          "XXVIII Congress of International P.E.N."
+        ],
+        "dates": [
+          "July, 1956"
+        ]
+      },
+      "page_summary": "The page features sketches of notable figures including Louis Armstrong and attendees of the XXVIII Congress of International P.E.N. held in London in July 1956, capturing a mix of formal and informal scenes with handwritten labels.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:11:49.683341+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "At a People's Republic Embassy\nReception for Mr. Nehru\nReception for Chinese actors and dancers\nReception for Brazilian dancers\nAn African Ruler celebrates the termination of his exile",
+      "handwritten_text": "",
+      "sketch_descriptions": [
+        "Sketch of a formal gathering at a People's Republic Embassy featuring people in conversation.",
+        "Sketch showing a group of people attending a reception for Mr. Nehru.",
+        "Sketch depicting a reception scene with Chinese actors and dancers interacting.",
+        "Drawing of individuals mingling at a reception for Brazilian dancers.",
+        "Scene showing a group of people including an African ruler celebrating the end of his exile."
+      ],
+      "entities": {
+        "people": [
+          "Mr. Nehru"
+        ],
+        "places": [
+          "People's Republic Embassy"
+        ],
+        "events": [
+          "Reception for Mr. Nehru",
+          "Reception for Chinese actors and dancers",
+          "Reception for Brazilian dancers"
+        ],
+        "dates": []
+      },
+      "page_summary": "The page features ink sketches depicting various receptions and social gatherings including those for Mr. Nehru, Chinese actors and dancers, Brazilian dancers, and an African ruler marking the end of his exile.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:12:14.041406+00:00"
+    },
+    {
+      "page_number": 4,
+      "typeset_text": "ISLE MAN\nFALKNEY HOLIDAYS\nNO ENTRY\nONE WAY SIGN\nNEWS\nTHEAT[RE]\nLONDON TRANSMIT",
+      "handwritten_text": "Keep your Wonder (?) (?) (?) Vas ty(?) (?)\nIn action again - Felix Topolski at Westminster (\u0012) 715\nThe State visit of an African Monarch\nSunday Piccadilly Circus",
+      "sketch_descriptions": [
+        "A large group sketch of three people near the center left, one wearing a dark coat and another with rounded glasses, seemingly engaged in conversation or interaction.",
+        "A busy crowd scene on the right side with a mounted figure in a hat addressing a group including some men in hats and coats and a woman in a hat and dress carrying a handbag, set in an urban space near signage indicating an Isle of Man holiday and news/theatre advertisements.",
+        "A detailed scene at the lower right showing a man interacting with a turnstile or entrance gate under the Isle of Man holiday sign, with a guard or attendant nearby, suggesting entry control.",
+        "At the top right, a loosely sketched procession or parade featuring figures on horseback and crowds, captioned as the state visit of an African monarch.",
+        "Additional annotations and scribbles are present at the top left and bottom center, with a focus on the artist Felix Topolski."
+      ],
+      "entities": {
+        "people": [
+          "Felix Topolski",
+          "African Monarch"
+        ],
+        "places": [
+          "Isle of Man",
+          "Piccadilly Circus",
+          "Westminster"
+        ],
+        "events": [
+          "State visit of an African Monarch"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page presents a mix of sketches depicting a state visit by an African monarch, scenes in urban settings like Piccadilly Circus involving crowds, guards, and holiday advertisements, alongside annotations by artist Felix Topolski.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:12:19.300781+00:00"
+    },
+    {
+      "page_number": 5,
+      "typeset_text": "716\nTHIS DOUBLE ISSUE COSTS 7s\n\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 3s. 6d. A COPY\nYEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE \u0000 4s. 4d. ($12 OR EQUIVALENT). SHORTER PERIODS PRO R\u0000ATA ARE MADE BY QUOTATION.\nSUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME\nHandprinted in Great Britain by Poets & Painters' Press 146 Sutton Walk S.E.1 from blocks made by \u0000 Aaron Miles Ltd and published from Bridge Arc't 155 Sutton Walk London S.E.1. Copyright: reserved",
+      "handwritten_text": "DRINKS ON ICE\nBLIND\nDISABLED",
+      "sketch_descriptions": [
+        "A sketch of a group of people in loose attire and hats, one playing an accordion.",
+        "Two men in hats facing each other, one holding a cigarette.",
+        "Various signboards with words such as 'DRINKS ON ICE', 'BLIND' and 'DISABLED'."
+      ],
+      "entities": {
+        "people": [
+          "Aaron Miles"
+        ],
+        "places": [
+          "Sutton Walk",
+          "London S.E.1"
+        ],
+        "events": [],
+        "dates": [
+          "24 times a year",
+          "716"
+        ]
+      },
+      "page_summary": "The page features a loosely sketched group of figures accompanied by signs with words like 'BLIND' and 'DISABLED' along with publication and subscription details for Topolski's Chronicle including printing credits and timing.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:12:45.340754+00:00"
+    }
+  ]
+}

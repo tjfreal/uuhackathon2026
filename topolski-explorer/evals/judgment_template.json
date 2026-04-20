@@ -1,0 +1,28 @@
+{
+  "schema_version": "2026-04-19-topolski-judgment-template-v1",
+  "notes": [
+    "Copy this file before filling it in.",
+    "One record per query x approach pairing is enough to start."
+  ],
+  "judgments": [
+    {
+      "query_id": "q_named_churchill",
+      "approach_id": "whole_page_vision",
+      "run_label": "baseline_25_item_slice",
+      "top_result_refs": [
+        {
+          "item_id": "",
+          "page_number": 0,
+          "rank": 0
+        }
+      ],
+      "did_surface_right_neighborhood": null,
+      "did_surface_useful_evidence": null,
+      "did_feel_trustworthy": null,
+      "strengths_observed": [],
+      "weaknesses_observed": [],
+      "follow_up_questions": [],
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+system_name: Note System
+tagline: A local-first knowledge system for building, resurfacing, and communicating what you know.
+what_it_is: >
+  A personal knowledge system that lives on your own machine. You capture notes in
+  plain text, and a set of tools helps you revisit old ideas, notice connections,
+  and explain the system clearly to other people.
+why_it_matters: >
+  Notes get captured and forgotten. Search helps you find things you already know to
+  look for. This system is aimed at helping you find things you forgot you knew and
+  making that process teachable to other people.
+local_first_note: >
+  Everything runs on your machine. No subscription. No cloud account required.
+  Your files stay yours.
+lineage: >
+  The library-as-a-ladder idea started as a people-first approach to help-desk and
+  library service: meet people where they are and help them reach the next rung.
+  This project carries that approach into note-system scaffolds and knowledge work
+  in the automation age.
+meta_note: >
+  Ladder is part of the system because explanation is part of the work. If the system
+  cannot explain itself to different kinds of people, it has not finished the job.
+layers:
+  - id: foundation
+    name: Foundation
+    description: Note System itself — local markdown notes, review habits, and the notes CLI.
+  - id: retrieval
+    name: Retrieval
+    description: Surface and Bridge help you find what matters again, including things you were not already searching for.
+  - id: organization
+    name: Organization
+    description: Signals extracts structure from freeform writing so notes can become more usable over time.
+  - id: sensemaking
+    name: Sensemaking
+    description: Trails helps reconstruct how an idea developed instead of treating notes as isolated fragments.
+  - id: communication
+    name: Communication
+    description: Ladder explains the system in audience-specific terms and preserves the people-first framing behind it.
+  - id: presentation
+    name: Presentation
+    description: Decksmith turns structured content into editable decks for talks, classes, and demonstrations.
+components_in_order:
+  - note-system
+  - surface
+  - bridge
+  - signals
+  - trails
+  - ladder
+  - decksmith
+overview_next_rung:
+  all_staff: Ask the user to show one real note moving from capture to resurfacing so the system becomes concrete.
+  student: Try keeping a daily note for a week and notice what kinds of patterns start to appear.
+  collaborator: Read the component cards to see where the seams are and which parts are still proposals.
+  self: Use the generated overview to see which parts of the story still feel too abstract or insider-heavy.

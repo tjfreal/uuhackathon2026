@@ -1,0 +1,95 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548471",
+    "title": "Topolski's Chronicle, V.2 No.5, 1954",
+    "date": "1954",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6rjyvtq",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6rjyvtq",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "UNIVERSITY OF UTAH LIBRARIES\nTOPOLSKI'S CHRONICLE No. 5 (17) Vol.II 1954\nof a voyage round the world (c)",
+      "handwritten_text": "",
+      "sketch_descriptions": [
+        "Expressive, rough charcoal or ink sketch of a person with long, tousled hair and anguished facial expression, head tilted back, eyes closed or shadowed, hands pressed together as if in fervent prayer or supplication."
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "dates": [
+          "1954"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle features a large, emotive sketch of a person in a pose suggesting deep emotion or prayer, accompanied by publication and date information referencing a global journey theme.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:08:38.762108+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "HOLY FESTIVAL - BENARAS",
+      "handwritten_text": "Sr/Sr Me Anandamayi Holy Festival very holy Felix Topolski BENARES",
+      "sketch_descriptions": [
+        "A group of people, some bathing or standing near the steps by a river, possibly the Ganges, with temple structures in the background.",
+        "Three figures, two with long hair and beards facing front and one looking to the side.",
+        "A group of four standing people, one holding a staff.",
+        "Two vertical views of individuals ascending or descending stone steps on the riverbank.",
+        "A man standing and pouring water from a vessel over himself.",
+        "Two men, one squatting and playing a drum, with a small audience around.",
+        "A densely-packed crowd of figures clustered together, many with long hair or turbans, some seemingly in animated conversation.",
+        "A larger purple-tinted area with numerous figures, mostly men with beards and turbans, portrayed in animated discussion and movement.",
+        "A man gesturing as if storytelling to a crowd of seated and attentive listeners.",
+        "A dense row of shawled women or men, many with heads wrapped, tightly packed, in heated debate or discussion.",
+        "A crowded room scene, with seated and standing figures, many appearing engaged in an intense conversation or ritual."
+      ],
+      "entities": {
+        "people": [
+          "Sr/Sr Me Anandamayi",
+          "Felix Topolski"
+        ],
+        "places": [
+          "Benaras"
+        ],
+        "events": [
+          "Holy Festival"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page presents Felix Topolski's lively sketches documenting the Holy Festival in Benaras, centering around scenes of people gathering, praying, and celebrating along the riverside and indoors. The event highlights religious fervor, communal gatherings, and the cultural atmosphere of Benares during the festival.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:08:46.852223+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 2s. 6d. A COPY. YEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE: \u00a33. 8s. 6d. (or equivalent); SHORTER PERIODS PRO RATA. AIR MAIL BY QUOTATION. SUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME Lithographed in Great Britain by C.A.P.S. Ltd. Dean Street, London, W.1., and published from 14, Hanover Terrace, London, N.W.1. Telephone: AMBassador 6099 Copyright reserved",
+      "handwritten_text": "",
+      "sketch_descriptions": [
+        "A large crowd of people clustered around the steps leading to the riverbank, some bathing or crouching near the water's edge.",
+        "Figures draped in robes and shawls either seated or standing in various postures, evoking a scene of worship, contemplation, or ritual activity.",
+        "Architectural elements suggesting temple-like structures with domes and spires rising amid the gathering.",
+        "A figure carrying a large object on their head, moving with a group ascending the steps.",
+        "Several elderly or ascetic-looking individuals seated, some with long hair and beards, possibly engaged in prayer or meditation."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Ganges",
+          "Benaras"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page features expressive sketches of ritual life along the banks of the Ganges in Benaras, depicting worshippers, ascetics, and everyday activity at a sacred gathering place. It captures the bustling and spiritual atmosphere of one of India's holiest riverside sites.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:09:13.683619+00:00"
+    }
+  ]
+}

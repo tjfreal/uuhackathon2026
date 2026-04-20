@@ -1,0 +1,107 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548461",
+    "title": "Topolski's Chronicle, V.1 No.7, 1953",
+    "date": "1953",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6v0rcsr",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6v0rcsr",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI's CHRONICLE No. 7 Vol. 1 1953",
+      "handwritten_text": "Sevilla la Iglesia del Divino Salvador",
+      "sketch_descriptions": [
+        "Expressive, loose sketch of two figures viewed from behind, sitting or kneeling together in front of an ornate architectural or religious structure, possibly an altar within a church interior."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Sevilla",
+          "la Iglesia del Divino Salvador"
+        ],
+        "events": [],
+        "dates": [
+          "1953"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle features a dynamic sketch of two figures in a church setting in Sevilla, identified as the Church of the Divine Savior, rendered in an evocative and gestural style.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T18:02:24.255682+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "SPAIN 3\nSEVILLE: The Church of San Salvador (87) The Giralda (81) Real Casa de Pilato (78, 79) Caded (sp?) Lamp oil in Triana (88) Art Company de Jesus (85) Page of sketches 50-53\nFIESTA IN ANDALUSIA (85) IN MALAGA (89) RONDA (96)",
+      "handwritten_text": "Sevilla, Cathedral, interior Steindo Sagrara[...] procesion de Semana [...]. Sevilla, Cathedral. Brands de Semama. Sevilla. Archivo de Indias. W spodoly girmate lata sigrini: procesu[?] signo[?] de in[?]raki[?] w S[...]y bary[?] ady[?] roku. [more illegible cursive] y plus trono[?] processione[?] y plus trono[?]",
+      "sketch_descriptions": [
+        "Stylized, full-length profile of a woman in a fitted dress and heels, hands on hips.",
+        "Crowd scene with various figures facing a central focal point, including a man in three-quarter view with a balding head and several people in head coverings, likely inside a church or procession setting.",
+        "Cluster of people in motion and partial view, sketchily rendered, evoking the energy of a religious or social gathering.",
+        "Bust of a bull with expressive, forward-curved horns, strongly rendered.",
+        "Two figures in long coats and hats, one with a parasol or wide-brimmed hat, standing before an architectural backdrop resembling a cathedral spire.",
+        "Small group in traditional Andalusian attire, with cloaks and head coverings, seen in a scene suggesting a procession or gathering.",
+        "Loose grouping of figures, one with a dark, wide-brimmed hat, alongside sketchy outlines of cloaked forms in movement or procession.",
+        "Vertical array of faces and busts, including a man addressing several seated or listening figures, possibly teaching or presenting."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Seville",
+          "Giralda",
+          "Archivo de Indias",
+          "Triana",
+          "Malaga",
+          "Ronda",
+          "Andalusia",
+          "Cadiz"
+        ],
+        "events": [
+          "Fiesta in Andalusia",
+          "Semana Santa procession"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page from Topolski's Chronicle features expressive sketches and notes documenting the vibrant processions and public life in Seville and Andalusia, focusing on religious events and local people. The accompanying text highlights notable sites and celebratory traditions in southern Spain.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T18:02:54.569665+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 2s. 6d. A COPY. YEARLY SUBSCRIPTION RATES TO ANY PART OF THE WORLD ARE \u00a33. 5s. (9$ or equivalent). THIS INCLUDES FOLDER AND INDEX, NOT PROVIDED FOR SHORTER, PRO RATA PERIODS, BUT AVAILABLE AT 5s. AIR MAIL BY QUOTATION.\nPrinted in Great Britain by K.&C. Bednarczuk of Tunbridge Wells from blocks made by the Dome Engraving Co., Ltd and published from 14 Hanover Terrace, London N.W.1 Copyright reserved.",
+      "handwritten_text": "PLAZA SALVADOR\nsevilla (plaz[?] del Salvador) Felix Topolski\nFelipe[?]\nRonda\nDoctor's waiting room Malaga",
+      "sketch_descriptions": [
+        "Lively street scene with people congregating around a plaza marked as 'PLAZA SALVADOR', including a building with a balcony and various figures in motion.",
+        "Baroque-style church fa\u00e7ade and street scene in Seville, labeled 'Sevilla (plaz[?] del Salvador)', with people, horses, and carriages in the square.",
+        "Close group of expressive figures, possibly a crowd engaging with one another.",
+        "A man in a hat reading a newspaper amid a busy scene, captioned 'Felipe[?]'.",
+        "Stylized image of figures seated and interacting, labeled 'Doctor's waiting room Malaga', depicting patients or people waiting.",
+        "Processional scene with figures carrying a religious float or statue, labeled 'Ronda', with buildings closely flanking the route."
+      ],
+      "entities": {
+        "people": [
+          "Felix Topolski",
+          "Felipe[?]"
+        ],
+        "places": [
+          "Plaza Salvador",
+          "Sevilla",
+          "Plaza del Salvador",
+          "Malaga",
+          "Ronda"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page presents vibrant sketches of Spanish street life, religious processions, and everyday scenes in urban locations such as Seville, Malaga, and Ronda, annotated with handwritten notes by Topolski. It captures the lively atmosphere and architectural detail of these cities alongside intimate human moments.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T18:03:22.931077+00:00"
+    }
+  ]
+}

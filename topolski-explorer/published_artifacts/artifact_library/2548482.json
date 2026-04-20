@@ -1,0 +1,96 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548482",
+    "title": "Topolski's Chronicle, V.2 No.16, 1954",
+    "date": "1954",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6zar933",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6zar933",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE No. 16 (28) Vol. II 1954\nof a voyage round the world (1)\nTHE GREAT U PO SEIN",
+      "handwritten_text": "Feliks Topolski",
+      "sketch_descriptions": [
+        "Expressive, abstract line drawing of a central figure in ornate dress, possibly performing or in dramatic gesture, seated or positioned amid loosely sketched objects and smaller figures, suggestive of a staged scene or theatrical setting.",
+        "Smaller, less detailed figures seated at a table or bench to the right, observing or participating in the main scene.",
+        "Foreground objects including what appear to be a round container, a box, and a jar, placed at the foot of the central figure."
+      ],
+      "entities": {
+        "people": [
+          "U Po Sein",
+          "Feliks Topolski"
+        ],
+        "places": [],
+        "events": [],
+        "dates": [
+          "1954"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle features an expressive sketch capturing 'The Great U Po Sein', likely referencing a notable figure, possibly in performance, and is accompanied by typeset and handwritten text related to the publication and artist.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:36:57.967687+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "Dear Editor Since I have retired, Life/Time has little to offer me; but in my younger days I have been around (even to the trenches). His programme was Immense. The canvas as also the. Burmese empire as it grew has meant so much in Life. For after the war the old king was deported to India, with his queen (but without his sons, all killed on the steps at the palace by the British) so that he should not leave issue on Burmese soil, to become a rallying point for patriots, and troublemakers, as he would have. His tomb, in Rangoon, was the scene of, festival, but which officers of Gover [?], In India, fearing trouble, clamped down and removed the king's name from the stone. When I was in Burma last it had not been restored; only the date. I saw the gold casket upon his tomb, and laid a spray of tuberoses there for my Burmese friends. The gold casket was set with rubies; but the tomb, which should have been the equal of the Taj, was a mere whitewashed lick, with no tree, not even a wild fig, to shade it---and, of course, without a name. MONTAGUE CRAIG (Author of 12 Far Eastern biographies, histories, travel books, novels, romances and dramas; spent 23 years in Burma as a member of the Indian Civil Service)",
+      "handwritten_text": "The 'paget' of the Sei Shan [?] 253 In Pali, not Burmese",
+      "sketch_descriptions": [
+        "Upper left: Expressive group of seated figures, possibly women, arranged informally in an interior under diagonal beams, rendered with shadowy blue shading.",
+        "Upper right: Ensemble of figures dressed in dramatic costumes and headdresses, seated in a ritual or ceremonial posture, with one masked figure behind them.",
+        "Bottom left: Two costumed figures standing near a doorway, engaged in conversation with smaller figures nearby.",
+        "Bottom center: A group of three figures, one offering an object in a bowl while others watch, including seated observers, with handwritten label 'In Pali, not Burmese'.",
+        "Bottom right: Dynamic, dance-like movement of four to five individuals in elaborate costumes, recalling a procession or performance."
+      ],
+      "entities": {
+        "people": [
+          "Montague Craig"
+        ],
+        "places": [
+          "Burma",
+          "India",
+          "Rangoon",
+          "Taj (Taj Mahal)"
+        ],
+        "events": [],
+        "dates": [
+          "23 years in Burma"
+        ]
+      },
+      "page_summary": "This page combines illustrations of Burmese ritual or performance scenes with editorial reminiscence by Montague Craig about the exile and memorial of the last Burmese king and Craig's personal experiences in Burma. The visual and textual elements evoke Burmese cultural and historical memory, referencing colonial and post-colonial eras.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:37:29.709073+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "\"TOPOLSKI'S 'CHRONICLE' IS PUBLISHED 24 TIMES A YEAR AT 2s 6d. A COPY\nYEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE \u00a33. 3s. (\u00a39 or equivalent); SHORTER PERIODS PRO RATA. AIR MAIL BY QUOTATION.\nSUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME.\nPrinted in Great Britain by C. Bencardsey, 146 Sutton Walk, S.E.1. from blocks made by Austin Miles Ltd. and published from Bridge Arch 158, Sutton Walk, South Bank, London, S.E.1 Copyright reserved.\"",
+      "handwritten_text": "The poet of the scia[?] [?] Paris. Uposen[?] and his son Kanaki.",
+      "sketch_descriptions": [
+        "Expressive portrait sketch of an older man with a wild beard and hair, accompanied by another figure possibly seated behind or beside him.",
+        "Rapid drawing of a young man and an older male figure, the latter perhaps depicted with exaggerated features and thick eyebrows, possibly smoking.",
+        "The upper right corner contains a loosely rendered head with a distinct nose, labeled as \"the poet.\""
+      ],
+      "entities": {
+        "people": [
+          "Uposen",
+          "Kanaki"
+        ],
+        "places": [
+          "Paris"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page features expressive sketches of several men, including handwritten references to a poet in Paris and individuals named Uposen and his son Kanaki. It combines portraiture with brief descriptive notes, suggesting an intimate or documentary approach.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:37:35.509659+00:00"
+    }
+  ]
+}

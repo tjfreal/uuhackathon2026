@@ -1,0 +1,35 @@
+name: Note System
+layer: foundation
+status: built
+one_line: A local-first markdown-based knowledge system for capturing, reviewing, and resurfacing what you know.
+problem: Notes are easy to collect and easy to lose. A plain archive is not the same thing as a usable body of knowledge.
+inputs:
+  - local markdown notes
+  - daily notes
+  - inbox captures
+  - periodic review passes
+outputs:
+  - a living corpus of linked notes
+  - searchable and reviewable personal knowledge
+  - raw material for higher-level tools
+dependencies:
+  - local files
+  - notes CLI
+example: the user keeps daily notes in plain text, then uses review passes and local tooling to revisit ideas that would otherwise sink back into the archive.
+audience_value:
+  all_staff: It is a way to keep useful knowledge from disappearing into old notes and forgotten documents.
+  student: It turns scattered class notes into something you can come back to later instead of starting from scratch every time.
+  collaborator: It provides the local corpus, CLI, and review habits that the proposal-layer tools depend on.
+  self: It is the stable base that makes the rest of the proposal set worth designing at all.
+next_rung:
+  all_staff: Ask to see one real daily note and how it stays usable after the week it was written.
+  student: Try a week of daily notes in plain text and look back at what patterns you can still recognize.
+  collaborator: Inspect the notes workflow and decide which assumptions are hard requirements versus personal habits.
+  self: Tighten the explanation of what belongs to note-system itself versus what belongs to proposal-layer tools.
+limitations:
+  - Review still depends on consistent human habits
+  - The base system is personal and opinionated rather than universally packaged
+relationships:
+  - Surface depends on this corpus to resurface older notes.
+  - Bridge depends on the same corpus to find cross-domain connections.
+  - Ladder explains the system so other people can actually enter it.

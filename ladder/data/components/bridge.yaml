@@ -1,0 +1,35 @@
+name: Bridge
+layer: retrieval
+status: proposal
+one_line: Detects meaningful cross-domain connections across the corpus.
+problem: Some of the most useful ideas come from noticing that two things belong together, but those links are easy to miss when notes sit in separate domains.
+inputs:
+  - local note corpus
+  - semantic similarity signals
+  - note metadata
+  - resurfaced candidates from tools like Surface
+outputs:
+  - suggested cross-domain note pairs
+  - candidate bridges worth reviewing or linking
+dependencies:
+  - note-system corpus
+  - retrieval signals
+example: A note about help-desk service philosophy and a note about note-system tooling might look unrelated until Bridge highlights the shared idea of a reachable next rung.
+audience_value:
+  all_staff: It helps show how ideas from one part of your work can become useful in another, even when you were not looking for that connection.
+  student: It can help you notice that a concept from one class or project belongs in another place too.
+  collaborator: It turns semantic similarity into an explicit bridge-making workflow, which makes evaluation criteria and false positives important.
+  self: It is the clearest expression of the system trying to support synthesis rather than only storage or search.
+next_rung:
+  all_staff: Ask to see an example where two notes from different parts of the work suddenly belonged together.
+  student: Look for one idea that shows up in two different courses or projects and write down the connection.
+  collaborator: Pressure-test what counts as a meaningful bridge versus a merely similar phrase.
+  self: Clarify whether Bridge is primarily a discovery tool, a linking assistant, or a synthesis prompt.
+limitations:
+  - It is still a proposal rather than a finished tool
+  - Similarity alone does not guarantee a meaningful connection
+  - Too many weak bridges would erode trust quickly
+relationships:
+  - Often starts from notes that Surface makes visible again.
+  - Uses the same underlying corpus as note-system.
+  - Gives Ladder a way to explain synthesis as a system behavior.

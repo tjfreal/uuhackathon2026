@@ -1,0 +1,89 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548470",
+    "title": "Topolski's Chronicle, V.2 No.4, 1954",
+    "date": "1954",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6ssznrk",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6ssznrk",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "\"TOPOLSKI'S CHRONICLE\" No. 410 Vol. IX 1964",
+      "handwritten_text": "With Nehru on his Tour Nagpur University Convocation",
+      "sketch_descriptions": [
+        "A large, expressive figure giving a speech at a podium, possibly an academic or political leader, surrounded by multiple microphones.",
+        "A dense crowd of seated figures wearing academic robes and mortarboards, forming an audience, some with distinct facial expressions and gestures.",
+        "In the lower left, a group of individuals in traditional Indian dress, some wearing turbans, closely observing the proceedings.",
+        "A background scene on the right containing a crowd gathering or an audience, with vague banners or drapery above.",
+        "Several detailed sketches of faces and partial profiles, interwoven throughout the scene, adding texture to the crowd."
+      ],
+      "entities": {
+        "people": [
+          "Nehru"
+        ],
+        "places": [
+          "Nagpur University"
+        ],
+        "events": [
+          "Nagpur University Convocation",
+          "Nehru's Tour"
+        ],
+        "dates": [
+          "1964"
+        ]
+      },
+      "page_summary": "This page captures a convocation ceremony at Nagpur University during Jawaharlal Nehru's tour in 1964, rendered through dynamic sketches of speakers and audience members in academic and traditional attire.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:07:44.283683+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "WITH NEHRU ON HIS TOUR 128 Nagur University Convocation 129 Visit to Vinoba Bhave 130 Procession through Nagpur 131 At Sangarh Ashram 132 Public Meeting 133 Congress Workers 134 Indian Science Congress in Poona 135 Electron Lab Poona 136 World Politics in Sevagram 'TOPOLSKI'S CHRONICLE' IS PUBLISHED 24 TIMES A YEAR, AT 5s. 6d. A COPY YEARLY SUBSCRIPTION RATES (WITH POSTAGE AND PACKING TO ANY PART OF THE WORLD) AS ON THE INSIDE OF COLOUR SECTION.",
+      "handwritten_text": "Felix Topolski: Vinobh Bhave\nparty workers\nwith 'chathi' [?]",
+      "sketch_descriptions": [
+        "Top left: A small group of seated and standing figures engaged in conversation or listening, likely depicting Vinoba Bhave with others.",
+        "Top center: A busy scene showing a procession or gathering at a ceremonial entrance or temple, with crowds and architecture.",
+        "Top right: A dense group of people in discussion or at a meeting, visibly attentive to someone just off scene.",
+        "Middle left: A varied group including police or military figures and civilians, possibly at a public gathering or speech.",
+        "Center: Multiple vignettes showing different groups and interactions connected to Nehru's tour, including formal and informal meetings.",
+        "Middle right: A crowd of individuals seated on stairs or bleachers, likely a group of workers or local residents.",
+        "Bottom left: An array of audience faces in a frontal assembly, watching attentively.",
+        "Bottom center: A smaller group sitting on the ground in conversation, annotated as 'with chathi' (possibly referring to spinning or weaving).",
+        "Bottom right: Several people, some seated, lining a stairway or risers, likely at a political or community event."
+      ],
+      "entities": {
+        "people": [
+          "Nehru",
+          "Vinoba Bhave"
+        ],
+        "places": [
+          "Nagpur University",
+          "Nagpur",
+          "Sangarh Ashram",
+          "Poona",
+          "Sevagram"
+        ],
+        "events": [
+          "Nagur University Convocation",
+          "Visit to Vinoba Bhave",
+          "Procession through Nagpur",
+          "Public Meeting",
+          "Indian Science Congress",
+          "World Politics in Sevagram"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page captures a series of sketches and notes from Felix Topolski's chronicle documenting Nehru's travels and public appearances in India. The scenes highlight Nehru's engagements with various communities, notable figures like Vinoba Bhave, and significant public and academic events.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:08:14.392108+00:00"
+    }
+  ]
+}

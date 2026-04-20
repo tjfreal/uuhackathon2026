@@ -1,0 +1,44 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548599",
+    "title": "Topolski's Chronicle, V.6 No.18-21, 1958",
+    "date": "1958",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6bf0qre",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6bf0qre",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 1,
+  "pages": [
+    {
+      "page_number": 6,
+      "typeset_text": "1134               1135               1136\n1137               1138               1139",
+      "handwritten_text": "Withdrawal\nFelix Topolski\nDenise Carter & Viart [?]",
+      "sketch_descriptions": [
+        "A large pen sketch showing a scene with multiple figures, including a man lying on the ground in the foreground and groups of people standing around, some holding sticks or weapons.",
+        "A line of loosely drawn figures in various poses and garb, suggesting a market or street scene with people walking and interacting.",
+        "A seated woman at a table, possibly engaged in writing or reading, with other standing figures nearby.",
+        "A charcoal or heavily shaded drawing of three people standing close together, two facing forward and one wearing a hat, appearing to be in conversation or a group interaction.",
+        "A detailed sketch of three people seated around a table with drinks, one holding a fan and another with a raised fist, indicating a casual social setting.",
+        "A darker sketch showing two older individuals seated at a table, one playing a wind instrument, with faint figures in the background, evoking a scene of music or gathering."
+      ],
+      "entities": {
+        "people": [
+          "Felix Topolski",
+          "Denise Carter",
+          "Viart"
+        ],
+        "places": [],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page features a variety of expressive sketches by Felix Topolski, depicting social scenes including groups of people in interaction, a market-like environment, and intimate gatherings around tables.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T23:28:19.671740+00:00"
+    }
+  ]
+}

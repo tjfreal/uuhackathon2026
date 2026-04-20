@@ -1,0 +1,47 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548611",
+    "title": "Topolski's Chronicle, V.7 No.3-4, 1959",
+    "date": "1959",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s65afyfn",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s65afyfn",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 1,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE No. 3-4 (135-136) Vol VII 1959\nUNIVERSITY OF UTAH LIBRARIES\n\nTHE DOUBLE BASS COATS IN SEPIA - 'TOPOLSKI'S CHRONICLE' IS PUBLISHED IN ENGLAND AT 35 SHOE LANE, E.C.4. COPY YEARLY SUBSCRIPTION RATES (POSTAGE PAID UK) 16/.- ALSO ISSUED ON THE PLACE BY THE SCHOOL AND AT 35 SHOE LANE, LONDON. PRINTED BY RIGDEN'S, THE NEWS AND VINTNERS. ESSEX HOUSE 1957/58. THE ABOVE TITLE AND DATE ARE HELD THAT THIS PRODUCER THE ENSLAVED CONSTITUTION BELONGS TO FELIX TOFOLSKI AND THE CHRONICLE APPEARS FOR 35/6 EACH ISSUE",
+      "handwritten_text": "Dancer sports his rank - stripes of police sergeant\n\npeople may live on the West Coast but they mightn't want a glorious memorial to the mosquito - The chief, plastic for West African Mosquitoes. Roughness East and South have their Dominance in the West. Draws from a freind [?]",
+      "sketch_descriptions": [
+        "Upper sketch showing three abstract, dynamic figures with fluid, elongated limbs and exaggerated postures, one figure holding what appears to be a drum or shield, captioned as a dancer wearing police sergeant stripes.",
+        "Lower sketch depicting a group of slender, simplified human figures in various poses, some wearing hats and traditional attire, with one figure holding a long stick or spear, suggesting a scene of African people possibly on the West Coast."
+      ],
+      "entities": {
+        "people": [
+          "Dancer",
+          "The chief"
+        ],
+        "places": [
+          "West Coast",
+          "East",
+          "South",
+          "West"
+        ],
+        "events": [],
+        "dates": [
+          "1959",
+          "1957/58"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle features two expressive sketches: one of a dancer wearing police sergeant stripes and another depicting figures possibly representing West African people and their interaction with mosquito-related challenges, accompanied by handwritten notes and editorial typeset text.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T23:49:51.796319+00:00"
+    }
+  ]
+}

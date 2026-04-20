@@ -1,0 +1,105 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548557",
+    "title": "Topolski's Chronicle, V.5 No.7-8, 1957",
+    "date": "1957",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6cp4w2d",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6cp4w2d",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 4,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE No.7-8 (31-32) Vol.V 1957\n\nnothing oftentimes and therefore never byten. - Sir Philip Sydney (1580)\n\n866\n\nU.S.A. STEEL\n\nThe drawings in this issue were made possible through an assignment by FORTUNE MAGAZINE. Drawing No.866 first appeared in FORTUNE (January 1957) within a portfolio \"Topolski on Steel\"\n\nTHIS DOUBLE ISSUE COSTS 7s. ($1.00). \"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 3s.6d. (50 cents) A COPY. YEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE 14s. 6d. ($3.02 or equivalent): SHORTER PERIODS PRO RATA. AIR MAIL BY QUOTATION. SUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO CO-OP SCHEME\n\nLithographed in Great Britain by CAPS Ltd., Dean Street, London W1, and published by Topolski's Chronicles Ltd., from Bridge Arch 158, Sutton Walk, London SE1\n\nUNIVERSITY OF UTAH LIBRARIES",
+      "handwritten_text": "Swing Frame Grinders",
+      "sketch_descriptions": [
+        "Abstract sketch of industrial workers operating large machinery in a steel factory environment, showing energetic lines suggesting movement and mechanical activity.",
+        "A stylized figure of a seated person, drawn with minimal lines, appears above the factory scene, possibly symbolic or artistic representation."
+      ],
+      "entities": {
+        "people": [
+          "Sir Philip Sydney"
+        ],
+        "places": [
+          "London",
+          "University of Utah"
+        ],
+        "events": [],
+        "dates": [
+          "1957",
+          "January 1957",
+          "1580"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle (1957) features a dynamic charcoal sketch capturing steel factory workers under the title \"U.S.A. STEEL,\" originally published in Fortune magazine, accompanied by a quote from Sir Philip Sydney (1580).",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:28:03.425901+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "867\n868\nUNIVERSITY OF ILLINOIS LIBRARIES",
+      "handwritten_text": "A Blast Furnace\nWorkers waiting for the \"cast\"",
+      "sketch_descriptions": [
+        "On the left page, a charcoal sketch of several industrial workers wearing protective helmets and gear, seated and waiting, beneath a large curved pipe structure representing a blast furnace.",
+        "On the right page, a high contrast silhouette drawing of a single worker using a long-handled tool to stoke or tap the furnace, emphasized against a dark background."
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page features charcoal and silhouette sketches depicting industrial laborers near a blast furnace, capturing workers awaiting the furnace cast and a worker actively engaged with the furnace.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:28:07.147620+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "",
+      "handwritten_text": "U.S.A. Steel near Pittsburgh, PA K. Eichie [?] Mellany [?] [illegible]",
+      "sketch_descriptions": [
+        "A fiery industrial scene dominated by dark sketch lines and red-orange coloration possibly depicting a steel mill in operation with glowing molten metal or fire.",
+        "Three rough human figures in the foreground, two appearing to be workers and one standing with arms crossed."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "U.S.A. Steel",
+          "Pittsburgh, PA"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "An expressive sketch illustrating an industrial steel mill near Pittsburgh, capturing the intense heat and activity of the site along with workers in the foreground.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:28:31.588034+00:00"
+    },
+    {
+      "page_number": 4,
+      "typeset_text": "",
+      "handwritten_text": "In the 'project' of the \"Merchant Mills\" - from the operator controls the main electrical generator of the mill\nTelefuntruck Stack Trailer; team on the Ohio River near Pittsburgh",
+      "sketch_descriptions": [
+        "Two men operating or working near a control board with electrical generators or switches inside an industrial interior space.",
+        "A group of figures near a stack trailer with loose industrial scenery, identified as a team on the Ohio River near Pittsburgh."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Ohio River",
+          "Pittsburgh"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "The page shows sketches of industrial workers managing electrical equipment in a mill and a group around a stack trailer near the Ohio River close to Pittsburgh, with handwritten notes describing these scenes.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:28:55.392203+00:00"
+    }
+  ]
+}

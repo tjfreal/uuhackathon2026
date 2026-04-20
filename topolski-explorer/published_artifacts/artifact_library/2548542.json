@@ -1,0 +1,168 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548542",
+    "title": "Topolski's Chronicle, V.4 No.23-24, 1956",
+    "date": "1956",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6xxrns0",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6xxrns0",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 5,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI's CHRONICLE No. 23-24 (83-84) Vol. IV 1956\n...nothing affirmeth and therefore never lyeth... Sir Phillip Sidney (1580)\n\nNEW YORK MISCELLANY",
+      "handwritten_text": "Felix Topolski 1956\nBen Sonnenberg at the \"Pavilion\"",
+      "sketch_descriptions": [
+        "A loosely rendered sketch of a man with a mustache and bald head reclining in a chair.",
+        "A loosely sketched figure of a woman wearing a large hat on the left side of the page.",
+        "Two indistinct figures in the background appearing to be engaged in conversation, one wearing a hat."
+      ],
+      "entities": {
+        "people": [
+          "Felix Topolski",
+          "Ben Sonnenberg",
+          "Sir Phillip Sidney"
+        ],
+        "places": [
+          "New York",
+          "Pavilion"
+        ],
+        "events": [],
+        "dates": [
+          "1956",
+          "1580"
+        ]
+      },
+      "page_summary": "This 1956 issue of Topolski's Chronicle features a pen sketch portraying Ben Sonnenberg at a place called 'Pavilion' along with a woman in a hat, framed under the theme 'New York Miscellany' and referencing historic Sir Phillip Sidney.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:19:13.955977+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "UNIVERSITY OF UTAH LIBRARIES\n781\n782\n783\n784\n785",
+      "handwritten_text": "Mr and Mrs Sidney Helmet\nMr Judith Truman Capote\nPent-House Party in Gracie Square\nWhite Horse Tavern Greenwich Village\nMetropolitan Opera Flluminion e Exhibition Spadina Chapel Ceiling\nAt El Morocco Salvadore Dali\nDia de Guadalupe in Styxet Church\nSACRE COEUR DE JESUS 'ongies maed [?] chasce ? wood. It contains the largest heart shape in the world which lies front in Tahiti. The ? representing the blood of Christ are petit [?] urns placed in the bloodiest part ...",
+      "sketch_descriptions": [
+        "A loose line drawing of four people sitting around a table, apparently at a pent-house party, labeled with the names Mr and Mrs Sidney Helmet, Mr Judith, and Truman Capote.",
+        "A sketch of people gathered and a scene from the Metropolitan Opera showing an exhibition or scene involving the Spadina Chapel ceiling, with a figure in uniform and others in dresses.",
+        "A drawing of a group of people seated together at the White Horse Tavern in Greenwich Village.",
+        "A smaller sketch showing a couple of figures, annotated as 'At El Morocco' with mention of Salvador Dali.",
+        "A sketch of a religious scene titled 'Dia de Guadalupe' in Styxet Church depicting a crucifix with accompanying text about Sacre Coeur de Jesus and related symbolic elements."
+      ],
+      "entities": {
+        "people": [
+          "Sidney Helmet",
+          "Judith",
+          "Truman Capote",
+          "Salvador Dali"
+        ],
+        "places": [
+          "Gracie Square",
+          "Greenwich Village",
+          "Metropolitan Opera",
+          "Spadina Chapel",
+          "El Morocco",
+          "Styxet Church",
+          "Tahiti"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page features multiple expressive sketches depicting social gatherings, notable individuals, and cultural or religious scenes, including a pent-house party, the White Horse Tavern, the Metropolitan Opera, and a religious artwork scene, with handwritten annotations on each.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:19:19.226976+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "U.N.O. on HUNGARY and SUEZ",
+      "handwritten_text": "U.N. meeting on Hungary\nShapiro\nSUBER Rodshy(?) U.N. Assembly(?)",
+      "sketch_descriptions": [
+        "Top drawing shows a chaotic scene of U.N. delegates at a meeting, with labels visible for Hungary and Finland desks, dense figures and an overhead view of the assembly hall.",
+        "Bottom drawing depicts another angle of the U.N. Assembly with delegates from Egypt, France, India, Finland and Hungary, heavily sketched with emphasis on crowd and seating arrangements."
+      ],
+      "entities": {
+        "people": [
+          "Shapiro"
+        ],
+        "places": [
+          "Hungary",
+          "Finland",
+          "Egypt",
+          "France",
+          "India",
+          "Suez"
+        ],
+        "events": [
+          "U.N. meeting on Hungary",
+          "U.N.O. discussions on Hungary and Suez"
+        ],
+        "dates": []
+      },
+      "page_summary": "The page features sketches and commentary on U.N. debates addressing the political situations in Hungary and Suez, capturing the intensity and crowded atmosphere of the assembly sessions.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:19:43.701371+00:00"
+    },
+    {
+      "page_number": 4,
+      "typeset_text": "788\n789\n790\n791",
+      "handwritten_text": "Engagement Ball at Gramercy Park\nAlice Rubin Blier\nA \"Gourmet\" Club banquet at the Waldorf Astoria\nO'Neill's \"The Iceman Cometh\" at the Circle-in-the-Square Theatre, Greenwich Village",
+      "sketch_descriptions": [
+        "Portrait of a woman identified as Alice Rubin Blier with seated and standing figures in the background, sketched at an engagement ball at Gramercy Park.",
+        "A banquet scene at the Waldorf Astoria featuring a man in a tuxedo standing or leaning over a table, surrounded by other guests.",
+        "A group of loosely sketched figures closely gathered, showing a variety of postures and expressions.",
+        "A dramatic scene from O'Neill's play 'The Iceman Cometh' at the Circle-in-the-Square Theatre, depicting actors in various seated and hunched positions around a table, conveying a somber mood."
+      ],
+      "entities": {
+        "people": [
+          "Alice Rubin Blier"
+        ],
+        "places": [
+          "Gramercy Park",
+          "Waldorf Astoria",
+          "Circle-in-the-Square Theatre",
+          "Greenwich Village"
+        ],
+        "events": [
+          "Engagement Ball",
+          "\"Gourmet\" Club banquet",
+          "\"The Iceman Cometh\" play"
+        ],
+        "dates": []
+      },
+      "page_summary": "The page features expressive pen sketches capturing social and theatrical scenes, including an engagement ball, a gourmet club banquet, and a theatrical performance of O'Neill's 'The Iceman Cometh' in New York venues.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:20:08.584479+00:00"
+    },
+    {
+      "page_number": 5,
+      "typeset_text": "THIS DOUBLE ISSUE COSTS 7s. ($1.00) \"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 3s. 6d. (50c) A COPY.\nYEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE \u00a34. 4s. ($12 or equivalent); SHORTER PERIODS PRO RATA; AIR MAIL BY QUOTATION.\nSUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME\nHandprinted in Great Britain by Poets & Painters' Press 146 Sutton Walk, S.E.1. from blocks made by Agusth. Miles Ltd and published from Bridge Arch 188, Saston Walk, London, S.E.1. Copyright reserved.",
+      "handwritten_text": "New York Thanksgiving Day Parade",
+      "sketch_descriptions": [
+        "Sketch of a crowded urban street scene during the New York Thanksgiving Day Parade featuring policemen, large parade balloons, and a crowd of spectators.",
+        "Sketch of the interior of a thrift shop labeled 'Council Thrift Shop', showing several figures looking at items including paintings and household objects."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "New York",
+          "Great Britain",
+          "London",
+          "Sutton Walk",
+          "Saston Walk"
+        ],
+        "events": [
+          "New York Thanksgiving Day Parade"
+        ],
+        "dates": []
+      },
+      "page_summary": "The page features two expressive sketches depicting scenes from the New York Thanksgiving Day Parade and a council thrift shop, accompanied by publication and subscription details for Topolski's Chronicle.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:20:34.475441+00:00"
+    }
+  ]
+}

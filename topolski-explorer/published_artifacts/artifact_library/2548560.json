@@ -1,0 +1,78 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548560",
+    "title": "Topolski's Chronicle, V.5 No.12-13, 1957",
+    "date": "1957",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s68d0w70",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s68d0w70",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "UNIVERSITY OF UTAH LIBRARIES TOPOLSKI'S CHRONICLE No.12-13 (96-97) Vol.V 1957\nTHE STATE VISIT TO PORTUGAL OF H.M. QUEEN ELIZABETH II AND H.R.H. THE DUKE OF EDINBURGH (2)\nTHE DRAWINGS IN THIS AND THE OTHER ISSUES OF TOPOLSKI WERE MOST PROBABLY MADE BY COPPOND ON LOOK MAGAZINE\n\"TOPOLSKI CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 3s. 6d. (96c) A COPY\nSUBSCRIPTION RATES (UNITED STATES AND INDIA 10s. 6d. (1.75 US) (INCLUDING ALL POSTAGE) SINGLE ISSUE SUBSCRIPTION POSTAGE 6d. (15c) POSTAGE FOR DISTRIBUTION SHIPPING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME\nISSUE No3",
+      "handwritten_text": "O Desfile Militar\nFesta em Vila Franca: cavaleiros e campinos\nCavaleiros e os Campinos da Ribeira e de Alentejo\n\u00c0 saida do Mosteiro dos Jeronimos",
+      "sketch_descriptions": [
+        "Top sketch depicts a military parade with marching soldiers, one leading with a sword, and a background of flags.",
+        "Second sketch shows a crowd of horseback riders wearing broad hats, labeled as a festive scene in Vila Franca with cavalieros and campinos.",
+        "Third sketch continues with a group of mounted riders described as cavalieros and campinos from Ribeira and Alentejo.",
+        "Bottom sketch features a group of people walking near the entrance of a large ornate building, marked as the exit of the Jeronimos Monastery."
+      ],
+      "entities": {
+        "people": [
+          "H.M. Queen Elizabeth II",
+          "H.R.H. The Duke of Edinburgh"
+        ],
+        "places": [
+          "Portugal",
+          "Vila Franca",
+          "Ribatejo",
+          "Alentejo",
+          "Mosteiro dos Jeronimos"
+        ],
+        "events": [
+          "The state visit to Portugal of H.M. Queen Elizabeth II and H.R.H. The Duke of Edinburgh"
+        ],
+        "dates": [
+          "1957"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle captures ink sketches illustrating scenes from the 1957 state visit to Portugal by Queen Elizabeth II and the Duke of Edinburgh, highlighting military parades and traditional horseback riders in Portuguese regions.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:31:38.842628+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "A VISITA DA RAINHA DE INGLATERRA A PORTUGAL",
+      "handwritten_text": "a esquadra do toscas xviil na 2a readis de Lisboa Oq. d.Anchoragens a Ceia dos Charles Cortejo f\u00faneil retrato de forma? Tribunal de Honda Pra\u00e7a do com\u00e9\u00e7io",
+      "sketch_descriptions": [
+        "Sketch of a naval squadron with several sailing ships at anchor near a shoreline, with people and seagulls in foreground.",
+        "Scene showing a crowd gathered, possibly on shore, with figures wearing top hats and naval uniforms.",
+        "Funeral procession with mounted figures.",
+        "Figures seated, possibly on a platform or balcony, some holding hats, with guards standing behind.",
+        "A judicial or court scene with a figure seated on a throne or elevated chair, surrounded by attendants and guards, labeled 'Tribunal de Honda Pra\u00e7a do com\u00e9\u00e7io'.",
+        "Several smaller vignettes below including mounted cavalry, naval vessels, and groups of people interacting in public spaces."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Lisboa",
+          "Pra\u00e7a do Com\u00e9rcio"
+        ],
+        "events": [
+          "A visita da Rainha de Inglaterra a Portugal"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page illustrates scenes from the visit of the Queen of England to Portugal, including naval displays, public gatherings, a funeral procession, and a tribunal session in Pra\u00e7a do Com\u00e9rcio in Lisbon.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:32:03.374556+00:00"
+    }
+  ]
+}

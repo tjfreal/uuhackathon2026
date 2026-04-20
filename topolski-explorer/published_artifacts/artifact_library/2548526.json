@@ -1,0 +1,103 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548526",
+    "title": "Topolski's Chronicle, V.4 No.15, 1956",
+    "date": "1956",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6b1f3zt",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6b1f3zt",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "UNIVERSITY OF UTAH LIBRARIES\nTOPOLSKI's CHRONICLE No. 15 (75) Vol. IV 1956\n...nothing affirmeth and therefore never lyeth... Sir Philip Sidney (1580)\nMONTREAL, CANADA",
+      "handwritten_text": "French catholic priest from St Joseph Oratory St George's Westmount, Montreal (English private school)\n'Montreal Reflect.'\n'Santa Feastball'\n'please 1.50'",
+      "sketch_descriptions": [
+        "A sketch of a figure in a long cloak and hat, standing in front of a fence with several other figures in various poses behind it; the handwritten note identifies the main figure as a French Catholic priest from St Joseph Oratory, with reference to St George's school in Westmount, Montreal.",
+        "A landscape sketch showing a hill with a large cross at the top and what appears to be a small building or chapel; in the foreground are groups of people, with one figure carrying a sign stating 'please 1.50'. The handwritten notes suggest it is a scene called 'Montreal Reflect.' and 'Santa Feastball'."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Montreal",
+          "Westmount",
+          "St Joseph Oratory",
+          "St George's (English private school)"
+        ],
+        "events": [],
+        "dates": [
+          "1956"
+        ]
+      },
+      "page_summary": "This 1956 page from Topolski's Chronicle features pen sketches depicting scenes and people in Montreal, Canada, including a French Catholic priest from St Joseph Oratory and a landscape with a hilltop cross and groups of people.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:13:11.299234+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "719 720 721 722",
+      "handwritten_text": "\"At 400\" Felix Topolski, Montreal 1956 \"Au Sczic\u00e9\" Montreal East FRENCH-Canadian Entertainments \"Riviera Espresso-Caf\u00e9\" Reb - Indian Boheme French Canadian & Polish Celebrities (?)  A. M. ???  University of McGill School of Architecture",
+      "sketch_descriptions": [
+        "A group of people wearing hats and engaged in various activities, including reading and conversing, annotated as 'At 400' in Montreal, 1956.",
+        "A lively scene with several people engaged in conversation, including a man with glasses, in a setting labeled 'Au Sczic\u00e9' in Montreal East with French-Canadian entertainment.",
+        "Portrait-style sketches of several individuals, including a man with glasses and a woman pointing, annotated with 'Riviera Espresso-Caf\u00e9' and references to 'Reb - Indian Boheme' and French Canadian and Polish celebrities.",
+        "A group of individuals engaged in a discussion or study around tables with architectural models, labeled 'University of McGill School of Architecture'."
+      ],
+      "entities": {
+        "people": [
+          "Felix Topolski"
+        ],
+        "places": [
+          "Montreal",
+          "Montreal East",
+          "University of McGill"
+        ],
+        "events": [],
+        "dates": [
+          "1956"
+        ]
+      },
+      "page_summary": "This page contains multiple sketches by Felix Topolski depicting social scenes and individuals in Montreal in 1956, including French-Canadian cultural settings and scenes at McGill University's School of Architecture.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:13:17.340742+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 3s. 6d. (50c) A COPY YEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE 4s. 6d. (12 or equivalent): SHORTER PERIODS PRO RATA. AIR MAIL BY QUOTATION. SUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME Handprinted in Great Britain by Poets' & Painters' Press 146 Sutton Walk, S.E.1. from blocks made by Austin Miles Ltd and published from Bridge Arch 158. Sutton Walk. London, S.E.1. Copyright reserved.",
+      "handwritten_text": "Notre Dame De Boulogne point pour Paris\nA large Captain America [?]\nFrench Canadians Farmers de la Fruit Market\nAt East End with East European new arrivals Felix Topolski\nAnother another tomb at Ulster takes place in Oration at St Joseph in Calcutta + M. G. [?]",
+      "sketch_descriptions": [
+        "Sketch of Notre Dame de Boulogne area with detailed architecture and two figures near water.",
+        "Scene showing French Canadian farmers at a fruit market with figures in coats and hats.",
+        "Street scene in the East End with East European new arrivals, showing buildings with stairs and several people, including children and adults.",
+        "Depiction of a religious exposition at a basilique, with figures descending steps and two seated individuals in the foreground."
+      ],
+      "entities": {
+        "people": [
+          "Felix Topolski"
+        ],
+        "places": [
+          "Notre Dame De Boulogne",
+          "Paris",
+          "Fruit Market",
+          "East End",
+          "Ulster",
+          "St Joseph",
+          "Calcutta"
+        ],
+        "events": [
+          "Oration at St Joseph"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page contains four pen sketches depicting various urban and market scenes including Notre Dame de Boulogne, an East End street with new arrivals, a French Canadian fruit market, and a religious exposition at a basilique, accompanied by handwritten notes and publication details.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:13:43.657083+00:00"
+    }
+  ]
+}

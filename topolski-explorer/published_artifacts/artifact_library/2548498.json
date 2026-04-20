@@ -1,0 +1,162 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548498",
+    "title": "Topolski's Chronicle, V.3 No.12-13, 1955",
+    "date": "1955",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6d7g02g",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6d7g02g",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 5,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOKYO\nUNIVERSITY OF UTAH LIBRARIES\nTOPOLSKI'S CHRONICLE No. 12-13 (48-49) Vol. III 1955\nof a voyage round the world (c)",
+      "handwritten_text": "Feliks Topolski",
+      "sketch_descriptions": [
+        "A large crowd scene rendered in expressive black linework, depicting numerous figures gathered and interacting along what appears to be a sloped street or outdoor public space.",
+        "Several individuals in the foreground are seated or standing, some appearing deep in conversation or contemplation.",
+        "In the background, there are quick indications of buildings and utility poles, suggesting an urban environment."
+      ],
+      "entities": {
+        "people": [
+          "Feliks Topolski"
+        ],
+        "places": [
+          "Tokyo"
+        ],
+        "events": [],
+        "dates": [
+          "1955"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle offers an energetic sketch of a bustling Tokyo street scene, highlighting the urban atmosphere and social gatherings of mid-1950s Japan during the artist's world travels.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:55:55.717378+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "THE AMERICANS IN JAPAN\nUNIVERSITY OF UTAH LIBRARIES",
+      "handwritten_text": "M. Darkeys\nRising of faith in the children",
+      "sketch_descriptions": [
+        "A crowd of people in various postures and expressions, with background elements including two large cylindrical silos with Asian script and a flag.",
+        "A figure pushing or pulling a cart with a large bundle, surrounded by several people, some looking on.",
+        "A scene showing a group of women and children standing together, some looking towards a uniformed figure holding a sword.",
+        "A loosely sketched indoor scene with several figures in coats and hats, one standing by a wall with a sign reading 'Fright Station R.T.O. Kashio', and several others seated or moving.",
+        "A group of men, some in distinctive clothing such as a tall hat, posed together while a flag-bearing vehicle with soldiers is visible in the background.",
+        "A group of people in conversation or transition, possibly at a station or checkpoint, based on the signage and clustered movement."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Japan",
+          "Kashio",
+          "University of Utah Libraries"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page from Topolski's Chronicle documents scenes of American presence and local life in postwar Japan through expressive sketches of crowds, military figures, and daily activities, accompanied by both handwritten and printed captions.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:56:21.900685+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "IMPERIAL AND DEMOCRATIC JAPAN",
+      "handwritten_text": "1st May Demonstration | Yasukuni Shrine for Japan's War Dead | A Minister at Sangi-in (annual ceremonies) | Gunasha, Imperial Palace, Tokyo. The Emperor's Viscount's carriage etc | At the gate, Kampkokuji Palace | Life after the war, when the nation, after military expansion and defeat is being reshaped into a parliamentary democracy. In which the Emperor, deity and god until two years ago, opens the first Diet and bows his head before the War Memorial. Children demonstrate for peace and the Minister of Culture wears Western clothes.",
+      "sketch_descriptions": [
+        "Crowd of people marching with flags and banners, likely during a protest or political demonstration.",
+        "People bowing and paying respects at a large torii gate, which is marked as the Yasukuni Shrine.",
+        "Portrait of a solemn official or minister with bold dark lines, standing at what is labeled the Sangi-in.",
+        "Imperial carriage drawn by horses, accompanied by uniformed figures, identified as an event associated with the Emperor's Viscount.",
+        "Group of people gathered near the entrance gate of a grand palace, possibly the Kampkokuji Palace, with casual and formal observers."
+      ],
+      "entities": {
+        "people": [
+          "Emperor",
+          "Viscount",
+          "Minister of Culture"
+        ],
+        "places": [
+          "Yasukuni Shrine",
+          "Sangi-in",
+          "Imperial Palace, Tokyo",
+          "Kampkokuji Palace",
+          "Japan"
+        ],
+        "events": [
+          "1st May Demonstration",
+          "annual ceremonies",
+          "opening of the first Diet"
+        ],
+        "dates": [
+          "1st May",
+          "two years ago (from postwar context, likely c. late 1940s)"
+        ]
+      },
+      "page_summary": "This page contrasts imperial and democratic themes in postwar Japan through expressive sketches of political demonstrations, formal ceremonies, and iconic locations, accompanied by reflective handwritten commentary on national transformation and continuity.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:56:49.479459+00:00"
+    },
+    {
+      "page_number": 4,
+      "typeset_text": "",
+      "handwritten_text": "Tokyo Night Club\nReceiving the guests\nChildren Pimyhart[?] Tokyo, japan\nOFF LIMITS V.D.\nKODOMAN sumo amphitheatre TOKYO",
+      "sketch_descriptions": [
+        "A lively, crowded nightclub scene with several figures closely grouped, some in western dress.",
+        "A person in traditional clothing kneels at the entrance to a Japanese-style room, possibly welcoming or receiving guests.",
+        "Three children in kimono-style clothing gather around a table set with dishes, one holding an umbrella, watched by an adult.",
+        "A narrow street or corridor scene with several figures, some in traditional dress, under a sign with Japanese characters and an English notice 'OFF LIMITS V.D.'.",
+        "A bustling amphitheater crowded with viewers, interpreted from behind, watching an event or performance, possibly sumo, indicated by the caption."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Tokyo",
+          "Japan",
+          "KODOMAN sumo amphitheatre"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page captures various scenes from mid-20th century Tokyo, including nightlife, traditional hospitality, children at a banquet, a street scene marked by postwar restrictions, and a crowded sumo amphitheater, reflecting cultural and social life.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:56:54.700173+00:00"
+    },
+    {
+      "page_number": 5,
+      "typeset_text": "On the Pacific:\nThe voyage to Asia from Europe was made with the Reverend Albert Rangaswamy of the Society of St. John the Evangelist, the only Indian of that Order. Now the Reverend Takuda, a Japanese of the same Society of St. John the Evangelist, is on board the ship leaving Asia for the States. Out of the immense East-West entanglement these two meek Asians are singled out by odd coincidence to bracket Asia ...\nThe price of this double issue is 5 s\n\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 2s 6d. A COPY\nYEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE \u00a33. 3s. ($9 or equivalent); SHORTER PERIODS PRO RATA. AIR MAIL BY QUOTATION.\nSUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME\nHand printed in Great Britain by Poets' & Painters' Press 146 Sutton Walk, S.E.1. from blocks made by Austin Miles Ltd and published from Bridge Arch 158, Sutton Walk, South Bank, London. S.E.1. Copyright reserved",
+      "handwritten_text": "Tokyo War Veterans\nAsakusa district Tokyo\nTokyo street\nThe Reverend J.T. Takuda Society of St. John the Evangelist",
+      "sketch_descriptions": [
+        "Top left sketch shows a group of people labeled 'Tokyo War Veterans' with loose, expressive figures clustered together.",
+        "Top right sketch depicts a street scene in the Asakusa district of Tokyo, showing several figures including one in a uniform and another wearing a tall hat.",
+        "Bottom left sketch shows a street scene labeled 'Tokyo street' featuring three figures, one in a hat and coat in the foreground and two figures walking away, with vertical signage in Japanese along a building.",
+        "Bottom right sketch is a close-up portrait of the Reverend J.T. Takuda of the Society of St. John the Evangelist, rendered with textured shading."
+      ],
+      "entities": {
+        "people": [
+          "Reverend Albert Rangaswamy",
+          "Reverend Takuda",
+          "Reverend J.T. Takuda"
+        ],
+        "places": [
+          "Asia",
+          "Europe",
+          "Tokyo",
+          "Asakusa district",
+          "States"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page from Topolski's Chronicle features sketches of people and street scenes in Tokyo, highlighting the presence of war veterans and members of the Society of St. John the Evangelist, alongside a brief editorial note on the journey of Reverend Albert Rangaswamy and Reverend Takuda between Asia, Europe, and the States.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T21:54:53.131641+00:00"
+    }
+  ]
+}

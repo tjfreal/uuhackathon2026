@@ -1,0 +1,71 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548517",
+    "title": "Topolski's Chronicle, V.4 No.1-2, 1956",
+    "date": "1956",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s61eaka6",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s61eaka6",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE No 1-2 (61-62) Vol IV 1956\nof a voyage round the world (2)\nENGLAND",
+      "handwritten_text": "",
+      "sketch_descriptions": [
+        "Two stylized and loosely sketched standing figures seen from behind, outlined in black with red and beige coloring. One figure on the left has a tall, rounded hairstyle or headgear and a braided detail on the back; the other figure on the right wears a hat and leans slightly forward, holding a cane or stick.",
+        "An abstract sketch outline of a bird or similar creature drawn above the figures on the right side."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "England"
+        ],
+        "events": [],
+        "dates": [
+          "1956"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle (vol. IV, 1956) features abstract sketches of two figures in fashionable attire, labeled as England, as part of the artist's illustrated chronicle of a voyage around the world.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:01:39.472137+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "PARLIAMENT\nLEARNING\nLAW\nCHURCH\nPASTIME\nFINANCE\nFREE SPEECH\n\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR. AT 6d. A COPY. THIS DOUBLE ISSUE COSTS 1/-.\nYEARLY SUBSCRIPTION RATES WITH DOUGLAS-AND-NICOL TO ANY WORLD ADDRESS:\n  U.K., \u0007S.;  EUROPE & N. AMERICA, 8s. 6d.;  SOUTH AFRICA, 10s.;  FAR EAST, 12s. 6d.\nSUBSCRIBERS TEND TO CONTINUE FOR YEARS.",
+      "handwritten_text": "H. Topolski\nGrecian in modern Oxford\nLewis Assizes\nPub in Summerset\nEntrance to the Stock Exchange\nLord Jesus Christ\nMorpeth speaker",
+      "sketch_descriptions": [
+        "A loose pen sketch of several figures labeled 'PARLIAMENT' showing tall, somewhat elongated parliamentary figures in robes.",
+        "An intricate grouping of various individuals engaged in a learning or lecture setting, including a bust sculpture and a person reading, labeled 'LEARNING'.",
+        "A darker, more heavily shaded drawing of several people, mostly elderly, gathered formally labeled 'LAW', suggesting a courtroom or judges panel.",
+        "A dramatic, shadowy single figure in a cloak and hat labeled 'CHURCH', likely representing a clergy member or bishop.",
+        "A busy interior scene with several people socializing and drinking at a pub, labeled 'PASTIME', with a pub window and some bottles visible.",
+        "A sketch of a tall doorway or entrance with several well-dressed men in top hats outside, suggesting a formal financial institution, labeled 'FINANCE'.",
+        "A crowded outdoor scene featuring many figures listening to a speaker at a podium, with signs including 'LORD JESUS CHRIST' and 'Morpeth speaker', labeled 'FREE SPEECH'."
+      ],
+      "entities": {
+        "people": [
+          "Lord Jesus Christ",
+          "Morpeth speaker"
+        ],
+        "places": [
+          "Parliament",
+          "Stock Exchange",
+          "Oxford",
+          "Summerset"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page from Topolski's Chronicle features a series of expressive ink sketches illustrating key social and institutional themes such as parliament, learning, law, church, leisure, finance, and public speaking/free speech.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:02:05.464061+00:00"
+    }
+  ]
+}

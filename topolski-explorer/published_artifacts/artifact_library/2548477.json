@@ -1,0 +1,108 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548477",
+    "title": "Topolski's Chronicle, V.2 No.11, 1954",
+    "date": "1954",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6awayr0",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6awayr0",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE No. 11 (23) Vol. II 1954 ENGLISH THEATRE",
+      "handwritten_text": "Old Vics 'TWELFTH NIGHT'",
+      "sketch_descriptions": [
+        "Expressive, crowded sketch showing a stage scene with multiple actors in period costume, likely performing in a large, arched theater interior.",
+        "Figures in the audience and performers are loosely and energetically drawn, emphasizing a sense of movement and theatricality.",
+        "A prominent figure stands near center stage with one hand on hip, while other actors cluster and gesture around.",
+        "Balconies and architectural arches suggest a historic English theater setting."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Old Vic"
+        ],
+        "events": [
+          "Twelfth Night"
+        ],
+        "dates": [
+          "1954"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle features an expressive sketch of a scene from Shakespeare's Twelfth Night, performed at the Old Vic, capturing the lively atmosphere of English theatre in 1954.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:13:49.337496+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "LONDON West and East-End",
+      "handwritten_text": "[195] VICTORIAN Christmas at Covent Garden Opera House\n[196] The Great Romances\n[197] Some EARLY EVENING (Entertainment\u2014The Poetry, the Music, the Laughter, the Company) POETIC Drama\n[198] CLASSICAL Ballet. MARKOVA\n[199] \"The Greatest Show on Earth\"\u2014Ballet on Ice\n[200] MUSICAL Pastiche\n[201] SOCIAL Drama\n[202] \"Spectators\" Fulham flat. Social-conciousness amidst E.P.'s\n[203] PROGRESSIVE Play-reading. MOTHER COURAGE by Brecht\n[204] DRAWING-ROOM Comedy. (High-brow?, is only a cult)",
+      "sketch_descriptions": [
+        "A festive Victorian Christmas scene in Covent Garden Opera House, featuring elaborate costumes and onlookers.",
+        "A romantic outdoor scene with dramatic, mountainous background and theatrical figures.",
+        "A loosely drawn group evoking the feeling of early evening entertainment, with mixed moods among the performers.",
+        "A dynamic image of a ballet dancer, marked as Markova, in expressive movement.",
+        "A crowded and dramatic scene depicted as 'The Greatest Show on Earth'\u2014Ballet on Ice, with a vast audience and performers in motion.",
+        "A lively group, one singing or declaiming with a microphone, others gathering around, labeled as a musical pastiche.",
+        "An intimate and colloquial group in dim light, hinting at social drama or tension.",
+        "A group of onlookers labeled 'Spectators' in a Fulham flat, observing a scene and engaged quietly.",
+        "People involved in a progressive play-reading of Brecht's 'Mother Courage,' with a performer seemingly reciting and a small audience.",
+        "A lively parlor scene with animated conversation, labeled 'Drawing-Room Comedy,' centered on a large man gesticulating, observed by others."
+      ],
+      "entities": {
+        "people": [
+          "Markova",
+          "Brecht"
+        ],
+        "places": [
+          "Covent Garden Opera House",
+          "London",
+          "Fulham"
+        ],
+        "events": [
+          "Victorian Christmas",
+          "The Greatest Show on Earth",
+          "Mother Courage play-reading"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page from Topolski's Chronicle juxtaposes a series of atmospheric sketches capturing diverse theatrical and social performances in mid-20th century London, ranging from ballet and musical pastiche to drawing-room comedy and progressive theater readings. Some scenes highlight recognizable figures or artworks, while others evoke broader cultural experiences in both west and east ends of London.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:14:20.166120+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "IN THE PROVINCES\n204 Shakespeare at Stratford-upon-Avon\n205 Country Festival\n204\n205\n'TOPOLSKI'S CHRONICLE' IS PUBLISHED 24 TIMES A YEAR AT 2s. 6d. COPY.\nYEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE \u00a33.10.0 (APPROXIMATELY) SHORTER PERIODS PRO RATA. AIR MAIL BY QUOTATION.\nSUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME.\nLithographed in Great Britain by C.A.P.S. Ltd., Dean Street, London, W.1. and published from Bridge Arch 58, Sutton Walk, South Bank, London, S.E.1. Copyright reserved.",
+      "handwritten_text": "Feliks Topolski\nOthello\nRonald Duncan?\nDonyuan? Art. Fes? 2",
+      "sketch_descriptions": [
+        "An expressive drawing depicting a dramatic scene with a man, possibly Othello, looming over a reclining or collapsed woman, with flowing drapery in the background.",
+        "A busy festival or theater scene with a crowd or group of figures gathered on a decorated stage or platform, surrounded by elaborate curtains and set pieces."
+      ],
+      "entities": {
+        "people": [
+          "Feliks Topolski",
+          "Ronald Duncan",
+          "Othello"
+        ],
+        "places": [
+          "Stratford-upon-Avon"
+        ],
+        "events": [
+          "Country Festival",
+          "Shakespeare at Stratford-upon-Avon"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page from Topolski's Chronicle features sketches that illustrate a performance of Shakespeare's 'Othello' and a lively country festival, both occurring in the English provinces. The editorial focus is on regional cultural events, notably at Stratford-upon-Avon.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:14:26.209032+00:00"
+    }
+  ]
+}

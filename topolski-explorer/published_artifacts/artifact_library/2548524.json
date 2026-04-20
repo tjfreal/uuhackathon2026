@@ -1,0 +1,99 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548524",
+    "title": "Topolski's Chronicle, V.4 No.11-12, 1956",
+    "date": "1956",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s62q0dk4",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s62q0dk4",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI's CHRONICLE No 11-12(71-72) Vol IV 1956\nVARIATIONS ON THE THEME G.B.S.\non the occasion of the centenary of his birth",
+      "handwritten_text": "G.B. Shaw 1856-1956",
+      "sketch_descriptions": [
+        "A large rough expressive charcoal sketch depicting three elderly men with beards and expressive faces, with one figure standing in the background and two seated figures in front, characterized by energetic, dense swirl-like lines."
+      ],
+      "entities": {
+        "people": [
+          "G.B.S.",
+          "G.B. Shaw"
+        ],
+        "places": [
+          "University of Utah Libraries"
+        ],
+        "events": [
+          "Centenary of his birth"
+        ],
+        "dates": [
+          "1956"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle features a dramatic charcoal drawing and commemorates the centenary of G.B. Shaw's birth in 1956 with a variation-themed artistic tribute.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:10:23.770695+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "\"He is under a cloud. Wrongly, yes, but nothing can be done ... say five years more before the tide turns\u2014wouldn't sell now....\" Thus a publisher to a young man, eager to come out with a book declaring the Shavian creed.\n\nHe, Reason itself (even in his meta-biological mysticism), could not be out-reasoned and those who came after him, overshadowed and dwarfed, reacted with their stomachs and asserted their turn by denying reason. They did not make the mistake of arguing their case\u2014but stoned him or jeered at him; and, after his death, concerted these mob tactics (being many and having conquered the literary pages) to eradicate him from the high-brow memory, except perhaps as the author of St. Joan. But they are now 50 years old or more ...\n\nAll this applies to England. Away from England the Shavian cult had different dates (and higher diapason) and in Poland its height coincided with my sponge-age. To me he was not a living anecdote, as to some in England, nor a stumbling block, as to others, nor that playwright G.B.S., as to his generation, but a legend. And, when summoned by him (some time in 1938, I think), I went to his rooms at Whitehall Court in the spirit of a pilgrimage to a godhead.\n\nIndeed, the Edwardian dignities of the entrance hall of the building were appropriate: somewhat cramped and careless, but well caressed by the patina of habit and reasonableness; the porter, uniformed but docile in his leather chair-cubicle, beckoning me on benignly to the lift. Indeed, this is how the anti-chambers of the reason-and-science heaven should look; and the lift's ascension (its panellings of the Royal Institution pattern), slow in the extreme and harmoniously squeaking with the machinery appropriate to the period, prepared me well\u2014it was truly a flight into the highest spheres of my Non-Faith.\n\nThe long mahogany corridors; the Door... and it opened to reveal: oh how high-soaring, ethereal, palely shaped against the interior ... and benevolent. Even if there was also a maid at the entrance, I registered only HIM. I do not remember much of this first audience.\n\nThe Father-figures appear at life-junctions to lead, help and strengthen the young. The older I get, the fewer of them\u2014I am possibly turning into one myself. Or have I outgrown the need of them? Or are the great figures gone and is the world populated now at the best by Big Brothers?",
+      "handwritten_text": "If I should be disagged\nfrom into each ... [?]\n700\n\nDear Lydie,\nI though I had cut back. I am terrified to find that\nthy were not posted.\nYours sincerely,\nI regret we should sit the stage wrongly; the attitude was\nradiant; but the business was suddenly interrupted: it would have killed\nme for you. I did three 91 quest, 2 of it [?].\nYours yours\n[unclear signature]",
+      "sketch_descriptions": [
+        "Expressive ink sketch of an elderly man with a beard and head tilted, upper left corner.",
+        "Ink sketch of a bald elderly man with glasses and beard, middle left side.",
+        "Sketch of three men together from the back, one holding a violin, labeled 'One of Shaw's own instructive sketches; this one for Geneva'.",
+        "Sketch of a handwritten letter accompanied by a parcel of returned character-sketches 'corrected' by Shaw in pencil and watercolors.",
+        "Detailed head sketch of an elderly bearded man, upper right corner.",
+        "Ink head sketch of an elderly man with glasses and mustache, middle right.",
+        "Series of four portraits of elderly bearded men in various contemplative poses, along the bottom of the page, each distinct.",
+        "An elderly bearded man reading a book, bottom right corner."
+      ],
+      "entities": {
+        "people": [
+          "G.B.S.",
+          "Shaw",
+          "Felix Topolski"
+        ],
+        "places": [
+          "England",
+          "Poland",
+          "Whitehall Court",
+          "Royal Institution"
+        ],
+        "events": [],
+        "dates": [
+          "1938",
+          "Edwardian"
+        ]
+      },
+      "page_summary": "This page reflects on the legacy and influence of George Bernard Shaw (G.B.S.), featuring textual and artistic tributes, sketches of elderly men, and reflections on reason, faith, and memory connected to Shaw and the author's personal pilgrimage to Whitehall Court where Shaw lived.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:10:56.738721+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "",
+      "handwritten_text": "Felix Topolski",
+      "sketch_descriptions": [
+        "A tall, slender man in a long coat and hat, drawn in an expressive, scribbled line style with a large nose and confident stance. The background is shaded purple with dark black overlays."
+      ],
+      "entities": {
+        "people": [
+          "Felix Topolski"
+        ],
+        "places": [],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "The page features an expressive sketch of a tall man in a coat, signed by artist Felix Topolski, set against a dark purple and black background.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:10:59.930962+00:00"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548579",
+    "title": "Topolski's Chronicle, V.6 No.1-2, 1958",
+    "date": "1958",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6cdxa8q",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6cdxa8q",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 1,
+  "pages": [
+    {
+      "page_number": 3,
+      "typeset_text": "\"...The driving need felt by a large proportion of adolescents, particularly male adolescents, for emotional adherence to a group with a ritual . . .\" (BRITISH MEDICAL JOURNAL)\nRitual is the current WORD. As THE WORD should, it has the power (for a while) to contain the mysteries of the day.\nThe young tend to dress and, in consequence, posture and frown romantically (in spite of the cheap ready-mades available), to gather in dark cellars for \"cultic\" dances and \"skiffle\" (in spite of the telly and the neon).\nIt may all be animal energy.\nBut one observes there in this exclusively youth-world set against the present vacuum a curious aura of subconscious anticipation and preparedness. Their plotting groups seem to be expecting a load. Their sing-song rites seem made ready for the potential arrival of their prophet-poets, though meanwhile uncouthly filled in with American cowboy ballads.\nAnd so it can be said that a ritual is forming before our eyes in waiting for a content.",
+      "handwritten_text": "skiffle groups in Chislehurst Caves\nAt Lazic's\nIn Chislehurst Caves",
+      "sketch_descriptions": [
+        "A series of loosely drawn sketches depicting young men and women in groups, showing expressive postures suggestive of mid-20th century youthful social dance or gathering culture.",
+        "One sketch shows two seated figures engaged in conversation or contemplation, captioned 'In Chislehurst Caves.'",
+        "Clusters of figures grouped in social clusters, some standing, some seated, all drawn with energetic, almost abstract lines conveying movement and interaction.",
+        "The scenes appear to capture youth culture ritualistic gatherings, possibly dances or music groups, with an emphasis on expressive body language and group dynamics."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Chislehurst Caves"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page captures sketches and an editorial reflection on youth culture rituals centering around social dances and gatherings, notably in locations like Chislehurst Caves, portraying the emerging youth social rituals of the time.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:52:11.084055+00:00"
+    }
+  ]
+}

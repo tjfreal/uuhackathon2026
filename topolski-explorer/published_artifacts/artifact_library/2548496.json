@@ -1,0 +1,107 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548496",
+    "title": "Topolski's Chronicle, V.3 No.9-10, 1955",
+    "date": "1955",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s61h5epg",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s61h5epg",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI's CHRONICLE No. 9-10 (45-46) Vol. III 1955 of a voyage round the world (r) TOKYO - FUJI - KYOTO",
+      "handwritten_text": "Higashi Honganji Temple Tokyo Felix Topolski",
+      "sketch_descriptions": [
+        "Expressive line sketch of a group of people gathered at the steps or foreground of a temple complex, possibly monks or locals in traditional attire.",
+        "Distinctive large gateway or entrance structure in the background, suggestive of East Asian temple architecture.",
+        "Additional structures and architectural forms in the mid-to-far distance, indicating an urban temple setting."
+      ],
+      "entities": {
+        "people": [
+          "Felix Topolski"
+        ],
+        "places": [
+          "Tokyo",
+          "Fuji",
+          "Kyoto",
+          "Higashi Honganji Temple"
+        ],
+        "events": [],
+        "dates": [
+          "1955"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle combines typeset text, handwritten notes, and an expressive sketch to depict a temple scene in Tokyo as part of a travelogue documenting visits to Tokyo, Mount Fuji, and Kyoto in 1955.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:53:56.410274+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "The price of this double issue is 5/-\n'TOPOLSKI'S CHRONICLE' IS PUBLISHED 24 TIMES A YEAR AT 2s. 6d. A COPY\nYEARLY SUBSCRIPTION RATE WITHIN BRITISH ISLES 50s. (POST FREE)\nSUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME\n(Headquarters at Great Newport Street, London, W.C.2). Back numbers may be had at this address. Printed and published fortnightly in England by Felix Topolski at 12/14, Elcho Street, London, S.W.11. Copyright reserved",
+      "handwritten_text": "Sanja Sangendo Temple KYOTO\nKyoto Mishya",
+      "sketch_descriptions": [
+        "A bustling scene of people seated at tables, possibly engaged in writing or signing, surrounded by vertical banners with Japanese script and figures in the background.",
+        "Two women in elaborate traditional Japanese dress and hairstyles stand among ornamental plants, with stylized floral patterns and bottles featuring Japanese writing in the background.",
+        "An elderly man with a hat and cane sits in a room decorated with framed pictures, as another individual stands or sits nearby; the setting has a contemplative or conversational mood."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Sanja Sangendo Temple",
+          "Kyoto"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page from Topolski's Chronicle captures scenes and figures from Kyoto, Japan, including temple life, traditional dress, and local character studies rendered through expressive sketching and handwritten notes.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:54:23.342143+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "TOKYO - FUJI\nTOKYO - KYOTO",
+      "handwritten_text": "Shimanoshita[?] Kubo Villages Aichi SAIKYO[?] KYOTO-Osaka with H.H. the Emperor",
+      "sketch_descriptions": [
+        "A bustling street scene with groups of people standing beside traditional Japanese architecture in Tokyo.",
+        "People engaged in various activities near Mount Fuji, with children and adults depicted in motion.",
+        "A family or group traveling through an industrial or urban landscape with utility poles and city infrastructure.",
+        "A rural mountainside scene with villagers clustered together, possibly near agricultural activity.",
+        "A crowded market or train station with throngs of people and visible signage, suggesting vibrant urban life.",
+        "A railway scene with figures waiting and a train moving toward a station.",
+        "A pair of suited men conversing beside a sign reading 'YOKOHAMA' and various other street elements.",
+        "Clusters of people by coastal or rocky landscapes, perhaps observing or working in natural surroundings.",
+        "A scene labeled 'Aichi' showing figures among rock formations and water, possibly a spa or bathhouse area.",
+        "People navigating a mountainous region, with hints of waterfalls, bridges, and foliage.",
+        "A depiction of Kyoto with traditional gates, shrines, or pagodas, and a group of people passing by.",
+        "A hot springs or rural bathing scene with figures lounging or soaking in pools.",
+        "Women in kimonos and men in coats holding umbrellas, moving through a rain-soaked street.",
+        "A group boarding or exiting a bus, with 'KYOTO-Osaka with H.H. the Emperor' written beneath."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Tokyo",
+          "Fuji",
+          "Kyoto",
+          "Yokohama",
+          "Aichi",
+          "Osaka",
+          "Shimanoshita",
+          "Kubo Villages"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page documents a journey through Japan, illustrating scenes from Tokyo, Mount Fuji, Kyoto, Yokohama, and rural villages. The sketches capture daily life, travel, and landscapes, offering a visual diary of postwar Japan.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:54:50.500829+00:00"
+    }
+  ]
+}

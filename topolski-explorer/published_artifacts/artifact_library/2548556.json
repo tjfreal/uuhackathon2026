@@ -1,0 +1,119 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548556",
+    "title": "Topolski's Chronicle, V.5 No.6, 1957",
+    "date": "1957",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6k646v5",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6k646v5",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE No.6(90) Vol. V 1957\n\u2026solitary griffin each day; and darely[?] for new harmony\u2026 Sir Philip Sydney (1590)",
+      "handwritten_text": "PARIS Les collections de Haute Couture, Printemps-Ete 1957\nChristian Dior opening 1957",
+      "sketch_descriptions": [
+        "A charcoal or pencil sketch of two figures closely engaged, one appearing to be a man with balding hair and the other wearing an elaborate, wide-brimmed hat, possibly a woman in haute couture fashion.",
+        "The figures are drawn with expressive, loose lines suggesting a lively scene perhaps at a fashion event or opening."
+      ],
+      "entities": {
+        "people": [
+          "Sir Philip Sydney",
+          "Christian Dior"
+        ],
+        "places": [
+          "Paris"
+        ],
+        "events": [
+          "Les collections de Haute Couture Printemps-Ete 1957",
+          "Christian Dior opening 1957"
+        ],
+        "dates": [
+          "1590",
+          "1957"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle captures a dynamic sketch related to the 1957 Paris Haute Couture Spring-Summer collections, highlighting the Christian Dior opening that year and referencing Sir Philip Sydney.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:27:02.959925+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "",
+      "handwritten_text": "PARIS, les collections de haute couture Printemps-Ete 1957\nFabius Mannebergen Nina Ricci\nMolyneux Christian Dior\nChanel Muriel La ligne de briefing\nParis Jefferey Horn The Battle Silhouette Spring Collection 1957\nJean Dess\u00e8s Printemps-Et\u00e9 1957 La Perle du Vear\nPierre Balmain\nPierre Cardin\nMaggy Rouff",
+      "sketch_descriptions": [
+        "A group of seated figures and a standing fashion model sketch labeled with names Fabius Mannebergen and Nina Ricci.",
+        "A crowded indoor scene with people mingling, including artists named Molyneux, Christian Dior, Chanel, and Muriel, annotated 'La ligne de briefing'.",
+        "A tall elegant woman in a large blue hat among other figures, labeled Pierre Balmain.",
+        "A fashion show or social gathering scene with multiple figures in elaborate hats and gowns, annotated 'Jean Dess\u00e8s Printemps-Et\u00e9 1957 La Perle du Vear'.",
+        "A side view of standing models and seated figures observing, labeled Paris, Jefferey Horn, The Battle Silhouette Spring Collection 1957.",
+        "A large detailed crowd scene showing audience members facing a runway or stage, with figures in formal and haute couture attire including a woman in a large hat, annotated Pierre Cardin.",
+        "A lineup of fashion models wearing large hats and full dresses, labeled Maggy Rouff."
+      ],
+      "entities": {
+        "people": [
+          "Fabius Mannebergen",
+          "Nina Ricci",
+          "Molyneux",
+          "Christian Dior",
+          "Chanel",
+          "Muriel",
+          "Jean Dess\u00e8s",
+          "Pierre Balmain",
+          "Pierre Cardin",
+          "Maggy Rouff",
+          "Jefferey Horn"
+        ],
+        "places": [
+          "Paris"
+        ],
+        "events": [
+          "les collections de haute couture Printemps-Ete 1957",
+          "The Battle Silhouette Spring Collection 1957"
+        ],
+        "dates": [
+          "1957",
+          "Printemps-Et\u00e9 1957",
+          "Spring 1957"
+        ]
+      },
+      "page_summary": "This page captures expressive sketches and handwritten notes of Paris haute couture fashion collections from Spring-Summer 1957, depicting designers, models, and social scenes from high-end fashion events.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:27:12.157138+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "The drawings in this issue were made possible by the invitation of American Harper's Bazaar to attend the opening of the Paris Spring Collections\n\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 3s. 6d. (50c) A COPY.\nYEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY-PART OF THE WORLD ARE \u00a34. 4s. ($12 or equivalent); SHORTER PERIODS PRO RATA. AIR MAIL BY QUOTATION.\nSUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME\nHandprinted in Great Britain by Poets'& Partners' Press from blocks made by Auster Miles Ltd and published by Topolski's Chronicles Ltd. from Bridge Arch 138, Sutton Walk, London, S.E.1. Copyright reserved.\n865",
+      "handwritten_text": "Felix Topolski, Paris, 1957 Marc Chanel",
+      "sketch_descriptions": [
+        "A stylized sketch of a woman with a dark curly hairstyle seated, holding a cigarette or similar slender object, her figure somewhat abstract with textured shading and line work.",
+        "Two dog-like animal figures near the woman; one on the left side with exaggerated features and open eye, the other on the right side looking sideways.",
+        "Decorative and abstract background shapes and lines suggesting urban or interior setting with loose, expressive lines."
+      ],
+      "entities": {
+        "people": [
+          "Felix Topolski",
+          "Marc Chanel"
+        ],
+        "places": [
+          "Paris"
+        ],
+        "events": [
+          "Paris Spring Collections"
+        ],
+        "dates": [
+          "1957"
+        ]
+      },
+      "page_summary": "This page features a 1957 sketch by Felix Topolski in Paris showing a woman with two dogs, accompanied by a note crediting American Harper's Bazaar for access to the Paris Spring Collections opening event.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:27:37.162947+00:00"
+    }
+  ]
+}

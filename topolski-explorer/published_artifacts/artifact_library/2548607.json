@@ -1,0 +1,40 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548607",
+    "title": "Topolski's Chronicle, V.6 No.22-24, 1958",
+    "date": "1958",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6e8wg6b",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6e8wg6b",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 1,
+  "pages": [
+    {
+      "page_number": 5,
+      "typeset_text": "1118\n1119\n1120",
+      "handwritten_text": "sarawak\nsarawak. Kuching [?]\nKuching",
+      "sketch_descriptions": [
+        "Top left quarter: A sketched scene showing several figures and huts in a tropical environment with palm trees, with two men conversing in the lower left corner.",
+        "Bottom left quarter: Several figures in an indoor or market environment including an older person sitting, a person with large earrings or tusks, and other figures in the background, with various bottles and objects on a table.",
+        "Right page: A crowded indoor scene with multiple figures, including a woman holding a baby, an older person with two children nearby, a man wearing a cap, and a large table piled with fruits or produce."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Sarawak",
+          "Kuching"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "The page contains expressive ink sketches depicting various people and scenes from Sarawak, specifically the city of Kuching, showing both outdoor tropical settings and crowded indoor market or domestic environments.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T23:35:39.510727+00:00"
+    }
+  ]
+}

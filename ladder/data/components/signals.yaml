@@ -1,0 +1,34 @@
+name: Signals
+layer: organization
+status: proposal
+one_line: Extracts structured observations from freeform prose so notes become more usable over time.
+problem: Freeform notes are flexible, but important observations, decisions, and recurring patterns are easy to leave buried inside paragraphs.
+inputs:
+  - local note corpus
+  - freeform prose
+  - repeated patterns in notes
+outputs:
+  - extracted observations or signals
+  - structured summaries for later reuse
+dependencies:
+  - note-system corpus
+  - parsing over note text
+example: A long daily note about a project might contain one clear observation about what keeps slowing the work down; Signals would help pull that out so it does not stay hidden in the middle of the prose.
+audience_value:
+  all_staff: It helps turn messy notes into something easier to revisit without requiring you to write in a rigid format from the start.
+  student: It can help you pull key ideas or patterns out of messy study notes after the fact.
+  collaborator: It treats extraction as a bridge between unstructured writing and more inspectable downstream workflows.
+  self: It is part of the answer to how freeform writing can stay flexible without becoming opaque later.
+next_rung:
+  all_staff: Think of one long note or meeting record that would be easier to reuse if its important signals were easier to spot.
+  student: Take one messy set of notes and highlight the two or three observations you would actually want later.
+  collaborator: Decide whether Signals should emit structured data, lightweight summaries, or both.
+  self: Clarify whether Signals belongs more to organization, retrieval, or sensemaking once the build matures.
+limitations:
+  - It is still a proposal rather than a finished tool
+  - Extraction can oversimplify nuanced prose
+  - Structured output is only useful if it stays tied back to the original note
+relationships:
+  - Builds on the freeform corpus preserved by note-system.
+  - Can improve retrieval and explanation by making observations easier to reference.
+  - Gives Ladder a concrete organization story beyond simple tagging.

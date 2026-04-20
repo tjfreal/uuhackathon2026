@@ -1,0 +1,71 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548522",
+    "title": "Topolski's Chronicle, V.4 No.9, 1956",
+    "date": "1956",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6gyw9ea",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6gyw9ea",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE No. 9 (69) Vol IV 1956\n...nothing of flemish and cheer force never left... - Sir Philip Sidney (1580)\nBULGANIN AND KHRUSHCHEV IN LONDON",
+      "handwritten_text": "Felix Topolski\n10 Downing street",
+      "sketch_descriptions": [
+        "An expressive sketch of two elderly men with intense, caricatured facial features drawn in black lines on a red background.",
+        "A street scene showing a crowd of people, mostly from behind, gathered outside a building that resembles 10 Downing Street, with figures appearing to be in coats and hats."
+      ],
+      "entities": {
+        "people": [
+          "Bulganin",
+          "Khrushchev"
+        ],
+        "places": [
+          "London",
+          "10 Downing Street"
+        ],
+        "events": [],
+        "dates": [
+          "1956"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle 1956 depicts notable Soviet leaders Bulganin and Khrushchev during their visit to London, featuring expressive portraits and a crowd scene outside 10 Downing Street.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:09:15.572357+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT A 3s. 6d. A COPY. YEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLDS ARE 4. 4. 6d. ($12 or equivalent): SHORTER PERIODS PRO RATA. AIR MAIL BY QUOTATION. SUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME Printed in Great Britain by Poets' and Painters' Press 146 Sutton Walk, S.E.1. from blocks made by Austin Miles Ltd. and published from Bidge Area 156, Sutton Walk, London, S.E.1. Copyright reserved.",
+      "handwritten_text": "Claridge",
+      "sketch_descriptions": [
+        "On the top left corner is a scene showing a crowd, soldiers with a flag bearing a hammer and sickle symbol, and a woman carrying a child, labeled 'Claridge'.",
+        "Top center shows two expressive drawn male faces with serious, intense expressions.",
+        "Top right depicts two elderly men closely observing or in conversation, one resting his chin on his hand.",
+        "Bottom left is a dark shaded portrait of a man with a large smile and clasped hands in front, featuring dense black shading.",
+        "Bottom center portrays two men, one older and bald, and the other with a pointed face and intense expression.",
+        "Bottom right shows three figures in a conversation or gesturing, including a person in a helmet or distinctive headwear and two men in hats."
+      ],
+      "entities": {
+        "people": [
+          "Felix Topolski",
+          "Claridge"
+        ],
+        "places": [
+          "Sutton Walk, London"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page from Topolski's Chronicle features expressive sketches of multiple figures, including elderly men and crowds, with a focus on intense facial expressions and moments of interaction, alongside typeset publication information.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:09:20.613044+00:00"
+    }
+  ]
+}

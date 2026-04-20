@@ -1,0 +1,98 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548478",
+    "title": "Topolski's Chronicle, V.2 No.12, 1954",
+    "date": "1954",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s65zkd7a",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s65zkd7a",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "UNIVERSITY OF UTAH LIBRARIES\nTOPOLSKI'S CHRONICLE No. 12 (24) Vol. II 1954\nof a voyage round the world (i)\nSIAM (Thailand)",
+      "handwritten_text": "Siam\nBangkok\nBANK\nPASSPORT\nCONT[?]",
+      "sketch_descriptions": [
+        "Expressive sketch of a seated figure under a large, woven hat beside a standing woman in a dress, both surrounded by stylized tree branches and leaves.",
+        "Small sketch of people and luggage on or near an airport runway with an airplane in the background.",
+        "Small interior sketch of a bustling passport and border control area, labeled with 'BANK,' 'PASSPORT,' and 'CONT[?],' depicting officials behind a counter and travelers seated or waiting in line."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Siam",
+          "Thailand",
+          "Bangkok"
+        ],
+        "events": [],
+        "dates": [
+          "1954"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle illustrates impressions of Siam (Thailand) in 1954, featuring scenes of local people, travel, and entry procedures at an airport. The page combines lively sketches and place names to evoke the atmosphere of travel and arrival in Thailand.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:14:51.501602+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "SIAM (Thailand)\n206 Old and New 207,208 Bangkok Airport 209 Takin River 210,211 Floating Market\n212,213 Country Landscape 214 Old Bangkok 215 Aristocrat 216 Ayuthya Ruins 217 Striptease Theatre",
+      "handwritten_text": "Takin River\nReady, nutcracking Floating market Siam\nNear Ayuthya - Siam",
+      "sketch_descriptions": [
+        "A wide river landscape with boats, trees, and a standing figure with a pole, labeled 'Takin River.'",
+        "A densely packed floating market scene showing vendors, customers, and baskets of produce.",
+        "A market or gathering with people wearing hats, some carrying objects, and expressive faces.",
+        "A rural landscape with water buffalo, farmers wearing broad hats, traditional houses, and a temple spire in the background, labeled 'Near Ayuthya - Siam.'",
+        "A similar rural scene with water buffalo, villagers, hut-like structures, and a distant temple or stupa.",
+        "Figures gathered around something on the ground, with more water buffalo and peasants in hats, as well as traditional Thai architecture."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Siam",
+          "Thailand",
+          "Bangkok Airport",
+          "Takin River",
+          "Ayuthya",
+          "Old Bangkok"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page features Felix Topolski's sketches and observations from Thailand (Siam), including scenes from rivers, floating markets, rural landscapes with water buffalo, and traditional temples, capturing daily life and local architecture.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:15:17.478240+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "\u2018TOPOLSKI\u2019S CHRONICLE\u2019 IS PUBLISHED 24 TIMES A YEAR AT 2s. 6d. A COPY. YEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE \u00a33.15. 0p. or equivalent. SHORTER PERIODS PRO RATA. AIR MAIL BY QUOTATION. SUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME Lithographed in Great Britain by C.A.P.S. Ltd., Dean Street, London, W.1, and published from Bridge Arch 158, Sutton Walk, South Bank, London, S.E.1. Copyright reserved",
+      "handwritten_text": "grand palace, a west front, the Grand of Bangkok 214 piano Satitpongkseuch at Thailand 215 Ship-leave theatre in Chinatown, Bangkok 217",
+      "sketch_descriptions": [
+        "A green line sketch of a palace with spires, possibly a temple or royal complex, seen in the distance.",
+        "A sharply drawn portrait of an older man with glasses, head turned to the left, labeled with a handwritten name.",
+        "A standing figure in profile, dressed in traditional clothing.",
+        "A group: a man filming or taking a picture, a woman in a broad-brimmed hat, a Buddha statue in the background, and another smaller seated figure.",
+        "A scene of several women, some scantily clad and in lively poses, amidst decorative backgrounds and patterns, set in what appears to be a theatrical or entertainment venue.",
+        "Various audience or participant figures drawn in looser lines, including heads and torsos in profile and frontal views."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Grand Palace",
+          "Bangkok",
+          "Chinatown"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page features Felix Topolski's sketches and handwritten notes from Bangkok, Thailand, including views of the Grand Palace, a notable portrait, and scenes from a Chinatown ship-leave theatre. The illustrations capture local people, architecture, and moments of cultural observation.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:15:24.355050+00:00"
+    }
+  ]
+}

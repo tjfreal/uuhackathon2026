@@ -1,0 +1,86 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548502",
+    "title": "Topolski's Chronicle, V.3 No.17, 1955",
+    "date": "1955",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s67tvz51",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s67tvz51",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE No. 17 (2) Vol. III 1965 ... A newspaper for the world of art.\n\n537. The signature of a world conqueror: an oil rig. A landscape near SIGNAL HILL, California\u2014a grim acre, yet one of the most successful of all the earth\u2019s oil-pools. \n\n538. \u2018In the States of the union the greatest diversity of attitudes is apparent\u2019, I was told by an experienced observer. \u2018But everywhere a passion for expansion and self-assertion is universal. It is the land in which time is money and has been from the earliest days. Today, industrial giants and atomic plants replace pioneering booms, but faith in the economic future is undimmed.\u2019 \n\n539. Industrial landscapes in California\u2014a tangle of cranes, derricks, and fencing. \n\n540. Columbia, a mining town, \u2018restored\u2019 as a tourist showplace. \n\n541. A San Francisco bar scene. \n\n542. The Golden Gate Bridge. \n\n543. Arizona river prospectors, notably the hopeful placer miners who still pan for gold. \n\n544. The old mining camps of the West, now visited by tourists and dreamers. \n\n545. The agricultural valleys. \n\n546. Freight heading for the coast across the arid South West. \n\n\u2018TOPOLSKI\u2019S CHRONICLE\u2019 IS PUBLISHED 8 TIMES A YEAR AT \u00a32. 6s. 4d. A COPY",
+      "handwritten_text": "Signal Hill\nSan Francisco\nColumbia\nArizona River\nManuel [?] \nNew York\nTell Them.",
+      "sketch_descriptions": [
+        "Oil rigs and derricks dot a craggy industrial landscape, evoking a sense of conquest and mechanization.",
+        "A busy crowd scene with overlapping human figures and architectural motifs, capturing a bustling public environment.",
+        "An industrial tableau with cranes, fencing, and a prominent watchtower, set against bustling activity.",
+        "A bridge, likely the Golden Gate, crossing a body of water, with distant figures and urban hints.",
+        "A tourist-oriented mining town scene with restored period architecture and people mingling.",
+        "A crowded bar with lively patrons and expressive faces in close proximity.",
+        "A prospecting scene along a river, with figures panning for gold amid rough natural terrain.",
+        "A small group traverses rough ground among mining camp relics and markers.",
+        "Figures gather or labor in a wide agricultural valley, distant farming activity visible.",
+        "Freight cars snake across a barren desert or steppe landscape, suggesting vast distance and trade routes.",
+        "A tall vertical composition with scaffolding and workers in the foreground, a city skyline and arched bridge in the background, merging industry and urbanity."
+      ],
+      "entities": {
+        "people": [
+          "Manuel [?]"
+        ],
+        "places": [
+          "Signal Hill",
+          "San Francisco",
+          "Columbia",
+          "Arizona River",
+          "New York",
+          "Golden Gate Bridge",
+          "California",
+          "U.S.A.",
+          "South West"
+        ],
+        "events": [],
+        "dates": [
+          "1965"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle artistically documents industrial and historical scenes of California and the American West in the mid-1960s, focusing on oil fields, mining communities, cityscapes, and transient workers. Accompanying notes and sketches evoke both the technological expansion and the enduring mythos of America's frontier regions.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T21:07:20.171157+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "CHICAGO",
+      "handwritten_text": "Chicago The city is puzzled and sat pleased and yet bitter and appalled. But it keeps on growing and developing trust against the hard pressures of America. Felix Topolski. La Salle Street Chicago.",
+      "sketch_descriptions": [
+        "A bust portrait sketch of a person wearing a wide-brimmed hat, looking downward.",
+        "A dense cityscape sketch featuring mid- to high-rise buildings and a busy street scene with many small figures and architectural details.",
+        "A street scene with four women seen from behind wearing coats and hats, walking together toward a street corner where a building is identified with a sign 'COURSE SPOOR'.",
+        "Groups of people on a street, including a woman and a man wearing a black hat and dark coat, and other figures sketched in loose outline style with a partially visible street interior or outdoor market.",
+        "A man wearing a cap in the foreground, with additional figures and architectural elements sketched in the background."
+      ],
+      "entities": {
+        "people": [
+          "Felix Topolski"
+        ],
+        "places": [
+          "Chicago",
+          "La Salle Street",
+          "COURSE SPOOR (uncertain spelling)"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "The page captures various sketch scenes and street views of Chicago, including crowd scenes and notable street life, accompanied by Felix Topolski's handwritten reflection on the city's complex character and growth.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T21:56:25.700780+00:00"
+    }
+  ]
+}

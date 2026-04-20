@@ -1,0 +1,93 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548475",
+    "title": "Topolski's Chronicle, V.2 No.9, 1954",
+    "date": "1954",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6ykm9x2",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6ykm9x2",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI's CHRONICLE No. 9 (21) Vol. II 1954\nof a voyage round the world (h)\nWAR in INDO-CHINA",
+      "handwritten_text": "Quelques prisonniers Viet[s]\njuste \u00e0 la limite d'un camp o\u00f9 ils ont \u00e9t\u00e9 captur\u00e9s\nL Poste",
+      "sketch_descriptions": [
+        "A group of barefoot figures with large conical hats, standing closely together; several are children, their expressions somber.",
+        "Two figures, one adult and one child, are depicted behind a barrier or fence in the upper right corner.",
+        "A sprawling encampment scene with tents and a tall wooden watchtower in a rural landscape; a few small human figures are seen near the encampment, including one sitting at the lower right and another standing with hands on hips in the lower left.",
+        "Sketchy vegetation in the foreground of the encampment scene adds to the sense of a rural or jungle setting."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Indo-China"
+        ],
+        "events": [
+          "War in Indo-China"
+        ],
+        "dates": [
+          "1954"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle visually documents scenes from the Indochina War in 1954, showing prisoners and military encampments, with handwritten notes giving context to the depicted scenes.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:12:16.339878+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "",
+      "handwritten_text": "Laing holding court... the chamber which, like the entrance, is a sort of bottleneck, a corridor you get stuck in and have to wait. SHOUT. The room in which the staff are on tap, while the rest, the transient, drifters, drop in drop out, pass through, hang about, or just fill in the time. FELIX TOPOLSKI",
+      "sketch_descriptions": [
+        "Upper left: A large, loose crowd of standing and seated figures in varied outfits, possibly a gathering or waiting area; one person sits on the ground.",
+        "Upper right: A group of people in animated conversation or debate under ceiling fans, with a figure seeming to 'hold court' or dominate the scene.",
+        "Lower left: People gathered in a sunlit alley or outdoor corridor beside a building labeled 'GOSSET'; some figures are sitting, others standing and chatting.",
+        "Lower right: Clustered figures with expressive faces, appearing to listen, possibly to a speaker; there is a sense of collective attention focused on one direction."
+      ],
+      "entities": {
+        "people": [
+          "Laing",
+          "Felix Topolski"
+        ],
+        "places": [
+          "Gosset"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page features expressive sketches of communal life and social scenes, highlighting individuals gathered in conversation and public spaces. Notable is the mention of 'Laing holding court,' suggesting a focus on a notable figure engaging with an audience.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:12:21.815469+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "177 Prisoners 178 A French Outpost 179 A French Soldier and His \"Poponne\" (Camp-wife) at an Outpost 180-182 Military Brothel in Saigon 183 Advance Post: Cambodian and Senegalese Soldiers 184 French Officers\n\n\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 2s 6d. A COPY.\nYEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE: B. 3s. ($9 or equivalent); SHORTER PERIODS PRO RATA. AIR MAIL BY QUOTATION.\nSUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME\nLithographed in Great Britain by C.A.P.S. Ltd., Dean Street, London, W.1., and published from Bridge Arch 158, Sutton Walk, South Bank, London, S.E.1. Copyright reserved",
+      "handwritten_text": "Tirailleur [?] Indochinois signal\u00e9 par une visite d\u2019\u00e9chafaudage et une tour de garde. Re\u00e7u de Ba Hoa, Cochinchine 25 km NO-Le Sa\u00efgon. Peint sur un scaffold.",
+      "sketch_descriptions": [
+        "A loosely clustered group of figures, some wearing conical hats and one in a military helmet, are depicted standing or walking among tall, thin trees.",
+        "In the center, a figure in a large hat and another in partial profile appear to engage in conversation or interaction.",
+        "Several figures are scattered within a landscape, possibly a rural or military setting, with some crouching and others standing near reeds or water.",
+        "In the lower-left, two portrait sketches: one of a man in military headgear and another of a figure in a wide-brimmed hat appear alongside handwritten notes."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Saigon",
+          "Ba Hoa",
+          "Cochinchine"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page from Topolski's Chronicle features expressive sketches and brief notes depicting French colonial military scenes in Indochina, including soldiers, local individuals, and candid moments in and around Saigon and Ba Hoa. The accompanying text identifies subjects such as prisoners, French soldiers, military brothels, and multinational troops.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:12:49.236483+00:00"
+    }
+  ]
+}

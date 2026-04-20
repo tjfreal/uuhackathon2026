@@ -1,0 +1,93 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548484",
+    "title": "Topolski's Chronicle, V.2 No.18, 1954",
+    "date": "1954",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6d1vpdz",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6d1vpdz",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE No. 18(30) Vol. II 1954\nLEFT WING\nTHE LABOUR PARTY of Britain\n266",
+      "handwritten_text": "",
+      "sketch_descriptions": [
+        "Expressive, semi-abstract portrait of an elderly man with a large face, wearing a suit and distinctive red tie; drawn with heavy line shading and red coloration to the face."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Britain"
+        ],
+        "events": [],
+        "dates": [
+          "1954"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle features an artistic portrait likely representing a member or symbol of the British Labour Party's left wing, dated 1954. It blends expressive sketching with minimal editorial text identifying the political context.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:38:46.266617+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "THE LABOUR PARTY: RANK & FILE",
+      "handwritten_text": "Transport Workers\nclerical workers\nThe Labour Party Annual Conference\nAnnual Conference\ndockers, dockers\nlong fight, dockers out on strike, unemployed for 4 months\nsocialists, Service, Party worker\nThe Fabians",
+      "sketch_descriptions": [
+        "Loose crowd of figures' faces and upper bodies, some with intense expressions, clustered tightly together",
+        "Two men in conversation, labelled as 'Transport Workers'",
+        "Two men facing each other in side profile, labelled as 'clerical workers'",
+        "Large mass of people, their faces overlapped in bold lines, with one section labelled 'The Labour Party Annual Conference'",
+        "A single seated man, head bowed, labelled 'Labour, dockers, dockers'",
+        "A busy crowd scene of men, some shouting, some gesturing energetically, with a label about 'long fight, dockers out on strike, unemployed for 4 months'",
+        "A group of men with glasses in deep conversation, labelled 'socialists, Service, Party worker'",
+        "A solitary, older man with glasses, labelled 'long fight, dockers out on strike, unemployed for 4 months'",
+        "Figures beneath a large sign reading 'FOR', adjacent to a figure with an upturned collar, labelled 'Annual Conference'",
+        "Three smaller figures in lively discussion, labelled 'The Fabians'"
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [
+          "The Labour Party Annual Conference"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page comprises a montage of expressive sketches by Felix Topolski capturing attendees and moments from a Labour Party Annual Conference, focusing on the diversity of party members including transport workers, dockers, clerical workers, and Fabian socialists.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:39:13.570220+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 2s 6d. A COPY\nYEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE \u00a33 13s. 9d (or equivalent); SHORTER PERIODS PRO RATA, AIR MAIL BY QUOTATION.\nSUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME\nPrinted in Great Britain by C. Belshazzar, 146 Sutton Walk, S.E.1. from blocks made by Austin Miles Ltd and published from Bridge Arch 159, Sutton Walk, South Bank, London, S.E.1 Copyright reserved.",
+      "handwritten_text": "Deakin\nHugo Guinness[?] Clem Attlee jim Griffiths",
+      "sketch_descriptions": [
+        "Expressive portrait sketch of a man wearing sunglasses, labeled 'Deakin', drawn in loose lines occupying the upper half of the page.",
+        "Three head-and-shoulders sketches of men side by side, with names written below: 'Hugo Guinness[?]', 'Clem Attlee', and 'jim Griffiths'.",
+        "Crowd scene with a woman in profile wearing sunglasses and a headscarf, labeled 'RIGHT WING', with loosely sketched buildings and smaller figures in the background."
+      ],
+      "entities": {
+        "people": [
+          "Deakin",
+          "Hugo Guinness",
+          "Clem Attlee",
+          "Jim Griffiths"
+        ],
+        "places": [
+          "South Bank, London"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page features Felix Topolski's expressive portraits and sketches of notable figures such as Deakin, Clem Attlee, Jim Griffiths, and a labeled 'Right Wing' crowd scene, capturing political or social figures and milieus of the mid-20th century. Editorial and subscription information for Topolski's Chronicle appears at the bottom.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:39:42.894642+00:00"
+    }
+  ]
+}

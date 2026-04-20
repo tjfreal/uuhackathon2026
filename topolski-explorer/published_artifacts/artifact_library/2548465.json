@@ -1,0 +1,81 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548465",
+    "title": "Topolski's Chronicle, V.1 No.12, 1953",
+    "date": "1953",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6ad4szc",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6ad4szc",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI's CHRONICLE No. 12 Vol. I 1953\nUNIVERSITY OF UTAH LIBRARIES\n95",
+      "handwritten_text": "",
+      "sketch_descriptions": [
+        "Expressive, energetic ink sketch of a person's head and upper body positioned in profile, mouth open in what appears to be a scream, moan, or shout, with loosely rendered, swirling lines suggesting a dynamic emotional state."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "UNIVERSITY OF UTAH LIBRARIES"
+        ],
+        "events": [],
+        "dates": [
+          "1953"
+        ]
+      },
+      "page_summary": "This page features a dramatic and emotive sketch of a person in apparent distress or intense emotion, accompanied by minimal typeset publishing information for Topolski's Chronicle issue from 1953.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:03:32.378456+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "",
+      "handwritten_text": "",
+      "sketch_descriptions": [
+        "Expressive pen-and-ink style drawing of a seated adult figure with a baby posed on their lap, the baby depicted nude and looking outward, while the adult figure's face is partially obscured with heavier shading, arms positioned behind the baby as if supporting or holding it."
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page features a dynamic sketch showing an adult, possibly a parent, holding a baby. The drawing conveys intimacy and physical connection between the two figures with energetic linework and overlapping forms.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:03:58.569671+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 2s. 6d. A COPY. YEARLY SUBSCRIPTION RATES TO ANY PART OF THE WORLD ARE \u00a33. 5s. 0d. (24 copies). THIS INCLUDES FOLDER AND INDEX. NOT PROVIDED FOR SHORTER, PRO RATA PERIODS, BUT AVAILABLE AT U.K. AIR MAIL BY QUOTATION. SUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME Printed in Great Britain by R.C. Bedaracraft of Tunbridge Wells from blocks made by the Dons Engraving Co., Ltd and published from 14 Hanover Terrace, London N.W.1. Copyright reserved.",
+      "handwritten_text": "TRUMAN'S ALES and STOUT 1966 Felix Topolski",
+      "sketch_descriptions": [
+        "Expressive, loosely rendered group of four figures\u2014one with a beard and hat, another with a flat cap, a third wearing a crown-like headpiece, and a fourth more childlike figure\u2014clustered at a table or gathering space.",
+        "Background architectural elements suggest an indoor setting, with a pub sign reading 'TRUMAN'S ALES and STOUT' and two wall lamps.",
+        "A collection of abstracted forms and faces, potentially depicting additional bystanders or activity surrounding the main group."
+      ],
+      "entities": {
+        "people": [
+          "Felix Topolski"
+        ],
+        "places": [
+          "TRUMAN'S ALES and STOUT"
+        ],
+        "events": [],
+        "dates": [
+          "1966"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle captures a lively scene in a pub or social gathering place in 1966, rendered in expressive sketches and accompanied by period-specific pub signage. The illustration highlights a group of distinctive characters engaged in animated interaction, contextualized by handwritten and printed notes.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:04:05.936007+00:00"
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+{
+  "schema_version": "2026-04-19-region-crop-manifest-v1",
+  "source_layout_manifest": "published_artifacts/layout_manifest.json",
+  "output_root": "omitted_from_public_artifacts",
+  "provisional_experimental": true,
+  "notes": [
+    "These region crops are generated from provisional layout bounds.",
+    "Crop geometry is experimental and should not be treated as measured page segmentation.",
+    "Use this output to test region-aware extraction strategies, not to claim precise boundaries."
+  ],
+  "corpus_summary": {
+    "item_count": 2,
+    "page_count": 5,
+    "region_count": 12,
+    "crop_count": 12
+  },
+  "items": {
+    "2548454": {
+      "page_count": 4,
+      "pages": [
+        {
+          "page_number": 1,
+          "layout_confidence": "provisional",
+          "notes": [
+            "Bounds are inferred placeholders, not measured geometry.",
+            "This manifest exists to make region-aware v2 concrete, not to fake precision."
+          ],
+          "regions": [
+            {
+              "region_index": 1,
+              "region_type": "typeset_block",
+              "provisional_experimental": true,
+              "crop_path": "page_0001_region_01_typeset_block_PROVISIONAL.jpg",
+              "source_image_size": {
+                "width": 1022,
+                "height": 1568
+              },
+              "pixel_bounds": {
+                "left": 102,
+                "top": 188,
+                "right": 920,
+                "bottom": 909,
+                "pixel_width": 818,
+                "pixel_height": 721
+              },
+              "provisional_bounds": {
+                "basis": "layout_manifest_fractional_guess",
+                "provisional": true,
+                "mode": "page_fraction_guess",
+                "x": 0.1,
+                "y": 0.12,
+                "w": 0.8,
+                "h": 0.46
+              },
+              "evidence": {
+                "source": "typeset_text",
+                "word_count": 26
+              }
+            },
+            {
+              "region_index": 2,
+              "region_type": "sidebar",
+              "provisional_experimental": true,
+              "crop_path": "page_0001_region_02_sidebar_PROVISIONAL.jpg",
+              "source_image_size": {
+                "width": 1022,
+                "height": 1568
+              },
+              "pixel_bounds": {
+                "left": 797,
+                "top": 157,
+                "right": 971,
+                "bottom": 1254,
+                "pixel_width": 174,
+                "pixel_height": 1097
+              },
+              "provisional_bounds": {
+                "basis": "layout_manifest_fractional_guess",
+                "provisional": true,
+                "mode": "page_fraction_guess",
+                "x": 0.78,
+                "y": 0.1,
+                "w": 0.17,
+                "h": 0.7
+              },
+              "evidence": {
+                "source": "handwritten_text",
+                "word_count": 2
+              }
+            },
+            {
+              "region_index": 3,
+              "region_type": "sketch_region",
+              "provisional_experimental": true,
+              "crop_path": "page_0001_region_03_sketch_region_PROVISIONAL.jpg",
+              "source_image_size": {
+                "width": 1022,
+                "height": 1568
+              },
+              "pixel_bounds": {
+                "left": 82,
+                "top": 282,
+                "right": 940,
+                "bottom": 1192,
+                "pixel_width": 858,
+                "pixel_height": 910
+              },
+              "provisional_bounds": {
+                "basis": "layout_manifest_fractional_guess",
+                "provisional": true,
+                "mode": "page_fraction_guess",
+                "x": 0.08,
+                "y": 0.18,
+                "w": 0.84,
+                "h": 0.58
+              },
+              "evidence": {
+                "source": "sketch_descriptions",
+                "sketch_count": 8
+              }
+            }
+          ],
+          "status": "cropped"
+        },
+        {
+          "page_number": 2,
+          "layout_confidence": "provisional",
+          "notes": [
+            "Bounds are inferred placeholders, not measured geometry.",
+            "This manifest exists to make region-aware v2 concrete, not to fake precision."
+          ],
+          "regions": [
+            {
+              "region_index": 1,
+              "region_type": "index_or_list",
+              "provisional_experimental": true,
+              "crop_path": "page_0002_region_01_index_or_list_PROVISIONAL.jpg",
+              "source_image_size": {
+                "width": 1020,
+                "height": 1568
+              },
+              "pixel_bounds": {
+                "left": 82,
+                "top": 157,
+                "right": 938,
+                "bottom": 1348,
+                "pixel_width": 856,
+                "pixel_height": 1191
+              },
+              "provisional_bounds": {
+                "basis": "layout_manifest_fractional_guess",
+                "provisional": true,
+                "mode": "page_fraction_guess",
+                "x": 0.08,
+                "y": 0.1,
+                "w": 0.84,
+                "h": 0.76
+              },
+              "evidence": {
+                "source": "typeset_text",
+                "reason": "index/list keywords"
+              }
+            },
+            {
+              "region_index": 2,
+              "region_type": "typeset_block",
+              "provisional_experimental": true,
+              "crop_path": "page_0002_region_02_typeset_block_PROVISIONAL.jpg",
+              "source_image_size": {
+                "width": 1020,
+                "height": 1568
+              },
+              "pixel_bounds": {
+                "left": 102,
+                "top": 188,
+                "right": 918,
+                "bottom": 909,
+                "pixel_width": 816,
+                "pixel_height": 721
+              },
+              "provisional_bounds": {
+                "basis": "layout_manifest_fractional_guess",
+                "provisional": true,
+                "mode": "page_fraction_guess",
+                "x": 0.1,
+                "y": 0.12,
+                "w": 0.8,
+                "h": 0.46
+              },
+              "evidence": {
+                "source": "typeset_text",
+                "word_count": 378
+              }
+            },
+            {
+              "region_index": 3,
+              "region_type": "sketch_region",
+              "provisional_experimental": true,
+              "crop_path": "page_0002_region_03_sketch_region_PROVISIONAL.jpg",
+              "source_image_size": {
+                "width": 1020,
+                "height": 1568
+              },
+              "pixel_bounds": {
+                "left": 82,
+                "top": 282,
+                "right": 938,
+                "bottom": 1192,
+                "pixel_width": 856,
+                "pixel_height": 910
+              },
+              "provisional_bounds": {
+                "basis": "layout_manifest_fractional_guess",
+                "provisional": true,
+                "mode": "page_fraction_guess",
+                "x": 0.08,
+                "y": 0.18,
+                "w": 0.84,
+                "h": 0.58
+              },
+              "evidence": {
+                "source": "sketch_descriptions",
+                "sketch_count": 3
+              }
+            }
+          ],
+          "status": "cropped"
+        },
+        {
+          "page_number": 3,
+          "layout_confidence": "provisional",
+          "notes": [
+            "Bounds are inferred placeholders, not measured geometry.",
+            "This manifest exists to make region-aware v2 concrete, not to fake precision."
+          ],
+          "regions": [
+            {
+              "region_index": 1,
+              "region_type": "index_or_list",
+              "provisional_experimental": true,
+              "crop_path": "page_0003_region_01_index_or_list_PROVISIONAL.jpg",
+              "source_image_size": {
+                "width": 1014,
+                "height": 1568
+              },
+              "pixel_bounds": {
+                "left": 81,
+                "top": 157,
+                "right": 933,
+                "bottom": 1348,
+                "pixel_width": 852,
+                "pixel_height": 1191
+              },
+              "provisional_bounds": {
+                "basis": "layout_manifest_fractional_guess",
+                "provisional": true,
+                "mode": "page_fraction_guess",
+                "x": 0.08,
+                "y": 0.1,
+                "w": 0.84,
+                "h": 0.76
+              },
+              "evidence": {
+                "source": "typeset_text",
+                "reason": "index/list keywords"
+              }
+            },
+            {
+              "region_index": 2,
+              "region_type": "typeset_block",
+              "provisional_experimental": true,
+              "crop_path": "page_0003_region_02_typeset_block_PROVISIONAL.jpg",
+              "source_image_size": {
+                "width": 1014,
+                "height": 1568
+              },
+              "pixel_bounds": {
+                "left": 101,
+                "top": 188,
+                "right": 913,
+                "bottom": 909,
+                "pixel_width": 812,
+                "pixel_height": 721
+              },
+              "provisional_bounds": {
+                "basis": "layout_manifest_fractional_guess",
+                "provisional": true,
+                "mode": "page_fraction_guess",
+                "x": 0.1,
+                "y": 0.12,
+                "w": 0.8,
+                "h": 0.46
+              },
+              "evidence": {
+                "source": "typeset_text",
+                "word_count": 470
+              }
+            },
+            {
+              "region_index": 3,
+              "region_type": "sidebar",
+              "provisional_experimental": true,
+              "crop_path": "page_0003_region_03_sidebar_PROVISIONAL.jpg",
+              "source_image_size": {
+                "width": 1014,
+                "height": 1568
+              },
+              "pixel_bounds": {
+                "left": 791,
+                "top": 157,
+                "right": 963,
+                "bottom": 1254,
+                "pixel_width": 172,
+                "pixel_height": 1097
+              },
+              "provisional_bounds": {
+                "basis": "layout_manifest_fractional_guess",
+                "provisional": true,
+                "mode": "page_fraction_guess",
+                "x": 0.78,
+                "y": 0.1,
+                "w": 0.17,
+                "h": 0.7
+              },
+              "evidence": {
+                "source": "handwritten_text",
+                "word_count": 4
+              }
+            }
+          ],
+          "status": "cropped"
+        },
+        {
+          "page_number": 4,
+          "layout_confidence": "provisional",
+          "notes": [
+            "Bounds are inferred placeholders, not measured geometry.",
+            "This manifest exists to make region-aware v2 concrete, not to fake precision."
+          ],
+          "regions": [
+            {
+              "region_index": 1,
+              "region_type": "index_or_list",
+              "provisional_experimental": true,
+              "crop_path": "page_0004_region_01_index_or_list_PROVISIONAL.jpg",
+              "source_image_size": {
+                "width": 1010,
+                "height": 1568
+              },
+              "pixel_bounds": {
+                "left": 81,
+                "top": 157,
+                "right": 929,
+                "bottom": 1348,
+                "pixel_width": 848,
+                "pixel_height": 1191
+              },
+              "provisional_bounds": {
+                "basis": "layout_manifest_fractional_guess",
+                "provisional": true,
+                "mode": "page_fraction_guess",
+                "x": 0.08,
+                "y": 0.1,
+                "w": 0.84,
+                "h": 0.76
+              },
+              "evidence": {
+                "source": "typeset_text",
+                "reason": "index/list keywords"
+              }
+            },
+            {
+              "region_index": 2,
+              "region_type": "typeset_block",
+              "provisional_experimental": true,
+              "crop_path": "page_0004_region_02_typeset_block_PROVISIONAL.jpg",
+              "source_image_size": {
+                "width": 1010,
+                "height": 1568
+              },
+              "pixel_bounds": {
+                "left": 101,
+                "top": 188,
+                "right": 909,
+                "bottom": 909,
+                "pixel_width": 808,
+                "pixel_height": 721
+              },
+              "provisional_bounds": {
+                "basis": "layout_manifest_fractional_guess",
+                "provisional": true,
+                "mode": "page_fraction_guess",
+                "x": 0.1,
+                "y": 0.12,
+                "w": 0.8,
+                "h": 0.46
+              },
+              "evidence": {
+                "source": "typeset_text",
+                "word_count": 956
+              }
+            }
+          ],
+          "status": "cropped"
+        }
+      ]
+    },
+    "2548455": {
+      "page_count": 1,
+      "pages": [
+        {
+          "page_number": 1,
+          "layout_confidence": "provisional",
+          "notes": [
+            "Bounds are inferred placeholders, not measured geometry.",
+            "This manifest exists to make region-aware v2 concrete, not to fake precision."
+          ],
+          "regions": [
+            {
+              "region_index": 1,
+              "region_type": "typeset_block",
+              "provisional_experimental": true,
+              "crop_path": "page_0001_region_01_typeset_block_PROVISIONAL.jpg",
+              "source_image_size": {
+                "width": 1019,
+                "height": 1568
+              },
+              "pixel_bounds": {
+                "left": 102,
+                "top": 188,
+                "right": 917,
+                "bottom": 909,
+                "pixel_width": 815,
+                "pixel_height": 721
+              },
+              "provisional_bounds": {
+                "basis": "layout_manifest_fractional_guess",
+                "provisional": true,
+                "mode": "page_fraction_guess",
+                "x": 0.1,
+                "y": 0.12,
+                "w": 0.8,
+                "h": 0.46
+              },
+              "evidence": {
+                "source": "typeset_text",
+                "word_count": 9
+              }
+            }
+          ],
+          "status": "cropped"
+        }
+      ]
+    }
+  }
+}

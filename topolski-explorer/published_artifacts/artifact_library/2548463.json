@@ -1,0 +1,89 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548463",
+    "title": "Topolski's Chronicle, V.1 No.9, 1953",
+    "date": "1953",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6xrktt9",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6xrktt9",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI's CHRONICLE No. 9 Vol. 1 1953\nUNIVERSITY OF UTAH LIBRARIES\nLondon Freaks, Misfits, Grotesques, Eccentrics etc.",
+      "handwritten_text": "The Old Sportsman (yellow pullover & riding breeches)",
+      "sketch_descriptions": [
+        "Expressive sketch of a stout, elderly man with a bald head and heavy facial features, wearing loose clothing and posed confidently in the foreground.",
+        "Background sketch of two figures engaged in conversation or moving through an interior scene, suggesting a public or social setting."
+      ],
+      "entities": {
+        "people": [
+          "The Old Sportsman"
+        ],
+        "places": [
+          "London"
+        ],
+        "events": [],
+        "dates": [
+          "1953"
+        ]
+      },
+      "page_summary": "This page features a prominent sketch of an elderly man labeled as 'The Old Sportsman' dressed in a yellow pullover and riding breeches, set against a faintly rendered social scene. It is part of a series documenting 'London Freaks, Misfits, Grotesques, Eccentrics etc.' from 1953.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T18:04:23.143968+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "",
+      "handwritten_text": "BUSKERS impression\nLeicester Square\nIn Kentish Road, Felix Topolski\nM. Father",
+      "sketch_descriptions": [
+        "A group portrait of six people, mostly men, closely gathered and interacting as street performers or buskers.",
+        "A lone figure standing by a body of water surrounded by numerous birds, with several visible flying or swimming.",
+        "A bearded man in elaborate robes and a crown of foliage, sitting and holding a staff, labeled 'M. Father'.",
+        "A busy outdoor scene in Leicester Square, with three figures including a man on a bench and two people walking away in the background.",
+        "A street scene set on Kentish Road, with two prominent figures: an older man seated and slightly hunched in the foreground, and another figure moving along the sidewalk among storefronts."
+      ],
+      "entities": {
+        "people": [
+          "Felix Topolski",
+          "M. Father"
+        ],
+        "places": [
+          "Leicester Square",
+          "Kentish Road"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page from Topolski's Chronicle features expressive sketches of urban life, depicting street performers, city squares, and distinctive local personalities in recognizable London locations such as Leicester Square and Kentish Road.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T18:04:48.581851+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 2s. 6d. A COPY. YEARLY SUBSCRIPTION RATES TO ANY PART OF THE WORLD ARE \u00a33. 3s. (\u00a39 or equivalent). THIS INCLUDES FOLDER AND INDEX, NOT PROVIDED FOR SHORTER, PRO RATA PERIODS, BUT AVAILABLE AS IS. AIR MAIL BY QUOTATION. SUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME. Printed in Great Britain by K & C. Bealancraft of Tunbridge Wells from blocks made by the Dome Engraving Co., Ltd and published from 14 Hanover Terrace, London N.W.1. Copyright reserved.",
+      "handwritten_text": "Augustine Zako, Attic Philosopher Tel. Us. Topolski",
+      "sketch_descriptions": [
+        "A loose, expressive charcoal or ink sketch of a bearded man in a turban or wrapped head covering, suggestive of an ancient philosopher or sage, standing with one hand on his hip and the other possibly holding a cup or scroll.",
+        "Faint background figures rendered with quick, gestural lines, perhaps representing onlookers or additional philosophers."
+      ],
+      "entities": {
+        "people": [
+          "Augustine Zako"
+        ],
+        "places": [],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page from Topolski's Chronicle features an evocative sketch of a figure labeled 'Augustine Zako, Attic Philosopher,' accompanied by faint background figures, with subscription and publication information printed below.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T18:05:15.705306+00:00"
+    }
+  ]
+}

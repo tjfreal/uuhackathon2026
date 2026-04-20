@@ -1,0 +1,37 @@
+name: Ladder
+layer: communication
+status: in-progress
+one_line: Generates audience-aware explainers for the note-system ecosystem.
+problem: A system that only makes sense to its builder stays trapped at the level of private tooling and cannot easily support teaching, collaboration, or institutional translation.
+inputs:
+  - structured component descriptions
+  - audience profiles
+  - ecosystem framing
+  - concrete examples from the actual system
+outputs:
+  - audience-specific explainers
+  - component cards
+  - overview documents for talks and workshops
+dependencies:
+  - YAML source-of-truth files
+  - markdown templates
+  - generator script
+example: The same Surface component can be explained to library colleagues as a way of bringing back useful old notes, and to collaborators as a retrieval and explainability problem.
+audience_value:
+  all_staff: It gives you a readable way into the system without assuming you already speak its technical language.
+  student: It shows that complex systems can still offer an accessible first rung.
+  collaborator: It turns the proposal set into something inspectable enough to critique or extend.
+  self: It is the pressure test for whether the system still has a human explanation instead of only an internal logic.
+next_rung:
+  all_staff: Compare two versions of the same component card and notice how the entry point changes with the audience.
+  student: Use a component card as a starting point for asking which part of the system you would actually want to try first.
+  collaborator: Read the YAML and templates directly to see how the communication layer is encoded.
+  self: Keep using Ladder to expose where the system story is still generic, overbuilt, or disconnected from its lineage.
+limitations:
+  - It is in progress and only covers a first slice of the ecosystem so far
+  - Good outputs still depend on honest, well-maintained source data
+  - Templates can enforce structure but not automatically guarantee good judgment
+relationships:
+  - Explains note-system and the proposal-layer tools.
+  - Feeds Decksmith with structured content that can become presentation material.
+  - Preserves the people-first lineage behind the system instead of leaving it implicit.

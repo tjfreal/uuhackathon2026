@@ -1,0 +1,96 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548457",
+    "title": "Topolski's Chronicle, V.1 No.3, 1953",
+    "date": "1953",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6e7kkd8",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6e7kkd8",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI's CHRONICLE No. 3 Vol. 1 1953\nSOHO FAIR",
+      "handwritten_text": "Coastal London [?]",
+      "sketch_descriptions": [
+        "A broad landscape sketch showing an industrial scene with cranes, scaffolding, and a tower on the left, a river or road running through the middle, seagulls flocking in the sky, and a large dome-shaped building to the right, resembling St. Paul's Cathedral.",
+        "A crowded interior scene with loosely drawn figures, some with detailed facial profiles, including a seated man in the foreground; assorted heads and faces are clustered together in a lively, almost chaotic arrangement, suggesting the bustle of a fair or public gathering."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Soho",
+          "London",
+          "St. Paul's Cathedral"
+        ],
+        "events": [
+          "Soho Fair"
+        ],
+        "dates": [
+          "1953"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle captures scenes and impressions from the Soho Fair in London, 1953, including a sketch of an industrial riverside landscape and a busy urban crowd, likely representing fairgoers or local residents.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T17:59:17.167381+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "",
+      "handwritten_text": "South London\nMarble Arch\n20\nBarclay Lager\nTroc. Laces[?]\n19",
+      "sketch_descriptions": [
+        "A busy street scene in South London with several women in dresses seen from behind, crowds, traffic lights, billboard ads including one for Barclay Lager, and distant city architecture.",
+        "A crowded urban gathering possibly near Marble Arch, with figures in hats and coats, including a newspaper seller and clusters of people in motion.",
+        "An interior view of a London Underground carriage with passengers seated and standing, a sign reading 'Troc. Laces[?]', and interactions among riders.",
+        "A group of women, some seated and some standing, engaged in conversation inside what appears to be a waiting area or compartment."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "South London",
+          "Marble Arch",
+          "London Underground"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page captures expressive sketches of everyday city life in South London and Marble Arch, including lively street scenes, crowds, and moments inside public transport.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T17:59:22.208917+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "\"...Enormous, enormous... Paris is mediocre compared with these squares, these crossings, these spacious streets... there is a bustling crowd, a surging traffic... which our busiest and most frequented boulevard cannot parallel. Everything is on a large scale here... actions and time are turned to the utmost possible account; the human being produces and enjoys twice as much as among us...\"\n\nNOTES ON ENGLAND by Hippolyte Adolphe Taine (London 1872)\n\n\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 2s. 6d. A COPY.\nYEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE \u00a33.3s. ( $9 or equivalent); SHORTER PERIODS PRO RATA. AIR MAIL BY QUOTATION.\nPrinted in Great Britain by C. Bednarczyk of Tunbridge Wells from blocks made by the Dome Engraving Co., Ltd and published from 14 Hanover Terrace, London N.W.1, Tel. AMBassador 6059.\nCopyright reserved.",
+      "handwritten_text": "Feliks Topolski Piccadilly",
+      "sketch_descriptions": [
+        "Loose expressive sketch of a crowded urban street scene featuring two men in hats conversing in front of a sign reading '8 Mason', a woman standing with arms folded, and parts of a double-decker bus with a sign labeled '88 Victoria', including a seated figure inside."
+      ],
+      "entities": {
+        "people": [
+          "Feliks Topolski",
+          "Hippolyte Adolphe Taine"
+        ],
+        "places": [
+          "Piccadilly",
+          "Paris",
+          "London",
+          "Victoria",
+          "Hanover Terrace"
+        ],
+        "events": [],
+        "dates": [
+          "1872"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle captures a vibrant street scene in Piccadilly, London, highlighted by a busy intersection with buses and pedestrians. It is anchored by a historical reflection on London\u2019s energetic pace compared to Paris, quoted from Hippolyte Taine.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T17:59:49.328064+00:00"
+    }
+  ]
+}

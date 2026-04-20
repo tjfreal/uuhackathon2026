@@ -1,0 +1,45 @@
+# {{ ecosystem.system_name }} for {{ audience.name }}
+
+{{ ecosystem.what_it_is }}
+
+{{ ecosystem.lineage }}
+
+{{ ecosystem.meta_note }}
+
+## Why it matters for this audience
+
+{{ audience.frame }}.
+
+The goal here is not to hand you a full technical architecture. It is to give you a reachable next rung into the system from where you actually are starting.
+
+## The system in brief
+
+- {{ ecosystem.why_it_matters }}
+- {{ ecosystem.local_first_note }}
+- The work spans {{ layers_summary }}.
+
+## A few parts worth noticing
+
+{% for component in spotlight_components %}
+### {{ component.name }}
+
+{{ component.audience_value[audience.id] }}
+
+{{ component.example }}
+
+{% if component.status != "built" %}
+Status: {{ component.status | replace('-', ' ') }}.
+{% else %}
+Status: built and in active use.
+{% endif %}
+{% endfor %}
+
+## Honest limits
+
+{% for item in audience_limitations %}
+- {{ item }}
+{% endfor %}
+
+## Next rung
+
+{{ ecosystem.overview_next_rung[audience.id] }}

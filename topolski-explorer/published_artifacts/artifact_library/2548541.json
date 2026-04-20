@@ -1,0 +1,71 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548541",
+    "title": "Topolski's Chronicle, V.4 No.22, 1956",
+    "date": "1956",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6hf1z08",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6hf1z08",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE No. 22 (82) Vol. IV 1956\n... nothing affirmeth and therefore never lyeth ... Sir Philip Sidney (1580)\nU.S.A. TEENAGERS AND ELVIS rock 'n roll PRESLEY\n\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 50\u00a2 (3s.6d.) A COPY. YEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE $12.00 (\u00a34.4s. or equivalent); SHORTER PERIODS PRO RATA. AIR MAIL BY QUOTATION\nSUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME. Lithographed in U.S.A. by Jurist Co. Inc., 318 E. 32 St., New York City, N.Y. and published by TOPOLSKI'S Chronicle Ltd. from Press Works, 1 Bridge Arch East St., Blackfriars, London, E.C.4.",
+      "handwritten_text": "James Presley\nAT the Stage Door\nTopolski",
+      "sketch_descriptions": [
+        "A crowded chaotic scene sketched in rough pen lines featuring a group of teenagers with expressive faces, some singing or shouting, and a prominent figure playing a guitar labeled 'James Presley'.",
+        "On the right side, there is a sketch of a man in a military or police-style uniform holding a baton or stick, seemingly looking at the crowd.",
+        "In the upper left corner, a sketch of figures waving from the roof of a car is visible."
+      ],
+      "entities": {
+        "people": [
+          "Elvis Presley"
+        ],
+        "places": [
+          "U.S.A."
+        ],
+        "events": [
+          "U.S.A. Teenagers and Elvis Presley (rock'n'roll cultural moment)"
+        ],
+        "dates": [
+          "1956",
+          "1580"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle in 1956 illustrates the cultural phenomenon of U.S.A. teenagers and Elvis Presley, capturing a chaotic and energetic scene around the rock'n'roll star with a blend of handwritten notes and expressive sketches.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:18:23.314711+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "773\n774\n775\n776\n777\n778\n779",
+      "handwritten_text": "Pecket with his manager and agent",
+      "sketch_descriptions": [
+        "A large rough sketch of a man standing with legs apart and hands on his hips, looking directly forward, drawn with heavy dark lines on the right side of the page.",
+        "A sketch of a seated figure playing a guitar, surrounded by dark shading, located near the center of the page.",
+        "Two separate sketches of male heads and upper torso on the lower left, each with loose line work emphasizing facial features and expression.",
+        "A sketch of a small crowd viewed from the side, closely packed together, on the far left side of the page.",
+        "Two figures drawing close together in conversation with one facing backward, labeled as 'Pecket with his manager and agent' in handwritten text at the page bottom center.",
+        "A small sketch in the top right corner of a group of women in dresses accompanied by a man in a peaked cap, possibly a dance or social scene.",
+        "A sketch of five standing men and women, some playing guitars, located mid-left on the page."
+      ],
+      "entities": {
+        "people": [
+          "Pecket"
+        ],
+        "places": [],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page features multiple expressive sketches focusing on a male figure named Pecket, his manager and agent, along with various musicians and social scenes.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:18:49.529902+00:00"
+    }
+  ]
+}

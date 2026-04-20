@@ -1,0 +1,23 @@
+id: collaborator
+name: Collaborators
+description: >
+  Technical peers or adjacent builders who want to understand the system shape,
+  seams, and design tradeoffs.
+vocabulary_level: technical
+omit:
+  - introductory AI caveats
+lead_with: architecture, relationships, and open design tensions
+frame: direct and rigorous — here is the system shape, what is built, and where a contribution would matter
+prior_knowledge:
+  - technical tooling
+  - adjacent PKM ideas
+  - willingness to inspect design tradeoffs
+first_questions:
+  - What currently exists and what is still proposal-level?
+  - How do the tools depend on each other?
+  - Where are the leverage points for critique or contribution?
+desired_outcome: ability to critique, contribute, or extend the system responsibly
+spotlight_components:
+  - note-system
+  - surface
+  - decksmith

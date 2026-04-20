@@ -1,0 +1,88 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548497",
+    "title": "Topolski's Chronicle, V.3 No.11, 1955",
+    "date": "1955",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s63n0xnt",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s63n0xnt",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE No. 11 (47) Vol. III of a voyage round the world (r) UNIVERSITY OF UTAH LIBRARIES JAPANESE THEATRE",
+      "handwritten_text": "NOH Drama\ncuriously [?] mask\nbe hidden real self/preson[?]\npower in silence\nModern Theatre",
+      "sketch_descriptions": [
+        "Expressive black ink sketch of a figure in elaborate traditional Japanese costume and headpiece, gesturing with an outstretched hand, likely a performer in Noh theatre.",
+        "Group sketch of several figures, some seated, appearing to be watching or discussing something, with one figure possibly in traditional attire, representing a scene from modern theatre."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "University of Utah"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page from Topolski's Chronicle visually contrasts traditional Japanese Noh drama with modern Japanese theatre, capturing both in loose, expressive sketches and accompanying handwritten notes.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:54:55.394011+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "",
+      "handwritten_text": "Kabuki drama audience Kabuki drama puppet theatre",
+      "sketch_descriptions": [
+        "A series of figures sitting in an audience, some looking forward, others in profile, sketched with expressive line work.",
+        "Another clustered group of people sitting closely together, likely within an indoor setting, appearing attentive or contemplative.",
+        "A performer in dramatic costume, suggested to be part of a kabuki play, stands with head bowed.",
+        "A sequence of three puppeteers or actors handling a puppet with exaggerated gestures; labeled 'puppet theatre.'",
+        "A single figure wearing a heavy robe, hunched over, possibly an audience member or performer.",
+        "A procession or group carrying a banner or lantern, accompanied by several figures in traditional Japanese garb.",
+        "Several figures in various poses next to or interacting with one another, some seated, one figure turned rearward.",
+        "A close-up of three people in conversation, one looking out at the viewer, with distinct expressions presented.",
+        "An intimate kabuki drama scene\u2014they appear engaged in emotional dialogue or performance, with one figure facing away.",
+        "A single figure viewed from the back, shoulders up, isolated from the rest."
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page captures lively sketches and handwritten notes depicting scenes from a kabuki drama, puppet theatre, and the audience observing these performances. The visual focus is on both the performers and spectators, rendered with expressive, animated line work.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:55:23.961450+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 2s. 6d. A COPY YEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE: \u00a33. 3s. 0d (or equivalent). SHORTER PERIODS PRO RATA. AIR MAIL BY QUOTATION. SUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME. Handprinted in Great Britain by Poets & Painters' Press 146 Sutton Walk, S.E.1. from blocks made by Austin Melford and published from Bridge Arch 158, Sutton Walk, South Bank, London, S.E.1. Copyright reserved.",
+      "handwritten_text": "Geisha practice for autumn dance festival 36 Shimbashi Kabukiza (Chuo-Ku, Aswa Hof)[?]",
+      "sketch_descriptions": [
+        "An expressive sketch in the top left showing a woman in traditional Japanese attire, likely a kimono, walking with a composed posture.",
+        "A fluid sketch in the top right of another woman in flowing robes, depicted mid-motion, possibly gesturing or dancing.",
+        "A detailed group scene occupying the bottom third of the page, showing several women in kimonos inside what appears to be a rehearsal or dressing room, with an audience or group of observers seated in the foreground, all engaged in conversation or observation."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Shimbashi Kabukiza",
+          "Chuo-Ku"
+        ],
+        "events": [
+          "autumn dance festival"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page captures scenes of women, likely geisha, preparing for or practicing for an autumn dance festival at Shimbashi Kabukiza in Chuo-Ku, rendered in Felix Topolski's expressive line work. The sketches convey both individual figures and a communal, behind-the-scenes rehearsal atmosphere.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:55:51.006331+00:00"
+    }
+  ]
+}

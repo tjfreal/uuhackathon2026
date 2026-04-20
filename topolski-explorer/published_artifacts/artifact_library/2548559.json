@@ -1,0 +1,156 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548559",
+    "title": "Topolski's Chronicle, V.5 No.10-11, 1957",
+    "date": "1957",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6a1dr77",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6a1dr77",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 5,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE No. 10-11 (94-95) Vol. V 1957\n\nTHE STATE VISIT TO PORTUGAL OF HER MAJESTY QUEEN ELIZABETH II AND HIS ROYAL HIGHNESS THE DUKE OF EDINBURGH (I)\nFrom the official programme: \"...H.M. and H.R.H. leave Queluz for Batalha Monastery, visiting NAZAR\u00c9 en route...\"",
+      "handwritten_text": "NAZAR\u00c9 pescadores na taverna PORTUGAL",
+      "sketch_descriptions": [
+        "A crowded interior scene sketch shows several figures seated or standing in a tavern-like room; the central figure is a woman in traditional clothing with a headscarf.",
+        "Several men, some wearing hats, are gathered in the background, one smoking a pipe.",
+        "A window, hanging light bulb, and wall-mounted shelf with a jug add to the rustic tavern atmosphere."
+      ],
+      "entities": {
+        "people": [
+          "Queen Elizabeth II",
+          "The Duke of Edinburgh"
+        ],
+        "places": [
+          "Portugal",
+          "Queluz",
+          "Batalha Monastery",
+          "Nazar\u00e9"
+        ],
+        "events": [
+          "The state visit to Portugal of Queen Elizabeth II and the Duke of Edinburgh"
+        ],
+        "dates": [
+          "1957"
+        ]
+      },
+      "page_summary": "This 1957 Topolski's Chronicle page depicts a sketch of fishermen in a tavern in Nazar\u00e9, Portugal, coinciding with the state visit of Queen Elizabeth II and the Duke of Edinburgh during their official tour.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:29:49.310684+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "In the wintry landscape the uncoy village dug in grimly against the bulging furious ocean to solid purpose; the fishing boats lining the beach were harsh and primeval; the men sturdy and panachious\u2014they once manned the world-exploring ships; the women blackly draped\u2014right for their sombre routine and ever-recurrent tragedies. Men who live by their manly virtues with their women serving them and, when the time comes, weeping for them. One seldom sees nowadays such unblotted purity and it is impossible not to feel humble before this harmony.\nBut next day awaited the Queen and the Duke.\nThe art-craft-tourism-wise organisers and the photo-tel\u00e9-cine operators and reporters from both hemispheres fluttered in the rain, shaping the \"local colour\" displays. The crews, self-consciously seated in their boats, yesterday tossed high on the surf, now placed neatly on the pavement of the market-square, were photographed by the dozen; a platform was set for the dancers and orchestra; several pairs costumed in a variety of Sunday full-dress strutted up and down; and strategically placed groups were arranged into tableaux-vivants, well spattered with nets, pots, oars, spinning wheels, babes and dogs. The one-legged and be-medalled veteran life-saver was summoned to his allotted position. The dignity of these people, when turned exhibits, suffered.\nNevertheless, the overwhelming aura of the proud occasion (proud because the humble fishing village was considered worthy of a long detour by the Royal Visitors) lifted the whole\u2014the reality and the farce\u2014to the level of a happy and folksy \"Lev\u00e9e.\" And EXPECTATION",
+      "handwritten_text": "PESCADORES DE NAZAR\u00c9\nNAZAR\u00c9\nNAZAR\u00c9\nNAZAR\u00c9",
+      "sketch_descriptions": [
+        "Top left sketch shows fishermen around a boat with sails and several smaller boats in a windy sea, with men standing and sitting near the boat.",
+        "Top right sketch depicts a group of figures, some standing and some seated, with a large man on the right and a figure with a hat in the center, set against a cloudy sky.",
+        "Bottom left sketch illustrates a crowd of figures, many dressed in cloaks and traditional garments, gathered under a flagpole with a flag flying, with some faces distinctly marked.",
+        "Bottom right sketch features several boats with distinctive markings on their bows, positioned near a shoreline with hills in the background, with various standing figures in cloaks near the boats."
+      ],
+      "entities": {
+        "people": [
+          "Queen",
+          "Duke"
+        ],
+        "places": [
+          "Nazar\u00e9"
+        ],
+        "events": [
+          "Royal Visitors' visit to Nazar\u00e9"
+        ],
+        "dates": [
+          "next day"
+        ]
+      },
+      "page_summary": "The page captures scenes and descriptions of the fishing village of Nazar\u00e9, illustrating traditional life and preparations for a royal visit by the Queen and Duke, highlighting the village's cultural authenticity and local color.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:30:16.722479+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "UNIVERSITY OF UTAH LIBRARIES",
+      "handwritten_text": "Pescadores' Nazr\u00e1t Tavern\nF\u00e9lix Topolski '57",
+      "sketch_descriptions": [
+        "A loose, expressive black ink sketch illustrating a group of men sitting or standing closely around a table inside a tavern, with some people smoking pipes and others engaging in quiet conversation or contemplation.",
+        "Figures wear different hats and coats indicating a cold or rustic setting; the central figure, notably large, sits on a stool and appears to be pouring or handing something over the table.",
+        "The room\u2019s interior details are abstract, with faint indications of furniture and framed pictures on the walls."
+      ],
+      "entities": {
+        "people": [
+          "F\u00e9lix Topolski"
+        ],
+        "places": [
+          "Nazr\u00e1t Tavern"
+        ],
+        "events": [],
+        "dates": [
+          "1957"
+        ]
+      },
+      "page_summary": "An artistic sketch by F\u00e9lix Topolski from 1957 depicting weary men gathered at Nazr\u00e1t Tavern, capturing a moment of camaraderie and quiet interaction inside the rustic setting.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:30:41.228235+00:00"
+    },
+    {
+      "page_number": 4,
+      "typeset_text": "mounted to the extreme with the Arrival somewhat delayed.\nAt long last they were there: the band struck and the dancers started to rotate and leap, the crews in the landed boats to perform their pantomimes, the pairs to strut, the art-and-craft groups to weave\u2014all, as planned, well spread over the market-place\u2014all ready to engage the interest of the Queen and the Duke. The line of limousines rolled slowly round the square, but the Queen's head happened to be turned towards the public-lined houses and shop-fronts, and away from the ambitious display. And it was all over. The backs of the motor-cycling guards were disappearing up the street leading to a longer engagement: the laying of a wreath on the Tomb of the Unknown Portuguese Warrior.",
+      "handwritten_text": "NAZARE: waiting for the Queen\ncolour-pieces of the Queen basket of the fishermen at NAZARE\nPescadores de Nazare na taberna\nNAZARE: waiting for the Queen",
+      "sketch_descriptions": [
+        "A group of figures standing together, some holding flags or banners, labeled 'NAZARE: waiting for the Queen'.",
+        "A crowded scene showing fishermen and other figures in conversation or interaction, labeled as 'colour-pieces of the Queen basket of the fishermen at NAZARE' and 'Pescadores de Nazare na taberna'.",
+        "Multiple figures gathered in a town street scene, with some seated and others standing, labeled 'NAZARE: waiting for the Queen'."
+      ],
+      "entities": {
+        "people": [
+          "the Queen",
+          "the Duke"
+        ],
+        "places": [
+          "Nazar\u00e9",
+          "Tomb of the Unknown Portuguese Warrior"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "The page depicts scenes from Nazar\u00e9 where local people, including fishermen, wait and perform in anticipation of the Queen and Duke's arrival, capturing the community's engagement during a royal visit.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:30:47.363466+00:00"
+    },
+    {
+      "page_number": 5,
+      "typeset_text": "The drawings in this and the following issues on Portugal were made possible by the co-operation of LOOK Magazine.\nTHIS DOUBLE ISSUE COSTS 7s. ($1.00). \"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 3s.6d. (50 CENTS) A COPY\nYEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE \u0000 4.6. (12 or equivalent) : SHORTER PERIODS PRO RATA. AIR MAIL BY QUOTATION. SUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME.\nLithographed in Great Britain by CAPS Ltd, Dean Street, London, W1, and published by Topolski's Chronicles Ltd, from Bridge Arch 158, Sutton Walk, London, SE1.",
+      "handwritten_text": "AVENIDA DA REPUBLICA\nFelix Topolski '57\nNAZARE",
+      "sketch_descriptions": [
+        "Two small expressive faces looking out of a window at the top center, one wearing a hat.",
+        "A robust figure wrapped in a cloak or shawl facing a standing woman with her hair tied back, wearing a full skirt and shawl, standing barefoot.",
+        "Sign on a wall with the words 'AVENIDA DA REPUBLICA'."
+      ],
+      "entities": {
+        "people": [
+          "Felix Topolski"
+        ],
+        "places": [
+          "Avenida da Republica",
+          "Nazare",
+          "Portugal",
+          "London"
+        ],
+        "events": [],
+        "dates": [
+          "1957"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle features sketches of people labeled 'Avenida da Republica' in Nazare, Portugal, with publication and subscription details for the magazine at the bottom.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:31:12.617229+00:00"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548486",
+    "title": "Topolski's Chronicle, V.2 No.20, 1954",
+    "date": "1954",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s66f3drx",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s66f3drx",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE of a voyage round the world (r) No. 20(32) Vol. II 1954\nTHE CROWN COLONY of SINGAPORE\nTHE RT. HON. MALCOLM MACDONALD, the Commissioner-General for the U.K. in South-East Asia, WITH THE COMMUNAL LEADERS",
+      "handwritten_text": "Mr Lee [?] Nam Singapore millionaire Dr Zarliek Dato S. P. Wong Malaya minister John P (?) H. E. the Commiss[?] Hon Dato Wan King Huish Hon. Mrs. Matta",
+      "sketch_descriptions": [
+        "A horizontal banner of loosely drawn figures in procession, carrying banners, parasols, and musical instruments, suggesting a parade or street march.",
+        "A dense group portrait of men in discussion around a table, some with hands clasped or gesturing, with distinctive faces and attire, accompanied by handwritten notations presumably identifying them."
+      ],
+      "entities": {
+        "people": [
+          "Malcolm MacDonald",
+          "Mr Lee Nam",
+          "Dr Zarliek",
+          "Dato S. P. Wong",
+          "Hon Dato Wan",
+          "King Huish",
+          "Hon. Mrs. Matta"
+        ],
+        "places": [
+          "The Crown Colony of Singapore",
+          "U.K.",
+          "South-East Asia",
+          "Malaya"
+        ],
+        "events": [],
+        "dates": [
+          "1954"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle documents a 1954 gathering in colonial Singapore, featuring sketches of communal leaders and British Commissioner-General Malcolm MacDonald, alongside scenes of public festivity or procession.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:40:51.200934+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "ASIA (OXFORD UNIVERSITY PRESS). \u2013 Singapore is placed at the point where ocean and air routes from Europe via Suez, India, Ceylon and Malaya meet those from China, Japan, Australia and the Pacific ports of America. PEOPLE\u2019S CHINA.\u2013 Malaya today is a matter of British imperialism but its future belongs to Asia itself. The Malayan struggle for national liberation shows that the bound masses of the people are determined to throw British imperialism into the rubbish heap of history\u2026 HANDBOOK TO MALAYA AND THE EMERGENCY.\u2013 Singapore has developed its schools, housing and medical services as an example of the practical constructive achievements of the partnership of East and West in contrast to the empty promises\u2026 THE TIMES (13 OCTOBER 1954): \u2013 Singapore Colony is budgeting for a deficit next year of $22m. (Malayan) \u2013 about \u00a32,500,000. \u2013 Special expenditure includes $2m. for development, $13,700,000 for defence, and $3,400,000 for police\u2026",
+      "handwritten_text": "Topolski",
+      "sketch_descriptions": [
+        "A full-body sketch of a woman in traditional dress, standing with a poised expression and one foot slightly forward.",
+        "A large central drawing depicts a crowded urban street with people walking among Chinese signs and banners, suggesting a busy Chinatown scene.",
+        "A standing man with a beard and turban, holding what appears to be a stick and sack thrown over his shoulder.",
+        "A lively market or street scene with people carrying large circular objects and bustling around goods.",
+        "A man in a brimmed hat reading a newspaper in a relaxed environment, with several others nearby.",
+        "A harbor scene with modern ships, people sitting near the water's edge in a shaded area.",
+        "A busy street corner with people walking in and out of a bank with 'Chartered Bank' signage above the entrance.",
+        "A group of seated men, some examining documents or writing, possibly in a business or bureaucratic setting.",
+        "A bustling street market scene, dense with figures, street vendors, banners, and signs in Chinese characters.",
+        "People gathered in an animated crowd, with children holding balloons in the foreground.",
+        "A vibrant street gathering with palm trees, children, and adults talking and observing their surroundings."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Singapore",
+          "Europe",
+          "Suez",
+          "India",
+          "Ceylon",
+          "Malaya",
+          "China",
+          "Japan",
+          "Australia",
+          "Pacific ports of America",
+          "Chinatown",
+          "Chartered Bank"
+        ],
+        "events": [
+          "Malayan struggle for national liberation",
+          "Malayan Emergency"
+        ],
+        "dates": [
+          "13 October 1954",
+          "1950s",
+          "1980s"
+        ]
+      },
+      "page_summary": "This page documents scenes of daily life, commerce, and cultural intersections in Singapore and Malaya during the mid-20th century, overlaying editorial references to political struggles and economic challenges of the era. Topolski\u2019s sketches convey the busy, multicultural pulse of the streets alongside the complex historical and geopolitical context.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:41:18.999455+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 2s. 6d. A COPY YEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE \u00a3 3. 3s. 0d or equivalent; SHORTER PERIODS PRO RATA. AIR MAIL BY QUOTATION. SUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME. Handprinted in Great Britain by C. Bednarczuk, 146 Sutton Walk, S.E.1. from blocks made by Austin Miles Ltd and published from Bridge Arch 153, Sutton Walk, South Bank, London, S.E.1 Copyright reserved.",
+      "handwritten_text": "",
+      "sketch_descriptions": [
+        "Expressive group portrait of several adults and children closely clustered together, with two central figures holding a baby and others surrounding, evoking a sense of crowding or intimacy.",
+        "Background elements suggest a modest or interior setting, possibly including domestic objects like a lamp.",
+        "Contoured lines and shading convey tension or concern in the faces and gestures of the figures."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Great Britain",
+          "Sutton Walk, S.E.1",
+          "South Bank, London"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page from Topolski's Chronicle features an expressive sketch of a closely gathered group of adults and children in an interior, accompanied by publication and subscription information. The scene evokes an intimate, possibly tense domestic atmosphere.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:41:24.477100+00:00"
+    }
+  ]
+}

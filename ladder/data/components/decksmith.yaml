@@ -1,0 +1,34 @@
+name: Decksmith
+layer: presentation
+status: proposal
+one_line: Generates editable presentation decks from structured content.
+problem: Once the work is worth sharing, presentation becomes part of the build rather than a separate afterthought.
+inputs:
+  - structured content
+  - outlines
+  - explainer material from Ladder
+outputs:
+  - editable presentation decks
+  - speaker-ready slide structures
+dependencies:
+  - source content
+  - presentation templates
+example: A Ladder overview could become the opening frame of an all-staff talk, while Decksmith would handle turning that structure into an editable deck instead of a one-off slide scramble.
+audience_value:
+  all_staff: You see the system in a form meant for sharing rather than only as notes or code.
+  student: It shows how structured thinking can travel into a presentation without starting over each time.
+  collaborator: It connects the communication layer to a concrete presentation pipeline rather than leaving the final mile manual.
+  self: It captures the lesson that if the work matters, presentation is part of the workflow.
+next_rung:
+  all_staff: Ask how a clear written explainer might turn into a talk or workshop handout.
+  student: Notice how an outline and a set of notes can become a presentation without rebuilding everything by hand.
+  collaborator: Inspect where Ladder output should stop and Decksmith input should begin.
+  self: Keep the boundary clean so Decksmith handles presentation while Ladder handles explanation.
+limitations:
+  - It is still a proposal rather than a finished tool
+  - Presentation structure is helpful, but it does not replace editorial judgment
+  - The boundary between authoring and deck generation still needs refinement
+relationships:
+  - Uses Ladder output as structured source material.
+  - Sits downstream from the rest of the note-system ecosystem.
+  - Reinforces the idea that communication and presentation are distinct layers.

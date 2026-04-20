@@ -1,0 +1,84 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548499",
+    "title": "Topolski's Chronicle, V.3 No.14, 1955",
+    "date": "1955",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6dtqzcs",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6dtqzcs",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "San Francisco, Cal. U.S.A. THE OCEAN-BIRDS, STEEL-WINGED AND FIERCE, PASS THEIR ESCORT DUTIES TO THE PLUMP LAND-GULLS OF THE AMERICAN SHORE. DOLLARS EMERGE: SOMEWHAT SELF-CONSCIOUSLY TRADITIONAL BANKNOTES, NOT UNLIKE TESTIMONIALS OF A FREE MASONS LODGE \u2014 THE STARK, THIN-LIPPED IMAGES ON THEM REASSURE...SURPRISINGLY A GENTLE SAILING BOAT BRINGS THE PILOT \u2014 AND MARKS THE PACE OF SAN FRANCISCO, THE LEAST EXPECTED AMERICA: COSY AND MELLOW. 'THE AMERICAN TEMPO,' TAKEN UP BY ITS IMITATORS, NOW JIBES ALONE IN DISTANT LANDS. THE STATES THEMSELVES SEEM TO BE SETTLING INTO THEIR PERIOD OF 'VICTORIA' INFEST: ACCUMULATING TRADITIONS: DIGNITIES, A BUILT-ARISTOCRACY, EVEN EXECUTIVES \u2014 ALL THAT COMES UNDER THEIR PRESS-JARGON HEADING: 'GRACIOUS LIVING.' 'TOPOLSKI'S CHRONICLE' IS PUBLISHED 23 TIMES A YEAR AT 3/- & 6d A COPY YEARLY SUBSCRIPTION RATE (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD 4. G. 10/- (Sterling), POSTAGE INCLUDED. MARK AS COTTON'S SUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO WORLD COUPON SCHEME. Printed in Great Britain by Payne's Printers (Bermondsey) Ltd., 35 Jamaica Road, London, S.E.1. Editorial: 152 Buckingham Palace Road, London, S.W.1. Bulk sales and distributed from Temple Apple Ltd., Swan Walk, London, S.E.1. Copyright reserved.",
+      "handwritten_text": "San Francisco. March 1955. UNIVERSITY OF CAL[?] Topolski. Chronicle Vol III 1955. Devil's Caf\u00e9. Waldorf Hotel. Willow Cafe. Pine Bond. Bartley's (family style). (The dollar portraits, risen from San Francisco. A touch of the free Mason's lodge about them. Cosy and mellow \u2014 almost Victorian. But the mixture: plutocracy, efficiency, comfort \u2014 with tradition, dignity, and almost an aristocracy \u2014 all crowned with a press-jargon heading: 'Gracious Living.' Topolski.)",
+      "sketch_descriptions": [
+        "A cityscape showing a bridge and buildings labeled 'San Francisco.'",
+        "A group of men in hats walking along or arriving at a location, possibly disembarking.",
+        "Three figures, including a violinist and two companions, possibly playing music or dancing.",
+        "A busy interior of a bar or caf\u00e9, with signs reading 'Devil\u2019s Caf\u00e9,' 'Waldorf Hotel,' and 'Willow Caf\u00e9,' crowded with socializing people.",
+        "A throng of people outside in an urban street, with lively signage and a bustling mood, one sign reading 'Pine Bond.'",
+        "A crowded room or social space, possibly a restaurant, showing people seated at tables and a waiter serving drinks.",
+        "A more tranquil scene with a man and woman sitting together, potentially in conversation.",
+        "A family-style restaurant scene with people at a long table, labeled 'Bartley\u2019s (family style)'.",
+        "A portrait-style drawing of a seated man.",
+        "A crowded group of people in a casual indoor setting with lively interactions."
+      ],
+      "entities": {
+        "people": [
+          "Topolski"
+        ],
+        "places": [
+          "San Francisco",
+          "Cal.",
+          "U.S.A.",
+          "Devil's Caf\u00e9",
+          "Waldorf Hotel",
+          "Willow Caf\u00e9",
+          "Pine Bond",
+          "Bartley's"
+        ],
+        "events": [],
+        "dates": [
+          "March 1955",
+          "1955",
+          "Vol III 1955"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle captures scenes of San Francisco in March 1955, combining lively urban sketches, depictions of city life, and reflective commentary on American society and traditions. The page features both bustling public spaces and intimate social gatherings, emphasizing San Francisco's unique cultural tempo.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:59:51.858451+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "TIJUANA, MEXICAN BORDER TOWN\nCalifornians' day-trip to Mexico",
+      "handwritten_text": "MEXICO\nTECATE\nBULLFIGHT\n24 Tijuana Bull Ring\nSueno Canyon figs\n612\nmen die in border in some take themselves a eastern waste of juicy... [uncertain]\n514\n513\nPENDA DE ABARROTES LA NUEVA 'AMAROLITA'\n515\n[unclear handwritten text at bottom]",
+      "sketch_descriptions": [
+        "A crowd of Mexican men and women, many wearing hats and traditional clothing, gathered near a border sign pointing to Mexico and Tecate, with a small sign advertising a bullfight.",
+        "Two small sketches on the right side depicting indoor scenes: the top one shows many people crowded inside a room with a staircase, the bottom one shows a lively social or festive scene with multiple figures.",
+        "A street scene in a Mexican town showing several figures including a man with a sombrero, a seated woman near a large bottle illustration, a child, and a building labeled 'PENDA DE ABARROTES LA NUEVA AMAROLITA'. There are utility poles and sparse trees in the background."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Tijuana",
+          "Mexico",
+          "Tecate"
+        ],
+        "events": [
+          "Bullfight"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page presents a visual and textual depiction of Tijuana as a Mexican border town frequented by Californians for day trips, showcasing local people, social scenes, and cultural elements such as bullfights.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T21:54:57.331828+00:00"
+    }
+  ]
+}

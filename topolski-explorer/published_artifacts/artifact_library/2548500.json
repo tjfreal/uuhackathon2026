@@ -1,0 +1,83 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548500",
+    "title": "Topolski's Chronicle, V.3 No.15, 1955",
+    "date": "1955",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s64z60th",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s64z60th",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE No. 15 (51) Vol. III 1955\nof a voyage round the world (v)\n\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 2s 6d. A COPY\nYEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE \u00a33. 3s. (9s or equivalent); SHORTER PERIODS PRO RATA. AIR MAIL BY QUOTATION.\nSUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME",
+      "handwritten_text": "Betty Davis\nJoe Mankow [?]\nCanasta with Marlon Dietrich\nLew [?]\nRide Great Comnik [?]\nShirley Temple 10 Q M\n\"Dear Mother, I've arrived Hollywood Port of Mx\"",
+      "sketch_descriptions": [
+        "A crowded film camera scene featuring a person behind a large movie camera with other individuals seated or standing nearby, some facing each other and engaged in conversation.",
+        "A group of several people playing canasta, including a clear profile of one person and a detailed figure of a woman with earrings, identified as Marlon Dietrich.",
+        "A busy outdoor street scene showing various people walking, a woman holding a tennis racket, and signboards with words like 'Cinegrill' and other advertising.",
+        "A smaller sketch depicting a woman and two men in hats, one bending over to write or sign something, with a background of a building labeled 'Montgomery'."
+      ],
+      "entities": {
+        "people": [
+          "Betty Davis",
+          "Joe Mankow [?]",
+          "Marlon Dietrich",
+          "Shirley Temple"
+        ],
+        "places": [
+          "Hollywood",
+          "Montgomery"
+        ],
+        "events": [],
+        "dates": [
+          "1955"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle 1955 features sketches related to a Hollywood visit, including scenes from a film studio, a card game with Marlon Dietrich, street scenes with pedestrians, and a note about arriving in Hollywood.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T21:55:03.678981+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "516 Work  517,522-525 Play  518,519 Fans  520 New arrival  521 THE newspaper columnist  526 Technicians\nHOLLYWOOD",
+      "handwritten_text": "Losquilla Parsons the Communist  Fish lobster  Charles Boyer  Vincent Bennett  Gloria Swanson's party  John Kennedy  Adrian Neel  Billy Haley  Mr. Clark Collins (costume fitting)  Hedy Lamarr  HQ of Paramount  STAGE 2  STAGE 2, almost empty on bed lights  Film studio workers",
+      "sketch_descriptions": [
+        "Top-left group: A sketch of a man labeled 'Losquilla Parsons the Communist' along with several people engaged in social conversation, including one identified as Charles Boyer and another as Vincent Bennett.",
+        "Top-right group: Several figures at what appears to be Gloria Swanson's party, including a woman wearing a hat and multiple others loosely sketched in conversation.",
+        "Bottom-left group: A social scene including John Kennedy, Adrian Neel, and Billy Haley, along with a man identified as Mr. Clark Collins in costume fitting, and Hedy Lamarr alongside a smiling man.",
+        "Bottom-right group: A backstage film studio scene showing several technicians or workers near an area labeled 'Stage 2,' with some figures facing a man in a cowboy hat."
+      ],
+      "entities": {
+        "people": [
+          "Losquilla Parsons",
+          "Charles Boyer",
+          "Vincent Bennett",
+          "Gloria Swanson",
+          "John Kennedy",
+          "Adrian Neel",
+          "Billy Haley",
+          "Mr. Clark Collins",
+          "Hedy Lamarr"
+        ],
+        "places": [
+          "Stage 2",
+          "Paramount"
+        ],
+        "events": [
+          "Gloria Swanson's party"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page from Topolski's Chronicle features a series of lively sketches depicting Hollywood social scenes, including notable personalities at Gloria Swanson's party, actors and technicians backstage at Stage 2, and other film-related moments.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T21:55:29.688432+00:00"
+    }
+  ]
+}

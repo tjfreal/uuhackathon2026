@@ -1,0 +1,97 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548481",
+    "title": "Topolski's Chronicle, V.2 No.15, 1954",
+    "date": "1954",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s63nxea6",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s63nxea6",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 2,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "UNIVERSITY OF UTAH LIBRARIES \n\u2018TOPOLSKI\u2019S CHRONICLE\u2019 No: 15 (27) Vol. II. 1954 \nof a voyage round the world (k)\nYEARLY SUBSCRIPTION RATES (WITHIN OUTSIDE (TO DEFRAY POSTAGE) TWICE A YEAR AT 2s6d. A COPY\nSUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME",
+      "handwritten_text": "stormy team of somewhat pugnacious\u2026\nMandalay Airport \u2013 British plane\nBurma Parliament\nGroup at International Rice Commission Conference Rangoon\nBritish Commonwealth Conference\nIndian copper & cotton traders\nRANGOON, SUBA, MINGALAD",
+      "sketch_descriptions": [
+        "Two men seated at a table engaged in an intense discussion.",
+        "Travelers and a monk with baggage in front of a British airplane marked with text.",
+        "A pagoda on a hill with people and elephants bathing in the river below.",
+        "A crowded parliamentary setting with seated officials and clerks.",
+        "A bustling international conference setting with delegates and signage for various countries.",
+        "Individuals in conversation, including a woman in traditional dress.",
+        "Group portrait or gathering labeled as a British Commonwealth Conference.",
+        "People arriving at a train or bus station labeled 'Rangoon'.",
+        "A busy outdoor street or square with traders and pedestrians, including a woman in traditional dress.",
+        "A landscape view of a riverbank, figures, and a sketchy fence; annotated with 'RANGOON, SUBA, MINGALAD'."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Mandalay",
+          "Burma",
+          "Rangoon"
+        ],
+        "events": [
+          "International Rice Commission Conference",
+          "British Commonwealth Conference"
+        ],
+        "dates": [
+          "1954"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle, dated 1954, documents scenes from Burma including parliament, air travel, conferences, and everyday life in Rangoon and Mandalay, blending energetic sketches with documentary notes.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:36:23.209717+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "BURMA 234 Rangoon 258 Rangoon Airport 236 International Rice Commission Conference in Rangoon 237, 251 State of emergency: checking posts outside Rangoon 238 Street in Rangoon; Tibetan peddlers, Chinese and Indian merchants 239 Burmese women 240-248N Hill women 241-243 Social and diplomatic receptions in Rangoon 244-CHINA (Yunnan) end of Burma Road 245 Mandalay 246- On the road to Amarapura 247-248 Mandalay Airport ; American pilot of Commercial 'air lift' over rebel territory and his plane 249-the Parliament 250 British businessmen at the Strand Hotel in Rangoon.",
+      "handwritten_text": "Rangoon market\ndiplomatic reception in Rangoon\nRangoon social reception\nChina end of Burma Road\n\"Mandalay\" pilgrim from the Irrawaddy",
+      "sketch_descriptions": [
+        "Crowded Rangoon market scene with figures engaged in trade and conversation.",
+        "Burmese women in traditional attire, some carrying goods.",
+        "A group of people at what appears to be a diplomatic reception in Rangoon, including men in suits and uniforms.",
+        "Elegant women in long dresses and a performance or ceremonial display.",
+        "A cluster of Tibetan, Chinese, and Indian merchants and peddlers on a street.",
+        "A social gathering in Rangoon featuring elders conversing, women, and children in formal dress.",
+        "A busy city street or outdoor scene with crowds, possibly related to a state of emergency checkpoint.",
+        "A detailed depiction of a 'China end of Burma Road' scene, with people, carts, and a prominent archway or gate.",
+        "Mandalay scenes including temples or pagodas, local figures, and possibly pilgrims on foot or ox carts.",
+        "Pilgrims or travelers on the road to Amarapura, passing Buddhist statuary and rural architecture.",
+        "Americans or other foreigners interacting with locals, possibly referencing the airlift pilot.",
+        "British businessmen in suits at a formal event, noted as being at the Strand Hotel in Rangoon."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Burma",
+          "Rangoon",
+          "Rangoon Airport",
+          "China",
+          "Yunnan",
+          "Mandalay",
+          "Amarapura",
+          "Mandalay Airport",
+          "Strand Hotel",
+          "Burma Road",
+          "Parliament"
+        ],
+        "events": [
+          "International Rice Commission Conference",
+          "State of emergency",
+          "Commercial airlift"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page from Topolski's Chronicle offers a vivid, illustrated record of daily life, political events, and multicultural gatherings in Burma, focusing on Rangoon, Mandalay, and key travel routes. It documents market scenes, diplomatic and social receptions, ethnically diverse communities, and transport and pilgrimage routes in the region.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:36:32.937646+00:00"
+    }
+  ]
+}

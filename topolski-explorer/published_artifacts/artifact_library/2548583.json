@@ -1,0 +1,45 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548583",
+    "title": "Topolski's Chronicle, V.6 No.7-10, 1958",
+    "date": "1958",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s62dsypp",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s62dsypp",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 1,
+  "pages": [
+    {
+      "page_number": 3,
+      "typeset_text": "Henley Regatta",
+      "handwritten_text": "",
+      "sketch_descriptions": [
+        "Group of multiple men wearing blazers and hats standing and conversing, some colored in purple and red with stripes.",
+        "Various smaller sketches of groups of people mingling, including men and women, some with parasols or hats.",
+        "Two seated figures on the left, one appearing to be a woman in a hat and the other in a wheelchair or stroller, facing left.",
+        "A small sketch of boats or a rowing scene near the water with people on a boat.",
+        "Several additional small crowd scenes scattered across the top left and top right edges.",
+        "Figures wearing striped boots and blazers, suggesting an outdoors sporting event.",
+        "Illustrations capture the social and sporting atmosphere of the Henley Regatta, with emphasis on fashion and crowds."
+      ],
+      "entities": {
+        "people": [],
+        "places": [
+          "Henley"
+        ],
+        "events": [
+          "Henley Regatta"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page illustrates social scenes and fashionable attendees at the Henley Regatta event, highlighting groups of men and women in period attire around the rowing competition.",
+      "model": "gpt-4.1-mini",
+      "transcribed_at": "2026-04-19T22:59:30.657529+00:00"
+    }
+  ]
+}

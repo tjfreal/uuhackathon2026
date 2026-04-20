@@ -1,0 +1,11 @@
+{
+  "model": "nomic-ai/nomic-embed-text-v1.5",
+  "span": "span_25",
+  "word_window": 19,
+  "word_step": 10,
+  "embed_dim": 768,
+  "last_built": 1776623746.721858,
+  "chunk_count": 3,
+  "source_file_count": 3,
+  "corpus_root": "/private/tmp/throughline-sample"
+}

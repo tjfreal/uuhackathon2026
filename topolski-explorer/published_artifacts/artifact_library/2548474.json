@@ -1,0 +1,115 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548474",
+    "title": "Topolski's Chronicle, V.2 No.8, 1954",
+    "date": "1954",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s60jt01r",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s60jt01r",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE No. 8 (20) Vol. II 1954 of a voyage round the world IND0-CHINA, VIETNAM",
+      "handwritten_text": "Le Haut-Commissaire de France en Indochine",
+      "sketch_descriptions": [
+        "Rough portrait sketch of a European man, possibly a French official, with a serious expression, foregrounded by a sailing ship and a Vietnamese figure in traditional attire.",
+        "Expressive group drawing of local Vietnamese people, including elderly figures with conical hats and walking sticks, depicted in a crowded and animated street or market scene."
+      ],
+      "entities": {
+        "people": [
+          "Le Haut-Commissaire de France en Indochine"
+        ],
+        "places": [
+          "Indo-China",
+          "Vietnam",
+          "Indochine (Indochina)"
+        ],
+        "events": [],
+        "dates": [
+          "1954"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle features sketches and observations from Vietnam in 1954, including a portrait of the French High Commissioner in Indochina and scenes depicting local Vietnamese people and their environment.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:11:17.484204+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "INDO-CHINA, VIETNAM  167 French Official 168 Saigon Street 169-171 Military Court 172 Palais de Justice 173 Roulettes in Cholon 174 Saigon, the Town Hall 175 Cercle Sportif Swimmingpool, Grand Ball Annual 176 Saigon Auction Rooms",
+      "handwritten_text": "Military court Saigon\nMilitary court Saigon Felix Topolski\nDUTHAM PHONG NHUT\nVietnam - step into a Palais de Justice in 1954\nNe jugeons quelqu'un par sa couleur de peau, mais par l'action Commence l'audience du proc\u00e8s Ho chin",
+      "sketch_descriptions": [
+        "Upper left: A courtroom scene with several men in uniform and civilian attire gathered behind a bench, possibly at a trial or hearing.",
+        "Upper right: Another courtroom scene shows a group standing before three figures seated at a judge's bench, with one figure reading or speaking, and spectators seated around.",
+        "Lower left: A more detailed courtroom sketch, showing a judge, lawyers in robes, and various individuals sitting or standing, including a person in headgear addressing the court.",
+        "Lower right: Several people are seated and standing outside a building, labeled 'DUTHAM PHONG NHUT,' with a mix of men and women, some standing and others in conversation."
+      ],
+      "entities": {
+        "people": [
+          "Felix Topolski",
+          "Ho chin"
+        ],
+        "places": [
+          "INDO-CHINA",
+          "VIETNAM",
+          "Saigon",
+          "Palais de Justice",
+          "DUTHAM PHONG NHUT",
+          "Cholon",
+          "Saigon Street",
+          "Saigon, the Town Hall",
+          "Cercle Sportif",
+          "Saigon Auction Rooms"
+        ],
+        "events": [
+          "Military Court",
+          "trial of Ho chin",
+          "Grand Ball Annual"
+        ],
+        "dates": [
+          "1954"
+        ]
+      },
+      "page_summary": "This page captures Felix Topolski's sketches and notes from military court proceedings and scenes around Saigon in 1954, focusing on courtroom trials and the associated public gatherings in French colonial Indochina.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:11:24.343638+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "\u2018TOPOLSKI\u2019S CHRONICLE\u2019 IS PUBLISHED 24 TIMES A YEAR AT 2s 6d. A COPY. YEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE \u00a33.3.0 (\u00a39 or equivalent); SHORTER PERIODS PRO RATA. AIR MAIL BY QUOTATION SUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME Lithographed in Great Britain by C.A.P.S. Ltd., Dean Street, London, W.1., and published from Bridge Arch 158, Sutton Walk, South Bank, London, S.E.1. Copyright reserved",
+      "handwritten_text": "Roulette at Lyautey Marie (Cholon) outside town\nSaigon cercle (north) Saigonais, Grand Bal Annex 11. Nov. 1950\nPortrait of the Emperor Bao Dai in Hotel Ville Saigon\nAsiatics crew Liner",
+      "sketch_descriptions": [
+        "Crowded casino or club scene showing people gathered around a roulette table, with spectators and croupiers in an energetic atmosphere.",
+        "Group portrait featuring men and women in formal attire, gathered and socializing, labeled as Saigon's 'Grand Bal Annex' on November 11, 1950.",
+        "Street scene in front of a grand building with a large portrait of Emperor Bao Dai displayed, people in motion in the foreground including a figure in a conical hat.",
+        "Clustered group of people seated and engaged in conversation, labeled 'Asiatics crew Liner', likely depicting a multicultural or travel-related gathering."
+      ],
+      "entities": {
+        "people": [
+          "Emperor Bao Dai"
+        ],
+        "places": [
+          "Saigon",
+          "Lyautey Marie (Cholon)",
+          "Hotel Ville",
+          "Liner"
+        ],
+        "events": [
+          "Grand Bal Annex"
+        ],
+        "dates": [
+          "11. Nov. 1950"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle illustrates social scenes in 1950s Saigon, including a lively casino, a formal gathering at the Grand Bal Annex, and a public space marked by the image of Emperor Bao Dai. These vignettes capture facets of public and social life in postwar Indochina.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T19:11:51.232000+00:00"
+    }
+  ]
+}

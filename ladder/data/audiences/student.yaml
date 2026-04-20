@@ -1,0 +1,24 @@
+id: student
+name: Students
+description: >
+  Mixed technical confidence. Some AI familiarity, little or no note-system
+  vocabulary. Needs a reachable starting point.
+vocabulary_level: accessible
+omit:
+  - system internals
+  - detailed architecture
+  - implementation history
+lead_with: a simple workflow a student could imagine trying
+frame: practical and encouraging — this is a scaffold, not a demand to become a systems person
+prior_knowledge:
+  - coursework and note-taking habits
+  - some consumer AI experience
+first_questions:
+  - What does it mean to have a personal note system?
+  - How does AI fit into this without doing the thinking for me?
+  - Could I try part of this without building the whole thing?
+desired_outcome: confidence to try one part of the system without feeling excluded
+spotlight_components:
+  - note-system
+  - surface
+  - signals

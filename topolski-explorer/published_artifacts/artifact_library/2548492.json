@@ -1,0 +1,111 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548492",
+    "title": "Topolski's Chronicle, V.3 No.2, 1955",
+    "date": "1955",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s6xmphbz",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s6xmphbz",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI'S CHRONICLE No. 2 (38) Vol. III 1955 of a voyage round the world (p)",
+      "handwritten_text": "Macau Chinese girls Chinese procession Nichol Nicholas (Messrs. Nichol & Nichol[?])",
+      "sketch_descriptions": [
+        "A large statue of a figure in uniform, set in an urban square surrounded by crowds, flags, and festively decorated buildings.",
+        "A harbor scene with boats, a smoky sky, and a throng of people in a small vessel approaching the shore.",
+        "A performer in Chinese opera costume holding a staff, captured in dynamic motion.",
+        "A waterfront scene with multiple figures, boats, and distant hills, likely depicting daily life by the water's edge."
+      ],
+      "entities": {
+        "people": [
+          "Nichol",
+          "Nicholas"
+        ],
+        "places": [
+          "Macau"
+        ],
+        "events": [
+          "Chinese procession"
+        ],
+        "dates": [
+          "1955"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle documents scenes from Macau in 1955, highlighting local festivities, waterfront life, and cultural processions, accompanied by sketches of public spaces and notable individuals.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:48:17.447501+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "Conversation with a Macao Friend. The future comes closer, the gun-lord in Macao has for the time been of gambler's favour, arms coming by chest off V.D. (that he's in), a changed march shock-stripping the city of its Indochinese refugees, new Sophia Loren girls, the dog-lovers, Fat Siu, etc... The port... Theatre... The town... Youth... Sunday in the Cathedral... Dinner with the editor of 'Noticias de Macau' Hermano Marques Monastery; sing-songs; Poi Cheng, arrives with sorrow at the gambling house. About 15,000 Catholics. Former elegant in European habits, including Esquires of Ireland during the Japanese occupation of this town in the Pacific, fled in transplanted form into Macao. Served at the Mackaness (Sydney), attended the Macao Consulate, and was greeted by Hermano Marques Monastery editor, Poi Cheng. Gambling and smuggling have long defined the port as a C.O. and soon with despair. Two vivid tales are recounted and depicted, and these notes and sketches capture the lasting yet brittle atmosphere of Macao life.",
+      "handwritten_text": "Macao port. 'Eat. (and Portuguese fado)' 153 view of youngers' end with fishing implements. Shrine guardian. Opium smoking. (wok, rice) (priest?).",
+      "sketch_descriptions": [
+        "Man standing near boats with mountains in background, two figures near water, and two women crouched.",
+        "A lively town square with colonial-era buildings, crowds, Portuguese flags, and bustling street activity.",
+        "Urban street scene with figure holding a paper, shop signs, and a busy atmosphere.",
+        "Group of young people with fishing equipment at a riverside or waterfront setting.",
+        "Interior shrine scene with guardian figure surrounded by religious icons and ritual objects.",
+        "A scene of a man reclining on a bed smoking opium, another figure seated nearby in a sparse bedroom.",
+        "A group led by a woman with distinct hairstyle and children, featuring one man with pronounced features close to the fore.",
+        "Cluster of men at a gambling table, wearing hats and deeply engrossed in a game."
+      ],
+      "entities": {
+        "people": [
+          "Hermano Marques",
+          "Poi Cheng",
+          "Fat Siu"
+        ],
+        "places": [
+          "Macao",
+          "Sophia Loren",
+          "Noticias de Macau",
+          "Hermano Marques Monastery",
+          "Portuguese",
+          "Ireland",
+          "Pacific",
+          "Sydney",
+          "Macao Consulate"
+        ],
+        "events": [
+          "Japanese occupation"
+        ],
+        "dates": []
+      },
+      "page_summary": "This page illustrates facets of life in mid-20th-century Macao, from waterfront activities and Portuguese colonial architecture to gambling houses and opium dens, accompanied by written reminiscences and local personalities. The page blends documentary sketches with anecdotes about local traditions, the changing social scene, and public figures in Macao.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:48:27.313040+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 2s 6d. A COPY YEARLY SUBSCRIPTION RATES (WITH FOLDED AND INDEX) TO ANY PART OF THE WORLD ARE 4, 3s. (18 - or equivalent); SHORTER PERIODS PRO RATA. AIR MAIL BY QUOTATION. SUBSCRIPTIONS FROM OUTSIDE THE STERLING AREA MAY BE PAID THROUGH THE UNESCO COUPON SCHEME Handprinted in Great Britain by C. Bednarczuk, 146 Sutton Walk, S.E.1. from blocks made by Austin Miles Ltd and published from Bridge Arch 158, Sutton Walk, South Bank, London, S.E.1 Copyright reserved.",
+      "handwritten_text": "Sunday St. Cambrini's[?] Felix Topolski gamble in Lisbon - Maria",
+      "sketch_descriptions": [
+        "A loose ink drawing of several women with veils seated and standing, facing a figure who is standing and appears to be speaking or presiding over them.",
+        "A gestural sketch over a red painted background depicting a group of people gathered closely around a table, possibly involved in an activity together; two central figures are more clearly drawn, appearing to oversee or direct the scene."
+      ],
+      "entities": {
+        "people": [
+          "Felix Topolski",
+          "Maria"
+        ],
+        "places": [
+          "Lisbon",
+          "St. Cambrini's[?]"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page from Topolski's Chronicle features expressive sketches of group gatherings, possibly with religious or communal overtones, accompanied by handwritten notes referencing Lisbon and a figure named Maria. The visual style is loose and documentary, capturing moments of interaction or ceremony.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T20:48:53.405091+00:00"
+    }
+  ]
+}

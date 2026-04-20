@@ -1,0 +1,22 @@
+id: self
+name: Self
+description: >
+  Full-context view for design clarity. No omissions. Used to pressure-test whether
+  the story matches the actual system and its gaps.
+vocabulary_level: technical
+omit: []
+lead_with: honesty about what exists, what is weak, and what still feels vague
+frame: design clarity — use explanation to test whether the architecture still makes sense
+prior_knowledge:
+  - full system context
+  - build history
+  - unresolved design tensions
+first_questions:
+  - Does this component solve the problem it claims to solve?
+  - Can I explain it without relying on insider shorthand?
+  - What would I cut if the story is still too diffuse?
+desired_outcome: a more rigorous map of the system and its missing pieces
+spotlight_components:
+  - note-system
+  - ladder
+  - surface

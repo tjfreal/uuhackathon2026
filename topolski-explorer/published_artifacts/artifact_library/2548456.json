@@ -1,0 +1,81 @@
+{
+  "schema_version": "2026-04-19-topolski-public-artifact-v1",
+  "artifact_type": "topolski_item_assessment",
+  "item": {
+    "item_id": "2548456",
+    "title": "Topolski's Chronicle, V.1 No.2, 1953",
+    "date": "1953",
+    "creator": "Topolski, Feliks, 1907-1989",
+    "description": "Topolski's Chronicle is a series of broadsheets created by Feliks Topolski and distributed bimonthly to subscribers from 1953 through 1982. Topolski was a superlative draughtsman and covered current events with an artistic, unique style.",
+    "rights": "",
+    "ark": "ark:/87278/s65np4c0",
+    "reference_url": "https://collections.lib.utah.edu/ark:/87278/s65np4c0",
+    "source_label": "Topolski Chronicles digital collection"
+  },
+  "page_count": 3,
+  "pages": [
+    {
+      "page_number": 1,
+      "typeset_text": "TOPOLSKI's CHRONICLE No. 2 Vol. I 1953\n\"... The Man Who Wasn't There dominated yesterday's great country show ...\" News Chronicle",
+      "handwritten_text": "",
+      "sketch_descriptions": [
+        "Expressive sketch of a large, bald man in a suit, seen in profile, drawn in heavy black lines and shading, set against a dark background."
+      ],
+      "entities": {
+        "people": [],
+        "places": [],
+        "events": [
+          "great country show"
+        ],
+        "dates": [
+          "1953",
+          "yesterday"
+        ]
+      },
+      "page_summary": "This page from Topolski's Chronicle features a dramatic portrait of a solitary man in profile, accompanied by a quotation referencing his indirect dominance of a major public event referred to as the 'great country show.'",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T17:58:41.488141+00:00"
+    },
+    {
+      "page_number": 2,
+      "typeset_text": "\"...it seems only the other day that Sir Winston was being groomed by the Labour Party as War-Monger No1 \u2014 now he is Peace-Monger No1...\" The Observer",
+      "handwritten_text": "",
+      "sketch_descriptions": [
+        "Expressive black-ink sketch on the left side of a somber older man in a suit, shown from the waist up, with downward gaze and furrowed brow, surrounded by dense vertical hatching over a textured red background.",
+        "Livelier, bold black-ink sketch on the right side of the same older man in a suit, now with arms open and an intent facial expression, set against a lightly speckled blue-gray background."
+      ],
+      "entities": {
+        "people": [
+          "Sir Winston"
+        ],
+        "places": [],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page contrasts two expressive portraits of Sir Winston, visually and editorially reflecting on his changing public image from 'War-Monger No1' to 'Peace-Monger No1' as noted in a printed quote attributed to The Observer.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T17:58:45.951094+00:00"
+    },
+    {
+      "page_number": 3,
+      "typeset_text": "\"... Sir Winston Churchill has come in for renewed praise by Soviet political writers...\"\nThe Times\n\n\"TOPOLSKI'S CHRONICLE\" IS PUBLISHED 24 TIMES A YEAR AT 2s. 6d. A COPY. YEARLY SUBSCRIPTION RATES (WITH FOLDER AND INDEX) TO ANY PART OF THE WORLD ARE \u00a33. 3s. (OR $9.); SHORTER PERIODS PRO RATA. AIR MAIL BY QUOTATION.\n\nPrinted in Great Britain by C. Beechcroft of Tunbridge Wells from blocks made by the Dome Engraving Co., Ltd. and published at 14 Hanover Terrace, London N.W.1, Tel. AMBassador 6859. Copyright reserved.",
+      "handwritten_text": "",
+      "sketch_descriptions": [
+        "Expressive black ink sketch of a man with a stern expression wearing a broad-brimmed hat and smoking a cigar, surrounded by loosely-drawn flowers or foliage, with dynamic vertical strokes suggesting rain."
+      ],
+      "entities": {
+        "people": [
+          "Sir Winston Churchill"
+        ],
+        "places": [
+          "Soviet"
+        ],
+        "events": [],
+        "dates": []
+      },
+      "page_summary": "This page features a dramatic sketch of Sir Winston Churchill accompanied by a quotation noting his renewed praise by Soviet political writers, illustrating international commentary on his legacy.",
+      "model": "gpt-4.1",
+      "transcribed_at": "2026-04-19T17:58:50.803419+00:00"
+    }
+  ]
+}
